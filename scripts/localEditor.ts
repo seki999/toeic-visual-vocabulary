@@ -1,6 +1,14 @@
 import type { Plugin } from "vite";
 import { randomBytes } from "node:crypto";
-import { readFile, writeFile, rename, mkdir, realpath } from "node:fs/promises";
+import {
+  readFile,
+  writeFile,
+  rename,
+  mkdir,
+  realpath,
+  readdir,
+  unlink,
+} from "node:fs/promises";
 import { resolve, dirname, sep, relative } from "node:path";
 import type { IncomingMessage } from "node:http";
 import type { Word } from "../src/types";
@@ -137,8 +145,50 @@ export function localEditor(root = process.cwd()): Plugin {
               const index = list.items.findIndex((w: Word) => w.id === word.id);
               if (index < 0 || list.items[index].sourceKey !== word.sourceKey)
                 throw Error("词条不存在或源标识不符");
+              const kept = new Set(word.images.map((i) => i.src));
+              const removed: string[] = [
+                ...new Set(
+                  (list.items[index].images ?? []).map(
+                    (i: { src: string }) => i.src,
+                  ),
+                ),
+              ].filter(
+                (src): src is string =>
+                  typeof src === "string" &&
+                  !kept.has(src) &&
+                  validImagePath(src) &&
+                  new RegExp(`^images/${listId}/${word.id}(?:-|\\.)`).test(src),
+              );
               list.items[index] = word;
+              // Inspect every list before changing files, including shared references.
+              const used = new Set<string>();
+              const dataDirectory = await safeTarget(
+                "data/" + listId + ".json",
+              );
+              for (const name of await readdir(dirname(dataDirectory))) {
+                if (!/^list\d{2,}\.json$/.test(name)) continue;
+                const data =
+                  name === listId + ".json"
+                    ? list
+                    : JSON.parse(
+                        await readFile(
+                          await safeTarget("data/" + name),
+                          "utf8",
+                        ),
+                      );
+                for (const item of data.items)
+                  for (const image of item.images ?? []) used.add(image.src);
+              }
               await atomic(path, JSON.stringify(list, null, 2));
+              for (const src of removed) {
+                if (!used.has(src)) {
+                  try {
+                    await unlink(await safeTarget(src));
+                  } catch (e) {
+                    if ((e as NodeJS.ErrnoException).code !== "ENOENT") throw e;
+                  }
+                }
+              }
             };
             const task = queue.then(write);
             queue = task.catch(() => {});

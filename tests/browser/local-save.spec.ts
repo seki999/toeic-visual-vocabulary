@@ -8,6 +8,7 @@ import { join, resolve } from "node:path";
 test("local edit mode writes an added image and its word association to disk", async ({
   page,
 }) => {
+  test.setTimeout(60000);
   const root = await mkdtemp(join(tmpdir(), "toeic-browser-save-"));
   await mkdir(join(root, "public/data"), { recursive: true });
   await copyFile(
@@ -27,7 +28,9 @@ test("local edit mode writes an added image and its word association to disk", a
   try {
     await server.listen();
     const port = (server.httpServer!.address() as { port: number }).port;
-    await page.goto(`http://127.0.0.1:${port}/`);
+    await page.goto(`http://127.0.0.1:${port}/`, {
+      waitUntil: "domcontentloaded",
+    });
     await expect(page.locator(".card")).toHaveCount(50);
     await expect(page.getByText(/本地自动保存已开启/)).toBeVisible();
     await page.getByRole("button", { name: "图片编辑", exact: true }).click();
@@ -50,6 +53,28 @@ test("local edit mode writes an added image and its word association to disk", a
     const bytes = await readFile(join(root, "public", image.src));
     expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
     expect(bytes.length).toBeGreaterThan(100);
+    await page
+      .locator(".card")
+      .first()
+      .getByRole("button", { name: "删除图片", exact: true })
+      .last()
+      .click();
+    await expect
+      .poll(async () => {
+        try {
+          await readFile(join(root, "public", image.src));
+          return true;
+        } catch {
+          return false;
+        }
+      })
+      .toBe(false);
+    const after = JSON.parse(
+      await readFile(join(root, "public/data/list01.json"), "utf8"),
+    );
+    expect(
+      after.items[0].images.some((i: { src: string }) => i.src === image.src),
+    ).toBe(false);
   } finally {
     await server.close();
     if (resolve(root).startsWith(resolve(tmpdir(), "toeic-browser-save-")))

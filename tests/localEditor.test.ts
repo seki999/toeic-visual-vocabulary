@@ -54,6 +54,59 @@ function post(path: string, body: BodyInit, origin = base, auth = token) {
   });
 }
 describe("local editing API", () => {
+  it("deletes the removed image file along with its JSON association", async () => {
+    const src = "images/list01/v000001-delete.png",
+      bytes = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
+    expect((await post("image?src=" + src, bytes)).status).toBe(200);
+    expect(
+      (
+        await post(
+          "word",
+          JSON.stringify({
+            listId: "list01",
+            word: { ...original, images: [{ id: "delete", src }] },
+          }),
+        )
+      ).status,
+    ).toBe(200);
+    expect(
+      (await post("word", JSON.stringify({ listId: "list01", word: original })))
+        .status,
+    ).toBe(200);
+    await expect(readFile(join(root, "public", src))).rejects.toMatchObject({
+      code: "ENOENT",
+    });
+    const list = JSON.parse(
+      await readFile(join(root, "public/data/list01.json"), "utf8"),
+    );
+    expect(list.items[0].images).toEqual([]);
+  });
+  it("preserves an image still referenced by another list", async () => {
+    const src = "images/list01/v000001-shared.png",
+      bytes = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
+    await post("image?src=" + src, bytes);
+    await post(
+      "word",
+      JSON.stringify({
+        listId: "list01",
+        word: { ...original, images: [{ id: "shared", src }] },
+      }),
+    );
+    await writeFile(
+      join(root, "public/data/list02.json"),
+      JSON.stringify({
+        id: "list02",
+        items: [
+          { ...original, id: "v000051", images: [{ id: "shared", src }] },
+        ],
+      }),
+    );
+    expect(
+      (await post("word", JSON.stringify({ listId: "list01", word: original })))
+        .status,
+    ).toBe(200);
+    expect(await readFile(join(root, "public", src))).toEqual(bytes);
+  });
   it("rejects foreign origins and missing authorization", async () => {
     expect((await post("word", "{}", "https://example.com")).status).toBe(403);
     expect((await post("word", "{}", base, "")).status).toBe(403);
