@@ -25,6 +25,57 @@ python scripts/validate_data.py
 npm run build
 ```
 
+## 启动失败：Port 5173 is already in use
+
+在 Windows PowerShell 执行 `npm run dev` 时，如果出现：
+
+```text
+Error: Port 5173 is already in use
+```
+
+表示本项目指定的 5173 端口已被其他进程（经常是之前启动的 Vite 开发服务器）占用。由于启动命令启用了 `--strictPort`，Vite 不会自动更换端口。
+
+**方法一：在之前运行开发服务器的终端按 `Ctrl+C`**，停止旧服务后再次执行 `npm run dev`。优先使用此方法。
+
+**方法二：查找并结束占用端口的进程（PowerShell）**
+
+1. 查询占用 5173 端口的 PID：
+
+   ```powershell
+   Get-NetTCPConnection -LocalPort 5173 -State Listen |
+       Select-Object LocalAddress, LocalPort, OwningProcess
+   ```
+
+2. 例如输出的 `OwningProcess` 是 `33776`，先确认进程：
+
+   ```powershell
+   Get-Process -Id 33776
+   ```
+
+3. 确认这是可以停止的旧开发服务后，结束它（将 PID 替换为实际查询到的值）：
+
+   ```powershell
+   Stop-Process -Id 33776 -Force
+   ```
+
+4. 重新启动：
+
+   ```powershell
+   npm run dev
+   ```
+
+启动成功会显示 `VITE ... ready`，可通过 http://127.0.0.1:5173/ 访问。
+
+也可以使用下面的命令，**先检查进程名，再决定是否停止**：
+
+```powershell
+Get-NetTCPConnection -LocalPort 5173 -State Listen |
+    ForEach-Object { Get-Process -Id $_.OwningProcess -ErrorAction SilentlyContinue } |
+    Sort-Object Id -Unique
+```
+
+> 注意：不要直接结束不认识的进程。PID 每次都可能不同，`33776` 仅为示例。项目的浏览器本地草稿与访问源（包括端口）相关，因此通常建议释放 5173 端口，而不是随意切换端口。
+
 ## 导入 Excel、添加 List
 
 将源文件放到 `data-source/英语学习.xlsx`，工作表名为 `3500词搞定托业考试_0829`，第一行表头，B～J 为词汇字段。运行 `npm run import`，每 50 条自动生成一个 List，末尾不足 50 条正常。空单词行跳过，同名不同释义不去重。
