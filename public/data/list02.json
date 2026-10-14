@@ -122,7 +122,19 @@
         "zh": "命运似乎注定他们会再次相遇。"
       },
       "id": "v000054",
-      "images": [],
+      "images": [
+        {
+          "id": "7eab8887-8fb1-4739-a40e-9e7bc3c385c2",
+          "src": "images/list02/v000054-7eab8887-8fb1-4739-a40e-9e7bc3c385c2.webp",
+          "alt": "ordain",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d2a73bddd4db63e03f0dbe4a48cc4f3bcd431882175003873bb348d1910ced5e"
@@ -144,7 +156,19 @@
         "zh": "这家公司非常重视员工的守时。"
       },
       "id": "v000055",
-      "images": [],
+      "images": [
+        {
+          "id": "8d6b7a71-348b-4099-836c-1f78564bef86",
+          "src": "images/list02/v000055-8d6b7a71-348b-4099-836c-1f78564bef86.webp",
+          "alt": "punctuality",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6626cfb1c77da2303bb60bfd3fc3bca90e145cac6ce39dfb73f9764c1587c917"
@@ -166,7 +190,19 @@
         "zh": "把失败完全归因于运气是一种过于简单的解释。"
       },
       "id": "v000056",
-      "images": [],
+      "images": [
+        {
+          "id": "e6b20fe4-311d-412e-890d-87582cfbecd4",
+          "src": "images/list02/v000056-e6b20fe4-311d-412e-890d-87582cfbecd4.webp",
+          "alt": "facile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cd557c736d73f2ae4cba5ae9aeca6f1b67a17e4cdb31465fe72fd49972c5b08b"
@@ -188,7 +224,19 @@
         "zh": "他的文章语言流畅，但有时缺乏深度。"
       },
       "id": "v000057",
-      "images": [],
+      "images": [
+        {
+          "id": "1f9d162b-5830-408c-9e1e-a7a6728b577e",
+          "src": "images/list02/v000057-1f9d162b-5830-408c-9e1e-a7a6728b577e.webp",
+          "alt": "facile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "66ddb12a2008ea697e9e5fd0c7059a3eba0e4f1e5aefd239795c422ade7ed275"
@@ -210,7 +258,19 @@
         "zh": "公司指定她为该项目的负责人。"
       },
       "id": "v000058",
-      "images": [],
+      "images": [
+        {
+          "id": "53377928-41b7-4747-9c25-afc5890c4848",
+          "src": "images/list02/v000058-53377928-41b7-4747-9c25-afc5890c4848.webp",
+          "alt": "designate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a3310af61605f24edf86ffe4c3c9b4de5a07af2b12dfd5d726ee3ba0eb79b68b"
@@ -232,7 +292,19 @@
         "zh": "候任总裁将在下个月正式上任。"
       },
       "id": "v000059",
-      "images": [],
+      "images": [
+        {
+          "id": "08ac12a8-cb91-4fb4-b0c0-7325259cae04",
+          "src": "images/list02/v000059-08ac12a8-cb91-4fb4-b0c0-7325259cae04.webp",
+          "alt": "designate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a9ffc3b9b9c5211783d3e40bf60c6dda9216d5d9ca5f89fb7d3ee581b2c69232"
@@ -254,7 +326,19 @@
         "zh": "匿名捐款被视为一种真正的利他行为。"
       },
       "id": "v000060",
-      "images": [],
+      "images": [
+        {
+          "id": "740534ea-2913-48e0-89e2-f18595fe8738",
+          "src": "images/list02/v000060-740534ea-2913-48e0-89e2-f18595fe8738.webp",
+          "alt": "altruism",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7d184ac81feaaed5b5163c86ad4c15072e191664333a28494a0a9043e354171b"
@@ -276,7 +360,19 @@
         "zh": "他买了一件自己最喜欢球队的球衣。"
       },
       "id": "v000061",
-      "images": [],
+      "images": [
+        {
+          "id": "7ee61ca3-e722-42a7-8640-073c3fdfd43c",
+          "src": "images/list02/v000061-7ee61ca3-e722-42a7-8640-073c3fdfd43c.webp",
+          "alt": "jersey",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6c56bad043cc6f1aaad15f48e604dfa90c36c7991c4f036824af2f4d549e58d1"
@@ -298,7 +394,19 @@
         "zh": "这件连衣裙是用柔软的棉针织面料做的。"
       },
       "id": "v000062",
-      "images": [],
+      "images": [
+        {
+          "id": "4dfc25c4-be00-40e0-84ea-88a7fc8d980d",
+          "src": "images/list02/v000062-4dfc25c4-be00-40e0-84ea-88a7fc8d980d.webp",
+          "alt": "jersey",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "819bcb21aca75fe45a53435cf03341e70ce9f885f00f8ec47700cb0be2db0fb4"
@@ -320,7 +428,19 @@
         "zh": "这款软件被宣传为提高效率的最佳工具。"
       },
       "id": "v000063",
-      "images": [],
+      "images": [
+        {
+          "id": "799982f5-ec41-45c6-88a2-57c54b1cbd1d",
+          "src": "images/list02/v000063-799982f5-ec41-45c6-88a2-57c54b1cbd1d.webp",
+          "alt": "tout",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a1d92d157f9fc362a0d5d922f5d27abb82aea7ca6fe343810847d71078728631"
@@ -342,7 +462,19 @@
         "zh": "警察在体育场外驱赶票贩子。"
       },
       "id": "v000064",
-      "images": [],
+      "images": [
+        {
+          "id": "e52203fe-46c4-4ae4-bb66-d92131826f4a",
+          "src": "images/list02/v000064-e52203fe-46c4-4ae4-bb66-d92131826f4a.webp",
+          "alt": "tout",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "084e1216ef2567dc34f77e0647cdb32849b1c0cb158c8c02371669ebf2909667"
@@ -364,7 +496,19 @@
         "zh": "这项技能本身就具有很高的内在价值。"
       },
       "id": "v000065",
-      "images": [],
+      "images": [
+        {
+          "id": "e36bc16e-0e49-467c-b9cf-63f863ec58b7",
+          "src": "images/list02/v000065-305bb2c8-0adb-40a2-8a5c-e1e39deb70ff.webp",
+          "alt": "intrinsic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "af3e21bc5990a6e75b5dcd83ada56eb992682f47f03361435b7b0aa0ee17d2d7"
@@ -386,7 +530,19 @@
         "zh": "她坦率地谈到了项目存在的问题。"
       },
       "id": "v000066",
-      "images": [],
+      "images": [
+        {
+          "id": "51056a61-af5f-46e1-b0f7-937c1042701a",
+          "src": "images/list02/v000066-51056a61-af5f-46e1-b0f7-937c1042701a.webp",
+          "alt": "candid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fbb2baa8a9a8deec4084670ac531387f983e374bea97ee1ad4e2a3050f56e29b"
