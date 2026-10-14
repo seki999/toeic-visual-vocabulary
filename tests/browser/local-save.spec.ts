@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 import { createServer } from "vite";
 import react from "@vitejs/plugin-react";
 import { localEditor } from "../../scripts/localEditor";
-import { mkdtemp, mkdir, copyFile, cp, readFile, writeFile, rm } from "node:fs/promises";
+import { mkdtemp, cp, readFile, writeFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join, resolve } from "node:path";
 test("local edit mode writes an added image and its word association to disk", async ({
@@ -10,11 +10,9 @@ test("local edit mode writes an added image and its word association to disk", a
 }) => {
   test.setTimeout(60000);
   const root = await mkdtemp(join(tmpdir(), "toeic-browser-save-"));
-  await mkdir(join(root, "public/data"), { recursive: true });
-  await copyFile(
-    "public/data/list01.json",
-    join(root, "public/data/list01.json"),
-  );
+  // The app loads manifest.json and every referenced list on startup.
+  // Mirror all data in the temporary public directory to keep the fixture valid.
+  await cp("public/data", join(root, "public/data"), { recursive: true });
   await cp("public/images", join(root, "public/images"), { recursive: true });
   const initial = JSON.parse(
     await readFile(join(root, "public/data/list01.json"), "utf8"),
