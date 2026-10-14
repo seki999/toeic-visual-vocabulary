@@ -564,7 +564,19 @@
         "zh": "摄影师拍到了一张孩子们自然大笑的抓拍照片。"
       },
       "id": "v000067",
-      "images": [],
+      "images": [
+        {
+          "id": "7f99f892-14d4-4b78-bd2e-8012bc60aa81",
+          "src": "images/list02/v000067-7f99f892-14d4-4b78-bd2e-8012bc60aa81.webp",
+          "alt": "candid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "370987a8090494380f1f74f046c95392df9153381fbdb5b7315ecb5707ebbe95"
@@ -586,7 +598,19 @@
         "zh": "公司最终没有向对方的压力屈服。"
       },
       "id": "v000068",
-      "images": [],
+      "images": [
+        {
+          "id": "a7830611-8d27-4999-804c-85140747effb",
+          "src": "images/list02/v000068-a7830611-8d27-4999-804c-85140747effb.webp",
+          "alt": "capitulate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "974163517c439574f855ed8bcdc864ca7e951bb85994c8268211ed92e7d488ea"
@@ -608,7 +632,19 @@
         "zh": "游客们被古镇的魅力深深吸引。"
       },
       "id": "v000069",
-      "images": [],
+      "images": [
+        {
+          "id": "2a84cce4-e758-4e7a-9660-eb16462baa5f",
+          "src": "images/list02/v000069-2a84cce4-e758-4e7a-9660-eb16462baa5f.webp",
+          "alt": "beguile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "97d3c0f95095eee10ef364ae6f1450ae0f96d712ca62428d86ede3c20da480b8"
@@ -630,7 +666,19 @@
         "zh": "骗子诱骗他签下了一份不利的合同。"
       },
       "id": "v000070",
-      "images": [],
+      "images": [
+        {
+          "id": "3a1af022-72db-4bbd-912d-befc583df199",
+          "src": "images/list02/v000070-3a1af022-72db-4bbd-912d-befc583df199.webp",
+          "alt": "beguile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "21a243879efc289a8b303533fed7780eb1178151356936fe0b566b0f9a397811"
@@ -652,7 +700,19 @@
         "zh": "他在演讲中暗指了最近的公司重组。"
       },
       "id": "v000071",
-      "images": [],
+      "images": [
+        {
+          "id": "f56e4d44-ea17-4f7a-8610-544e903e40b9",
+          "src": "images/list02/v000071-f56e4d44-ea17-4f7a-8610-544e903e40b9.webp",
+          "alt": "allude",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "82f6ba5024df9b2d3222ba35dd20207a2890e1b79e75fed7bf8564c45bc72d20"
@@ -674,7 +734,19 @@
         "zh": "这次失误是他职业生涯中的一个小污点。"
       },
       "id": "v000072",
-      "images": [],
+      "images": [
+        {
+          "id": "20e2cf52-801d-4b5b-a905-a49e1fb46a8b",
+          "src": "images/list02/v000072-20e2cf52-801d-4b5b-a905-a49e1fb46a8b.webp",
+          "alt": "blemish",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ed217e2e20056b3ecb2f989a82f98ba63781d3df0ff437a3bf4e64eccf0faa02"
@@ -696,7 +768,19 @@
         "zh": "一次错误不应该玷污她多年的优秀记录。"
       },
       "id": "v000073",
-      "images": [],
+      "images": [
+        {
+          "id": "393f176b-7272-4212-b989-f0b27ecaf1b2",
+          "src": "images/list02/v000073-393f176b-7272-4212-b989-f0b27ecaf1b2.webp",
+          "alt": "blemish",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "991f8254daac900148a1b45505083371daa4c5b54446656fbc657bf844d4952c"
@@ -718,7 +802,19 @@
         "zh": "这种先天性疾病通常在出生后不久被发现。"
       },
       "id": "v000074",
-      "images": [],
+      "images": [
+        {
+          "id": "06d8e05b-fda0-43d0-9769-5cfe84fcaeb0",
+          "src": "images/list02/v000074-06d8e05b-fda0-43d0-9769-5cfe84fcaeb0.webp",
+          "alt": "congenital",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "26306e8d93240785906abad9bf9bf5434978bd9b85f180f3d845dcdecf5814e7"
@@ -740,7 +836,19 @@
         "zh": "大家开玩笑说他是个天生的乐观主义者。"
       },
       "id": "v000075",
-      "images": [],
+      "images": [
+        {
+          "id": "1b1fea00-1c39-407c-914c-499a8250b791",
+          "src": "images/list02/v000075-1b1fea00-1c39-407c-914c-499a8250b791.webp",
+          "alt": "congenital",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0c0b6f01b0aca57bac5a6d7fc4138fc51711e1118fd196d43112647b37a6a3ba"
@@ -762,7 +870,19 @@
         "zh": "政府正在采取措施缓解市中心的交通拥堵。"
       },
       "id": "v000076",
-      "images": [],
+      "images": [
+        {
+          "id": "afc11236-e35a-4813-a3f0-1d6fc99a8270",
+          "src": "images/list02/v000076-afc11236-e35a-4813-a3f0-1d6fc99a8270.webp",
+          "alt": "congestion",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c0b26004878aebea7e771725f7132f4f87b7fa0e7a9564e0e1a7e1a21900b6a8"
@@ -784,7 +904,19 @@
         "zh": "感冒使他出现了严重的鼻塞。"
       },
       "id": "v000077",
-      "images": [],
+      "images": [
+        {
+          "id": "87fabd44-c05e-4cb2-8c31-8ed4d334f9bf",
+          "src": "images/list02/v000077-87fabd44-c05e-4cb2-8c31-8ed4d334f9bf.webp",
+          "alt": "congestion",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "134709a8f71c8640337b7809dcd219796b2971e68460dcf2f983a8f52d32cd7e"
@@ -806,7 +938,19 @@
         "zh": "我们在发布新功能之前向客户征求了反馈。"
       },
       "id": "v000078",
-      "images": [],
+      "images": [
+        {
+          "id": "c10c82ca-9403-4134-adae-5cd27630325b",
+          "src": "images/list02/v000078-c10c82ca-9403-4134-adae-5cd27630325b.webp",
+          "alt": "solicit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e9540314d54e7cae0fb9c19965c08569bb93a14649152da380ea2cccb3256d9c"
@@ -828,7 +972,19 @@
         "zh": "该慈善机构正在为灾区募捐。"
       },
       "id": "v000079",
-      "images": [],
+      "images": [
+        {
+          "id": "8bb0d847-ef74-41b6-b382-7c32e67bbeae",
+          "src": "images/list02/v000079-8bb0d847-ef74-41b6-b382-7c32e67bbeae.webp",
+          "alt": "solicit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fd4899f78f6004298bd921a9640915d467b4c7312957e8b19aec6b35932b4029"
@@ -850,7 +1006,19 @@
         "zh": "这位年轻演员将在今晚首次登台。"
       },
       "id": "v000080",
-      "images": [],
+      "images": [
+        {
+          "id": "faee1d9b-3b30-4147-909c-94d07769535b",
+          "src": "images/list02/v000080-faee1d9b-3b30-4147-909c-94d07769535b.webp",
+          "alt": "debut",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4b9994bfbf817d5d0c058e3416c2c5dcbe2b9f19405cdc73e4629e861d814ccb"
@@ -872,7 +1040,19 @@
         "zh": "公司将在下周首次推出这款新产品。"
       },
       "id": "v000081",
-      "images": [],
+      "images": [
+        {
+          "id": "02b43952-b946-43d8-a075-32e7b6feec43",
+          "src": "images/list02/v000081-02b43952-b946-43d8-a075-32e7b6feec43.webp",
+          "alt": "debut",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "88148574fb072766f683eb4c3ab94dee1c71c98deec8d0911ad9e56cd1bbbda7"
