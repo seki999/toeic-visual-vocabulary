@@ -2,6 +2,10 @@
 
 React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 626 条记录，分成 13 个 List。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
 
+## TOEIC 图片批量生成规则
+
+用于 ChatGPT 或其他图片生成工具的统一图片提示词：[TOEIC 英语词汇图片批量生成模式 — 全局规则](docs/toeic-image-generation-batch-rules.md)。目标是独立生成 16:9 真实摄影图，再按需转换到 1600×900、WebP 85%、sRGB；实际支持情况应以生成和转换结果为准。
+
 ## Windows PowerShell 安装与启动
 
 安装 Node.js 22+（包含 npm）和 Python 3.10+，然后在项目目录运行：
