@@ -285,9 +285,13 @@ function Reader() {
             setError("当前浏览器不支持屏幕常亮。");
             return;
           }
-          const result = await (navigator as any).wakeLock.request("screen");
-          if (disposed) await result.release();
-          else lock = result;
+          if (lock && !lock.released) return;
+          const result = await navigator.wakeLock.request("screen");
+          if (disposed || status !== "playing" || document.hidden) {
+            await result.release();
+          } else {
+            lock = result;
+          }
         }
       } catch {
         setError("无法开启屏幕常亮，请检查浏览器权限。");
@@ -848,7 +852,7 @@ function Reader() {
                   ))}
                 </div>
                 <p className="hint">
-                  切换后台时自动暂停。手机锁屏后的连续朗读由系统和浏览器决定。
+                  播放时默认保持屏幕常亮，暂停或停止后释放；切到其他应用时可能自动释放。可取消勾选关闭此功能。浏览器和手机省电策略可能限制屏幕常亮，锁屏后的连续朗读仍由系统决定。
                 </p>
               </>
             ) : panel === "display" ? (
