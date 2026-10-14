@@ -54,6 +54,7 @@ function PictureView({
   useEffect(() => {
     let url = "",
       alive = true;
+    setSrc(asset(picture.src));
     imageBlob(picture.src).then((blob) => {
       if (blob && alive) {
         url = URL.createObjectURL(blob);
@@ -175,8 +176,21 @@ function Reader() {
     Math.max(0, (list?.items.length ?? 1) - 1),
   );
   const current = list?.items[index];
+  // Preserve newly published images when an older browser draft overrides a word.
+  // A draft may predate image additions in public/data/listXX.json.
   const merged =
-    list?.items.map((w) => drafts.find((d) => d.id === w.id) ?? w) ?? [];
+    list?.items.map((w) => {
+      const draft = drafts.find((d) => d.id === w.id);
+      if (!draft) return w;
+      const draftPaths = new Set(draft.images.map((image) => image.src));
+      return {
+        ...draft,
+        images: [
+          ...draft.images,
+          ...w.images.filter((image) => !draftPaths.has(image.src)),
+        ],
+      };
+    }) ?? [];
   useEffect(() => {
     let alive = true;
     Promise.all([
