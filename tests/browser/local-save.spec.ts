@@ -16,6 +16,13 @@ test("local edit mode writes an added image and its word association to disk", a
     join(root, "public/data/list01.json"),
   );
   await cp("public/images", join(root, "public/images"), { recursive: true });
+  const initial = JSON.parse(
+    await readFile(join(root, "public/data/list01.json"), "utf8"),
+  );
+  const targetIndex = initial.items.findIndex(
+    (w: { images: unknown[] }) => w.images.length === 0,
+  );
+  expect(targetIndex).toBeGreaterThanOrEqual(0);
   const server = await createServer({
     root: process.cwd(),
     configFile: false,
@@ -36,7 +43,7 @@ test("local edit mode writes an added image and its word association to disk", a
     await page.getByRole("button", { name: "图片编辑", exact: true }).click();
     await page
       .locator(".card")
-      .first()
+      .nth(targetIndex)
       .locator("input[type=file]")
       .last()
       .setInputFiles({
@@ -48,14 +55,31 @@ test("local edit mode writes an added image and its word association to disk", a
     const data = JSON.parse(
       await readFile(join(root, "public/data/list01.json"), "utf8"),
     );
-    const image = data.items[0].images.at(-1);
-    expect(image.src).toMatch(/^images\/list01\/v000001-/);
+    const image = data.items[targetIndex].images.at(-1);
+    expect(image.src).toMatch(
+      new RegExp("^images/list01/" + initial.items[targetIndex].id + "-"),
+    );
+    const card = page.locator(".card").nth(targetIndex);
+    await expect(card.locator(".add-image")).toHaveCount(0);
+    await card.locator(".image-area").evaluate((el) => {
+      const transfer = new DataTransfer();
+      transfer.items.add(
+        new File(["test"], "second.png", { type: "image/png" }),
+      );
+      el.dispatchEvent(
+        new DragEvent("drop", { bubbles: true, dataTransfer: transfer }),
+      );
+    });
+    await expect(page.getByRole("alert")).toContainText(
+      "每个词条只能添加一张图片",
+    );
+    await expect(card.locator(".picture img")).toHaveCount(1);
     const bytes = await readFile(join(root, "public", image.src));
     expect(bytes.subarray(0, 4).toString()).toBe("RIFF");
     expect(bytes.length).toBeGreaterThan(100);
     await page
       .locator(".card")
-      .first()
+      .nth(targetIndex)
       .getByRole("button", { name: "删除图片", exact: true })
       .last()
       .click();
@@ -73,8 +97,11 @@ test("local edit mode writes an added image and its word association to disk", a
       await readFile(join(root, "public/data/list01.json"), "utf8"),
     );
     expect(
-      after.items[0].images.some((i: { src: string }) => i.src === image.src),
+      after.items[targetIndex].images.some(
+        (i: { src: string }) => i.src === image.src,
+      ),
     ).toBe(false);
+    await expect(card.locator(".add-image")).toHaveCount(1);
   } finally {
     await server.close();
     if (resolve(root).startsWith(resolve(tmpdir(), "toeic-browser-save-")))

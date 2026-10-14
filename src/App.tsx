@@ -169,6 +169,7 @@ function Reader() {
     };
   }, [lightbox]);
   const refs = useRef<Record<string, HTMLElement | null>>({});
+  const addingImages = useRef(new Set<string>());
   const player = useRef<SpeechPlayer | null>(null);
   const list = lists.find((l) => l.id === listId);
   const index = Math.min(
@@ -335,6 +336,16 @@ function Reader() {
     }
   }
   async function add(w: Word, files: File[]) {
+    if (!files.length) return;
+    if (w.images.length || addingImages.current.has(w.id)) {
+      setError("每个词条只能添加一张图片，请使用「更换」修改现有图片。");
+      return;
+    }
+    if (files.length > 1) {
+      setError("每个词条只能添加一张图片，请一次选择一张。");
+      return;
+    }
+    addingImages.current.add(w.id);
     try {
       const images: Picture[] = [];
       for (const file of files) {
@@ -363,6 +374,8 @@ function Reader() {
       await update({ ...w, images: [...w.images, ...images] });
     } catch (e) {
       setError(String(e));
+    } finally {
+      addingImages.current.delete(w.id);
     }
   }
   useEffect(() => {
@@ -545,7 +558,11 @@ function Reader() {
                 }
               }}
               disabled={!localSaving || !drafts.length}
-              title={localSaving ? "将草稿写入本地项目" : "仅本地编辑服务支持保存到项目"}
+              title={
+                localSaving
+                  ? "将草稿写入本地项目"
+                  : "仅本地编辑服务支持保存到项目"
+              }
             >
               保存到项目
             </button>
@@ -556,7 +573,9 @@ function Reader() {
                 setPanel(editing ? null : "edit");
               }}
               disabled={!localSaving}
-              title={localSaving ? "编辑词条图片" : "仅本地编辑服务支持图片编辑"}
+              title={
+                localSaving ? "编辑词条图片" : "仅本地编辑服务支持图片编辑"
+              }
               className={editing ? "selected" : ""}
             >
               <ImagePlus size={17} /> 图片编辑
@@ -1596,12 +1615,11 @@ function Reader() {
                           )}
                         </div>
                       )}
-                      {editing && (
+                      {editing && w.images.length === 0 && (
                         <label className="file-button add-image">
                           <ImagePlus size={16} /> 添加图片
                           <input
                             type="file"
-                            multiple
                             accept="image/png,image/jpeg,image/webp"
                             onChange={(e) => {
                               void add(w, Array.from(e.target.files ?? []));
