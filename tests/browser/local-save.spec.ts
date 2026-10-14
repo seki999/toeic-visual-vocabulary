@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 import { createServer } from "vite";
 import react from "@vitejs/plugin-react";
 import { localEditor } from "../../scripts/localEditor";
-import { mkdtemp, mkdir, copyFile, cp, readFile, rm } from "node:fs/promises";
+import { mkdtemp, mkdir, copyFile, cp, readFile, writeFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join, resolve } from "node:path";
 test("local edit mode writes an added image and its word association to disk", async ({
@@ -19,12 +19,18 @@ test("local edit mode writes an added image and its word association to disk", a
   const initial = JSON.parse(
     await readFile(join(root, "public/data/list01.json"), "utf8"),
   );
-  const targetIndex = initial.items.findIndex(
-    (w: { images: unknown[] }) => w.images.length === 0,
+  // Keep this test independent of how many real vocabulary images exist.
+  // Modify only the temporary fixture, never the repository data.
+  const targetIndex = 0;
+  initial.items[targetIndex].images = [];
+  await writeFile(
+    join(root, "public/data/list01.json"),
+    JSON.stringify(initial, null, 2),
+    "utf8",
   );
-  expect(targetIndex).toBeGreaterThanOrEqual(0);
   const server = await createServer({
     root: process.cwd(),
+    publicDir: join(root, "public"),
     configFile: false,
     mode: "edit",
     cacheDir: join(root, "vite-cache"),
