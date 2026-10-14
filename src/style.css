@@ -1220,3 +1220,104 @@ header .breadcrumb button {
     scrollbar-gutter: stable;
   }
 }
+.player-bar[hidden] {
+  display: none !important;
+}
+.restore-controls {
+  position: fixed;
+  right: max(10px, env(safe-area-inset-right));
+  bottom: max(8px, env(safe-area-inset-bottom));
+  z-index: 26;
+  min-width: 44px;
+  min-height: 44px;
+  background: #f8f7f0d9;
+  border: 1px solid #cfd9c4;
+  border-radius: 50%;
+}
+.hide-controls {
+  min-width: 36px;
+  padding: 6px;
+}
+@media (max-width: 560px) {
+  .player-bar:has(.hide-controls) .player-buttons button:first-child {
+    display: none;
+  }
+  .player-word {
+    min-width: 0;
+    flex-shrink: 1;
+  }
+  .player-word strong {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .player-buttons,
+  .player-config,
+  .hide-controls {
+    flex-shrink: 0;
+  }
+}
+@media (max-width: 1366px) {
+  .app.player-hidden main {
+    height: 100dvh;
+    padding-bottom: 12px;
+  }
+}
+@media (max-width: 1366px) and (orientation: landscape) {
+  .app {
+    --player-space: 80px;
+  }
+  .app.player-hidden {
+    --player-space: 0px;
+  }
+  .app.image-focus main {
+    height: calc(100dvh - var(--player-space) - env(safe-area-inset-bottom));
+    padding: 0 8px;
+    scrollbar-gutter: auto;
+  }
+  .app.image-focus main > header,
+  .app.image-focus .intro,
+  .app.image-focus .toolbar {
+    display: none;
+  }
+  .app.image-focus .cards {
+    height: 100%;
+    gap: 0;
+  }
+  .app.image-focus .card:not(.current) {
+    display: none;
+  }
+  .app.image-focus .card.current {
+    height: 100%;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    scroll-margin: 0;
+  }
+  .app.image-focus .card-top {
+    display: none;
+  }
+  .app.image-focus .card-body {
+    height: 100%;
+  }
+  .app.image-focus .image-area {
+    padding: 6px;
+  }
+  .app.image-focus .picture img {
+    max-height: calc(
+      100dvh - var(--player-space) - 12px - env(safe-area-inset-bottom)
+    );
+  }
+  .app.image-focus .overlay {
+    font-size: 18px !important;
+    padding: 6px 10px;
+  }
+  .app.image-focus .expand {
+    top: 6px;
+    right: 6px;
+    width: 36px;
+    min-height: 36px;
+    padding: 6px;
+  }
+}

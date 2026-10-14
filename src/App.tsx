@@ -104,13 +104,40 @@ function Reader() {
   const [lists, setLists] = useState<List[]>([]);
   const [drafts, setDrafts] = useState<Word[]>([]);
   const [status, setStatus] = useState<Status>("stopped");
+  const [panel, setPanel] = useState<"speech" | "display" | "edit" | null>(
+    null,
+  );
+  const [controlsVisible, setControlsVisible] = useState(true);
+  const [controlsActivity, setControlsActivity] = useState(0);
+  const [compactScreen, setCompactScreen] = useState(
+    () => matchMedia("(max-width:1366px)").matches,
+  );
+  useEffect(() => {
+    const media = matchMedia("(max-width:1366px)");
+    const change = () => {
+      setCompactScreen(media.matches);
+      setControlsVisible(true);
+    };
+    media.addEventListener("change", change);
+    return () => media.removeEventListener("change", change);
+  }, []);
+  useEffect(() => {
+    if (status !== "playing" || !compactScreen) {
+      setControlsVisible(true);
+      return;
+    }
+    if (!controlsVisible || panel) return;
+    const timer = setTimeout(() => setControlsVisible(false), 4000);
+    return () => clearTimeout(timer);
+  }, [status, compactScreen, controlsVisible, controlsActivity, panel]);
+  function showControls() {
+    setControlsVisible(true);
+    setControlsActivity((n) => n + 1);
+  }
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [query, setQuery] = useState("");
   const [drawer, setDrawer] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
-  const [panel, setPanel] = useState<"speech" | "display" | "edit" | null>(
-    null,
-  );
   const [editing, setEditing] = useState(false);
   const [error, setError] = useState("");
   const [selected, setSelected] = useState("");
@@ -375,7 +402,7 @@ function Reader() {
     : [];
   return (
     <div
-      className={collapsed ? "app collapsed" : "app"}
+      className={`app ${collapsed ? "collapsed" : ""} ${compactScreen && !controlsVisible ? "player-hidden" : ""} ${status !== "stopped" && c.mode === "image" && !editing && !panel && !query ? "image-focus" : ""}`}
       style={
         {
           "--reading-size": `${c.font}px`,
@@ -439,7 +466,15 @@ function Reader() {
         </footer>
       </aside>
       {drawer && <div className="scrim" onClick={() => setDrawer(false)} />}
-      <main>
+      <main
+        onClickCapture={(e) => {
+          if (compactScreen && !controlsVisible) {
+            e.stopPropagation();
+            e.preventDefault();
+            showControls();
+          }
+        }}
+      >
         <header>
           <div className="breadcrumb">
             <button
@@ -1513,7 +1548,21 @@ function Reader() {
             ))}
           </div>
         )}
-        <div className="player-bar">
+        {!controlsVisible && compactScreen && (
+          <button
+            className="restore-controls"
+            aria-label="显示播放控制"
+            onClick={showControls}
+          >
+            <Settings2 size={18} />
+          </button>
+        )}
+        <div
+          className="player-bar"
+          hidden={compactScreen && !controlsVisible}
+          onPointerDown={() => setControlsActivity((n) => n + 1)}
+          onFocusCapture={() => setControlsActivity((n) => n + 1)}
+        >
           <div className="player-word">
             <span className="sound-icon">
               <Volume2 size={19} />
@@ -1566,6 +1615,15 @@ function Reader() {
           <button className="player-config" onClick={() => setPanel("speech")}>
             {c.rate}× <Settings2 size={18} />
           </button>
+          {compactScreen && status === "playing" && (
+            <button
+              className="hide-controls"
+              aria-label="隐藏播放控制"
+              onClick={() => setControlsVisible(false)}
+            >
+              <X size={18} />
+            </button>
+          )}
         </div>
       </main>
       {lightbox && (

@@ -1,4 +1,96 @@
 import { test, expect } from "@playwright/test";
+test("narrow portrait controls fit and can be hidden while reading text", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 320, height: 700 });
+  await page.addInitScript(() =>
+    Object.defineProperty(window, "speechSynthesis", {
+      value: {
+        getVoices: () => [],
+        addEventListener: () => {},
+        removeEventListener: () => {},
+        cancel: () => {},
+        pause: () => {},
+        resume: () => {},
+        speak: () => {},
+      },
+    }),
+  );
+  await page.goto("/");
+  await expect(page.locator(".card")).toHaveCount(50);
+  await page.getByRole("button", { name: "纯文字", exact: true }).click();
+  await page.getByRole("button", { name: "播放", exact: true }).click();
+  expect(
+    await page.evaluate(() => document.documentElement.scrollWidth),
+  ).toBeLessThanOrEqual(320);
+  for (const label of ["暂停", "下一条", "停止", "隐藏播放控制"]) {
+    const box = await page
+      .getByRole("button", { name: label, exact: true })
+      .boundingBox();
+    expect(box!.x + box!.width).toBeLessThanOrEqual(320);
+  }
+  await page.getByRole("button", { name: "隐藏播放控制" }).click();
+  await expect(page.locator(".player-bar")).toBeHidden();
+  await expect(page.locator("main")).toHaveCSS("height", "700px");
+  await page.locator(".card.current h2").click();
+  await expect(page.locator(".player-bar")).toBeVisible();
+  await page.getByRole("button", { name: "停止", exact: true }).click();
+  await expect(page.getByRole("status")).toHaveText("已停止");
+});
+test("landscape playback hides controls and gives the current image the available screen", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 800, height: 300 });
+  await page.addInitScript(() =>
+    Object.defineProperty(window, "speechSynthesis", {
+      value: {
+        getVoices: () => [],
+        addEventListener: () => {},
+        removeEventListener: () => {},
+        cancel: () => {},
+        pause: () => {},
+        resume: () => {},
+        speak: () => {},
+      },
+    }),
+  );
+  await page.goto("/");
+  await expect(page.locator(".card")).toHaveCount(50);
+  await page.getByRole("button", { name: "纯图片", exact: true }).click();
+  await page.getByRole("button", { name: "播放", exact: true }).click();
+  await expect(page.locator(".app")).toHaveClass(/image-focus/);
+  await expect(page.locator(".card:visible")).toHaveCount(1);
+  const image = page.locator(".card.current .picture img");
+  await expect
+    .poll(() =>
+      image.evaluate(
+        (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
+      ),
+    )
+    .toBe(true);
+  const withControls = await image.boundingBox();
+  expect(withControls!.height).toBeGreaterThan(190);
+  await expect(page.locator(".player-bar")).toBeHidden({ timeout: 7000 });
+  const hidden = await image.boundingBox();
+  expect(hidden!.height).toBeGreaterThan(270);
+  expect(hidden!.y).toBeGreaterThanOrEqual(0);
+  expect(hidden!.y + hidden!.height).toBeLessThanOrEqual(300);
+  await page.screenshot({ path: "test-results/landscape-playback-hidden.png" });
+  await image.click();
+  await expect(page.locator(".player-bar")).toBeVisible();
+  await expect(page.locator(".player-word small").first()).toContainText(
+    "1 / 50",
+  );
+  await page.getByRole("button", { name: "隐藏播放控制" }).click();
+  await expect(page.locator(".player-bar")).toBeHidden();
+  await page.getByRole("button", { name: "显示播放控制" }).click();
+  await expect(page.locator(".player-bar")).toBeVisible();
+  await page.getByRole("button", { name: "暂停", exact: true }).click();
+  await expect(page.locator(".player-bar")).toBeVisible();
+  await page.getByRole("button", { name: "停止", exact: true }).click();
+  await expect(page.locator(".app")).not.toHaveClass(/image-focus/);
+  await expect(page.locator(".card:visible")).toHaveCount(50);
+});
 for (const [name, width, height] of [
   ["phone-text-landscape", 844, 390],
   ["phone-text-portrait", 390, 844],
