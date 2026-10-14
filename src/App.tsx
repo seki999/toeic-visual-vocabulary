@@ -1440,6 +1440,13 @@ function Reader() {
               <small>
                 {list?.title} · {index + 1} / {merged.length}
               </small>
+              <small role="status" aria-live="polite">
+                {status === "playing"
+                  ? "正在播放"
+                  : status === "paused"
+                    ? "已暂停，可继续"
+                    : "已停止"}
+              </small>
             </div>
           </div>
           <div className="player-buttons">
@@ -1451,7 +1458,13 @@ function Reader() {
             </button>
             <button
               className="play-button"
-              aria-label={status === "playing" ? "暂停" : "播放"}
+              aria-label={
+                status === "playing"
+                  ? "暂停"
+                  : status === "paused"
+                    ? "恢复播放"
+                    : "播放"
+              }
               onClick={toggle}
             >
               {status === "playing" ? <Pause size={22} /> : <Play size={22} />}
@@ -1459,7 +1472,11 @@ function Reader() {
             <button aria-label="下一条" onClick={() => jump(index + 1)}>
               <SkipForward size={20} />
             </button>
-            <button aria-label="停止" onClick={() => player.current?.stop()}>
+            <button
+              aria-label="停止"
+              title="结束朗读并清空播放任务"
+              onClick={() => player.current?.stop()}
+            >
               <Square size={17} />
             </button>
           </div>

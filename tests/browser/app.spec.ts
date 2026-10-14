@@ -32,8 +32,16 @@ test("playback focus, pause and rapid list cancellation", async ({ page }) => {
   await expect(page.locator(".card").nth(1)).toContainText("正在朗读");
   await page.getByRole("button", { name: "暂停", exact: true }).click();
   await expect(
-    page.getByRole("button", { name: "播放", exact: true }),
+    page.getByRole("button", { name: "恢复播放", exact: true }),
   ).toBeVisible();
+  await page.getByRole("button", { name: "恢复播放", exact: true }).click();
+  await page.getByRole("button", { name: "停止", exact: true }).click();
+  await expect(page.getByRole("status")).toHaveText("已停止");
+  await expect(
+    page.getByRole("button", { name: "恢复播放", exact: true }),
+  ).toHaveCount(0);
+  await page.evaluate(() => (window as any).__finishSpeech());
+  await expect(page.getByRole("status")).toHaveText("已停止");
   await page.getByRole("button", { name: "播放", exact: true }).click();
   await page.getByRole("button", { name: "List 02", exact: false }).click();
   await expect(page.locator("h1")).toContainText("List 02");

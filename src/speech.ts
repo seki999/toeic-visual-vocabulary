@@ -7,6 +7,7 @@ export class SpeechPlayer {
   private pending: (() => void) | undefined;
   private remaining = 0;
   private deadline = 0;
+  private utterance: SpeechSynthesisUtterance | undefined;
   status: Status = "stopped";
   constructor(
     private synth: SpeechSynthesis,
@@ -18,9 +19,20 @@ export class SpeechPlayer {
   stop() {
     this.generation++;
     clearTimeout(this.timer);
+    this.timer = undefined;
     this.pending = undefined;
-    this.synth.cancel();
+    this.remaining = 0;
+    this.deadline = 0;
+    if (this.utterance) {
+      this.utterance.onend = null;
+      this.utterance.onerror = null;
+      this.utterance = undefined;
+    }
     this.status = "stopped";
+    this.synth.cancel();
+    // cancel() clears queued speech but does not reset the browser's paused flag.
+    // Resume only the now-empty queue so the next play starts a fresh utterance.
+    if (this.synth.paused) this.synth.resume();
     this.changed(this.status);
   }
   pause() {
@@ -99,6 +111,7 @@ export class SpeechPlayer {
         return;
       }
       const u = this.make();
+      this.utterance = u;
       u.text = text;
       const zh = language(f) === "zh-CN";
       u.lang = zh ? "zh-CN" : c.accent;
@@ -113,6 +126,7 @@ export class SpeechPlayer {
       u.volume = c.volume;
       u.onend = () => {
         if (token !== this.generation) return;
+        this.utterance = undefined;
         repeated++;
         if (repeated >= c.fieldRepeat) {
           repeated = 0;

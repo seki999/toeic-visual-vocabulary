@@ -88,9 +88,9 @@ describe("speech state machine", () => {
   it("ignores callbacks from cancelled generations", () => {
     const m = mock();
     m.player.play([word], 0, defaults);
-    const old = m.spoken[0];
+    const oldEnd = m.spoken[0].onend;
     m.player.play([word], 0, defaults);
-    old.onend();
+    oldEnd();
     vi.runAllTimers();
     expect(m.spoken).toHaveLength(2);
   });
@@ -104,6 +104,42 @@ describe("speech state machine", () => {
     m.player.resume();
     vi.advanceTimersByTime(500);
     expect(m.spoken).toHaveLength(2);
+  });
+  it("stop removes utterance callbacks and pending delays", () => {
+    const m = mock();
+    m.player.play([word], 0, defaults);
+    const utterance = m.spoken[0],
+      oldEnd = utterance.onend;
+    m.player.stop();
+    expect(utterance.onend).toBeNull();
+    expect(utterance.onerror).toBeNull();
+    oldEnd();
+    m.player.resume();
+    vi.runAllTimers();
+    expect(m.player.status).toBe("stopped");
+    expect(m.spoken).toHaveLength(1);
+    m.player.play([word], 0, defaults);
+    expect(m.spoken[1].text).toBe(word.word);
+  });
+  it("clears the browser paused flag after cancelling the queue", () => {
+    const m = mock();
+    Object.defineProperty(m.synth, "paused", { value: true });
+    m.player.stop();
+    expect(m.synth.cancel.mock.invocationCallOrder[0]).toBeLessThan(
+      m.synth.resume.mock.invocationCallOrder[0],
+    );
+    expect(m.player.status).toBe("stopped");
+  });
+  it("stop cancels a paused field delay", () => {
+    const m = mock();
+    m.player.play([word], 0, defaults);
+    m.spoken[0].onend();
+    m.player.pause();
+    m.player.stop();
+    m.player.resume();
+    vi.runAllTimers();
+    expect(m.player.status).toBe("stopped");
+    expect(m.spoken).toHaveLength(1);
   });
   it("repeats fields and finishes a list", () => {
     const m = mock();
