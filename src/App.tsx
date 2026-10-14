@@ -528,32 +528,35 @@ function Reader() {
             学习空间 <span>/</span> {list?.title ?? "加载中"}
           </div>
           <div className="header-actions">
-            {localSaving && (
-              <button
-                onClick={async () => {
-                  try {
-                    setSaveMessage("正在保存全部草稿…");
-                    for (const w of drafts) {
-                      const l = lists.find((l) =>
-                        l.items.some((x) => x.id === w.id),
-                      );
-                      if (l) await saveLocalWord(l.id, w);
-                    }
-                    setSaveMessage("已保存到项目文件夹");
-                  } catch (e) {
-                    setError(String(e));
+            <button
+              onClick={async () => {
+                if (!localSaving) return;
+                try {
+                  setSaveMessage("正在保存全部草稿…");
+                  for (const w of drafts) {
+                    const l = lists.find((l) =>
+                      l.items.some((x) => x.id === w.id),
+                    );
+                    if (l) await saveLocalWord(l.id, w);
                   }
-                }}
-                disabled={!drafts.length}
-              >
-                保存到项目
-              </button>
-            )}
+                  setSaveMessage("已保存到项目文件夹");
+                } catch (e) {
+                  setError(String(e));
+                }
+              }}
+              disabled={!localSaving || !drafts.length}
+              title={localSaving ? "将草稿写入本地项目" : "仅本地编辑服务支持保存到项目"}
+            >
+              保存到项目
+            </button>
             <button
               onClick={() => {
+                if (!localSaving) return;
                 setEditing(!editing);
                 setPanel(editing ? null : "edit");
               }}
+              disabled={!localSaving}
+              title={localSaving ? "编辑词条图片" : "仅本地编辑服务支持图片编辑"}
               className={editing ? "selected" : ""}
             >
               <ImagePlus size={17} /> 图片编辑
