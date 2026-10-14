@@ -303,6 +303,17 @@ function Reader() {
     else if (status === "paused") player.current?.resume();
     else play();
   }
+  function stopPlayback() {
+    player.current?.stop();
+    setPosition(listId, 0);
+    setFollowing(true);
+    const first = merged[0];
+    if (first)
+      refs.current[first.id]?.scrollIntoView({
+        behavior: "smooth",
+        block: c.scrollPosition,
+      });
+  }
   async function download() {
     try {
       const blob = await exportDrafts(lists);
@@ -959,7 +970,10 @@ function Reader() {
                 className={`card mode-${c.mode} ${index === n ? "current" : ""} ${selected === w.id ? "editing-selected" : ""}`}
                 onClick={() => {
                   setSelected(w.id);
-                  if (!editing && status !== "stopped" && index !== n) play(n);
+                  if (!editing && index !== n) {
+                    setPosition(listId, n);
+                    if (player.current?.status !== "stopped") play(n);
+                  }
                 }}
               >
                 <div className="card-top">
@@ -1474,8 +1488,8 @@ function Reader() {
             </button>
             <button
               aria-label="停止"
-              title="结束朗读并清空播放任务"
-              onClick={() => player.current?.stop()}
+              title="结束朗读并回到第 1 条"
+              onClick={stopPlayback}
             >
               <Square size={17} />
             </button>
