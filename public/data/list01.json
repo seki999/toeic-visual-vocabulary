@@ -1074,7 +1074,19 @@
         "zh": "公司必须遵守所有法定要求。"
       },
       "id": "v000032",
-      "images": [],
+      "images": [
+        {
+          "id": "e3240195-6c58-43a3-a0a1-661109ccc4b4",
+          "src": "images/list01/v000032-e3240195-6c58-43a3-a0a1-661109ccc4b4.webp",
+          "alt": "statutory",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8af7633afe014ce7bee5224143a634da46e121cb96344795b28e16cdeb2cb39b"
@@ -1096,7 +1108,19 @@
         "zh": "入口处的恐慌差点引发人群踩踏。"
       },
       "id": "v000033",
-      "images": [],
+      "images": [
+        {
+          "id": "65531ec7-f8a4-400b-b97c-72fd94e937e0",
+          "src": "images/list01/v000033-65531ec7-f8a4-400b-b97c-72fd94e937e0.webp",
+          "alt": "stampede",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "abb7089e047d00a23e6d33ae60e4c1852bd8bec66a7ea1d9d4374e41cc15c8bb"
@@ -1118,7 +1142,19 @@
         "zh": "听到警报后，人群蜂拥着冲出了大厅。"
       },
       "id": "v000034",
-      "images": [],
+      "images": [
+        {
+          "id": "156844ef-000b-4da2-a88c-450328939387",
+          "src": "images/list01/v000034-156844ef-000b-4da2-a88c-450328939387.webp",
+          "alt": "stampede",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "624c78984f1674ef3deb3ae3298e39488872fd08f800aba1bed980156eba91d0"
@@ -1140,7 +1176,19 @@
         "zh": "他在会议上采取了挑衅的态度。"
       },
       "id": "v000035",
-      "images": [],
+      "images": [
+        {
+          "id": "87a25e52-a252-4018-a366-62e794d85371",
+          "src": "images/list01/v000035-87a25e52-a252-4018-a366-62e794d85371.webp",
+          "alt": "truculent",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "95669e6d890bf98c5464b268776a4c454fab4f5efd972017eb843529ffdc1374"
@@ -1162,7 +1210,19 @@
         "zh": "她负责领导公司的数字化转型项目。"
       },
       "id": "v000036",
-      "images": [],
+      "images": [
+        {
+          "id": "8a27f3d2-00e4-4173-ad45-7cfb0f2748c4",
+          "src": "images/list01/v000036-8a27f3d2-00e4-4173-ad45-7cfb0f2748c4.webp",
+          "alt": "spearhead",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1866ebd6ab1ad3530c36d4323e3b17275d08286f6c565d4da492d0bfec53d0eb"
@@ -1184,7 +1244,19 @@
         "zh": "这个团队成为公司创新的先锋。"
       },
       "id": "v000037",
-      "images": [],
+      "images": [
+        {
+          "id": "93e246c4-bdde-47d8-8186-02aaa7bc0bfc",
+          "src": "images/list01/v000037-93e246c4-bdde-47d8-8186-02aaa7bc0bfc.webp",
+          "alt": "spearhead",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "623e0e6cb646bc5ab5acdb423e3e0f8e0c03ee3eeb2679928aaf5b274446eefd"
@@ -1206,7 +1278,19 @@
         "zh": "一大群游客聚集在车站前。"
       },
       "id": "v000038",
-      "images": [],
+      "images": [
+        {
+          "id": "5dde2056-cd57-4271-a884-9af38ec03625",
+          "src": "images/list01/v000038-5dde2056-cd57-4271-a884-9af38ec03625.webp",
+          "alt": "throng",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "feb2bdc6f9561f24333158fea3d63c1615d28057fbe6be0a102d9b95e5905824"
@@ -1228,7 +1312,19 @@
         "zh": "街道上挤满了庆祝胜利的人。"
       },
       "id": "v000039",
-      "images": [],
+      "images": [
+        {
+          "id": "b7a5bd56-5cc2-4e27-ab25-d508224b323b",
+          "src": "images/list01/v000039-b7a5bd56-5cc2-4e27-ab25-d508224b323b.webp",
+          "alt": "throng",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7ac5b07b5dc25e10dfc824915b17d36747f5693e5df814feb46bf10870c6364f"
@@ -1250,7 +1346,19 @@
         "zh": "这起丑闻严重损害了公司的声誉。"
       },
       "id": "v000040",
-      "images": [],
+      "images": [
+        {
+          "id": "19952592-a037-494b-9810-f75dce14afea",
+          "src": "images/list01/v000040-19952592-a037-494b-9810-f75dce14afea.webp",
+          "alt": "tarnish",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2d8dc90f6172410e6a4cec01057ab0d42a9228e464a3d5707f68a596d978d57c"
@@ -1272,7 +1380,19 @@
         "zh": "她用软布擦掉银器上的暗锈。"
       },
       "id": "v000041",
-      "images": [],
+      "images": [
+        {
+          "id": "d63d3863-2e4b-4c3a-911a-8c6f940aeb8c",
+          "src": "images/list01/v000041-d63d3863-2e4b-4c3a-911a-8c6f940aeb8c.webp",
+          "alt": "tarnish",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f4b64591559863e532bdcbfef87fe297f1154ee9285f839b68d8744830af50c9"
@@ -1294,7 +1414,19 @@
         "zh": "这座城市的历史曾深受瘟疫影响。"
       },
       "id": "v000042",
-      "images": [],
+      "images": [
+        {
+          "id": "c78acd2d-56f7-47db-921d-6281f8c6b4af",
+          "src": "images/list01/v000042-c78acd2d-56f7-47db-921d-6281f8c6b4af.webp",
+          "alt": "plague",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9fb98406f189dcc36df9a49cf8743bf314b0c0d5045e1c8e6df80540852de2cc"
@@ -1316,7 +1448,19 @@
         "zh": "这个项目一直受到技术故障的困扰。"
       },
       "id": "v000043",
-      "images": [],
+      "images": [
+        {
+          "id": "b33b48ce-d606-4d69-93d5-5e094b3b6776",
+          "src": "images/list01/v000043-b33b48ce-d606-4d69-93d5-5e094b3b6776.webp",
+          "alt": "plague",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1bae58996091c85dd05dc2648ed2b83c947f8474c8ae583d8a89f228898a6299"
@@ -1338,7 +1482,19 @@
         "zh": "一位著名社会学家研究了远程办公对家庭的影响。"
       },
       "id": "v000044",
-      "images": [],
+      "images": [
+        {
+          "id": "503447c0-40c9-4b8d-807b-1abe26910b2c",
+          "src": "images/list01/v000044-503447c0-40c9-4b8d-807b-1abe26910b2c.webp",
+          "alt": "sociologist",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "037ba4ae93f9432817ac23a9055dacec024e52d0b17cf0ab9afbe949b0535bcc"
@@ -1360,7 +1516,19 @@
         "zh": "医院建议患者咨询精神科医生。"
       },
       "id": "v000045",
-      "images": [],
+      "images": [
+        {
+          "id": "76fc9928-93b0-4180-b93c-c88eca4883fc",
+          "src": "images/list01/v000045-76fc9928-93b0-4180-b93c-c88eca4883fc.webp",
+          "alt": "psychiatrist",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "38c059e15bd963206e24dc60164eb8729ad1631c8d9426140cd7af71fc6712b2"
@@ -1382,7 +1550,19 @@
         "zh": "冗长的解释反而把核心问题弄得更模糊。"
       },
       "id": "v000046",
-      "images": [],
+      "images": [
+        {
+          "id": "8fdfcf8a-aab6-4713-afd4-56ea1eeef56f",
+          "src": "images/list01/v000046-8fdfcf8a-aab6-4713-afd4-56ea1eeef56f.webp",
+          "alt": "obfuscate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3afb6d10713e3c1b843da00147fc152752095bdc04ee2dfee45e5b374a24c47b"
@@ -1404,7 +1584,19 @@
         "zh": "后来的数据证明了他的判断是正确的。"
       },
       "id": "v000047",
-      "images": [],
+      "images": [
+        {
+          "id": "12863ab8-6ef6-4191-a82c-b2b8c7c76708",
+          "src": "images/list01/v000047-12863ab8-6ef6-4191-a82c-b2b8c7c76708.webp",
+          "alt": "vindicate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c8864010c2fe713bfafca37f8f8d642d7f5e879da5296a9cd2e5ebf97030910e"
