@@ -1516,7 +1516,19 @@
         "zh": "打印机是常见的计算机外设。"
       },
       "id": "v000095",
-      "images": [],
+      "images": [
+        {
+          "id": "220a7395-2884-4176-a17a-545129502a5f",
+          "src": "images/list02/v000095-220a7395-2884-4176-a17a-545129502a5f.webp",
+          "alt": "peripheral",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7ee529b8449c4ff4381a2aba1548c05156ec10264fec00a92d58aebcac113351"
@@ -1538,7 +1550,19 @@
         "zh": "航空公司因航班取消向乘客进行了赔偿。"
       },
       "id": "v000096",
-      "images": [],
+      "images": [
+        {
+          "id": "247bacc5-a28c-4855-bd7c-4238033fe0fe",
+          "src": "images/list02/v000096-247bacc5-a28c-4855-bd7c-4238033fe0fe.webp",
+          "alt": "compensate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8ac86c270543d81b454e75d8ffd6234469e66d6b815f1c55ee18d91fcd9ddc5a"
@@ -1560,7 +1584,19 @@
         "zh": "更高的效率可以弥补人手不足。"
       },
       "id": "v000097",
-      "images": [],
+      "images": [
+        {
+          "id": "6f41b9d0-59f3-4e79-aa60-65da911dd46b",
+          "src": "images/list02/v000097-6f41b9d0-59f3-4e79-aa60-65da911dd46b.webp",
+          "alt": "compensate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cb2e382b1ecc275b991f1a7bd9b465ef16149b7b16fe95e2be22a338029df4d7"
@@ -1582,7 +1618,19 @@
         "zh": "接种疫苗后，大多数人会对这种疾病产生一定免疫力。"
       },
       "id": "v000098",
-      "images": [],
+      "images": [
+        {
+          "id": "f2c7a5e3-7f27-471b-8c77-e5d0a3f79da8",
+          "src": "images/list02/v000098-f2c7a5e3-7f27-471b-8c77-e5d0a3f79da8.webp",
+          "alt": "immune",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b0a7421b071c5d10f12f1f3e9e9c55c69312093380bc521f4d9b1163b5385a9e"
