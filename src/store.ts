@@ -66,7 +66,7 @@ export const defaults: Settings = {
   autoScroll: true,
   scrollPosition: "center",
   pauseFollow: true,
-  wake: false,
+  wake: true,
   compress: true,
   quality: 0.82,
 };
@@ -89,6 +89,17 @@ export const useStore = create<{
       set: (settings) =>
         set((s) => ({ settings: { ...s.settings, ...settings } })),
     }),
-    { name: "toeic-settings-v1" },
+    {
+      name: "toeic-settings-v1",
+      version: 2,
+      // Enable screen wake for existing installations, not only new visitors.
+      migrate: (persisted) => {
+        const state = persisted as { settings?: Partial<Settings> };
+        return {
+          ...state,
+          settings: { ...defaults, ...state.settings, wake: true },
+        } as ReturnType<typeof useStore.getState>;
+      },
+    },
   ),
 );
