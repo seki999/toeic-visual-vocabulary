@@ -938,7 +938,19 @@
         "zh": "他年轻时过着相当享乐主义的生活。"
       },
       "id": "v000028",
-      "images": [],
+      "images": [
+        {
+          "id": "b75e5d7f-61ba-4ac2-a925-5daa15f7ebb3",
+          "src": "images/list01/v000028-b75e5d7f-61ba-4ac2-a925-5daa15f7ebb3.webp",
+          "alt": "hedonistic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f20e9c3cd04dcd6067bd1549dafbb401f19160509d0849ba85f8cc52b5e6721e"
@@ -960,7 +972,19 @@
         "zh": "她暗示经理在招聘过程中不公平。"
       },
       "id": "v000029",
-      "images": [],
+      "images": [
+        {
+          "id": "e4a78f35-fee8-4ab6-a1e3-9572b1db0f08",
+          "src": "images/list01/v000029-e4a78f35-fee8-4ab6-a1e3-9572b1db0f08.webp",
+          "alt": "insinuate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "76b0e56c657f49e508ac8becc267ce035256c50b0bbf475dc131c5aee487f36b"
@@ -982,7 +1006,19 @@
         "zh": "他设法混入了公司的核心圈子。"
       },
       "id": "v000030",
-      "images": [],
+      "images": [
+        {
+          "id": "2c8a97da-6985-4073-a8e8-ac7e922bf734",
+          "src": "images/list01/v000030-2c8a97da-6985-4073-a8e8-ac7e922bf734.webp",
+          "alt": "insinuate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e335346e1e6f0a1b96130b6e5db98130cbf261f79e8a7ec7966c791fb79e033c"
@@ -1004,7 +1040,19 @@
         "zh": "实验室必须把危险废物与普通垃圾分开。"
       },
       "id": "v000031",
-      "images": [],
+      "images": [
+        {
+          "id": "a2868990-6287-4c65-bc42-33797eb052fb",
+          "src": "images/list01/v000031-a2868990-6287-4c65-bc42-33797eb052fb.webp",
+          "alt": "segregate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "11f5a21dc07213e13821b9d578db1818b0b7ca370cfed57740f8fd1d0132198e"
