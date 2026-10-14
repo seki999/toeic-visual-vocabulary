@@ -156,7 +156,19 @@
         "zh": "她把一个玻璃装饰品挂在圣诞树上。"
       },
       "id": "v000005",
-      "images": [],
+      "images": [
+        {
+          "id": "08099d05-e601-4fe5-a95e-c92bb8af0a20",
+          "src": "images/list01/v000005-08099d05-e601-4fe5-a95e-c92bb8af0a20.webp",
+          "alt": "ornament",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b05ad9a2d0e2da34a4e96c328c3a266deb50ad6feddfb232b9f19bc919c41475"
