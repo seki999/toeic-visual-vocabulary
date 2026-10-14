@@ -326,7 +326,19 @@
         "zh": "专家很快就识别出那幅画是赝品。"
       },
       "id": "v000010",
-      "images": [],
+      "images": [
+        {
+          "id": "3c3b8604-12d1-4fb4-80a3-0d7cdb828f4f",
+          "src": "images/list01/v000010-3c3b8604-12d1-4fb4-80a3-0d7cdb828f4f.webp",
+          "alt": "counterfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "bb4c937632198fae3bcbf2fc4bbbed9a8379e08d93d9fa509876cba1780dbfb0"
@@ -348,7 +360,19 @@
         "zh": "警方逮捕了一个涉嫌伪造货币的团伙。"
       },
       "id": "v000011",
-      "images": [],
+      "images": [
+        {
+          "id": "706d1e0a-7e3b-4d58-bf02-7deb92769f6b",
+          "src": "images/list01/v000011-706d1e0a-7e3b-4d58-bf02-7deb92769f6b.webp",
+          "alt": "counterfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2aa771ef9613a81b7e3585dba33219a4bb59de7c853351ed3998e599b3158482"
@@ -370,7 +394,19 @@
         "zh": "这部电影的世界首映将在东京举行。"
       },
       "id": "v000012",
-      "images": [],
+      "images": [
+        {
+          "id": "5cdd3d2b-ff75-488d-9fb6-88a294e88c9a",
+          "src": "images/list01/v000012-5cdd3d2b-ff75-488d-9fb6-88a294e88c9a.webp",
+          "alt": "premiere",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a44cebd896d0452f46a56d538eba661406db0a4d285beafd62b3183d90945450"
@@ -392,7 +428,19 @@
         "zh": "这部纪录片将在下个月的电影节首映。"
       },
       "id": "v000013",
-      "images": [],
+      "images": [
+        {
+          "id": "f3b6d5c8-7aae-4e88-a667-bedf92b7b9f9",
+          "src": "images/list01/v000013-f3b6d5c8-7aae-4e88-a667-bedf92b7b9f9.webp",
+          "alt": "premiere",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2cc37e8b45ad080e2a6bd2692f18457ce1f684a486805e11fce107dea27dd494"
@@ -414,7 +462,19 @@
         "zh": "手术后他在家休养了两周。"
       },
       "id": "v000014",
-      "images": [],
+      "images": [
+        {
+          "id": "b3fec3ba-46c8-4f0b-a3c7-f9d004672540",
+          "src": "images/list01/v000014-b3fec3ba-46c8-4f0b-a3c7-f9d004672540.webp",
+          "alt": "recuperate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4d8e6b88afdeba00f11db09a03f04a3a162e5546a0c0dac2c4da4ec77048887e"
