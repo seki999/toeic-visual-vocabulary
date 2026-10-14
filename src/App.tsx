@@ -66,6 +66,9 @@ function PictureView({
   }, [picture.src]);
   return (
     <img
+      className={
+        picture.heightMode === "fixed" ? "fixed-height" : "auto-height"
+      }
       onDoubleClick={onOpen}
       src={src}
       alt={picture.alt}
@@ -195,6 +198,21 @@ function Reader() {
   useEffect(() => {
     player.current?.stop();
   }, [listId, c]);
+  function scrollToWord(id: string) {
+    const card = refs.current[id];
+    if (!card) return;
+    const main = card.closest("main");
+    const available =
+      main && getComputedStyle(main).overflowY === "auto"
+        ? main.clientHeight
+        : window.innerHeight - 130;
+    card.scrollIntoView({
+      behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "instant"
+        : "smooth",
+      block: card.clientHeight > available ? "start" : c.scrollPosition,
+    });
+  }
   useEffect(() => {
     if (
       c.autoScroll &&
@@ -202,12 +220,7 @@ function Reader() {
       current &&
       player.current?.status !== "stopped"
     )
-      refs.current[current.id]?.scrollIntoView({
-        behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
-          ? "instant"
-          : "smooth",
-        block: c.scrollPosition,
-      });
+      scrollToWord(current.id);
   }, [current?.id, c.autoScroll, c.scrollPosition, following]);
   useEffect(() => {
     let lock: any;
@@ -309,11 +322,7 @@ function Reader() {
   function play(n = index) {
     setFollowing(true);
     player.current?.play(merged, n, c);
-    if (n === index && c.autoScroll && current)
-      refs.current[current.id]?.scrollIntoView({
-        behavior: "smooth",
-        block: c.scrollPosition,
-      });
+    if (n === index && c.autoScroll && current) scrollToWord(current.id);
   }
   function jump(n: number) {
     const next = Math.max(0, Math.min(merged.length - 1, n));
@@ -330,11 +339,7 @@ function Reader() {
     setPosition(listId, 0);
     setFollowing(true);
     const first = merged[0];
-    if (first)
-      refs.current[first.id]?.scrollIntoView({
-        behavior: "smooth",
-        block: c.scrollPosition,
-      });
+    if (first) scrollToWord(first.id);
   }
   async function download() {
     try {
@@ -440,7 +445,7 @@ function Reader() {
             <button
               aria-label="切换列表菜单"
               onClick={() =>
-                window.innerWidth >= 800
+                window.innerWidth > 1100
                   ? setCollapsed(!collapsed)
                   : setDrawer(!drawer)
               }

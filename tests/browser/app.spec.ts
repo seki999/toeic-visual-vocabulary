@@ -1,4 +1,69 @@
 import { test, expect } from "@playwright/test";
+for (const [name, width, height] of [
+  ["phone-text-landscape", 844, 390],
+  ["phone-text-portrait", 390, 844],
+  ["tablet-text", 1024, 768],
+] as const) {
+  test(`${name}: text scrolls above the player without being covered`, async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width, height });
+    await page.goto("/");
+    await expect(page.locator(".card")).toHaveCount(50);
+    await page.getByRole("button", { name: "纯文字", exact: true }).click();
+    const main = await page.locator("main").boundingBox(),
+      bar = await page.locator(".player-bar").boundingBox();
+    expect(main!.y + main!.height).toBeLessThanOrEqual(bar!.y);
+    await expect(page.locator("main")).toHaveCSS("overflow-y", "auto");
+    const last = page.locator(".card").first().locator(".field-example-zh");
+    await last.evaluate((el) =>
+      el.scrollIntoView({ block: "end", behavior: "instant" }),
+    );
+    const field = await last.boundingBox();
+    expect(field!.y + field!.height).toBeLessThanOrEqual(bar!.y);
+    await page.screenshot({ path: `test-results/${name}.png` });
+  });
+}
+for (const [device, width, height] of [
+  ["phone-landscape", 844, 390],
+  ["tablet-landscape", 1024, 768],
+  ["phone-short-landscape", 800, 300],
+] as const) {
+  test(`${device}: picture fits above compact playback controls`, async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width, height });
+    await page.goto("/");
+    await expect(page.locator(".card")).toHaveCount(50);
+    await page.getByRole("button", { name: "纯图片", exact: true }).click();
+    const card = page.locator(".card").first(),
+      image = card.locator(".picture img");
+    await expect
+      .poll(() =>
+        image.evaluate(
+          (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
+        ),
+      )
+      .toBe(true);
+    await card.evaluate((el) =>
+      el.scrollIntoView({ block: "center", behavior: "instant" }),
+    );
+    const rect = await image.boundingBox(),
+      bar = await page.locator(".player-bar").boundingBox();
+    expect(rect!.y).toBeGreaterThanOrEqual(0);
+    expect(rect!.y + rect!.height).toBeLessThanOrEqual(bar!.y);
+    expect(rect!.height).toBeLessThan(height - 120);
+    if (height < 600) expect(bar!.height).toBeLessThanOrEqual(60);
+    expect(
+      await page.evaluate(() => document.documentElement.scrollWidth),
+    ).toBeLessThanOrEqual(width);
+    await page.screenshot({ path: `test-results/${device}.png` });
+    await page.getByRole("button", { name: "切换列表菜单" }).click();
+    await expect(page.locator(".sidebar")).toHaveClass(/open/);
+    await page.getByRole("button", { name: "List 02", exact: false }).click();
+    await expect(page.locator("h1")).toContainText("List 02");
+  });
+}
 test("mobile and tablet images keep their original ratio and offer a usable viewer", async ({
   page,
 }) => {
