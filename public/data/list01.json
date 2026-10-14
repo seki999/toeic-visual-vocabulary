@@ -88,7 +88,21 @@
         "zh": "新总统在就职演说中提出了经济改革计划。"
       },
       "id": "v000003",
-      "images": [],
+      "images": [
+        {
+          "id": "v000003-published",
+          "src": "images/list01/v000003.png",
+          "alt": "A president presenting economic reforms in an inaugural address",
+          "widthPercent": 100,
+          "height": 360,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ea662b96d4994a5576e60a50433e0caefb9d997cff10b21ebc1376133584536d"
@@ -110,7 +124,21 @@
         "zh": "数千人参加了总统就职典礼。"
       },
       "id": "v000004",
-      "images": [],
+      "images": [
+        {
+          "id": "v000004-published",
+          "src": "images/list01/v000004.png",
+          "alt": "Thousands of people attending a presidential inaugural ceremony",
+          "widthPercent": 100,
+          "height": 360,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "294664cf47a33d039948037b3bd845bf3ea2d104f216dfe41d55f3dfe915fccc"
