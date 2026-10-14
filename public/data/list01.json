@@ -190,7 +190,19 @@
         "zh": "大厅里用鲜花和灯光装饰得很漂亮。"
       },
       "id": "v000006",
-      "images": [],
+      "images": [
+        {
+          "id": "bb4ca49a-280a-46f9-8bb6-50c79d6fc7d3",
+          "src": "images/list01/v000006-443a0bc4-e917-4c9c-8097-5dd6145985b2.webp",
+          "alt": "ornament",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "087816b571aa475ca68e99ea15d3cc67335c0eba7838b64a57f647d2a9c56b67"
@@ -212,7 +224,19 @@
         "zh": "央行决定维持当前的货币政策。"
       },
       "id": "v000007",
-      "images": [],
+      "images": [
+        {
+          "id": "eec28a69-f811-4fab-8e2f-41729df6b82d",
+          "src": "images/list01/v000007-228be434-b2c9-49f9-bdfc-99045c8e2db8.webp",
+          "alt": "monetary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1909944d349d9a6cd52e7718e6a9f51b59d85725bad61b02ba934b1609b6f42e"
@@ -234,7 +258,19 @@
         "zh": "两个系统故障几乎同时发生。"
       },
       "id": "v000008",
-      "images": [],
+      "images": [
+        {
+          "id": "ba7e4237-07c4-4066-bab9-2242fba46a2c",
+          "src": "images/list01/v000008-ba7e4237-07c4-4066-bab9-2242fba46a2c.webp",
+          "alt": "simultaneously",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d5c96eaec3dc2ec42f37b8f3800c947bc350f95c60da9549ce8d291898324652"
@@ -256,7 +292,19 @@
         "zh": "海关查获了一批假冒商品。"
       },
       "id": "v000009",
-      "images": [],
+      "images": [
+        {
+          "id": "2ba182aa-1283-400c-84ea-6fd8b0047dd7",
+          "src": "images/list01/v000009-2ba182aa-1283-400c-84ea-6fd8b0047dd7.webp",
+          "alt": "counterfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a515e1f5e0877be2d092d1666c6bcb71ecb6ec12a0d17361ab2d0daeed6cb1c5"
