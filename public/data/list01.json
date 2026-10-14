@@ -496,7 +496,19 @@
         "zh": "公司希望在年底前挽回大部分损失。"
       },
       "id": "v000015",
-      "images": [],
+      "images": [
+        {
+          "id": "78ff8eac-5e3b-4c2e-868b-be96d43b838b",
+          "src": "images/list01/v000015-78ff8eac-5e3b-4c2e-868b-be96d43b838b.webp",
+          "alt": "recuperate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "17d9f386d31ccb81833250e2f26fee78e6beb67445793ce52145c0295889513e"
@@ -518,7 +530,19 @@
         "zh": "游客们目瞪口呆地看着巨大的瀑布。"
       },
       "id": "v000016",
-      "images": [],
+      "images": [
+        {
+          "id": "fa0a76b1-05be-47b3-9a72-0b22add55ec2",
+          "src": "images/list01/v000016-fa0a76b1-05be-47b3-9a72-0b22add55ec2.webp",
+          "alt": "gape",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e641d5008fbc5ee8cfd4d60837cc5a92935e14c542d5ea3b9a145012dc152023"
@@ -540,7 +564,19 @@
         "zh": "墙上裂开了一个大洞。"
       },
       "id": "v000017",
-      "images": [],
+      "images": [
+        {
+          "id": "a55d5406-fc28-4da8-ab11-31abb672d9bc",
+          "src": "images/list01/v000017-a55d5406-fc28-4da8-ab11-31abb672d9bc.webp",
+          "alt": "gape",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "04212ffeff52299a4b8204be0609bdfc8adeb7e3f78f4f85363c1167111d7dbf"
@@ -562,7 +598,19 @@
         "zh": "警方经过三天搜捕终于抓到了逃犯。"
       },
       "id": "v000018",
-      "images": [],
+      "images": [
+        {
+          "id": "b7805063-2eeb-427b-8a4a-89e22eb2fd03",
+          "src": "images/list01/v000018-b7805063-2eeb-427b-8a4a-89e22eb2fd03.webp",
+          "alt": "fugitive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0e3985d6686bd8b5ee5e48fbbc82043b1cd25b75eae239217d22efcd918f972c"
