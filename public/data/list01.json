@@ -22,11 +22,11 @@
       "id": "v000001",
       "images": [
         {
-          "id": "v000001-published",
-          "src": "images/list01/v000001.png",
-          "alt": "Doctor advising a patient to abstain from alcohol during treatment",
+          "id": "835490d1-fa08-4639-a9ab-20c21eccc311",
+          "src": "images/list01/v000001-c0cdbc2b-7da4-4c86-8f21-a02623d44cf6.webp",
+          "alt": "abstain",
           "widthPercent": 100,
-          "height": 360,
+          "height": 300,
           "objectFit": "contain",
           "objectPosition": "center",
           "rotation": 0,
@@ -57,7 +57,7 @@
       "images": [
         {
           "id": "v000002-published",
-          "src": "images/list01/v000002.png",
+          "src": "images/list01/v000002-3b6e7898-d520-497b-a7e0-8b5fcd8a01f7.webp",
           "alt": "Three committee members abstaining from a final ballot",
           "widthPercent": 100,
           "height": 360,
@@ -91,7 +91,7 @@
       "images": [
         {
           "id": "v000003-published",
-          "src": "images/list01/v000003.png",
+          "src": "images/list01/v000003-8f85cbb6-1e1b-4589-9644-a874ae3d8b0e.webp",
           "alt": "A president presenting economic reforms in an inaugural address",
           "widthPercent": 100,
           "height": 360,
@@ -127,7 +127,7 @@
       "images": [
         {
           "id": "v000004-published",
-          "src": "images/list01/v000004.png",
+          "src": "images/list01/v000004-c182cf5e-a861-49a3-866f-60df17cfac1d.webp",
           "alt": "Thousands of people attending a presidential inaugural ceremony",
           "widthPercent": 100,
           "height": 360,
