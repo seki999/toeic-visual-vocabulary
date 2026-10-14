@@ -1,0 +1,579 @@
+{
+  "id": "list13",
+  "title": "List 13",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "pianist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpɪənɪst/",
+        "us": "/ˈpiːənɪst/"
+      },
+      "meaning": "钢琴家；钢琴演奏者",
+      "collocation": {
+        "en": "concert pianist",
+        "zh": "音乐会钢琴家"
+      },
+      "example": {
+        "en": "She is an internationally renowned concert pianist.",
+        "zh": "她是一位国际知名的钢琴家。"
+      },
+      "id": "v000601",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f2731a951f1029106c5ae51fba987b767654c50826c3844b4fa083aeaed64b1f"
+    },
+    {
+      "word": "elegant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈelɪɡənt/",
+        "us": "/ˈelɪɡənt/"
+      },
+      "meaning": "优雅的；高雅的",
+      "collocation": {
+        "en": "elegant design",
+        "zh": "优雅的设计"
+      },
+      "example": {
+        "en": "The product has a simple and elegant design.",
+        "zh": "这款产品采用了简洁而优雅的设计。"
+      },
+      "id": "v000602",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f3042198157c64689a80ac52f4ab474966724e38aff288abdaeb1ffeb15ff20e"
+    },
+    {
+      "word": "suspicious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/səˈspɪʃəs/",
+        "us": "/səˈspɪʃəs/"
+      },
+      "meaning": "可疑的；令人怀疑的",
+      "collocation": {
+        "en": "suspicious behavior",
+        "zh": "可疑行为"
+      },
+      "example": {
+        "en": "Security reported suspicious behavior near the entrance.",
+        "zh": "保安报告了入口附近的可疑行为。"
+      },
+      "id": "v000603",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "10e71684ff5e122490b3ec4e7b70fe8109438571d2300217214f6c1bf596348f"
+    },
+    {
+      "word": "suspicious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/səˈspɪʃəs/",
+        "us": "/səˈspɪʃəs/"
+      },
+      "meaning": "怀疑的；不信任的",
+      "collocation": {
+        "en": "be suspicious of",
+        "zh": "怀疑……"
+      },
+      "example": {
+        "en": "He was suspicious of the unusually low quotation.",
+        "zh": "他对这个过于便宜的报价表示怀疑。"
+      },
+      "id": "v000604",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b1f27f2c61117d55609863d23a06b32a1127dfeeff1cebd4ae63412e2d162baf"
+    },
+    {
+      "word": "accusation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌækjuˈzeɪʃn/",
+        "us": "/ˌækjuˈzeɪʃn/"
+      },
+      "meaning": "指控；控告",
+      "collocation": {
+        "en": "make an accusation against",
+        "zh": "对……提出指控"
+      },
+      "example": {
+        "en": "She denied all the accusations made against her.",
+        "zh": "她否认了针对自己的所有指控。"
+      },
+      "id": "v000605",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "69f110475ceb08a94e5a63e764314f46092a2fe477843c11e698425222a89a98"
+    },
+    {
+      "word": "strenuous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈstrenjuəs/",
+        "us": "/ˈstrenjuəs/"
+      },
+      "meaning": "费力的；繁重的；剧烈的",
+      "collocation": {
+        "en": "strenuous exercise",
+        "zh": "剧烈运动"
+      },
+      "example": {
+        "en": "The doctor advised avoiding strenuous exercise for a while after surgery.",
+        "zh": "医生建议手术后暂时避免剧烈运动。"
+      },
+      "id": "v000606",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b98153a1b1bc8f6fcad31169ba91499247d91f0f17bc13bdbc80bd780273e366"
+    },
+    {
+      "word": "botanical",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/bəˈtænɪkl/",
+        "us": "/bəˈtænɪkl/"
+      },
+      "meaning": "植物学的；植物的",
+      "collocation": {
+        "en": "botanical garden",
+        "zh": "植物园"
+      },
+      "example": {
+        "en": "We visited the local botanical garden at the weekend.",
+        "zh": "我们周末参观了当地植物园。"
+      },
+      "id": "v000607",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cff638809862305d1a81e5f81323dd5b0d8d1984ed41451dab24574ed1276431"
+    },
+    {
+      "word": "forecast",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfɔːkɑːst/",
+        "us": "/ˈfɔːrkæst/"
+      },
+      "meaning": "预测；天气预报",
+      "collocation": {
+        "en": "weather forecast",
+        "zh": "天气预报"
+      },
+      "example": {
+        "en": "The weather forecast says it will rain tomorrow.",
+        "zh": "天气预报说明天会下雨。"
+      },
+      "id": "v000608",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "160536f718534eb73d57c2311e1bd41b3803f5779151379da143d5f4fa7cb8de"
+    },
+    {
+      "word": "forecast",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈfɔːkɑːst/",
+        "us": "/ˈfɔːrkæst/"
+      },
+      "meaning": "预测；预报",
+      "collocation": {
+        "en": "forecast growth",
+        "zh": "预测增长"
+      },
+      "example": {
+        "en": "Analysts forecast sales growth next year.",
+        "zh": "分析师预计明年销售额将增长。"
+      },
+      "id": "v000609",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fd9f5842ff2e2023ff202800b355a055b19c407d2a837474d610da4be682c2a6"
+    },
+    {
+      "word": "brewery",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbrʊəri/",
+        "us": "/ˈbruːəri/"
+      },
+      "meaning": "啤酒厂；酿酒厂",
+      "collocation": {
+        "en": "local brewery",
+        "zh": "当地啤酒厂"
+      },
+      "example": {
+        "en": "The local brewery offers guided tours.",
+        "zh": "这家当地啤酒厂提供参观活动。"
+      },
+      "id": "v000610",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4cd757db972263cb08f77c16f48808ad89f4957967b880f921a899cb6bc2a30a"
+    },
+    {
+      "word": "injury",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɪndʒəri/",
+        "us": "/ˈɪndʒəri/"
+      },
+      "meaning": "伤；损伤",
+      "collocation": {
+        "en": "suffer an injury",
+        "zh": "受伤"
+      },
+      "example": {
+        "en": "He suffered a leg injury during training.",
+        "zh": "他在训练中腿部受伤。"
+      },
+      "id": "v000611",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a4f4a47d2032bed1ade703cb504d699d92acdf9b6fee596c7ea62c97128ca811"
+    },
+    {
+      "word": "handwoven",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌhændˈwəʊvən/",
+        "us": "/ˌhændˈwoʊvən/"
+      },
+      "meaning": "手工编织的",
+      "collocation": {
+        "en": "handwoven textile",
+        "zh": "手工织物"
+      },
+      "example": {
+        "en": "The museum displays traditional handwoven textiles.",
+        "zh": "博物馆展示了传统的手工织物。"
+      },
+      "id": "v000612",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6620386e6db9b4fc61e428bd7f8cff9136cc8f0e80931fd8e4749186be942c55"
+    },
+    {
+      "word": "textile",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtekstaɪl/",
+        "us": "/ˈtekstaɪl/"
+      },
+      "meaning": "纺织品；织物",
+      "collocation": {
+        "en": "textile industry",
+        "zh": "纺织业"
+      },
+      "example": {
+        "en": "The region was once known for its textile industry.",
+        "zh": "这个地区过去以纺织业闻名。"
+      },
+      "id": "v000613",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1470990455a1a9f733f55a332c3a106c3c957aadc88ad148f6d356b012505cc2"
+    },
+    {
+      "word": "textile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtekstaɪl/",
+        "us": "/ˈtekstaɪl/"
+      },
+      "meaning": "纺织的",
+      "collocation": {
+        "en": "textile production",
+        "zh": "纺织生产"
+      },
+      "example": {
+        "en": "The factory uses new equipment to improve textile production efficiency.",
+        "zh": "工厂采用新设备提高纺织生产效率。"
+      },
+      "id": "v000614",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "91c0e01776917f7b16e883c66eddd06c7001633394c76e0efa33a353b9a20fce"
+    },
+    {
+      "word": "fabric",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfæbrɪk/",
+        "us": "/ˈfæbrɪk/"
+      },
+      "meaning": "布料；织物",
+      "collocation": {
+        "en": "cotton fabric",
+        "zh": "棉布"
+      },
+      "example": {
+        "en": "This shirt is made of soft cotton fabric.",
+        "zh": "这件衬衫由柔软的棉布制成。"
+      },
+      "id": "v000615",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba1666a3ff364e1bc3b96bf24a8517bce10eaca73fa83c24ba9069f490bd3077"
+    },
+    {
+      "word": "fabric",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfæbrɪk/",
+        "us": "/ˈfæbrɪk/"
+      },
+      "meaning": "结构；基本构造",
+      "collocation": {
+        "en": "social fabric",
+        "zh": "社会结构"
+      },
+      "example": {
+        "en": "Long-term unemployment can damage the social fabric of a community.",
+        "zh": "长期失业可能损害社区的社会结构。"
+      },
+      "id": "v000616",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b17c23f8ce50e6d4ed8895a66a0df9f222b1fa915837a360147b2025ab824e1a"
+    },
+    {
+      "word": "conservator",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈsɜːvətə(r)/",
+        "us": "/kənˈsɜːrvətər/"
+      },
+      "meaning": "文物修复师；保护专家",
+      "collocation": {
+        "en": "art conservator",
+        "zh": "艺术品修复师"
+      },
+      "example": {
+        "en": "The art conservator is restoring the old painting.",
+        "zh": "艺术品修复师正在修复这幅古画。"
+      },
+      "id": "v000617",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "89c5415fb2121ee750089fb7cf46f65382f7182ee6b793f886f1841cae14ee4b"
+    },
+    {
+      "word": "fiber",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfaɪbə(r)/",
+        "us": "/ˈfaɪbər/"
+      },
+      "meaning": "纤维",
+      "collocation": {
+        "en": "dietary fiber",
+        "zh": "膳食纤维"
+      },
+      "example": {
+        "en": "Vegetables are an important source of dietary fiber.",
+        "zh": "蔬菜是膳食纤维的重要来源。"
+      },
+      "id": "v000618",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c2b4493d596d1316cac6fad74611daa390c67125089d21f2d59e1c73ff6ccba6"
+    },
+    {
+      "word": "fiber",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfaɪbə(r)/",
+        "us": "/ˈfaɪbər/"
+      },
+      "meaning": "光纤",
+      "collocation": {
+        "en": "fiber-optic cable",
+        "zh": "光纤电缆"
+      },
+      "example": {
+        "en": "New fiber-optic cables have been installed in the building.",
+        "zh": "这栋大楼已经安装了新的光纤电缆。"
+      },
+      "id": "v000619",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6fe774be6ce652f9af7bc5c90c1534011d0e709edf6389a8505fad125397b9e5"
+    },
+    {
+      "word": "restoration",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌrestəˈreɪʃn/",
+        "us": "/ˌrestəˈreɪʃn/"
+      },
+      "meaning": "修复；恢复",
+      "collocation": {
+        "en": "restoration work",
+        "zh": "修复工作"
+      },
+      "example": {
+        "en": "The restoration work on the historic building has been completed.",
+        "zh": "这座历史建筑的修复工作已经完成。"
+      },
+      "id": "v000620",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "299c53e4b58e9c5048ba42df14127f8cf31ea5d1e909c3e17d7c8240bed1238c"
+    },
+    {
+      "word": "dusk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dʌsk/",
+        "us": "/dʌsk/"
+      },
+      "meaning": "黄昏；傍晚",
+      "collocation": {
+        "en": "at dusk",
+        "zh": "在黄昏时"
+      },
+      "example": {
+        "en": "We returned to the campsite at dusk.",
+        "zh": "我们在黄昏时返回营地。"
+      },
+      "id": "v000621",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3341e891b400e8344b23e31882376212bca0e874d7fbddd4ac11cca9a089fe5f"
+    },
+    {
+      "word": "mild",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/maɪld/",
+        "us": "/maɪld/"
+      },
+      "meaning": "温和的；不严重的",
+      "collocation": {
+        "en": "mild symptoms",
+        "zh": "轻微症状"
+      },
+      "example": {
+        "en": "He has only mild cold symptoms.",
+        "zh": "他只有轻微的感冒症状。"
+      },
+      "id": "v000622",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "00abb43000840fd93a9ebb18e1381baacb2675924fc43784be1bf0117789c1d4"
+    },
+    {
+      "word": "mild",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/maɪld/",
+        "us": "/maɪld/"
+      },
+      "meaning": "暖和的；不冷不热的",
+      "collocation": {
+        "en": "mild weather",
+        "zh": "温和的天气"
+      },
+      "example": {
+        "en": "The weather has been mild this autumn.",
+        "zh": "今年秋天天气一直很温和。"
+      },
+      "id": "v000623",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "75b6394ae73574e5e00ceb5364d0ba361a3ae02a8301051aca271196aa9c83bd"
+    },
+    {
+      "word": "ranger",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈreɪndʒə(r)/",
+        "us": "/ˈreɪndʒər/"
+      },
+      "meaning": "护林员；国家公园管理员",
+      "collocation": {
+        "en": "park ranger",
+        "zh": "公园管理员；护林员"
+      },
+      "example": {
+        "en": "The park ranger warned visitors not to leave the trail.",
+        "zh": "护林员提醒游客不要离开步道。"
+      },
+      "id": "v000624",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7bfb25a8bb44b6edf647e95ceaf26d22e9c60fa7d6626c3ecd92c501937b3532"
+    },
+    {
+      "word": "savory",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈseɪvəri/",
+        "us": "/ˈseɪvəri/"
+      },
+      "meaning": "咸味的；香辣可口的（非甜味）",
+      "collocation": {
+        "en": "savory dish",
+        "zh": "咸香菜肴"
+      },
+      "example": {
+        "en": "The restaurant is known for its savory dishes.",
+        "zh": "这家餐厅以咸香可口的菜肴闻名。"
+      },
+      "id": "v000625",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e172db367bccc5e7ca681e6f94a1ac7e0d329797657da03d41c12a378a13a958"
+    },
+    {
+      "word": "savory",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈseɪvəri/",
+        "us": "/ˈseɪvəri/"
+      },
+      "meaning": "咸味小吃；咸味食品",
+      "collocation": {
+        "en": "sweet and savory",
+        "zh": "甜味和咸味食品"
+      },
+      "example": {
+        "en": "The buffet offers a variety of sweet and savory foods.",
+        "zh": "自助餐提供各种甜味和咸味食品。"
+      },
+      "id": "v000626",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "36ba0a28664f2c51ba7b67787817376ca81b2b1a6b1b4493b7fc114d6b46ffa7"
+    }
+  ]
+}

@@ -1,0 +1,1131 @@
+{
+  "id": "list01",
+  "title": "List 01",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "abstain",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əbˈsteɪn/",
+        "us": "/əbˈsteɪn/"
+      },
+      "meaning": "戒除；避免（尤指酒、食物等）",
+      "collocation": {
+        "en": "abstain from alcohol",
+        "zh": "戒酒"
+      },
+      "example": {
+        "en": "The doctor advised him to abstain from alcohol during treatment.",
+        "zh": "医生建议他在治疗期间戒酒。"
+      },
+      "id": "v000001",
+      "images": [
+        {
+          "id": "v000001-published",
+          "src": "images/list01/v000001.png",
+          "alt": "Doctor advising a patient to abstain from alcohol during treatment",
+          "widthPercent": 100,
+          "height": 360,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "77b32a66f20ee9bd6dd0bec656e44be2d3b2f1978a8d2cde13dda51f9a41562d"
+    },
+    {
+      "word": "abstain",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əbˈsteɪn/",
+        "us": "/əbˈsteɪn/"
+      },
+      "meaning": "弃权；不投票",
+      "collocation": {
+        "en": "abstain from voting",
+        "zh": "投票时弃权"
+      },
+      "example": {
+        "en": "Three committee members chose to abstain from voting in the final ballot.",
+        "zh": "三名委员在最终表决中选择了弃权。"
+      },
+      "id": "v000002",
+      "images": [
+        {
+          "id": "v000002-published",
+          "src": "images/list01/v000002.png",
+          "alt": "Three committee members abstaining from a final ballot",
+          "widthPercent": 100,
+          "height": 360,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7470bfbcf885b9861f095844ca7e7ed1f5bde8f1623a8e75eb47b429d1db2f57"
+    },
+    {
+      "word": "inaugural",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪˈnɔːɡjərəl/",
+        "us": "/ɪˈnɔːɡjərəl/"
+      },
+      "meaning": "就职的；开幕的；首次的",
+      "collocation": {
+        "en": "inaugural address",
+        "zh": "就职演说"
+      },
+      "example": {
+        "en": "The new president outlined an economic reform plan in his inaugural address.",
+        "zh": "新总统在就职演说中提出了经济改革计划。"
+      },
+      "id": "v000003",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ea662b96d4994a5576e60a50433e0caefb9d997cff10b21ebc1376133584536d"
+    },
+    {
+      "word": "inaugural",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪˈnɔːɡjərəl/",
+        "us": "/ɪˈnɔːɡjərəl/"
+      },
+      "meaning": "就职典礼；首次活动",
+      "collocation": {
+        "en": "presidential inaugural",
+        "zh": "总统就职典礼"
+      },
+      "example": {
+        "en": "Thousands of people attended the presidential inaugural.",
+        "zh": "数千人参加了总统就职典礼。"
+      },
+      "id": "v000004",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "294664cf47a33d039948037b3bd845bf3ea2d104f216dfe41d55f3dfe915fccc"
+    },
+    {
+      "word": "ornament",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɔːnəmənt/",
+        "us": "/ˈɔːrnəmənt/"
+      },
+      "meaning": "装饰品；饰物",
+      "collocation": {
+        "en": "Christmas ornament",
+        "zh": "圣诞装饰品"
+      },
+      "example": {
+        "en": "She hung a glass ornament on the Christmas tree.",
+        "zh": "她把一个玻璃装饰品挂在圣诞树上。"
+      },
+      "id": "v000005",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b05ad9a2d0e2da34a4e96c328c3a266deb50ad6feddfb232b9f19bc919c41475"
+    },
+    {
+      "word": "ornament",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈɔːnəment/",
+        "us": "/ˈɔːrnəment/"
+      },
+      "meaning": "装饰；点缀",
+      "collocation": {
+        "en": "be ornamented with",
+        "zh": "用……装饰"
+      },
+      "example": {
+        "en": "The hall was beautifully ornamented with flowers and lights.",
+        "zh": "大厅里用鲜花和灯光装饰得很漂亮。"
+      },
+      "id": "v000006",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "087816b571aa475ca68e99ea15d3cc67335c0eba7838b64a57f647d2a9c56b67"
+    },
+    {
+      "word": "monetary",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmʌnɪtəri/",
+        "us": "/ˈmɑːnɪteri/"
+      },
+      "meaning": "货币的；金融的",
+      "collocation": {
+        "en": "monetary policy",
+        "zh": "货币政策"
+      },
+      "example": {
+        "en": "The central bank decided to maintain its current monetary policy.",
+        "zh": "央行决定维持当前的货币政策。"
+      },
+      "id": "v000007",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1909944d349d9a6cd52e7718e6a9f51b59d85725bad61b02ba934b1609b6f42e"
+    },
+    {
+      "word": "simultaneously",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/ˌsɪməlˈteɪniəsli/",
+        "us": "/ˌsaɪməlˈteɪniəsli/"
+      },
+      "meaning": "同时地；同步地",
+      "collocation": {
+        "en": "occur simultaneously",
+        "zh": "同时发生"
+      },
+      "example": {
+        "en": "The two system failures occurred almost simultaneously.",
+        "zh": "两个系统故障几乎同时发生。"
+      },
+      "id": "v000008",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d5c96eaec3dc2ec42f37b8f3800c947bc350f95c60da9549ce8d291898324652"
+    },
+    {
+      "word": "counterfeit",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkaʊntəfɪt/",
+        "us": "/ˈkaʊntərfɪt/"
+      },
+      "meaning": "伪造的；假冒的",
+      "collocation": {
+        "en": "counterfeit goods",
+        "zh": "假冒商品"
+      },
+      "example": {
+        "en": "Customs officers seized a shipment of counterfeit goods.",
+        "zh": "海关查获了一批假冒商品。"
+      },
+      "id": "v000009",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a515e1f5e0877be2d092d1666c6bcb71ecb6ec12a0d17361ab2d0daeed6cb1c5"
+    },
+    {
+      "word": "counterfeit",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkaʊntəfɪt/",
+        "us": "/ˈkaʊntərfɪt/"
+      },
+      "meaning": "赝品；伪造物",
+      "collocation": {
+        "en": "detect a counterfeit",
+        "zh": "识别赝品"
+      },
+      "example": {
+        "en": "The expert quickly detected that the painting was a counterfeit.",
+        "zh": "专家很快就识别出那幅画是赝品。"
+      },
+      "id": "v000010",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bb4c937632198fae3bcbf2fc4bbbed9a8379e08d93d9fa509876cba1780dbfb0"
+    },
+    {
+      "word": "counterfeit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkaʊntəfɪt/",
+        "us": "/ˈkaʊntərfɪt/"
+      },
+      "meaning": "伪造；仿造",
+      "collocation": {
+        "en": "counterfeit money",
+        "zh": "伪造货币"
+      },
+      "example": {
+        "en": "Police arrested a group suspected of counterfeiting money.",
+        "zh": "警方逮捕了一个涉嫌伪造货币的团伙。"
+      },
+      "id": "v000011",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2aa771ef9613a81b7e3585dba33219a4bb59de7c853351ed3998e599b3158482"
+    },
+    {
+      "word": "premiere",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpremieə(r)/",
+        "us": "/prɪˈmɪr/"
+      },
+      "meaning": "首映；首次公演",
+      "collocation": {
+        "en": "world premiere",
+        "zh": "世界首映"
+      },
+      "example": {
+        "en": "The film's world premiere will be held in Tokyo.",
+        "zh": "这部电影的世界首映将在东京举行。"
+      },
+      "id": "v000012",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a44cebd896d0452f46a56d538eba661406db0a4d285beafd62b3183d90945450"
+    },
+    {
+      "word": "premiere",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpremieə(r)/",
+        "us": "/prɪˈmɪr/"
+      },
+      "meaning": "首次上映；首次演出",
+      "collocation": {
+        "en": "premiere at a festival",
+        "zh": "在电影节首映"
+      },
+      "example": {
+        "en": "The documentary will premiere at the festival next month.",
+        "zh": "这部纪录片将在下个月的电影节首映。"
+      },
+      "id": "v000013",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2cc37e8b45ad080e2a6bd2692f18457ce1f684a486805e11fce107dea27dd494"
+    },
+    {
+      "word": "recuperate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈkuːpəreɪt/",
+        "us": "/rɪˈkuːpəreɪt/"
+      },
+      "meaning": "康复；恢复健康",
+      "collocation": {
+        "en": "recuperate from an illness",
+        "zh": "病后康复"
+      },
+      "example": {
+        "en": "He stayed home for two weeks to recuperate from the operation.",
+        "zh": "手术后他在家休养了两周。"
+      },
+      "id": "v000014",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4d8e6b88afdeba00f11db09a03f04a3a162e5546a0c0dac2c4da4ec77048887e"
+    },
+    {
+      "word": "recuperate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈkuːpəreɪt/",
+        "us": "/rɪˈkuːpəreɪt/"
+      },
+      "meaning": "恢复（损失、精力等）",
+      "collocation": {
+        "en": "recuperate losses",
+        "zh": "挽回损失"
+      },
+      "example": {
+        "en": "The company hopes to recuperate most of its losses by the end of the year.",
+        "zh": "公司希望在年底前挽回大部分损失。"
+      },
+      "id": "v000015",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "17d9f386d31ccb81833250e2f26fee78e6beb67445793ce52145c0295889513e"
+    },
+    {
+      "word": "gape",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡeɪp/",
+        "us": "/ɡeɪp/"
+      },
+      "meaning": "目瞪口呆地看；张口凝视",
+      "collocation": {
+        "en": "gape at",
+        "zh": "目瞪口呆地看着"
+      },
+      "example": {
+        "en": "The tourists gaped at the enormous waterfall.",
+        "zh": "游客们目瞪口呆地看着巨大的瀑布。"
+      },
+      "id": "v000016",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e641d5008fbc5ee8cfd4d60837cc5a92935e14c542d5ea3b9a145012dc152023"
+    },
+    {
+      "word": "gape",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡeɪp/",
+        "us": "/ɡeɪp/"
+      },
+      "meaning": "裂开；张开大口",
+      "collocation": {
+        "en": "a gaping hole",
+        "zh": "一个大裂口/大洞"
+      },
+      "example": {
+        "en": "A large hole gaped in the wall.",
+        "zh": "墙上裂开了一个大洞。"
+      },
+      "id": "v000017",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "04212ffeff52299a4b8204be0609bdfc8adeb7e3f78f4f85363c1167111d7dbf"
+    },
+    {
+      "word": "fugitive",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfjuːdʒətɪv/",
+        "us": "/ˈfjuːdʒətɪv/"
+      },
+      "meaning": "逃犯；亡命者",
+      "collocation": {
+        "en": "fugitive from justice",
+        "zh": "逃犯"
+      },
+      "example": {
+        "en": "Police finally captured the fugitive after a three-day search.",
+        "zh": "警方经过三天搜捕终于抓到了逃犯。"
+      },
+      "id": "v000018",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0e3985d6686bd8b5ee5e48fbbc82043b1cd25b75eae239217d22efcd918f972c"
+    },
+    {
+      "word": "fugitive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfjuːdʒətɪv/",
+        "us": "/ˈfjuːdʒətɪv/"
+      },
+      "meaning": "逃亡的；短暂的",
+      "collocation": {
+        "en": "fugitive slave",
+        "zh": "逃亡奴隶（历史用语）"
+      },
+      "example": {
+        "en": "The book tells the story of a fugitive man.",
+        "zh": "这本书讲述了一名逃亡者的经历。"
+      },
+      "id": "v000019",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "524515ef589aa32cfd958d222a6bb5fbecfeab7c571c16edbe9f7f803ea1b226"
+    },
+    {
+      "word": "ferment",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fəˈment/",
+        "us": "/fərˈment/"
+      },
+      "meaning": "发酵",
+      "collocation": {
+        "en": "ferment for several days",
+        "zh": "发酵数日"
+      },
+      "example": {
+        "en": "The grape juice needs to ferment for several days.",
+        "zh": "葡萄汁需要发酵数日。"
+      },
+      "id": "v000020",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "423f5387ba1a4554706db318cb6c1121ad46ef42f283493be2989cdfa6c09683"
+    },
+    {
+      "word": "ferment",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfɜːment/",
+        "us": "/ˈfɜːrment/"
+      },
+      "meaning": "动荡；骚动；激烈变化",
+      "collocation": {
+        "en": "political ferment",
+        "zh": "政治动荡/思想活跃"
+      },
+      "example": {
+        "en": "The country is in a period of political and social ferment.",
+        "zh": "这个国家正处于政治和社会思想剧烈变化的时期。"
+      },
+      "id": "v000021",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7c01f491e7be3a42d4a97c8f596b71e77be7970e3f5e7c5fad0c6f7aadd90978"
+    },
+    {
+      "word": "paparazzo",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌpæpəˈrætsəʊ/",
+        "us": "/ˌpɑːpəˈrɑːtsoʊ/"
+      },
+      "meaning": "狗仔摄影师（单数）",
+      "collocation": {
+        "en": "a celebrity paparazzo",
+        "zh": "拍摄名人的狗仔摄影师"
+      },
+      "example": {
+        "en": "The paparazzo waited outside the hotel for several hours.",
+        "zh": "那位狗仔摄影师在酒店外等了好几个小时。"
+      },
+      "id": "v000022",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "45777764dbee56db96c57dc696e3f9f8233f276c0e766907bd680413ea10a2b4"
+    },
+    {
+      "word": "jurisdiction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌdʒʊərɪsˈdɪkʃn/",
+        "us": "/ˌdʒʊrɪsˈdɪkʃn/"
+      },
+      "meaning": "司法权；管辖权",
+      "collocation": {
+        "en": "have jurisdiction over",
+        "zh": "对……有管辖权"
+      },
+      "example": {
+        "en": "The court does not have jurisdiction over this type of case.",
+        "zh": "该法院对这类案件没有管辖权。"
+      },
+      "id": "v000023",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0a4c0f6572cb9aab41fb9f9e7513a60f006b33ed7f203066c31437b88213dfc5"
+    },
+    {
+      "word": "jurisdiction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌdʒʊərɪsˈdɪkʃn/",
+        "us": "/ˌdʒʊrɪsˈdɪkʃn/"
+      },
+      "meaning": "管辖区域；权限范围",
+      "collocation": {
+        "en": "within the jurisdiction of",
+        "zh": "在……的管辖范围内"
+      },
+      "example": {
+        "en": "This issue falls within the jurisdiction of the local government.",
+        "zh": "这个问题属于地方政府的权限范围。"
+      },
+      "id": "v000024",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c259c2836553dabfd35feb1342f05e1aea41bb360cfa200c8fcfd75efc5382d1"
+    },
+    {
+      "word": "morbid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmɔːbɪd/",
+        "us": "/ˈmɔːrbɪd/"
+      },
+      "meaning": "病态的；对死亡等有不健康兴趣的",
+      "collocation": {
+        "en": "morbid curiosity",
+        "zh": "病态的好奇心"
+      },
+      "example": {
+        "en": "He has a morbid curiosity about crime scenes.",
+        "zh": "他对犯罪现场有一种病态的好奇心。"
+      },
+      "id": "v000025",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e73202cb34ff44cae657ea311c193202568d29d036a206e2701c2d93f10d8ca"
+    },
+    {
+      "word": "morbid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmɔːbɪd/",
+        "us": "/ˈmɔːrbɪd/"
+      },
+      "meaning": "与疾病有关的；病理性的",
+      "collocation": {
+        "en": "morbid condition",
+        "zh": "病理状态"
+      },
+      "example": {
+        "en": "The doctor examined the morbid condition that might be causing the pain.",
+        "zh": "医生检查了可能导致疼痛的病理状态。"
+      },
+      "id": "v000026",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "955e6c7adbf7b906a4bcbd7853e4dca8bf006e5557548dd9d724a0254bb9bbdf"
+    },
+    {
+      "word": "moribund",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmɒrɪbʌnd/",
+        "us": "/ˈmɔːrɪbʌnd/"
+      },
+      "meaning": "垂死的；即将消亡的；停滞的",
+      "collocation": {
+        "en": "a moribund industry",
+        "zh": "濒临衰退的产业"
+      },
+      "example": {
+        "en": "New technology brought fresh life to the moribund industry.",
+        "zh": "新技术给这个濒临衰退的产业带来了生机。"
+      },
+      "id": "v000027",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f1dd592d5617000848e0917102ba03f6b4a737b71903ca718a3044b822800cc1"
+    },
+    {
+      "word": "hedonistic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌhedəˈnɪstɪk/",
+        "us": "/ˌhiːdəˈnɪstɪk/"
+      },
+      "meaning": "享乐主义的；追求享乐的",
+      "collocation": {
+        "en": "hedonistic lifestyle",
+        "zh": "享乐主义的生活方式"
+      },
+      "example": {
+        "en": "He lived a rather hedonistic lifestyle when he was young.",
+        "zh": "他年轻时过着相当享乐主义的生活。"
+      },
+      "id": "v000028",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f20e9c3cd04dcd6067bd1549dafbb401f19160509d0849ba85f8cc52b5e6721e"
+    },
+    {
+      "word": "insinuate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈsɪnjueɪt/",
+        "us": "/ɪnˈsɪnjueɪt/"
+      },
+      "meaning": "暗示；影射",
+      "collocation": {
+        "en": "insinuate that...",
+        "zh": "暗示……"
+      },
+      "example": {
+        "en": "She insinuated that the manager had been unfair during the hiring process.",
+        "zh": "她暗示经理在招聘过程中不公平。"
+      },
+      "id": "v000029",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "76b0e56c657f49e508ac8becc267ce035256c50b0bbf475dc131c5aee487f36b"
+    },
+    {
+      "word": "insinuate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈsɪnjueɪt/",
+        "us": "/ɪnˈsɪnjueɪt/"
+      },
+      "meaning": "逐渐使自己进入；设法讨好进入",
+      "collocation": {
+        "en": "insinuate oneself into",
+        "zh": "设法混入/讨好进入"
+      },
+      "example": {
+        "en": "He insinuated himself into the company's inner circle.",
+        "zh": "他设法混入了公司的核心圈子。"
+      },
+      "id": "v000030",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e335346e1e6f0a1b96130b6e5db98130cbf261f79e8a7ec7966c791fb79e033c"
+    },
+    {
+      "word": "segregate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈseɡrɪɡeɪt/",
+        "us": "/ˈseɡrɪɡeɪt/"
+      },
+      "meaning": "隔离；分开",
+      "collocation": {
+        "en": "segregate A from B",
+        "zh": "把A与B分开"
+      },
+      "example": {
+        "en": "The laboratory must segregate hazardous waste from ordinary trash.",
+        "zh": "实验室必须把危险废物与普通垃圾分开。"
+      },
+      "id": "v000031",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "11f5a21dc07213e13821b9d578db1818b0b7ca370cfed57740f8fd1d0132198e"
+    },
+    {
+      "word": "statutory",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈstætʃətəri/",
+        "us": "/ˈstætʃətɔːri/"
+      },
+      "meaning": "法定的；法律规定的",
+      "collocation": {
+        "en": "statutory requirement",
+        "zh": "法定要求"
+      },
+      "example": {
+        "en": "The company must comply with all statutory requirements.",
+        "zh": "公司必须遵守所有法定要求。"
+      },
+      "id": "v000032",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8af7633afe014ce7bee5224143a634da46e121cb96344795b28e16cdeb2cb39b"
+    },
+    {
+      "word": "stampede",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/stæmˈpiːd/",
+        "us": "/stæmˈpiːd/"
+      },
+      "meaning": "（人群或动物的）蜂拥、狂奔",
+      "collocation": {
+        "en": "a crowd stampede",
+        "zh": "人群踩踏/蜂拥"
+      },
+      "example": {
+        "en": "The panic at the entrance almost caused a crowd stampede.",
+        "zh": "入口处的恐慌差点引发人群踩踏。"
+      },
+      "id": "v000033",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "abb7089e047d00a23e6d33ae60e4c1852bd8bec66a7ea1d9d4374e41cc15c8bb"
+    },
+    {
+      "word": "stampede",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stæmˈpiːd/",
+        "us": "/stæmˈpiːd/"
+      },
+      "meaning": "使狂奔；蜂拥而去",
+      "collocation": {
+        "en": "stampede into/out of",
+        "zh": "蜂拥进入/冲出"
+      },
+      "example": {
+        "en": "After hearing the alarm, the crowd stampeded out of the hall.",
+        "zh": "听到警报后，人群蜂拥着冲出了大厅。"
+      },
+      "id": "v000034",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "624c78984f1674ef3deb3ae3298e39488872fd08f800aba1bed980156eba91d0"
+    },
+    {
+      "word": "truculent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtrʌkjələnt/",
+        "us": "/ˈtrʌkjələnt/"
+      },
+      "meaning": "好斗的；挑衅的；粗暴的",
+      "collocation": {
+        "en": "truculent attitude",
+        "zh": "挑衅的态度"
+      },
+      "example": {
+        "en": "He adopted a truculent attitude at the meeting.",
+        "zh": "他在会议上采取了挑衅的态度。"
+      },
+      "id": "v000035",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "95669e6d890bf98c5464b268776a4c454fab4f5efd972017eb843529ffdc1374"
+    },
+    {
+      "word": "spearhead",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈspɪəhed/",
+        "us": "/ˈspɪrhed/"
+      },
+      "meaning": "带头；领导；推动",
+      "collocation": {
+        "en": "spearhead a campaign",
+        "zh": "领导一场活动"
+      },
+      "example": {
+        "en": "She spearheaded the company's digital transformation project.",
+        "zh": "她负责领导公司的数字化转型项目。"
+      },
+      "id": "v000036",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1866ebd6ab1ad3530c36d4323e3b17275d08286f6c565d4da492d0bfec53d0eb"
+    },
+    {
+      "word": "spearhead",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈspɪəhed/",
+        "us": "/ˈspɪrhed/"
+      },
+      "meaning": "先锋；先头力量",
+      "collocation": {
+        "en": "the spearhead of",
+        "zh": "……的先锋"
+      },
+      "example": {
+        "en": "The team became the spearhead of innovation in the company.",
+        "zh": "这个团队成为公司创新的先锋。"
+      },
+      "id": "v000037",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "623e0e6cb646bc5ab5acdb423e3e0f8e0c03ee3eeb2679928aaf5b274446eefd"
+    },
+    {
+      "word": "throng",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/θrɒŋ/",
+        "us": "/θrɔːŋ/"
+      },
+      "meaning": "人群；一大群人",
+      "collocation": {
+        "en": "a throng of tourists",
+        "zh": "一大群游客"
+      },
+      "example": {
+        "en": "A throng of tourists gathered in front of the station.",
+        "zh": "一大群游客聚集在车站前。"
+      },
+      "id": "v000038",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "feb2bdc6f9561f24333158fea3d63c1615d28057fbe6be0a102d9b95e5905824"
+    },
+    {
+      "word": "throng",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/θrɒŋ/",
+        "us": "/θrɔːŋ/"
+      },
+      "meaning": "蜂拥；挤满",
+      "collocation": {
+        "en": "be thronged with",
+        "zh": "挤满……"
+      },
+      "example": {
+        "en": "The streets were thronged with people celebrating the victory.",
+        "zh": "街道上挤满了庆祝胜利的人。"
+      },
+      "id": "v000039",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7ac5b07b5dc25e10dfc824915b17d36747f5693e5df814feb46bf10870c6364f"
+    },
+    {
+      "word": "tarnish",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈtɑːnɪʃ/",
+        "us": "/ˈtɑːrnɪʃ/"
+      },
+      "meaning": "使失去光泽；使蒙上污点",
+      "collocation": {
+        "en": "tarnish a reputation",
+        "zh": "损害名誉"
+      },
+      "example": {
+        "en": "The scandal seriously tarnished the company's reputation.",
+        "zh": "这起丑闻严重损害了公司的声誉。"
+      },
+      "id": "v000040",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2d8dc90f6172410e6a4cec01057ab0d42a9228e464a3d5707f68a596d978d57c"
+    },
+    {
+      "word": "tarnish",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtɑːnɪʃ/",
+        "us": "/ˈtɑːrnɪʃ/"
+      },
+      "meaning": "锈蚀；失去光泽；污点",
+      "collocation": {
+        "en": "remove tarnish",
+        "zh": "去除锈斑/暗锈"
+      },
+      "example": {
+        "en": "She used a soft cloth to remove the tarnish from the silverware.",
+        "zh": "她用软布擦掉银器上的暗锈。"
+      },
+      "id": "v000041",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f4b64591559863e532bdcbfef87fe297f1154ee9285f839b68d8744830af50c9"
+    },
+    {
+      "word": "plague",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pleɪɡ/",
+        "us": "/pleɪɡ/"
+      },
+      "meaning": "瘟疫；严重灾害",
+      "collocation": {
+        "en": "the plague",
+        "zh": "鼠疫/大瘟疫"
+      },
+      "example": {
+        "en": "The city's history was deeply affected by the plague.",
+        "zh": "这座城市的历史曾深受瘟疫影响。"
+      },
+      "id": "v000042",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9fb98406f189dcc36df9a49cf8743bf314b0c0d5045e1c8e6df80540852de2cc"
+    },
+    {
+      "word": "plague",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/pleɪɡ/",
+        "us": "/pleɪɡ/"
+      },
+      "meaning": "困扰；折磨",
+      "collocation": {
+        "en": "be plagued by/with",
+        "zh": "受……困扰"
+      },
+      "example": {
+        "en": "The project has been plagued by technical failures.",
+        "zh": "这个项目一直受到技术故障的困扰。"
+      },
+      "id": "v000043",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1bae58996091c85dd05dc2648ed2b83c947f8474c8ae583d8a89f228898a6299"
+    },
+    {
+      "word": "sociologist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌsəʊsiˈɒlədʒɪst/",
+        "us": "/ˌsoʊsiˈɑːlədʒɪst/"
+      },
+      "meaning": "社会学家",
+      "collocation": {
+        "en": "a leading sociologist",
+        "zh": "著名社会学家"
+      },
+      "example": {
+        "en": "A leading sociologist studied the effects of remote work on families.",
+        "zh": "一位著名社会学家研究了远程办公对家庭的影响。"
+      },
+      "id": "v000044",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "037ba4ae93f9432817ac23a9055dacec024e52d0b17cf0ab9afbe949b0535bcc"
+    },
+    {
+      "word": "psychiatrist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/saɪˈkaɪətrɪst/",
+        "us": "/saɪˈkaɪətrɪst/"
+      },
+      "meaning": "精神科医生",
+      "collocation": {
+        "en": "consult a psychiatrist",
+        "zh": "咨询精神科医生"
+      },
+      "example": {
+        "en": "The hospital advised the patient to consult a psychiatrist.",
+        "zh": "医院建议患者咨询精神科医生。"
+      },
+      "id": "v000045",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "38c059e15bd963206e24dc60164eb8729ad1631c8d9426140cd7af71fc6712b2"
+    },
+    {
+      "word": "obfuscate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈɒbfʌskeɪt/",
+        "us": "/ˈɑːbfʌskeɪt/"
+      },
+      "meaning": "使模糊；使晦涩；故意混淆",
+      "collocation": {
+        "en": "obfuscate the issue",
+        "zh": "把问题复杂化/混淆问题"
+      },
+      "example": {
+        "en": "The lengthy explanation only served to obfuscate the main issue.",
+        "zh": "冗长的解释反而把核心问题弄得更模糊。"
+      },
+      "id": "v000046",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3afb6d10713e3c1b843da00147fc152752095bdc04ee2dfee45e5b374a24c47b"
+    },
+    {
+      "word": "vindicate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈvɪndɪkeɪt/",
+        "us": "/ˈvɪndɪkeɪt/"
+      },
+      "meaning": "证明……正确；为……洗清嫌疑",
+      "collocation": {
+        "en": "be vindicated by",
+        "zh": "被……证明正确"
+      },
+      "example": {
+        "en": "Later data vindicated his judgment.",
+        "zh": "后来的数据证明了他的判断是正确的。"
+      },
+      "id": "v000047",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c8864010c2fe713bfafca37f8f8d642d7f5e879da5296a9cd2e5ebf97030910e"
+    },
+    {
+      "word": "vindicate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈvɪndɪkeɪt/",
+        "us": "/ˈvɪndɪkeɪt/"
+      },
+      "meaning": "维护；捍卫（权利等）",
+      "collocation": {
+        "en": "vindicate one's rights",
+        "zh": "维护某人的权利"
+      },
+      "example": {
+        "en": "They went to court to vindicate their rights.",
+        "zh": "他们通过法律途径维护自己的权利。"
+      },
+      "id": "v000048",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dd35be25e55e719c2ab00c4430a16ef76fd7d03ded0e59ca6547823bc0dc1d8e"
+    },
+    {
+      "word": "repent",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈpent/",
+        "us": "/rɪˈpent/"
+      },
+      "meaning": "后悔；悔过",
+      "collocation": {
+        "en": "repent of",
+        "zh": "为……悔过"
+      },
+      "example": {
+        "en": "He later repented of his rude behavior.",
+        "zh": "他后来为自己的粗鲁行为深感后悔。"
+      },
+      "id": "v000049",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9cab4ae23a1722108375f39052055bf4b3f1790abbb2ac2f4ebd05b5b5930334"
+    },
+    {
+      "word": "reconciliation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌrekənsɪliˈeɪʃn/",
+        "us": "/ˌrekənsɪliˈeɪʃn/"
+      },
+      "meaning": "和解；和好",
+      "collocation": {
+        "en": "reconciliation between A and B",
+        "zh": "A与B之间的和解"
+      },
+      "example": {
+        "en": "The two sides finally achieved reconciliation after years of conflict.",
+        "zh": "双方经过多年冲突后终于实现了和解。"
+      },
+      "id": "v000050",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "857fd27f891d4843253837f7c3e5b36218b953bda805f2b71df4464c3987bcd2"
+    }
+  ]
+}

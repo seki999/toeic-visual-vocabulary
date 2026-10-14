@@ -1,0 +1,1107 @@
+{
+  "id": "list07",
+  "title": "List 07",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "palatable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈpælətəbl/",
+        "us": "/ˈpælətəbl/"
+      },
+      "meaning": "可口的；令人接受的",
+      "collocation": {
+        "en": "make something more palatable",
+        "zh": "使……更可接受/更可口"
+      },
+      "example": {
+        "en": "A little seasoning made the dish more palatable.",
+        "zh": "一点香料让这道菜更可口。"
+      },
+      "id": "v000301",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "233dd4478bef5c8bfda8069571c092ad0c4542034b0fa28dfbf1c26e9ef9186c"
+    },
+    {
+      "word": "ravenous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈrævənəs/",
+        "us": "/ˈrævənəs/"
+      },
+      "meaning": "极饿的；贪婪的",
+      "collocation": {
+        "en": "ravenously hungry",
+        "zh": "饿极了"
+      },
+      "example": {
+        "en": "After hiking all day, we were ravenously hungry.",
+        "zh": "徒步一整天后，我们都饿极了。"
+      },
+      "id": "v000302",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ea0b8dd92d8378d5f43e2527be8bd9597faf8d73af9fa88bd9d7280d86106ce7"
+    },
+    {
+      "word": "buffet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbʊfeɪ/",
+        "us": "/bəˈfeɪ/"
+      },
+      "meaning": "自助餐",
+      "collocation": {
+        "en": "breakfast buffet",
+        "zh": "自助早餐"
+      },
+      "example": {
+        "en": "The hotel serves a breakfast buffet every morning.",
+        "zh": "酒店每天早晨提供自助早餐。"
+      },
+      "id": "v000303",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8328027ccafe95f1af4d016210814f04c665d480ce78d0212a44a72a5bbaa8b4"
+    },
+    {
+      "word": "cuisine",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kwɪˈziːn/",
+        "us": "/kwɪˈziːn/"
+      },
+      "meaning": "烹饪；菜系",
+      "collocation": {
+        "en": "Japanese cuisine",
+        "zh": "日本料理"
+      },
+      "example": {
+        "en": "Japanese cuisine is known for its fresh ingredients.",
+        "zh": "日本料理以新鲜食材著称。"
+      },
+      "id": "v000304",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e3ba3b0649ea812b4e7421d3423dc4af7e7eec7f2d76b708c45b86516d8073ba"
+    },
+    {
+      "word": "entree",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɒntreɪ/",
+        "us": "/ˈɑːntreɪ/"
+      },
+      "meaning": "主菜（美式）；前菜（部分英式用法）",
+      "collocation": {
+        "en": "main entree",
+        "zh": "主菜"
+      },
+      "example": {
+        "en": "I ordered grilled fish as my main entree.",
+        "zh": "我点了烤鱼作为主菜。"
+      },
+      "id": "v000305",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "197458994690e29977d04204be81618f0348b6620d09bcbbc1d776f01cc5a587"
+    },
+    {
+      "word": "napkin",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈnæpkɪn/",
+        "us": "/ˈnæpkɪn/"
+      },
+      "meaning": "餐巾；餐巾纸",
+      "collocation": {
+        "en": "paper napkin",
+        "zh": "纸餐巾"
+      },
+      "example": {
+        "en": "The waiter placed clean napkins on the table.",
+        "zh": "服务员在桌上放了干净的餐巾。"
+      },
+      "id": "v000306",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4b015714439021da5254560eb28bcb41dc81613f8f384dccbfd870fd05e9f7b3"
+    },
+    {
+      "word": "preservative",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prɪˈzɜːvətɪv/",
+        "us": "/prɪˈzɜːrvətɪv/"
+      },
+      "meaning": "防腐剂",
+      "collocation": {
+        "en": "artificial preservative",
+        "zh": "人工防腐剂"
+      },
+      "example": {
+        "en": "This food contains no artificial preservatives.",
+        "zh": "这种食品不含人工防腐剂。"
+      },
+      "id": "v000307",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "543f813c199bccafa70a408bb7b3540881c478533aa1a8fb480f4a78a5cc6239"
+    },
+    {
+      "word": "recipe",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈresəpi/",
+        "us": "/ˈresəpi/"
+      },
+      "meaning": "食谱；配方",
+      "collocation": {
+        "en": "follow a recipe",
+        "zh": "按照食谱"
+      },
+      "example": {
+        "en": "She followed the recipe carefully to make the dish.",
+        "zh": "她严格按照食谱做了这道菜。"
+      },
+      "id": "v000308",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "09dcbe75a46fa2c608ef0f5d4e78bddfbda925e85063cd0ccb94a7b5d37f78df"
+    },
+    {
+      "word": "edible",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈedəbl/",
+        "us": "/ˈedəbl/"
+      },
+      "meaning": "可食用的",
+      "collocation": {
+        "en": "edible mushroom",
+        "zh": "可食用蘑菇"
+      },
+      "example": {
+        "en": "Not all wild mushrooms are edible.",
+        "zh": "并非所有野生蘑菇都可以食用。"
+      },
+      "id": "v000309",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cfae4936cbba1a9a21a0b288e7bf01e581baeb4f55aeb9470b6d31ed77265053"
+    },
+    {
+      "word": "dilute",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/daɪˈluːt/",
+        "us": "/daɪˈluːt/"
+      },
+      "meaning": "稀释；冲淡",
+      "collocation": {
+        "en": "dilute with water",
+        "zh": "用水稀释"
+      },
+      "example": {
+        "en": "Dilute the cleaner with water before use.",
+        "zh": "使用前请用水稀释清洁剂。"
+      },
+      "id": "v000310",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7800d71b53ad49d1b281bedd91e2129f8341457a026ecff8713ee7b1a950a334"
+    },
+    {
+      "word": "dilute",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/daɪˈluːt/",
+        "us": "/daɪˈluːt/"
+      },
+      "meaning": "稀释的；淡的",
+      "collocation": {
+        "en": "dilute solution",
+        "zh": "稀溶液"
+      },
+      "example": {
+        "en": "The experiment requires a dilute solution.",
+        "zh": "实验需要使用稀释溶液。"
+      },
+      "id": "v000311",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "249f42cb18445be9a2f15675ab365992d808a3a4fc23eef717cd25101a69169e"
+    },
+    {
+      "word": "piquant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈpiːkənt/",
+        "us": "/ˈpiːkənt/"
+      },
+      "meaning": "辛辣开胃的；有趣刺激的",
+      "collocation": {
+        "en": "piquant flavor",
+        "zh": "辛香味"
+      },
+      "example": {
+        "en": "The sauce has a pleasantly piquant flavor.",
+        "zh": "这种酱汁有一种令人开胃的辛香味。"
+      },
+      "id": "v000312",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1bf4acca5371aab7fb5fd89e3ff80ad49b1e4fd2a519e93510e16f28c2cfd7a3"
+    },
+    {
+      "word": "obnoxious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əbˈnɒkʃəs/",
+        "us": "/əbˈnɑːkʃəs/"
+      },
+      "meaning": "令人讨厌的；极无礼的",
+      "collocation": {
+        "en": "obnoxious behavior",
+        "zh": "令人厌恶的行为"
+      },
+      "example": {
+        "en": "His obnoxious behavior made everyone uncomfortable.",
+        "zh": "他的无礼行为让大家都很不舒服。"
+      },
+      "id": "v000313",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "12cb3414e671453374ea925c7c59de5e4be1b7054be82d4788c9aabb7709a4ef"
+    },
+    {
+      "word": "deteriorate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈtɪəriəreɪt/",
+        "us": "/dɪˈtɪriəreɪt/"
+      },
+      "meaning": "恶化；变坏",
+      "collocation": {
+        "en": "deteriorate rapidly",
+        "zh": "迅速恶化"
+      },
+      "example": {
+        "en": "Weather conditions deteriorated rapidly in the afternoon.",
+        "zh": "天气状况在下午迅速恶化。"
+      },
+      "id": "v000314",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "87fe6277da4bc2993e574fe62b4421c9a2bfc0dd67cc9147fd56731092b48da7"
+    },
+    {
+      "word": "prospectus",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈspektəs/",
+        "us": "/prəˈspektəs/"
+      },
+      "meaning": "说明书；招生简章；募股说明书",
+      "collocation": {
+        "en": "company prospectus",
+        "zh": "公司招股说明书"
+      },
+      "example": {
+        "en": "The investor read the company prospectus before buying shares.",
+        "zh": "投资者在购买股票前阅读了招股说明书。"
+      },
+      "id": "v000315",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3b0a671e9e58b2aaf34f329c81ef8b98b5bbdc1993e3816d82da459380b4fd59"
+    },
+    {
+      "word": "dietitian",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌdaɪəˈtɪʃn/",
+        "us": "/ˌdaɪəˈtɪʃn/"
+      },
+      "meaning": "营养师；饮食专家",
+      "collocation": {
+        "en": "registered dietitian",
+        "zh": "注册营养师"
+      },
+      "example": {
+        "en": "The dietitian created a new meal plan for him.",
+        "zh": "营养师为他制定了新的饮食计划。"
+      },
+      "id": "v000316",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4ca9c320a17237277627a5db9c3005b9a88bf25852380f4f5a153f21c08d4048"
+    },
+    {
+      "word": "whisk",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/wɪsk/",
+        "us": "/wɪsk/"
+      },
+      "meaning": "搅打；快速带走",
+      "collocation": {
+        "en": "whisk the eggs",
+        "zh": "搅打鸡蛋"
+      },
+      "example": {
+        "en": "Whisk the eggs until they are light and foamy.",
+        "zh": "把鸡蛋搅打到均匀起泡。"
+      },
+      "id": "v000317",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d2f7fb3bf1f46aeccd972fef3e7557b9c81cfe1b3a7425d9ea752aedd3f7bd1e"
+    },
+    {
+      "word": "whisk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/wɪsk/",
+        "us": "/wɪsk/"
+      },
+      "meaning": "打蛋器",
+      "collocation": {
+        "en": "wire whisk",
+        "zh": "金属打蛋器"
+      },
+      "example": {
+        "en": "She mixed the cream with a wire whisk.",
+        "zh": "她用打蛋器搅拌奶油。"
+      },
+      "id": "v000318",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b4ff6144463eb0cd825054325376b8ae22a8a5bb90cde3e6a9162a8efd0bbd8d"
+    },
+    {
+      "word": "cordial",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkɔːdiəl/",
+        "us": "/ˈkɔːrdʒəl/"
+      },
+      "meaning": "热情友好的",
+      "collocation": {
+        "en": "cordial relations",
+        "zh": "友好关系"
+      },
+      "example": {
+        "en": "The two companies have maintained cordial relations.",
+        "zh": "两家公司一直保持着友好关系。"
+      },
+      "id": "v000319",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ce8bc7a08e5d0013c584bc8123aef6803613e12d8711e8641a080439fd158ab6"
+    },
+    {
+      "word": "cordial",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɔːdiəl/",
+        "us": "/ˈkɔːrdʒəl/"
+      },
+      "meaning": "甜味饮料；果味浓缩饮料（英）",
+      "collocation": {
+        "en": "fruit cordial",
+        "zh": "果味浓缩饮料"
+      },
+      "example": {
+        "en": "The children drank fruit cordial diluted with water.",
+        "zh": "孩子们喝了加水稀释的果味饮料。"
+      },
+      "id": "v000320",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "336b1bfd7641e3eabfcbffb9d12992cad9f2d993933daf741c7b591484e64c68"
+    },
+    {
+      "word": "insanitary",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈsænətri/",
+        "us": "/ɪnˈsænəteri/"
+      },
+      "meaning": "不卫生的",
+      "collocation": {
+        "en": "insanitary conditions",
+        "zh": "不卫生的环境"
+      },
+      "example": {
+        "en": "Inspectors found insanitary conditions in the kitchen.",
+        "zh": "检查人员发现厨房的卫生条件很差。"
+      },
+      "id": "v000321",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3bc85d61dd61bbe6db49396eb6526ac7580ff2beb1db842ff8e9ae602cb61e23"
+    },
+    {
+      "word": "invincible",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈvɪnsəbl/",
+        "us": "/ɪnˈvɪnsəbl/"
+      },
+      "meaning": "不可战胜的；无敌的",
+      "collocation": {
+        "en": "seem invincible",
+        "zh": "看似不可战胜"
+      },
+      "example": {
+        "en": "The team has seemed almost invincible this season.",
+        "zh": "那支球队本赛季看起来几乎不可战胜。"
+      },
+      "id": "v000322",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8e3aca036d498228e725be8e4e8fd5e4e3f055c41b10088c8693441b123a18bc"
+    },
+    {
+      "word": "disinfect",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌdɪsɪnˈfekt/",
+        "us": "/ˌdɪsɪnˈfekt/"
+      },
+      "meaning": "消毒",
+      "collocation": {
+        "en": "disinfect a surface",
+        "zh": "给表面消毒"
+      },
+      "example": {
+        "en": "Please disinfect the work surface regularly.",
+        "zh": "请定期给工作台表面消毒。"
+      },
+      "id": "v000323",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7fe528d522c1cd22e4ec44e815a9f4179d8977c1f6a503d947a68fd320e48e1b"
+    },
+    {
+      "word": "cater",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkeɪtə(r)/",
+        "us": "/ˈkeɪtər/"
+      },
+      "meaning": "提供餐饮服务",
+      "collocation": {
+        "en": "cater for an event",
+        "zh": "为活动提供餐饮"
+      },
+      "example": {
+        "en": "The restaurant can cater for large events.",
+        "zh": "这家餐厅可以为大型活动提供餐饮。"
+      },
+      "id": "v000324",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "be355ab4ae77ed0f6af6bb8902725aef3dc64abb05f0213bb5e9af2861c6de88"
+    },
+    {
+      "word": "cater",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkeɪtə(r)/",
+        "us": "/ˈkeɪtər/"
+      },
+      "meaning": "满足需要；迎合",
+      "collocation": {
+        "en": "cater to",
+        "zh": "迎合；满足……需要"
+      },
+      "example": {
+        "en": "The software mainly caters to the needs of professional developers.",
+        "zh": "这款软件主要面向专业开发人员的需要。"
+      },
+      "id": "v000325",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f38501f30b05231d3aa9c9824414e6c3acfede7a2a0029b831dd36e897d77c97"
+    },
+    {
+      "word": "pacify",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpæsɪfaɪ/",
+        "us": "/ˈpæsɪfaɪ/"
+      },
+      "meaning": "安抚；平息",
+      "collocation": {
+        "en": "pacify an angry customer",
+        "zh": "安抚生气的顾客"
+      },
+      "example": {
+        "en": "The manager managed to pacify the angry customer.",
+        "zh": "经理设法安抚了生气的顾客。"
+      },
+      "id": "v000326",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "73252d3fb7dc838fbcc0fffc43f1968553eecae5ddfca0617d142a7cb3670fc0"
+    },
+    {
+      "word": "mourn",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/mɔːn/",
+        "us": "/mɔːrn/"
+      },
+      "meaning": "哀悼；为……悲伤",
+      "collocation": {
+        "en": "mourn the loss of",
+        "zh": "哀悼……的离世/失去"
+      },
+      "example": {
+        "en": "People across the country mourned the loss of the famous writer.",
+        "zh": "全国人民悼念这位著名作家的去世。"
+      },
+      "id": "v000327",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e180b7a0e51fd71b493b14f1b6d5553a80ae5618eebad3e3564e4555b4ffbc9e"
+    },
+    {
+      "word": "renaissance",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rɪˈneɪsns/",
+        "us": "/ˈrenəsɑːns/"
+      },
+      "meaning": "复兴；文艺复兴",
+      "collocation": {
+        "en": "cultural renaissance",
+        "zh": "文化复兴"
+      },
+      "example": {
+        "en": "The region is experiencing a cultural renaissance in traditional arts.",
+        "zh": "这个地区正在经历传统艺术的文化复兴。"
+      },
+      "id": "v000328",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5e8fc163bd040c035dc546dccf81ae792d89ca7610197a8df347fd92f98644c6"
+    },
+    {
+      "word": "splendid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈsplendɪd/",
+        "us": "/ˈsplendɪd/"
+      },
+      "meaning": "极好的；壮丽的",
+      "collocation": {
+        "en": "splendid view",
+        "zh": "壮丽的景色"
+      },
+      "example": {
+        "en": "There is a splendid view from the top of the mountain.",
+        "zh": "从山顶可以看到壮丽的景色。"
+      },
+      "id": "v000329",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b43336543e9416862a7e151fecf7cf9ffe038753e5921fe7acf91bfdfe96b6c0"
+    },
+    {
+      "word": "attire",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈtaɪə(r)/",
+        "us": "/əˈtaɪər/"
+      },
+      "meaning": "服装；衣着",
+      "collocation": {
+        "en": "formal attire",
+        "zh": "正式服装"
+      },
+      "example": {
+        "en": "Formal attire is required for the dinner.",
+        "zh": "晚宴要求穿正式服装。"
+      },
+      "id": "v000330",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c074da445ed20d289a18c4528ebcdc35b29da2da22df61b663f6237ecef515fd"
+    },
+    {
+      "word": "neon",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈniːɒn/",
+        "us": "/ˈniːɑːn/"
+      },
+      "meaning": "氖；霓虹灯",
+      "collocation": {
+        "en": "neon sign",
+        "zh": "霓虹灯招牌"
+      },
+      "example": {
+        "en": "The street was filled with bright neon signs.",
+        "zh": "街上到处都是明亮的霓虹灯招牌。"
+      },
+      "id": "v000331",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f62ded854ca27bbe0fe2088d26b43096351ac1c2384da6b57bf3651c0eccf643"
+    },
+    {
+      "word": "trendy",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtrendi/",
+        "us": "/ˈtrendi/"
+      },
+      "meaning": "时髦的；流行的",
+      "collocation": {
+        "en": "trendy restaurant",
+        "zh": "时尚餐厅"
+      },
+      "example": {
+        "en": "The trendy restaurant is popular with young people.",
+        "zh": "这家时尚餐厅在年轻人中很受欢迎。"
+      },
+      "id": "v000332",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7e609c4c7b47111071eda40f2ca79d659469a02092eeadcef46fc95742b115b5"
+    },
+    {
+      "word": "volunteer",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌvɒlənˈtɪə(r)/",
+        "us": "/ˌvɑːlənˈtɪr/"
+      },
+      "meaning": "志愿者",
+      "collocation": {
+        "en": "volunteer worker",
+        "zh": "志愿工作者"
+      },
+      "example": {
+        "en": "Many volunteers took part in the community cleanup.",
+        "zh": "许多志愿者参加了社区清扫活动。"
+      },
+      "id": "v000333",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2f92a6fe478c6f54e17b11ee7fa2501266e018fa66a9613c9d5b0f5fab0c5bb1"
+    },
+    {
+      "word": "volunteer",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌvɒlənˈtɪə(r)/",
+        "us": "/ˌvɑːlənˈtɪr/"
+      },
+      "meaning": "自愿做；主动提出",
+      "collocation": {
+        "en": "volunteer to do",
+        "zh": "自愿做……"
+      },
+      "example": {
+        "en": "She volunteered to help organize the event.",
+        "zh": "她自愿帮助组织这次活动。"
+      },
+      "id": "v000334",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e1602fe20e7173861e7b533d06c03c6735dc6170ac420c6c8e1b4e3fd4b8660"
+    },
+    {
+      "word": "courier",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkʊriə(r)/",
+        "us": "/ˈkʊriər/"
+      },
+      "meaning": "快递员；信使",
+      "collocation": {
+        "en": "courier service",
+        "zh": "快递服务"
+      },
+      "example": {
+        "en": "We sent the documents by courier service.",
+        "zh": "我们通过快递服务寄出了文件。"
+      },
+      "id": "v000335",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c3e4a14270d7b5a07099c8ee689894575e1a347765382c6f5b13931d3aa10467"
+    },
+    {
+      "word": "wreak",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/riːk/",
+        "us": "/riːk/"
+      },
+      "meaning": "造成；施加（破坏、损害等）",
+      "collocation": {
+        "en": "wreak havoc on",
+        "zh": "对……造成严重破坏"
+      },
+      "example": {
+        "en": "The storm wreaked havoc on the coastal area.",
+        "zh": "暴风雨给沿海地区造成了严重破坏。"
+      },
+      "id": "v000336",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bb057e982bba9b315cd7d0ad3673ac69e1afb370fd6abf5356c729da85de2cd2"
+    },
+    {
+      "word": "embark",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪmˈbɑːk/",
+        "us": "/ɪmˈbɑːrk/"
+      },
+      "meaning": "开始；着手",
+      "collocation": {
+        "en": "embark on",
+        "zh": "开始从事……"
+      },
+      "example": {
+        "en": "The company is preparing to embark on a new digital transformation program.",
+        "zh": "公司准备启动一项新的数字化转型计划。"
+      },
+      "id": "v000337",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d296b5cec2a800b5b77c5bb5739026fd1a52356cef2afd220102f7093b7acaf1"
+    },
+    {
+      "word": "embark",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪmˈbɑːk/",
+        "us": "/ɪmˈbɑːrk/"
+      },
+      "meaning": "上船；登机",
+      "collocation": {
+        "en": "embark on a ship",
+        "zh": "登船"
+      },
+      "example": {
+        "en": "The passengers began to embark on the ship at three o'clock.",
+        "zh": "乘客们下午三点开始登船。"
+      },
+      "id": "v000338",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "958cb855151722624e7005a8a068fda7dfc1cd30095947b0fea725872f1eb630"
+    },
+    {
+      "word": "verdict",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvɜːdɪkt/",
+        "us": "/ˈvɜːrdɪkt/"
+      },
+      "meaning": "裁决；判决；结论",
+      "collocation": {
+        "en": "reach a verdict",
+        "zh": "作出裁决"
+      },
+      "example": {
+        "en": "The jury reached a verdict after several hours of discussion.",
+        "zh": "陪审团经过数小时讨论后作出了裁决。"
+      },
+      "id": "v000339",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9735421a7e39f61af47cfa3be1f4a3c8d0cfe04b850221ebfbe6bf2e45f4e7fe"
+    },
+    {
+      "word": "zenith",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈzenɪθ/",
+        "us": "/ˈziːnɪθ/"
+      },
+      "meaning": "顶峰；最高点",
+      "collocation": {
+        "en": "reach its zenith",
+        "zh": "达到顶峰"
+      },
+      "example": {
+        "en": "The singer's career reached its zenith in her twenties.",
+        "zh": "这位歌手的事业在二十多岁时达到顶峰。"
+      },
+      "id": "v000340",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b1015b3a65f5c5078531bb2058247ba338caef8baa05bfa32e9a13de0625c27c"
+    },
+    {
+      "word": "vacillate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈvæsəleɪt/",
+        "us": "/ˈvæsəleɪt/"
+      },
+      "meaning": "犹豫不决；摇摆不定",
+      "collocation": {
+        "en": "vacillate between A and B",
+        "zh": "在A和B之间犹豫"
+      },
+      "example": {
+        "en": "He kept vacillating between the two job offers.",
+        "zh": "他一直在两份工作之间犹豫不决。"
+      },
+      "id": "v000341",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a096ea649398924ead5960951cc2947493e189d42f9622831e3a2968815b40d2"
+    },
+    {
+      "word": "apparel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈpærəl/",
+        "us": "/əˈpærəl/"
+      },
+      "meaning": "服装；衣着",
+      "collocation": {
+        "en": "sports apparel",
+        "zh": "运动服装"
+      },
+      "example": {
+        "en": "The company mainly sells sports apparel.",
+        "zh": "这家公司主要销售运动服装。"
+      },
+      "id": "v000342",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "164efe0fe153c52e1bb24b910e5aab37953d009276ca0f0ebbbc3f0276e60712"
+    },
+    {
+      "word": "vend",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/vend/",
+        "us": "/vend/"
+      },
+      "meaning": "出售；贩卖",
+      "collocation": {
+        "en": "vend goods",
+        "zh": "出售商品"
+      },
+      "example": {
+        "en": "The machine can vend drinks and snacks automatically.",
+        "zh": "机器可以自动出售饮料和零食。"
+      },
+      "id": "v000343",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a5509ba8f932acbf4bab0f1a3e547b0a5bcbecdddbbb297aea78ed569da72332"
+    },
+    {
+      "word": "suite",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/swiːt/",
+        "us": "/swiːt/"
+      },
+      "meaning": "套房",
+      "collocation": {
+        "en": "hotel suite",
+        "zh": "酒店套房"
+      },
+      "example": {
+        "en": "They booked a hotel suite with an ocean view.",
+        "zh": "他们预订了一间可以看到海景的酒店套房。"
+      },
+      "id": "v000344",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "00bb5854e063b6d34318337c85eae8abde39e8e9190c210c12df0ae4daa3b942"
+    },
+    {
+      "word": "suite",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/swiːt/",
+        "us": "/swiːt/"
+      },
+      "meaning": "一套软件；成套工具",
+      "collocation": {
+        "en": "software suite",
+        "zh": "软件套件"
+      },
+      "example": {
+        "en": "The software suite includes word-processing and spreadsheet tools.",
+        "zh": "这套软件包含文字处理和电子表格工具。"
+      },
+      "id": "v000345",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e820367a0a15c4672be5f2613ee3b7aa469b02fa768f0a630745f258a0df7776"
+    },
+    {
+      "word": "suite",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/swiːt/",
+        "us": "/swiːt/"
+      },
+      "meaning": "组曲",
+      "collocation": {
+        "en": "orchestral suite",
+        "zh": "管弦乐组曲"
+      },
+      "example": {
+        "en": "The orchestra performed a famous orchestral suite.",
+        "zh": "乐团演奏了一首著名的管弦乐组曲。"
+      },
+      "id": "v000346",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9b2e32c9d24a308d8f807d0fe314eeda79d08f4e436647aa0cf0a0c0be22abc0"
+    },
+    {
+      "word": "hike",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/haɪk/",
+        "us": "/haɪk/"
+      },
+      "meaning": "徒步旅行",
+      "collocation": {
+        "en": "go for a hike",
+        "zh": "去徒步旅行"
+      },
+      "example": {
+        "en": "We went for a hike in the mountains at the weekend.",
+        "zh": "周末我们去山里徒步了。"
+      },
+      "id": "v000347",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "26fad8eb9267a7d0406cc27485af4b3f15e8a48676f6f1364913ee7f9a0c106a"
+    },
+    {
+      "word": "hike",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/haɪk/",
+        "us": "/haɪk/"
+      },
+      "meaning": "大幅上涨",
+      "collocation": {
+        "en": "price hike",
+        "zh": "价格上涨"
+      },
+      "example": {
+        "en": "The sharp price hike in energy increased business costs.",
+        "zh": "能源价格的大幅上涨增加了企业成本。"
+      },
+      "id": "v000348",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4174fca91ebc0e89c43811a781acb9bc650b3d7dea2d81b42e9a81f554660095"
+    },
+    {
+      "word": "hike",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/haɪk/",
+        "us": "/haɪk/"
+      },
+      "meaning": "徒步旅行；大幅提高",
+      "collocation": {
+        "en": "hike prices",
+        "zh": "大幅提价"
+      },
+      "example": {
+        "en": "The company decided to hike its service prices from next month.",
+        "zh": "公司决定从下个月开始提高服务价格。"
+      },
+      "id": "v000349",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "eeba55078e87430b2c6f9c748983702fcab921283d06601768b13ea8c07f940b"
+    },
+    {
+      "word": "scapegoat",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈskeɪpɡəʊt/",
+        "us": "/ˈskeɪpɡoʊt/"
+      },
+      "meaning": "替罪羊",
+      "collocation": {
+        "en": "make someone a scapegoat",
+        "zh": "把某人当作替罪羊"
+      },
+      "example": {
+        "en": "He did not want to become the scapegoat for the project's failure.",
+        "zh": "他不想成为项目失败的替罪羊。"
+      },
+      "id": "v000350",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1acae1b9d3476cbeef191ab0eb33286bf040b96f1ecd5395adf8ab2f5854b759"
+    }
+  ]
+}

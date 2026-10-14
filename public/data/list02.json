@@ -1,0 +1,1107 @@
+{
+  "id": "list02",
+  "title": "List 02",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "reconciliation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌrekənsɪliˈeɪʃn/",
+        "us": "/ˌrekənsɪliˈeɪʃn/"
+      },
+      "meaning": "调和；使一致；对账",
+      "collocation": {
+        "en": "bank reconciliation",
+        "zh": "银行对账"
+      },
+      "example": {
+        "en": "The accountant completes a bank reconciliation every month.",
+        "zh": "会计每个月都要完成银行对账。"
+      },
+      "id": "v000051",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b6c4421ef31a5e5720fdffb340f1f153317a1eff52ddf2ffc3488aa63e177cdf"
+    },
+    {
+      "word": "plagiarize",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpleɪdʒəraɪz/",
+        "us": "/ˈpleɪdʒəraɪz/"
+      },
+      "meaning": "剽窃；抄袭",
+      "collocation": {
+        "en": "plagiarize from",
+        "zh": "抄袭自……"
+      },
+      "example": {
+        "en": "Students must not plagiarize from articles on the internet.",
+        "zh": "学生不得从网上文章中抄袭内容。"
+      },
+      "id": "v000052",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "112ccd642b3102264dcea665bb47d0aba13f448836952319752ef234d0f58d9c"
+    },
+    {
+      "word": "ordain",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɔːˈdeɪn/",
+        "us": "/ɔːrˈdeɪn/"
+      },
+      "meaning": "授予圣职；任命为神职人员",
+      "collocation": {
+        "en": "be ordained as",
+        "zh": "被授予……圣职"
+      },
+      "example": {
+        "en": "He was ordained as a priest last year.",
+        "zh": "他去年被授予牧师圣职。"
+      },
+      "id": "v000053",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e60ac9dbad388b54f8b78745234eba827f9c3d076fc126ba6c746d5c94cb498c"
+    },
+    {
+      "word": "ordain",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɔːˈdeɪn/",
+        "us": "/ɔːrˈdeɪn/"
+      },
+      "meaning": "规定；注定（正式用语）",
+      "collocation": {
+        "en": "be ordained to",
+        "zh": "注定要……"
+      },
+      "example": {
+        "en": "Fate seemed to ordain that they would meet again.",
+        "zh": "命运似乎注定他们会再次相遇。"
+      },
+      "id": "v000054",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d2a73bddd4db63e03f0dbe4a48cc4f3bcd431882175003873bb348d1910ced5e"
+    },
+    {
+      "word": "punctuality",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌpʌŋktʃuˈæləti/",
+        "us": "/ˌpʌŋktʃuˈæləti/"
+      },
+      "meaning": "准时；守时",
+      "collocation": {
+        "en": "value punctuality",
+        "zh": "重视守时"
+      },
+      "example": {
+        "en": "The company places great value on employee punctuality.",
+        "zh": "这家公司非常重视员工的守时。"
+      },
+      "id": "v000055",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6626cfb1c77da2303bb60bfd3fc3bca90e145cac6ce39dfb73f9764c1587c917"
+    },
+    {
+      "word": "facile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfæsaɪl/",
+        "us": "/ˈfæsəl/"
+      },
+      "meaning": "肤浅的；过于简单的",
+      "collocation": {
+        "en": "a facile explanation",
+        "zh": "过于简单的解释"
+      },
+      "example": {
+        "en": "Blaming the failure entirely on luck is a facile explanation.",
+        "zh": "把失败完全归因于运气是一种过于简单的解释。"
+      },
+      "id": "v000056",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cd557c736d73f2ae4cba5ae9aeca6f1b67a17e4cdb31465fe72fd49972c5b08b"
+    },
+    {
+      "word": "facile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfæsaɪl/",
+        "us": "/ˈfæsəl/"
+      },
+      "meaning": "轻松自如的；流畅的",
+      "collocation": {
+        "en": "facile writing style",
+        "zh": "流畅轻巧的写作风格"
+      },
+      "example": {
+        "en": "His writing style is facile, but it sometimes lacks depth.",
+        "zh": "他的文章语言流畅，但有时缺乏深度。"
+      },
+      "id": "v000057",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "66ddb12a2008ea697e9e5fd0c7059a3eba0e4f1e5aefd239795c422ade7ed275"
+    },
+    {
+      "word": "designate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdezɪɡneɪt/",
+        "us": "/ˈdezɪɡneɪt/"
+      },
+      "meaning": "指定；选定；命名",
+      "collocation": {
+        "en": "designate A as B",
+        "zh": "指定A为B"
+      },
+      "example": {
+        "en": "The company designated her as the project leader.",
+        "zh": "公司指定她为该项目的负责人。"
+      },
+      "id": "v000058",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a3310af61605f24edf86ffe4c3c9b4de5a07af2b12dfd5d726ee3ba0eb79b68b"
+    },
+    {
+      "word": "designate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdezɪɡnət/",
+        "us": "/ˈdezɪɡnət/"
+      },
+      "meaning": "已选定但尚未就职的",
+      "collocation": {
+        "en": "president-designate",
+        "zh": "候任总裁/总统"
+      },
+      "example": {
+        "en": "The president-designate will formally take office next month.",
+        "zh": "候任总裁将在下个月正式上任。"
+      },
+      "id": "v000059",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a9ffc3b9b9c5211783d3e40bf60c6dda9216d5d9ca5f89fb7d3ee581b2c69232"
+    },
+    {
+      "word": "altruism",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈæltruɪzəm/",
+        "us": "/ˈæltruɪzəm/"
+      },
+      "meaning": "利他主义；无私",
+      "collocation": {
+        "en": "act of altruism",
+        "zh": "利他行为"
+      },
+      "example": {
+        "en": "The anonymous donation was seen as a genuine act of altruism.",
+        "zh": "匿名捐款被视为一种真正的利他行为。"
+      },
+      "id": "v000060",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7d184ac81feaaed5b5163c86ad4c15072e191664333a28494a0a9043e354171b"
+    },
+    {
+      "word": "jersey",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdʒɜːzi/",
+        "us": "/ˈdʒɜːrzi/"
+      },
+      "meaning": "运动衫；球衣",
+      "collocation": {
+        "en": "team jersey",
+        "zh": "球队球衣"
+      },
+      "example": {
+        "en": "He bought a jersey of his favorite team.",
+        "zh": "他买了一件自己最喜欢球队的球衣。"
+      },
+      "id": "v000061",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6c56bad043cc6f1aaad15f48e604dfa90c36c7991c4f036824af2f4d549e58d1"
+    },
+    {
+      "word": "jersey",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdʒɜːzi/",
+        "us": "/ˈdʒɜːrzi/"
+      },
+      "meaning": "针织衫；针织面料",
+      "collocation": {
+        "en": "cotton jersey",
+        "zh": "棉针织面料"
+      },
+      "example": {
+        "en": "This dress is made of soft cotton jersey.",
+        "zh": "这件连衣裙是用柔软的棉针织面料做的。"
+      },
+      "id": "v000062",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "819bcb21aca75fe45a53435cf03341e70ce9f885f00f8ec47700cb0be2db0fb4"
+    },
+    {
+      "word": "tout",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/taʊt/",
+        "us": "/taʊt/"
+      },
+      "meaning": "吹捧；宣扬；兜售",
+      "collocation": {
+        "en": "tout A as B",
+        "zh": "把A吹捧为B"
+      },
+      "example": {
+        "en": "The software is being touted as the best tool for improving productivity.",
+        "zh": "这款软件被宣传为提高效率的最佳工具。"
+      },
+      "id": "v000063",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a1d92d157f9fc362a0d5d922f5d27abb82aea7ca6fe343810847d71078728631"
+    },
+    {
+      "word": "tout",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/taʊt/",
+        "us": "/taʊt/"
+      },
+      "meaning": "黄牛；兜售者；招徕顾客者",
+      "collocation": {
+        "en": "ticket tout",
+        "zh": "票贩子；黄牛"
+      },
+      "example": {
+        "en": "Police moved ticket touts away from the stadium.",
+        "zh": "警察在体育场外驱赶票贩子。"
+      },
+      "id": "v000064",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "084e1216ef2567dc34f77e0647cdb32849b1c0cb158c8c02371669ebf2909667"
+    },
+    {
+      "word": "intrinsic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈtrɪnsɪk/",
+        "us": "/ɪnˈtrɪnsɪk/"
+      },
+      "meaning": "固有的；内在的；本质的",
+      "collocation": {
+        "en": "intrinsic value",
+        "zh": "内在价值"
+      },
+      "example": {
+        "en": "This skill has considerable intrinsic value in itself.",
+        "zh": "这项技能本身就具有很高的内在价值。"
+      },
+      "id": "v000065",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "af3e21bc5990a6e75b5dcd83ada56eb992682f47f03361435b7b0aa0ee17d2d7"
+    },
+    {
+      "word": "candid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkændɪd/",
+        "us": "/ˈkændɪd/"
+      },
+      "meaning": "坦率的；直言不讳的",
+      "collocation": {
+        "en": "candid about",
+        "zh": "坦率谈论……"
+      },
+      "example": {
+        "en": "She was candid about the problems with the project.",
+        "zh": "她坦率地谈到了项目存在的问题。"
+      },
+      "id": "v000066",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fbb2baa8a9a8deec4084670ac531387f983e374bea97ee1ad4e2a3050f56e29b"
+    },
+    {
+      "word": "candid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkændɪd/",
+        "us": "/ˈkændɪd/"
+      },
+      "meaning": "抓拍的；非摆拍的",
+      "collocation": {
+        "en": "candid photograph",
+        "zh": "抓拍照片"
+      },
+      "example": {
+        "en": "The photographer took a candid photograph of the children laughing naturally.",
+        "zh": "摄影师拍到了一张孩子们自然大笑的抓拍照片。"
+      },
+      "id": "v000067",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "370987a8090494380f1f74f046c95392df9153381fbdb5b7315ecb5707ebbe95"
+    },
+    {
+      "word": "capitulate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kəˈpɪtʃuleɪt/",
+        "us": "/kəˈpɪtʃuleɪt/"
+      },
+      "meaning": "投降；屈服",
+      "collocation": {
+        "en": "capitulate to",
+        "zh": "向……屈服"
+      },
+      "example": {
+        "en": "The company ultimately refused to capitulate to the pressure.",
+        "zh": "公司最终没有向对方的压力屈服。"
+      },
+      "id": "v000068",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "974163517c439574f855ed8bcdc864ca7e951bb85994c8268211ed92e7d488ea"
+    },
+    {
+      "word": "beguile",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bɪˈɡaɪl/",
+        "us": "/bɪˈɡaɪl/"
+      },
+      "meaning": "迷住；吸引",
+      "collocation": {
+        "en": "be beguiled by",
+        "zh": "被……迷住"
+      },
+      "example": {
+        "en": "The visitors were beguiled by the charm of the old town.",
+        "zh": "游客们被古镇的魅力深深吸引。"
+      },
+      "id": "v000069",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "97d3c0f95095eee10ef364ae6f1450ae0f96d712ca62428d86ede3c20da480b8"
+    },
+    {
+      "word": "beguile",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bɪˈɡaɪl/",
+        "us": "/bɪˈɡaɪl/"
+      },
+      "meaning": "欺骗；诱骗",
+      "collocation": {
+        "en": "beguile someone into doing",
+        "zh": "诱骗某人做……"
+      },
+      "example": {
+        "en": "The fraudster beguiled him into signing an unfavorable contract.",
+        "zh": "骗子诱骗他签下了一份不利的合同。"
+      },
+      "id": "v000070",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "21a243879efc289a8b303533fed7780eb1178151356936fe0b566b0f9a397811"
+    },
+    {
+      "word": "allude",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈluːd/",
+        "us": "/əˈluːd/"
+      },
+      "meaning": "暗指；间接提到",
+      "collocation": {
+        "en": "allude to",
+        "zh": "暗指；提及"
+      },
+      "example": {
+        "en": "He alluded to the recent corporate restructuring in his speech.",
+        "zh": "他在演讲中暗指了最近的公司重组。"
+      },
+      "id": "v000071",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "82f6ba5024df9b2d3222ba35dd20207a2890e1b79e75fed7bf8564c45bc72d20"
+    },
+    {
+      "word": "blemish",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈblemɪʃ/",
+        "us": "/ˈblemɪʃ/"
+      },
+      "meaning": "瑕疵；污点",
+      "collocation": {
+        "en": "a blemish on",
+        "zh": "……上的污点"
+      },
+      "example": {
+        "en": "The mistake was a minor blemish on his career.",
+        "zh": "这次失误是他职业生涯中的一个小污点。"
+      },
+      "id": "v000072",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ed217e2e20056b3ecb2f989a82f98ba63781d3df0ff437a3bf4e64eccf0faa02"
+    },
+    {
+      "word": "blemish",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈblemɪʃ/",
+        "us": "/ˈblemɪʃ/"
+      },
+      "meaning": "损害；玷污",
+      "collocation": {
+        "en": "blemish a record/reputation",
+        "zh": "损害记录/名誉"
+      },
+      "example": {
+        "en": "One mistake should not blemish her excellent record of many years.",
+        "zh": "一次错误不应该玷污她多年的优秀记录。"
+      },
+      "id": "v000073",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "991f8254daac900148a1b45505083371daa4c5b54446656fbc657bf844d4952c"
+    },
+    {
+      "word": "congenital",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈdʒenɪtl/",
+        "us": "/kənˈdʒenɪtl/"
+      },
+      "meaning": "先天的；天生的",
+      "collocation": {
+        "en": "congenital disease",
+        "zh": "先天性疾病"
+      },
+      "example": {
+        "en": "This congenital disease is usually detected soon after birth.",
+        "zh": "这种先天性疾病通常在出生后不久被发现。"
+      },
+      "id": "v000074",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "26306e8d93240785906abad9bf9bf5434978bd9b85f180f3d845dcdecf5814e7"
+    },
+    {
+      "word": "congenital",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈdʒenɪtl/",
+        "us": "/kənˈdʒenɪtl/"
+      },
+      "meaning": "根深蒂固的；天生似的（比喻）",
+      "collocation": {
+        "en": "congenital liar",
+        "zh": "天生的说谎者（非正式）"
+      },
+      "example": {
+        "en": "People jokingly described him as a congenital optimist.",
+        "zh": "大家开玩笑说他是个天生的乐观主义者。"
+      },
+      "id": "v000075",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0c0b6f01b0aca57bac5a6d7fc4138fc51711e1118fd196d43112647b37a6a3ba"
+    },
+    {
+      "word": "congestion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈdʒestʃən/",
+        "us": "/kənˈdʒestʃən/"
+      },
+      "meaning": "拥堵；堵塞",
+      "collocation": {
+        "en": "traffic congestion",
+        "zh": "交通拥堵"
+      },
+      "example": {
+        "en": "The government is taking measures to ease traffic congestion in the city center.",
+        "zh": "政府正在采取措施缓解市中心的交通拥堵。"
+      },
+      "id": "v000076",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c0b26004878aebea7e771725f7132f4f87b7fa0e7a9564e0e1a7e1a21900b6a8"
+    },
+    {
+      "word": "congestion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈdʒestʃən/",
+        "us": "/kənˈdʒestʃən/"
+      },
+      "meaning": "充血；淤血",
+      "collocation": {
+        "en": "nasal congestion",
+        "zh": "鼻塞"
+      },
+      "example": {
+        "en": "The cold caused him severe nasal congestion.",
+        "zh": "感冒使他出现了严重的鼻塞。"
+      },
+      "id": "v000077",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "134709a8f71c8640337b7809dcd219796b2971e68460dcf2f983a8f52d32cd7e"
+    },
+    {
+      "word": "solicit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/səˈlɪsɪt/",
+        "us": "/səˈlɪsɪt/"
+      },
+      "meaning": "征求；请求",
+      "collocation": {
+        "en": "solicit feedback",
+        "zh": "征求反馈"
+      },
+      "example": {
+        "en": "We solicited feedback from customers before releasing the new feature.",
+        "zh": "我们在发布新功能之前向客户征求了反馈。"
+      },
+      "id": "v000078",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e9540314d54e7cae0fb9c19965c08569bb93a14649152da380ea2cccb3256d9c"
+    },
+    {
+      "word": "solicit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/səˈlɪsɪt/",
+        "us": "/səˈlɪsɪt/"
+      },
+      "meaning": "招揽；兜揽（生意、捐款等）",
+      "collocation": {
+        "en": "solicit donations",
+        "zh": "募捐"
+      },
+      "example": {
+        "en": "The charity is soliciting donations for the disaster area.",
+        "zh": "该慈善机构正在为灾区募捐。"
+      },
+      "id": "v000079",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fd4899f78f6004298bd921a9640915d467b4c7312957e8b19aec6b35932b4029"
+    },
+    {
+      "word": "debut",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdeɪbjuː/",
+        "us": "/deɪˈbjuː/"
+      },
+      "meaning": "首次亮相；处女作",
+      "collocation": {
+        "en": "make one's debut",
+        "zh": "首次亮相"
+      },
+      "example": {
+        "en": "The young actor will make his debut tonight.",
+        "zh": "这位年轻演员将在今晚首次登台。"
+      },
+      "id": "v000080",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4b9994bfbf817d5d0c058e3416c2c5dcbe2b9f19405cdc73e4629e861d814ccb"
+    },
+    {
+      "word": "debut",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdeɪbjuː/",
+        "us": "/deɪˈbjuː/"
+      },
+      "meaning": "首次亮相；首次推出",
+      "collocation": {
+        "en": "debut a new product",
+        "zh": "首次推出新产品"
+      },
+      "example": {
+        "en": "The company will debut the new product next week.",
+        "zh": "公司将在下周首次推出这款新产品。"
+      },
+      "id": "v000081",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "88148574fb072766f683eb4c3ab94dee1c71c98deec8d0911ad9e56cd1bbbda7"
+    },
+    {
+      "word": "sewage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsuːɪdʒ/",
+        "us": "/ˈsuːɪdʒ/"
+      },
+      "meaning": "污水；下水道污物",
+      "collocation": {
+        "en": "sewage treatment",
+        "zh": "污水处理"
+      },
+      "example": {
+        "en": "The city is building a new sewage treatment facility.",
+        "zh": "这座城市正在建设新的污水处理设施。"
+      },
+      "id": "v000082",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "19143917a2f6ce3399547bc5f88f486a5a28d42185e359fc6c90d050d9c51f05"
+    },
+    {
+      "word": "inflict",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈflɪkt/",
+        "us": "/ɪnˈflɪkt/"
+      },
+      "meaning": "使遭受；施加（伤害、痛苦等）",
+      "collocation": {
+        "en": "inflict damage on",
+        "zh": "对……造成损害"
+      },
+      "example": {
+        "en": "The storm inflicted severe damage on the coastal area.",
+        "zh": "暴风雨给沿海地区造成了严重损失。"
+      },
+      "id": "v000083",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5e0d357f3c3bfc5cf2d7cefb089a09927a1aaa3af92bea0f02f41af0d7101693"
+    },
+    {
+      "word": "deprive",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈpraɪv/",
+        "us": "/dɪˈpraɪv/"
+      },
+      "meaning": "剥夺；使丧失",
+      "collocation": {
+        "en": "deprive someone of something",
+        "zh": "剥夺某人的某物"
+      },
+      "example": {
+        "en": "No one should be deprived of the opportunity to receive an education.",
+        "zh": "任何人都不应被剥夺接受教育的机会。"
+      },
+      "id": "v000084",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "301e2956d68498167989c7658eb044c16256ced05f30f9132c9930514d00d2bf"
+    },
+    {
+      "word": "exquisite",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈskwɪzɪt/",
+        "us": "/ɪkˈskwɪzɪt/"
+      },
+      "meaning": "精美的；精致的",
+      "collocation": {
+        "en": "exquisite craftsmanship",
+        "zh": "精湛的工艺"
+      },
+      "example": {
+        "en": "This piece of jewelry displays exquisite craftsmanship.",
+        "zh": "这件首饰展现了精湛的工艺。"
+      },
+      "id": "v000085",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c54de4b36eec1144c5aedd6251dae968a0f8bec9af7ae06cc82509c1d758d006"
+    },
+    {
+      "word": "exquisite",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈskwɪzɪt/",
+        "us": "/ɪkˈskwɪzɪt/"
+      },
+      "meaning": "强烈而细腻的；极度的",
+      "collocation": {
+        "en": "exquisite pain",
+        "zh": "剧烈而敏锐的疼痛"
+      },
+      "example": {
+        "en": "The wound caused him exquisite pain.",
+        "zh": "伤口让他感到一阵剧烈的疼痛。"
+      },
+      "id": "v000086",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ae85fbcae44e52c6afea12ee445e83af9fe6e4bee7195e48a341806675bb4136"
+    },
+    {
+      "word": "ingenious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈdʒiːniəs/",
+        "us": "/ɪnˈdʒiːniəs/"
+      },
+      "meaning": "巧妙的；有创意的",
+      "collocation": {
+        "en": "ingenious solution",
+        "zh": "巧妙的解决方案"
+      },
+      "example": {
+        "en": "The engineer came up with an ingenious solution.",
+        "zh": "工程师提出了一个巧妙的解决方案。"
+      },
+      "id": "v000087",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f5072a1a64ca6abfbda1d74ebce9fb0e2ff8720a96c9fb24caa0676af8ff922e"
+    },
+    {
+      "word": "oblivious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əˈblɪviəs/",
+        "us": "/əˈblɪviəs/"
+      },
+      "meaning": "没有察觉的；不知道的",
+      "collocation": {
+        "en": "be oblivious to",
+        "zh": "没有意识到……"
+      },
+      "example": {
+        "en": "He was completely oblivious to the changes happening around him.",
+        "zh": "他完全没有意识到周围发生的变化。"
+      },
+      "id": "v000088",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "17e1f7db01acde33b43605885d0b81f4b37819ec6eb1288f4413077c51137d50"
+    },
+    {
+      "word": "versatile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈvɜːsətaɪl/",
+        "us": "/ˈvɜːrsətl/"
+      },
+      "meaning": "多才多艺的；多用途的",
+      "collocation": {
+        "en": "versatile tool",
+        "zh": "多用途工具"
+      },
+      "example": {
+        "en": "Python is a highly versatile programming language.",
+        "zh": "Python 是一种用途非常广泛的编程语言。"
+      },
+      "id": "v000089",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "70891e4e39468865c96f03210701ee844f213af7b4b8f4d93594a87bc80ea263"
+    },
+    {
+      "word": "municipal",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/mjuːˈnɪsɪpl/",
+        "us": "/mjuːˈnɪsɪpl/"
+      },
+      "meaning": "市政的；地方政府的",
+      "collocation": {
+        "en": "municipal government",
+        "zh": "市政府"
+      },
+      "example": {
+        "en": "The municipal government plans to improve public transportation.",
+        "zh": "市政府计划改善公共交通。"
+      },
+      "id": "v000090",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "de2fc77346f1c05bc4df55ce3c31820c0099874319ba01c2447670055e644717"
+    },
+    {
+      "word": "ventilation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌventɪˈleɪʃən/",
+        "us": "/ˌventɪˈleɪʃən/"
+      },
+      "meaning": "通风；通风系统",
+      "collocation": {
+        "en": "proper ventilation",
+        "zh": "适当的通风"
+      },
+      "example": {
+        "en": "The office needs proper ventilation.",
+        "zh": "办公室需要保持适当的通风。"
+      },
+      "id": "v000091",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5e99311c65c72438ec0c01a3d82d7204752ae5da0cb67e1d3b82311ba704b256"
+    },
+    {
+      "word": "subsidiary",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/səbˈsɪdiəri/",
+        "us": "/səbˈsɪdieri/"
+      },
+      "meaning": "子公司",
+      "collocation": {
+        "en": "wholly owned subsidiary",
+        "zh": "全资子公司"
+      },
+      "example": {
+        "en": "The company is a wholly owned subsidiary of the group.",
+        "zh": "这家公司是该集团的全资子公司。"
+      },
+      "id": "v000092",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "deb746e04b086edf807215c54a48d030efc1f88da7310589e1c5e0ad608ba6fd"
+    },
+    {
+      "word": "subsidiary",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/səbˈsɪdiəri/",
+        "us": "/səbˈsɪdieri/"
+      },
+      "meaning": "附属的；次要的",
+      "collocation": {
+        "en": "subsidiary role",
+        "zh": "次要角色"
+      },
+      "example": {
+        "en": "The department plays a subsidiary role in the project.",
+        "zh": "这个部门在项目中承担辅助性的角色。"
+      },
+      "id": "v000093",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9c4c1f207a9b7f43a8b33df7bea71ab21af03e6e7d9d8e2c35ea4feb4fb42c15"
+    },
+    {
+      "word": "peripheral",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/pəˈrɪfərəl/",
+        "us": "/pəˈrɪfərəl/"
+      },
+      "meaning": "外围的；次要的",
+      "collocation": {
+        "en": "peripheral issue",
+        "zh": "次要问题"
+      },
+      "example": {
+        "en": "We should not let peripheral issues affect the core decision.",
+        "zh": "我们不应该让次要问题影响核心决策。"
+      },
+      "id": "v000094",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "377ea6d9cf460cbc4d6cf5430329e6f54c12473b1a91b7439fb2590148c63871"
+    },
+    {
+      "word": "peripheral",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pəˈrɪfərəl/",
+        "us": "/pəˈrɪfərəl/"
+      },
+      "meaning": "计算机外设",
+      "collocation": {
+        "en": "computer peripheral",
+        "zh": "计算机外设"
+      },
+      "example": {
+        "en": "A printer is a common computer peripheral.",
+        "zh": "打印机是常见的计算机外设。"
+      },
+      "id": "v000095",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7ee529b8449c4ff4381a2aba1548c05156ec10264fec00a92d58aebcac113351"
+    },
+    {
+      "word": "compensate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkɒmpenseɪt/",
+        "us": "/ˈkɑːmpenseɪt/"
+      },
+      "meaning": "赔偿；补偿",
+      "collocation": {
+        "en": "compensate someone for",
+        "zh": "因……补偿某人"
+      },
+      "example": {
+        "en": "The airline compensated passengers for the canceled flight.",
+        "zh": "航空公司因航班取消向乘客进行了赔偿。"
+      },
+      "id": "v000096",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8ac86c270543d81b454e75d8ffd6234469e66d6b815f1c55ee18d91fcd9ddc5a"
+    },
+    {
+      "word": "compensate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkɒmpenseɪt/",
+        "us": "/ˈkɑːmpenseɪt/"
+      },
+      "meaning": "弥补；抵消",
+      "collocation": {
+        "en": "compensate for",
+        "zh": "弥补……"
+      },
+      "example": {
+        "en": "Higher efficiency can compensate for the shortage of staff.",
+        "zh": "更高的效率可以弥补人手不足。"
+      },
+      "id": "v000097",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cb2e382b1ecc275b991f1a7bd9b465ef16149b7b16fe95e2be22a338029df4d7"
+    },
+    {
+      "word": "immune",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪˈmjuːn/",
+        "us": "/ɪˈmjuːn/"
+      },
+      "meaning": "免疫的",
+      "collocation": {
+        "en": "immune to",
+        "zh": "对……免疫"
+      },
+      "example": {
+        "en": "After vaccination, most people become immune to the disease to some extent.",
+        "zh": "接种疫苗后，大多数人会对这种疾病产生一定免疫力。"
+      },
+      "id": "v000098",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b0a7421b071c5d10f12f1f3e9e9c55c69312093380bc521f4d9b1163b5385a9e"
+    },
+    {
+      "word": "immune",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪˈmjuːn/",
+        "us": "/ɪˈmjuːn/"
+      },
+      "meaning": "不受影响的；免除的",
+      "collocation": {
+        "en": "immune from prosecution",
+        "zh": "免受起诉"
+      },
+      "example": {
+        "en": "Under certain conditions, a witness may be immune from prosecution.",
+        "zh": "在特定条件下，证人可能获得免于起诉的待遇。"
+      },
+      "id": "v000099",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ecd77d113dcccd38dc412bb90f42e6f1d050dea9e5c12685e589d0d1e5494d33"
+    },
+    {
+      "word": "distinguished",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dɪˈstɪŋɡwɪʃt/",
+        "us": "/dɪˈstɪŋɡwɪʃt/"
+      },
+      "meaning": "卓越的；著名的",
+      "collocation": {
+        "en": "distinguished career",
+        "zh": "杰出的职业生涯"
+      },
+      "example": {
+        "en": "He has had a distinguished career spanning more than thirty years.",
+        "zh": "他拥有三十多年的杰出职业生涯。"
+      },
+      "id": "v000100",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e70629876549ae18adbfed76be51b226b29a84c87bd11bd2100ab24df30dc483"
+    }
+  ]
+}

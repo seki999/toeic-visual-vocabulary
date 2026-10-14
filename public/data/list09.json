@@ -1,0 +1,1107 @@
+{
+  "id": "list09",
+  "title": "List 09",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "prolific",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prəˈlɪfɪk/",
+        "us": "/prəˈlɪfɪk/"
+      },
+      "meaning": "大量产生的；丰富的",
+      "collocation": {
+        "en": "prolific growth",
+        "zh": "大量增长"
+      },
+      "example": {
+        "en": "Warm, humid conditions encouraged prolific plant growth.",
+        "zh": "温暖潮湿的环境促进了植物快速繁殖。"
+      },
+      "id": "v000401",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9bb5b3621e174066705b1ec0f950fdeaa83628f2558c80326cd32414043fde5e"
+    },
+    {
+      "word": "exhale",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/eksˈheɪl/",
+        "us": "/eksˈheɪl/"
+      },
+      "meaning": "呼气；呼出",
+      "collocation": {
+        "en": "inhale and exhale",
+        "zh": "吸气和呼气"
+      },
+      "example": {
+        "en": "Inhale slowly, and then exhale gently.",
+        "zh": "慢慢吸气，然后缓缓呼气。"
+      },
+      "id": "v000402",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "488a430a9239f4d05f913fcbd74802828729db0924ae72bcffece796683876b5"
+    },
+    {
+      "word": "irresistible",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌɪrɪˈzɪstəbl/",
+        "us": "/ˌɪrɪˈzɪstəbl/"
+      },
+      "meaning": "不可抗拒的；极具吸引力的",
+      "collocation": {
+        "en": "irresistible temptation",
+        "zh": "无法抗拒的诱惑"
+      },
+      "example": {
+        "en": "The freshly baked bread had an irresistible smell.",
+        "zh": "刚出炉的面包散发着令人无法抗拒的香味。"
+      },
+      "id": "v000403",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ca276e1249f74624b9533c0c9aee718bb96f510d42b755333865c77f7a37f464"
+    },
+    {
+      "word": "irrespective",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/ˌɪrɪˈspektɪv/",
+        "us": "/ˌɪrɪˈspektɪv/"
+      },
+      "meaning": "不考虑；不论",
+      "collocation": {
+        "en": "irrespective of",
+        "zh": "不论；不管……"
+      },
+      "example": {
+        "en": "All applicants will be assessed fairly irrespective of age.",
+        "zh": "所有申请者无论年龄都将受到公平评估。"
+      },
+      "id": "v000404",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ffdca43352a8a3744f37cdcc8c879eb9cc3413a2f4b68da7a51dd6f36c0bcdf8"
+    },
+    {
+      "word": "pie",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/paɪ/",
+        "us": "/paɪ/"
+      },
+      "meaning": "馅饼；派",
+      "collocation": {
+        "en": "apple pie",
+        "zh": "苹果派"
+      },
+      "example": {
+        "en": "She made an apple pie for dinner.",
+        "zh": "她为晚餐做了一个苹果派。"
+      },
+      "id": "v000405",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "53be34ffe2fdf8575df3bed4c1bdaec56f3a356d7ce7e94d32ab8295a9755ccf"
+    },
+    {
+      "word": "covert",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkʌvət/",
+        "us": "/ˈkoʊvɜːrt/"
+      },
+      "meaning": "秘密的；暗中的",
+      "collocation": {
+        "en": "covert operation",
+        "zh": "秘密行动"
+      },
+      "example": {
+        "en": "The agency conducted a covert investigation.",
+        "zh": "该机构开展了一项秘密调查。"
+      },
+      "id": "v000406",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ae7ced7a916592a18ca9451a44d7ae81e0b38863544e6fb0fca0d33f195120ee"
+    },
+    {
+      "word": "overt",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əʊˈvɜːt/",
+        "us": "/oʊˈvɜːrt/"
+      },
+      "meaning": "公开的；明显的",
+      "collocation": {
+        "en": "overt discrimination",
+        "zh": "公开的歧视"
+      },
+      "example": {
+        "en": "The company prohibits any form of overt discrimination.",
+        "zh": "公司规定禁止任何形式的公开歧视。"
+      },
+      "id": "v000407",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7fce462ea400694bf315dcd57be95ab5584f51038fce66c42ce5fc40e89f1b1a"
+    },
+    {
+      "word": "probe",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəʊb/",
+        "us": "/proʊb/"
+      },
+      "meaning": "调查；探查",
+      "collocation": {
+        "en": "launch a probe into",
+        "zh": "对……展开调查"
+      },
+      "example": {
+        "en": "The regulator launched a probe into the incident.",
+        "zh": "监管机构对该事件展开了调查。"
+      },
+      "id": "v000408",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ee66a86144270b39d56c2d21c9a436992cb6c8b7831f7063a03b843b71b3c665"
+    },
+    {
+      "word": "probe",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəʊb/",
+        "us": "/proʊb/"
+      },
+      "meaning": "探针；探测器",
+      "collocation": {
+        "en": "temperature probe",
+        "zh": "温度探针"
+      },
+      "example": {
+        "en": "The engineer checked the equipment with a temperature probe.",
+        "zh": "工程师用温度探针检查设备。"
+      },
+      "id": "v000409",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "293fc06ba1aa90f9b2f43b9d301821fe9a0b61fcdbea6f748fdf96a2dc845601"
+    },
+    {
+      "word": "probe",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prəʊb/",
+        "us": "/proʊb/"
+      },
+      "meaning": "调查；深入探究",
+      "collocation": {
+        "en": "probe into",
+        "zh": "深入调查……"
+      },
+      "example": {
+        "en": "The journalist tried to probe into the source of the funds.",
+        "zh": "记者试图深入调查资金的来源。"
+      },
+      "id": "v000410",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fe36cefbae05848d8c7bd05ad3d96f65bb0783602849734e303b625dc5b1071b"
+    },
+    {
+      "word": "fondness",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfɒndnəs/",
+        "us": "/ˈfɑːndnəs/"
+      },
+      "meaning": "喜爱；钟爱",
+      "collocation": {
+        "en": "have a fondness for",
+        "zh": "喜欢；钟爱……"
+      },
+      "example": {
+        "en": "He has always had a fondness for classical music.",
+        "zh": "他一直很喜欢古典音乐。"
+      },
+      "id": "v000411",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1fc6cdcc9b161b19648b7d431fd1d3c18ed971576b01998295adf84747ed5d57"
+    },
+    {
+      "word": "nasty",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈnɑːsti/",
+        "us": "/ˈnæsti/"
+      },
+      "meaning": "令人不快的；恶劣的",
+      "collocation": {
+        "en": "a nasty surprise",
+        "zh": "令人不快的意外"
+      },
+      "example": {
+        "en": "The bill was much higher than expected, which was a nasty surprise.",
+        "zh": "账单比预期高很多，真是个糟糕的意外。"
+      },
+      "id": "v000412",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "92a90ba431244c6a19a28b9b73a5ba88e7c29f2341527e0142883e98494f434f"
+    },
+    {
+      "word": "nasty",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈnɑːsti/",
+        "us": "/ˈnæsti/"
+      },
+      "meaning": "恶毒的；刻薄的",
+      "collocation": {
+        "en": "nasty comment",
+        "zh": "刻薄的评论"
+      },
+      "example": {
+        "en": "He posted a nasty comment online.",
+        "zh": "他在网上发表了一条刻薄的评论。"
+      },
+      "id": "v000413",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c40c539fd6dd89a8b280632ec980087c4f940172cdd853774f0dc51aec7a5ade"
+    },
+    {
+      "word": "distiller",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈstɪlə(r)/",
+        "us": "/dɪˈstɪlər/"
+      },
+      "meaning": "蒸馏者；蒸馏酒生产商",
+      "collocation": {
+        "en": "whisky distiller",
+        "zh": "威士忌酒生产商"
+      },
+      "example": {
+        "en": "The whisky distiller has a history of more than a century.",
+        "zh": "这家威士忌生产商拥有百年历史。"
+      },
+      "id": "v000414",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3d6c4f1bf2fd46020494c1f95e338ca224da8f18954f93f23ca335c1c2d7ee74"
+    },
+    {
+      "word": "gadget",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɡædʒɪt/",
+        "us": "/ˈɡædʒɪt/"
+      },
+      "meaning": "小器具；小装置",
+      "collocation": {
+        "en": "electronic gadget",
+        "zh": "电子小装置"
+      },
+      "example": {
+        "en": "This electronic gadget can monitor indoor temperature.",
+        "zh": "这款电子小装置可以监测室内温度。"
+      },
+      "id": "v000415",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b0c1d46fbbde071f7cf50955105014ff0593c0c05d083b619a17123ded6c2bca"
+    },
+    {
+      "word": "rotation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rəʊˈteɪʃn/",
+        "us": "/roʊˈteɪʃn/"
+      },
+      "meaning": "旋转；转动",
+      "collocation": {
+        "en": "rotation of the Earth",
+        "zh": "地球自转"
+      },
+      "example": {
+        "en": "The rotation of the Earth causes day and night.",
+        "zh": "地球的自转造成了昼夜交替。"
+      },
+      "id": "v000416",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "14f7c04b50027cfe3c650b953153af94dc947b573ac6e853cf587630cc5fff88"
+    },
+    {
+      "word": "rotation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rəʊˈteɪʃn/",
+        "us": "/roʊˈteɪʃn/"
+      },
+      "meaning": "轮换；轮岗",
+      "collocation": {
+        "en": "job rotation",
+        "zh": "岗位轮换"
+      },
+      "example": {
+        "en": "The company uses job rotation to develop younger employees.",
+        "zh": "公司通过岗位轮换培养年轻员工。"
+      },
+      "id": "v000417",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e985a82e573f9561ebf8e36dc922ba7e40c61e783acb0cef99f4f7b3c6736892"
+    },
+    {
+      "word": "procure",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prəˈkjʊə(r)/",
+        "us": "/prəˈkjʊr/"
+      },
+      "meaning": "获得；采购",
+      "collocation": {
+        "en": "procure equipment",
+        "zh": "采购设备"
+      },
+      "example": {
+        "en": "The project team needs to procure new equipment by the end of the month.",
+        "zh": "项目组需要在月底前采购新设备。"
+      },
+      "id": "v000418",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a47882feaf1fffb0ea8b86aa10b172d33512c2c7f08ddf6c505c83cfff5a13ae"
+    },
+    {
+      "word": "conscience",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒnʃəns/",
+        "us": "/ˈkɑːnʃəns/"
+      },
+      "meaning": "良心；道德心",
+      "collocation": {
+        "en": "have a clear conscience",
+        "zh": "问心无愧"
+      },
+      "example": {
+        "en": "He was sure he had done the right thing, so he had a clear conscience.",
+        "zh": "他确信自己做了正确的事，因此问心无愧。"
+      },
+      "id": "v000419",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "eaabc411bbe2b84ac0fd1b24d0ed24e72d2e7dc281abc8bd2768b9189deaefeb"
+    },
+    {
+      "word": "spurt",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/spɜːt/",
+        "us": "/spɜːrt/"
+      },
+      "meaning": "突然喷出；短暂激增",
+      "collocation": {
+        "en": "a growth spurt",
+        "zh": "快速增长期"
+      },
+      "example": {
+        "en": "The child has recently gone through a growth spurt.",
+        "zh": "孩子最近经历了一次快速生长期。"
+      },
+      "id": "v000420",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5240fffccf58772c01c7b028478cfac547196fa913a399666c74a3103629cf49"
+    },
+    {
+      "word": "spurt",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/spɜːt/",
+        "us": "/spɜːrt/"
+      },
+      "meaning": "喷射；突然加速",
+      "collocation": {
+        "en": "spurt out",
+        "zh": "喷涌而出"
+      },
+      "example": {
+        "en": "Water spurted out of the broken pipe.",
+        "zh": "水从破裂的管子里喷了出来。"
+      },
+      "id": "v000421",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "af97def4392dc685659dd9162f92b8df2916450513b5b00ffb17f502c5174bb4"
+    },
+    {
+      "word": "precocious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prɪˈkəʊʃəs/",
+        "us": "/prɪˈkoʊʃəs/"
+      },
+      "meaning": "早熟的；智力发展早的",
+      "collocation": {
+        "en": "precocious child",
+        "zh": "早熟的孩子"
+      },
+      "example": {
+        "en": "The precocious child showed remarkable mathematical ability at an early age.",
+        "zh": "那个孩子在很小的时候就表现出惊人的数学才能。"
+      },
+      "id": "v000422",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8a508c1f0ce52902c353fee21fb86acd7c73629ee90bc329494936ba02ec8c58"
+    },
+    {
+      "word": "crackdown",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkrækdaʊn/",
+        "us": "/ˈkrækdaʊn/"
+      },
+      "meaning": "严厉打击；镇压",
+      "collocation": {
+        "en": "crackdown on",
+        "zh": "严厉打击……"
+      },
+      "example": {
+        "en": "The government announced a crackdown on online fraud.",
+        "zh": "政府宣布将严厉打击网络诈骗。"
+      },
+      "id": "v000423",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "60614f69301d4397fc19eb8ceaebadd6e7a261ec148e9de1ad8e24313c3a171c"
+    },
+    {
+      "word": "upbraid",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ʌpˈbreɪd/",
+        "us": "/ʌpˈbreɪd/"
+      },
+      "meaning": "严厉责骂；训斥",
+      "collocation": {
+        "en": "upbraid someone for",
+        "zh": "因……训斥某人"
+      },
+      "example": {
+        "en": "The manager upbraided the employee for repeatedly arriving late.",
+        "zh": "经理因员工多次迟到而严厉批评了他。"
+      },
+      "id": "v000424",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "21143dafbbccdd72b7b9b28c39faf45e2e57a210f1fbdb16036ed6c0b6b849b0"
+    },
+    {
+      "word": "sweep",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/swiːp/",
+        "us": "/swiːp/"
+      },
+      "meaning": "打扫；清扫",
+      "collocation": {
+        "en": "sweep the floor",
+        "zh": "扫地"
+      },
+      "example": {
+        "en": "She sweeps the kitchen floor every morning.",
+        "zh": "她每天早晨都会把厨房地板扫干净。"
+      },
+      "id": "v000425",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "04297d9960935d21e770848651ca368d79caf89f491b0e8366eb5fe28777eb85"
+    },
+    {
+      "word": "sweep",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/swiːp/",
+        "us": "/swiːp/"
+      },
+      "meaning": "席卷；迅速蔓延",
+      "collocation": {
+        "en": "sweep across",
+        "zh": "席卷……"
+      },
+      "example": {
+        "en": "The storm swept across the entire region.",
+        "zh": "暴风雨迅速席卷了整个地区。"
+      },
+      "id": "v000426",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0ea043f2430f8fcd8c7d18db4c6cfd0b18ca59d7dd03a0a9f9414c2513030ccd"
+    },
+    {
+      "word": "sweep",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/swiːp/",
+        "us": "/swiːp/"
+      },
+      "meaning": "全面搜索；彻底检查",
+      "collocation": {
+        "en": "security sweep",
+        "zh": "安全检查"
+      },
+      "example": {
+        "en": "Police carried out a security sweep before the event.",
+        "zh": "活动开始前警方进行了全面安全检查。"
+      },
+      "id": "v000427",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "89a177b04f7c0ff3a838a9f0c84be3e07cea5407fb38bf9fbf4480be7813b00d"
+    },
+    {
+      "word": "leaflet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈliːflət/",
+        "us": "/ˈliːflət/"
+      },
+      "meaning": "传单；宣传册",
+      "collocation": {
+        "en": "hand out leaflets",
+        "zh": "散发传单"
+      },
+      "example": {
+        "en": "Volunteers handed out leaflets in front of the station.",
+        "zh": "志愿者在车站前散发宣传单。"
+      },
+      "id": "v000428",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "29ca58b925e0994c71cecd0a0a351ed5b1d716e54c6bbb013794e974ffc17f3e"
+    },
+    {
+      "word": "voyage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvɔɪɪdʒ/",
+        "us": "/ˈvɔɪɪdʒ/"
+      },
+      "meaning": "航行；航海旅行",
+      "collocation": {
+        "en": "maiden voyage",
+        "zh": "首航"
+      },
+      "example": {
+        "en": "The new cruise ship will begin its maiden voyage next month.",
+        "zh": "这艘新邮轮将在下个月开始首航。"
+      },
+      "id": "v000429",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c2ec548e5c42d2e77e74b70b569e8cc2bf1bade46567b4f3d1fc04b3168f8b89"
+    },
+    {
+      "word": "brag",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bræɡ/",
+        "us": "/bræɡ/"
+      },
+      "meaning": "吹嘘；炫耀",
+      "collocation": {
+        "en": "brag about",
+        "zh": "吹嘘……"
+      },
+      "example": {
+        "en": "He is always bragging about his new car.",
+        "zh": "他总喜欢炫耀自己的新车。"
+      },
+      "id": "v000430",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ea0062cffe43fae8bba357becdac8a18e88172f6be05ba197d6a805195976f4d"
+    },
+    {
+      "word": "disgust",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪsˈɡʌst/",
+        "us": "/dɪsˈɡʌst/"
+      },
+      "meaning": "厌恶；反感",
+      "collocation": {
+        "en": "with disgust",
+        "zh": "厌恶地"
+      },
+      "example": {
+        "en": "She looked at the garbage on the ground with disgust.",
+        "zh": "她厌恶地看着地上的垃圾。"
+      },
+      "id": "v000431",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3b4893bf1d88fae4c8a44027a9d8086b3698380f60f4f0dbe6eaebd99844adf2"
+    },
+    {
+      "word": "disgust",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪsˈɡʌst/",
+        "us": "/dɪsˈɡʌst/"
+      },
+      "meaning": "使厌恶；使反感",
+      "collocation": {
+        "en": "be disgusted by/at",
+        "zh": "对……感到厌恶"
+      },
+      "example": {
+        "en": "Everyone was disgusted by the dishonest behavior.",
+        "zh": "大家都对这种欺骗行为感到厌恶。"
+      },
+      "id": "v000432",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "43c2ca21d4d0207538691463ced95c532a3eb0f04c7fc10b35b873bd5b3693d3"
+    },
+    {
+      "word": "mad",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/mæd/",
+        "us": "/mæd/"
+      },
+      "meaning": "生气的；愤怒的",
+      "collocation": {
+        "en": "be mad at",
+        "zh": "生……的气"
+      },
+      "example": {
+        "en": "She was mad at me for forgetting the appointment.",
+        "zh": "她因为我忘记了约会而生我的气。"
+      },
+      "id": "v000433",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a5d9148d058659a02dead995928257687f34ea2f6290ed7ea275da8d034f0850"
+    },
+    {
+      "word": "mad",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/mæd/",
+        "us": "/mæd/"
+      },
+      "meaning": "疯狂的；着迷的",
+      "collocation": {
+        "en": "be mad about",
+        "zh": "非常喜欢；迷恋……"
+      },
+      "example": {
+        "en": "He is mad about football.",
+        "zh": "他非常喜欢足球。"
+      },
+      "id": "v000434",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "93371f8e51df9a75f0d9cdccefb8f79103aba4aac09b5a6093252b636b5c5297"
+    },
+    {
+      "word": "offensive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əˈfensɪv/",
+        "us": "/əˈfensɪv/"
+      },
+      "meaning": "冒犯的；令人不快的",
+      "collocation": {
+        "en": "offensive language",
+        "zh": "冒犯性语言"
+      },
+      "example": {
+        "en": "The company prohibits offensive language in the workplace.",
+        "zh": "公司禁止在工作场所使用冒犯性语言。"
+      },
+      "id": "v000435",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c5b20a50bf0647f0031ec5ee8c03b98ce43e3c27832f4bb56e34ac30b8be8e36"
+    },
+    {
+      "word": "offensive",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈfensɪv/",
+        "us": "/əˈfensɪv/"
+      },
+      "meaning": "攻势；进攻行动",
+      "collocation": {
+        "en": "launch an offensive",
+        "zh": "发动攻势"
+      },
+      "example": {
+        "en": "The army launched a new offensive at dawn.",
+        "zh": "军队在清晨发动了新的攻势。"
+      },
+      "id": "v000436",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "36aadd1fe44402e508dbd3971752a3ce8b1f0ac878b414674bd04f3c5c0b986d"
+    },
+    {
+      "word": "compliment",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒmplɪmənt/",
+        "us": "/ˈkɑːmplɪmənt/"
+      },
+      "meaning": "赞美；称赞",
+      "collocation": {
+        "en": "pay someone a compliment",
+        "zh": "称赞某人"
+      },
+      "example": {
+        "en": "The manager paid her a compliment on her excellent presentation.",
+        "zh": "经理称赞了她出色的演讲。"
+      },
+      "id": "v000437",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "755d9a593e1450801b7b4302b7bf1b1cd125b5ea0d4206b2281000d3606be54b"
+    },
+    {
+      "word": "compliment",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkɒmplɪment/",
+        "us": "/ˈkɑːmplɪment/"
+      },
+      "meaning": "称赞；赞美",
+      "collocation": {
+        "en": "compliment someone on",
+        "zh": "就……称赞某人"
+      },
+      "example": {
+        "en": "His colleagues complimented him on his professional performance.",
+        "zh": "同事们称赞了他的专业表现。"
+      },
+      "id": "v000438",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7d3bb759718b6a6fd3cd5af7b8bd2f110c8e71c5760c388af8e76f0120ccf5b7"
+    },
+    {
+      "word": "eloquent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈeləkwənt/",
+        "us": "/ˈeləkwənt/"
+      },
+      "meaning": "雄辩的；表达有力的",
+      "collocation": {
+        "en": "eloquent speech",
+        "zh": "有感染力的演讲"
+      },
+      "example": {
+        "en": "She gave an eloquent speech.",
+        "zh": "她发表了一篇非常有感染力的演讲。"
+      },
+      "id": "v000439",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d130bca4c2ad81096cd3dd22d48804ca7bd4a41b8f6459e8df98137cdf2e5225"
+    },
+    {
+      "word": "sailing",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈseɪlɪŋ/",
+        "us": "/ˈseɪlɪŋ/"
+      },
+      "meaning": "帆船运动；航行",
+      "collocation": {
+        "en": "go sailing",
+        "zh": "去航海/玩帆船"
+      },
+      "example": {
+        "en": "They like to go sailing when the weather is good.",
+        "zh": "天气好的时候他们喜欢去玩帆船。"
+      },
+      "id": "v000440",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c292c7a79f46f530a4ce5f59fcd1d6748ed411da8da3125edceea701bbfe4f45"
+    },
+    {
+      "word": "sledding",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsledɪŋ/",
+        "us": "/ˈsledɪŋ/"
+      },
+      "meaning": "滑雪橇",
+      "collocation": {
+        "en": "go sledding",
+        "zh": "去滑雪橇"
+      },
+      "example": {
+        "en": "The children like to go sledding in winter.",
+        "zh": "孩子们冬天喜欢去滑雪橇。"
+      },
+      "id": "v000441",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ca35cda641820891c4f5948c81f71ef5c44fd5384e22a61de54d4b86e9af6c7f"
+    },
+    {
+      "word": "bewildering",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/bɪˈwɪldərɪŋ/",
+        "us": "/bɪˈwɪldərɪŋ/"
+      },
+      "meaning": "令人困惑的；使人眼花缭乱的",
+      "collocation": {
+        "en": "bewildering array of",
+        "zh": "令人眼花缭乱的各种……"
+      },
+      "example": {
+        "en": "The store offers a bewildering array of products.",
+        "zh": "商店里有各种各样令人眼花缭乱的商品。"
+      },
+      "id": "v000442",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aadd145932b995181627366ee54e62da11a161e59bfe29c667bb5952e79b4ca9"
+    },
+    {
+      "word": "charter",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtʃɑːtə(r)/",
+        "us": "/ˈtʃɑːrtər/"
+      },
+      "meaning": "宪章；章程",
+      "collocation": {
+        "en": "company charter",
+        "zh": "公司章程"
+      },
+      "example": {
+        "en": "The board revised the company's charter.",
+        "zh": "董事会修改了公司的章程。"
+      },
+      "id": "v000443",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "40bba981b30f1dcc470a4701cc0dc5d3e435611eb259d25cbdbb7344f026ae9f"
+    },
+    {
+      "word": "charter",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈtʃɑːtə(r)/",
+        "us": "/ˈtʃɑːrtər/"
+      },
+      "meaning": "包租；租用（飞机、船等）",
+      "collocation": {
+        "en": "charter a plane",
+        "zh": "包租飞机"
+      },
+      "example": {
+        "en": "The company chartered a plane to transport its employees.",
+        "zh": "公司包租了一架飞机运送员工。"
+      },
+      "id": "v000444",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d152ece193890b9b0edce6376a7f1df9975092f9d0044bc225b3df13a36b98db"
+    },
+    {
+      "word": "sequel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsiːkwəl/",
+        "us": "/ˈsiːkwəl/"
+      },
+      "meaning": "续集；续篇",
+      "collocation": {
+        "en": "a sequel to",
+        "zh": "……的续集"
+      },
+      "example": {
+        "en": "This movie is a sequel to last year's hit.",
+        "zh": "这部电影是去年热门影片的续集。"
+      },
+      "id": "v000445",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "78646a2c6eeaa064bf08b566e673ac8d9d46e77d5405c2ec23cd93f74c27333e"
+    },
+    {
+      "word": "envoy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈenvɔɪ/",
+        "us": "/ˈenvɔɪ/"
+      },
+      "meaning": "使节；特使",
+      "collocation": {
+        "en": "special envoy",
+        "zh": "特使"
+      },
+      "example": {
+        "en": "The government sent a special envoy to the negotiations.",
+        "zh": "政府派遣了一名特使参加谈判。"
+      },
+      "id": "v000446",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e622afa3cf03a99a4c7d800f1f49fa7af8f688b7d0471f95e274b261bfca0072"
+    },
+    {
+      "word": "ethnic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈeθnɪk/",
+        "us": "/ˈeθnɪk/"
+      },
+      "meaning": "民族的；族群的",
+      "collocation": {
+        "en": "ethnic group",
+        "zh": "族群"
+      },
+      "example": {
+        "en": "The city is home to many different ethnic groups.",
+        "zh": "这个城市居住着多个不同的族群。"
+      },
+      "id": "v000447",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d5bc1160b2371b1985ce9dfee5879e8b080b95205fce6b67e57da77193b48292"
+    },
+    {
+      "word": "minority",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/maɪˈnɒrəti/",
+        "us": "/maɪˈnɔːrəti/"
+      },
+      "meaning": "少数；少数群体",
+      "collocation": {
+        "en": "ethnic minority",
+        "zh": "少数民族/族群"
+      },
+      "example": {
+        "en": "The program aims to improve educational opportunities for ethnic minorities.",
+        "zh": "该计划旨在改善少数群体的教育机会。"
+      },
+      "id": "v000448",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "888f99f463079d010d8182a87e9a98379038c751dd9fdb169c0db9bc41aa3da0"
+    },
+    {
+      "word": "ulcer",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈʌlsə(r)/",
+        "us": "/ˈʌlsər/"
+      },
+      "meaning": "溃疡",
+      "collocation": {
+        "en": "stomach ulcer",
+        "zh": "胃溃疡"
+      },
+      "example": {
+        "en": "The doctor suspected that he had a stomach ulcer.",
+        "zh": "医生怀疑他患有胃溃疡。"
+      },
+      "id": "v000449",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9a229f1b4a4ba6e05c196a823a353459d4bb3b49ca388410d2eb85af3162c8be"
+    },
+    {
+      "word": "dope",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dəʊp/",
+        "us": "/doʊp/"
+      },
+      "meaning": "毒品；麻醉剂（非正式）",
+      "collocation": {
+        "en": "illegal dope",
+        "zh": "非法毒品"
+      },
+      "example": {
+        "en": "Police found illegal dope in the car.",
+        "zh": "警方在车内发现了非法毒品。"
+      },
+      "id": "v000450",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7a3002663894ee2242af91f6983885a47b350b7568e189a1482e63949743f545"
+    }
+  ]
+}

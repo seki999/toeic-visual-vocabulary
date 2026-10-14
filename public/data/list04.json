@@ -1,0 +1,1107 @@
+{
+  "id": "list04",
+  "title": "List 04",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "facade",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fəˈsɑːd/",
+        "us": "/fəˈsɑːd/"
+      },
+      "meaning": "假象；表面",
+      "collocation": {
+        "en": "behind a facade of",
+        "zh": "在……的表象背后"
+      },
+      "example": {
+        "en": "Behind a facade of confidence, he was actually very nervous.",
+        "zh": "他在自信的外表背后其实很紧张。"
+      },
+      "id": "v000151",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3b086567314d9eb531eea3815787c7f252a46bd699b35a109dbff686fd623b49"
+    },
+    {
+      "word": "decoy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdiːkɔɪ/",
+        "us": "/ˈdiːkɔɪ/"
+      },
+      "meaning": "诱饵；诱骗物",
+      "collocation": {
+        "en": "use as a decoy",
+        "zh": "用作诱饵"
+      },
+      "example": {
+        "en": "The police used a fake car as a decoy.",
+        "zh": "警方用一辆假车作为诱饵。"
+      },
+      "id": "v000152",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dd2f89c278785080303d6c78985c90577c6930eccede10d2493923e7ca28858b"
+    },
+    {
+      "word": "decoy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈkɔɪ/",
+        "us": "/dɪˈkɔɪ/"
+      },
+      "meaning": "诱骗；引诱",
+      "collocation": {
+        "en": "decoy someone into",
+        "zh": "诱骗某人进入……"
+      },
+      "example": {
+        "en": "They tried to decoy the suspect into the warehouse.",
+        "zh": "他们试图把嫌疑人诱骗进仓库。"
+      },
+      "id": "v000153",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "00ea7c3473d31d3ffa36dabfb01561f474e6ee4db7c430cf42e467c2eaf09860"
+    },
+    {
+      "word": "convoy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒnvɔɪ/",
+        "us": "/ˈkɑːnvɔɪ/"
+      },
+      "meaning": "车队；护航队",
+      "collocation": {
+        "en": "military convoy",
+        "zh": "军用车队"
+      },
+      "example": {
+        "en": "A military convoy passed through the town.",
+        "zh": "一支军用车队穿过了城镇。"
+      },
+      "id": "v000154",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5e2ae961be5f0af827b4cb422e26b55b272b17745ab15b96f9360b48e2144f1e"
+    },
+    {
+      "word": "convoy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈvɔɪ/",
+        "us": "/ˈkɑːnvɔɪ/"
+      },
+      "meaning": "护送；护航",
+      "collocation": {
+        "en": "convoy ships",
+        "zh": "为船只护航"
+      },
+      "example": {
+        "en": "Warships were assigned to convoy the merchant ships.",
+        "zh": "军舰负责为商船护航。"
+      },
+      "id": "v000155",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "55e857dde579811f32b013771d079c55a47b3048ac5a620cf07c51c8f423b53e"
+    },
+    {
+      "word": "culminate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkʌlmɪneɪt/",
+        "us": "/ˈkʌlmɪneɪt/"
+      },
+      "meaning": "达到高潮；最终导致",
+      "collocation": {
+        "en": "culminate in",
+        "zh": "最终导致……"
+      },
+      "example": {
+        "en": "Years of research culminated in a major breakthrough.",
+        "zh": "多年的研究最终促成了一项重大突破。"
+      },
+      "id": "v000156",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c787fc402d8f229369741010b124d0d385e653941b2d8cdd68d98df585471f0b"
+    },
+    {
+      "word": "lessen",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈlesn/",
+        "us": "/ˈlesn/"
+      },
+      "meaning": "减轻；减少",
+      "collocation": {
+        "en": "lessen the impact",
+        "zh": "减轻影响"
+      },
+      "example": {
+        "en": "These measures will help lessen the economic impact.",
+        "zh": "这些措施有助于减轻经济冲击。"
+      },
+      "id": "v000157",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e04b982b40eae057542fc789931b0832ad2a048c40c9607df855af4bc87f7b11"
+    },
+    {
+      "word": "imperative",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪmˈperətɪv/",
+        "us": "/ɪmˈperətɪv/"
+      },
+      "meaning": "极重要的；必要的",
+      "collocation": {
+        "en": "it is imperative to",
+        "zh": "做……至关重要"
+      },
+      "example": {
+        "en": "It is imperative to back up important data regularly.",
+        "zh": "及时备份重要数据至关重要。"
+      },
+      "id": "v000158",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f8a750fa918c2456678a21c9f748d9ff89652f4436e0b4930d203861e2025275"
+    },
+    {
+      "word": "imperative",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪmˈperətɪv/",
+        "us": "/ɪmˈperətɪv/"
+      },
+      "meaning": "必要的事；紧迫任务",
+      "collocation": {
+        "en": "business imperative",
+        "zh": "商业上的必要任务"
+      },
+      "example": {
+        "en": "Improving cybersecurity has become a business imperative.",
+        "zh": "提高网络安全已成为企业的一项紧迫任务。"
+      },
+      "id": "v000159",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cb995c1b2ec7dfdfb3092e4e6e1ffc3bb4111d282a22739ededef8a82b93012e"
+    },
+    {
+      "word": "obscure",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əbˈskjʊə(r)/",
+        "us": "/əbˈskjʊr/"
+      },
+      "meaning": "鲜为人知的；晦涩的",
+      "collocation": {
+        "en": "obscure reference",
+        "zh": "晦涩的典故/提及"
+      },
+      "example": {
+        "en": "The book contains many obscure historical references.",
+        "zh": "这本书里有很多晦涩的历史典故。"
+      },
+      "id": "v000160",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0465358792937fa61eabc97c5de5a6306ebb0e6dede9c3044d5d34d6ad448665"
+    },
+    {
+      "word": "obscure",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əbˈskjʊə(r)/",
+        "us": "/əbˈskjʊr/"
+      },
+      "meaning": "遮掩；使模糊",
+      "collocation": {
+        "en": "obscure the truth",
+        "zh": "掩盖真相"
+      },
+      "example": {
+        "en": "The complex data obscured the real problem.",
+        "zh": "复杂的数据反而掩盖了真正的问题。"
+      },
+      "id": "v000161",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9451434c28fb96247b5b006c7516f67b1bf7d676c46f059d11996d7edb390690"
+    },
+    {
+      "word": "tangible",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtændʒəbl/",
+        "us": "/ˈtændʒəbl/"
+      },
+      "meaning": "有形的；切实的；明确的",
+      "collocation": {
+        "en": "tangible benefits",
+        "zh": "切实的好处"
+      },
+      "example": {
+        "en": "The new system has already produced tangible efficiency gains.",
+        "zh": "新系统已经带来了切实的效率提升。"
+      },
+      "id": "v000162",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d8863ba24bb08daae015c9c20b8c2bec1205ab291d6a0abce5d1a207ef6c770a"
+    },
+    {
+      "word": "testimonial",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌtestɪˈməʊniəl/",
+        "us": "/ˌtestɪˈmoʊniəl/"
+      },
+      "meaning": "推荐信；证明书；用户评价",
+      "collocation": {
+        "en": "customer testimonial",
+        "zh": "客户评价"
+      },
+      "example": {
+        "en": "The website features several customer testimonials.",
+        "zh": "网站上展示了多条客户评价。"
+      },
+      "id": "v000163",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4b2b09e88e3c13e2a3bcc79cb22ef1a833cc53a6f656268c0f97f4194f436dec"
+    },
+    {
+      "word": "superb",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/suːˈpɜːb/",
+        "us": "/suːˈpɜːrb/"
+      },
+      "meaning": "极好的；杰出的",
+      "collocation": {
+        "en": "superb performance",
+        "zh": "出色的表现"
+      },
+      "example": {
+        "en": "She gave a superb performance in the presentation.",
+        "zh": "她在演讲中表现得非常出色。"
+      },
+      "id": "v000164",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9247e6da5a9a566963233567d1abf8266bc1b4d6e51a56b6218a6ec085724846"
+    },
+    {
+      "word": "elicit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈlɪsɪt/",
+        "us": "/ɪˈlɪsɪt/"
+      },
+      "meaning": "引出；诱出（反应、信息等）",
+      "collocation": {
+        "en": "elicit a response",
+        "zh": "引起反应"
+      },
+      "example": {
+        "en": "The question failed to elicit any response from the audience.",
+        "zh": "这个问题没有引起听众的任何反应。"
+      },
+      "id": "v000165",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7983a0589e90f99c9fc568cb264f1f627a4b3a262fd1ed6ec4ba9dd8c594e982"
+    },
+    {
+      "word": "voucher",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvaʊtʃə(r)/",
+        "us": "/ˈvaʊtʃər/"
+      },
+      "meaning": "代金券；凭证",
+      "collocation": {
+        "en": "gift voucher",
+        "zh": "礼品券"
+      },
+      "example": {
+        "en": "The company gave each employee a gift voucher.",
+        "zh": "公司给每位员工发了一张礼品券。"
+      },
+      "id": "v000166",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8268133bee4a2b0ea94bccfe09518a357d8cac8aad767c54fa5e7a3e2f616930"
+    },
+    {
+      "word": "fare",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/feə(r)/",
+        "us": "/fer/"
+      },
+      "meaning": "交通费；票价",
+      "collocation": {
+        "en": "bus fare",
+        "zh": "公交车票价"
+      },
+      "example": {
+        "en": "Bus fares will increase next year.",
+        "zh": "公交车票价明年将会上涨。"
+      },
+      "id": "v000167",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f720149cf1552a1da3bde22f959e4ec8a914fe90c27b5ac34ef2f21a4fb57094"
+    },
+    {
+      "word": "fare",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/feə(r)/",
+        "us": "/fer/"
+      },
+      "meaning": "表现；进展",
+      "collocation": {
+        "en": "fare well/badly",
+        "zh": "表现良好/糟糕"
+      },
+      "example": {
+        "en": "The company fared quite well during the economic downturn.",
+        "zh": "这家公司在经济低迷时期表现得相当不错。"
+      },
+      "id": "v000168",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6070d9ca927f3273d2cd2ed21b813c26cfc78fc2b284ad128dec796c55cc47e9"
+    },
+    {
+      "word": "harbinger",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈhɑːbɪndʒə(r)/",
+        "us": "/ˈhɑːrbɪndʒər/"
+      },
+      "meaning": "先兆；预示者",
+      "collocation": {
+        "en": "harbinger of",
+        "zh": "……的先兆"
+      },
+      "example": {
+        "en": "Rising temperatures may be a harbinger of a hotter summer.",
+        "zh": "气温上升可能是更炎热夏季的先兆。"
+      },
+      "id": "v000169",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7f31f02534ed77ec982aaff6e296a352af496947ecbca6a8a33133ad9e59db8a"
+    },
+    {
+      "word": "provisional",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prəˈvɪʒənl/",
+        "us": "/prəˈvɪʒənl/"
+      },
+      "meaning": "临时的；暂定的",
+      "collocation": {
+        "en": "provisional schedule",
+        "zh": "暂定日程"
+      },
+      "example": {
+        "en": "The provisional schedule for the meeting has been sent to everyone.",
+        "zh": "会议的暂定日程已经发给大家。"
+      },
+      "id": "v000170",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9b1e543662b9ac7fca3208d60c01f5248b188ce399e8078fd2755bae166a3783"
+    },
+    {
+      "word": "resurrect",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌrezəˈrekt/",
+        "us": "/ˌrezəˈrekt/"
+      },
+      "meaning": "使复活；重新启用",
+      "collocation": {
+        "en": "resurrect a plan",
+        "zh": "重新启动计划"
+      },
+      "example": {
+        "en": "The company decided to resurrect the plan that was shelved last year.",
+        "zh": "公司决定重新启动去年搁置的计划。"
+      },
+      "id": "v000171",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "30bc8d95dde46ff3487ffac265b8abe10c0a7d93a04dcf4868390a65dafa9ea8"
+    },
+    {
+      "word": "holistic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/həˈlɪstɪk/",
+        "us": "/hoʊˈlɪstɪk/"
+      },
+      "meaning": "整体的；全面的",
+      "collocation": {
+        "en": "holistic approach",
+        "zh": "整体性方法"
+      },
+      "example": {
+        "en": "We need a holistic approach to solving this problem.",
+        "zh": "我们需要用全面的方法解决这个问题。"
+      },
+      "id": "v000172",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "651bdc067c96b73862df1d5ddd632ab44d31848204bc9e5997ae9b6f79f359fd"
+    },
+    {
+      "word": "contemporary",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈtempərəri/",
+        "us": "/kənˈtempəreri/"
+      },
+      "meaning": "当代的；现代的",
+      "collocation": {
+        "en": "contemporary society",
+        "zh": "当代社会"
+      },
+      "example": {
+        "en": "The novel reflects problems in contemporary society.",
+        "zh": "这部小说反映了当代社会的问题。"
+      },
+      "id": "v000173",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d218901f39907051c1727cb32d94328c73826a655a91d3860c802b25094c7023"
+    },
+    {
+      "word": "contemporary",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈtempərəri/",
+        "us": "/kənˈtempəreri/"
+      },
+      "meaning": "同代人；同时代的人",
+      "collocation": {
+        "en": "a contemporary of",
+        "zh": "与……同时代的人"
+      },
+      "example": {
+        "en": "Newton was a contemporary of many famous scientists.",
+        "zh": "牛顿是许多著名科学家的同时代人。"
+      },
+      "id": "v000174",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "840f296e0a30c0f04bc3af58dbf5a6bdbbbed20864ced45b1e77b2306331d5a1"
+    },
+    {
+      "word": "bouquet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/buˈkeɪ/",
+        "us": "/buˈkeɪ/"
+      },
+      "meaning": "花束",
+      "collocation": {
+        "en": "a bouquet of flowers",
+        "zh": "一束花"
+      },
+      "example": {
+        "en": "She received a beautiful bouquet of flowers.",
+        "zh": "她收到了一束漂亮的鲜花。"
+      },
+      "id": "v000175",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "41671cbc0457449897adbc3cdb9a0d949d0809effbc18db7dae90135aed1cbe1"
+    },
+    {
+      "word": "bouquet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/buˈkeɪ/",
+        "us": "/buˈkeɪ/"
+      },
+      "meaning": "（酒的）芳香",
+      "collocation": {
+        "en": "wine bouquet",
+        "zh": "葡萄酒香气"
+      },
+      "example": {
+        "en": "This wine has a rich fruity bouquet.",
+        "zh": "这款葡萄酒有一种浓郁的果香。"
+      },
+      "id": "v000176",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bad480aa3d14b274dd65176240c858ed2674759bbfbd3cdc47e67fdaba52f921"
+    },
+    {
+      "word": "casino",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈsiːnəʊ/",
+        "us": "/kəˈsiːnoʊ/"
+      },
+      "meaning": "赌场",
+      "collocation": {
+        "en": "casino resort",
+        "zh": "赌场度假村"
+      },
+      "example": {
+        "en": "They visited a large casino resort during their trip.",
+        "zh": "他们在旅行中参观了一家大型赌场度假村。"
+      },
+      "id": "v000177",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d47fb99f07ffd853cd7b5b7ec9cd5953cc9ebea2947dfa7ecc83c80c8b684b38"
+    },
+    {
+      "word": "hustle-bustle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌhʌsl ən ˈbʌsl/",
+        "us": "/ˌhʌsl ən ˈbʌsl/"
+      },
+      "meaning": "喧嚣；忙乱",
+      "collocation": {
+        "en": "the hustle and bustle of",
+        "zh": "……的喧嚣忙碌"
+      },
+      "example": {
+        "en": "He enjoys getting away from the hustle and bustle of the city.",
+        "zh": "他喜欢远离城市的喧嚣。"
+      },
+      "id": "v000178",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9cd5cfb092b88763dc9729cc7323b63b07b6c4d25516d9a4570ebf352160833f"
+    },
+    {
+      "word": "manifold",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmænɪfəʊld/",
+        "us": "/ˈmænɪfoʊld/"
+      },
+      "meaning": "多种多样的；多方面的",
+      "collocation": {
+        "en": "manifold benefits",
+        "zh": "多方面的好处"
+      },
+      "example": {
+        "en": "The project has brought manifold benefits.",
+        "zh": "这个项目带来了多方面的好处。"
+      },
+      "id": "v000179",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e1c0c7fd5e3777ba1bd27bf37f3379c01e61c41a6f0fb0016ba36ce94ee6862"
+    },
+    {
+      "word": "manifold",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmænɪfəʊld/",
+        "us": "/ˈmænɪfoʊld/"
+      },
+      "meaning": "歧管；集管",
+      "collocation": {
+        "en": "intake manifold",
+        "zh": "进气歧管"
+      },
+      "example": {
+        "en": "The mechanic inspected the engine's intake manifold.",
+        "zh": "技师检查了发动机的进气歧管。"
+      },
+      "id": "v000180",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aae6fb3095e4e74b049afcef0edd450c3441f16c0ca5dd6c7854d572057e6496"
+    },
+    {
+      "word": "ebullient",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪˈbʌliənt/",
+        "us": "/ɪˈbʌliənt/"
+      },
+      "meaning": "热情洋溢的；兴高采烈的",
+      "collocation": {
+        "en": "ebullient personality",
+        "zh": "热情开朗的性格"
+      },
+      "example": {
+        "en": "Her ebullient personality energized the whole team.",
+        "zh": "她热情开朗的性格感染了整个团队。"
+      },
+      "id": "v000181",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a612fcac504f3ce4bbfecebb4aaa8a3a74cc136bdc9f41eb94d46308bb0b6c11"
+    },
+    {
+      "word": "enervate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈenəveɪt/",
+        "us": "/ˈenərveɪt/"
+      },
+      "meaning": "使衰弱；使失去活力",
+      "collocation": {
+        "en": "be enervated by",
+        "zh": "因……而精疲力竭"
+      },
+      "example": {
+        "en": "The workers were enervated by the prolonged heat.",
+        "zh": "连续的高温使工人们感到筋疲力尽。"
+      },
+      "id": "v000182",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "592665e2ca744b7eb86fd7b741cee648016a078d861ef7b4315c51bf036867e6"
+    },
+    {
+      "word": "remiss",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/rɪˈmɪs/",
+        "us": "/rɪˈmɪs/"
+      },
+      "meaning": "疏忽的；失职的",
+      "collocation": {
+        "en": "remiss in doing",
+        "zh": "在做……方面疏忽"
+      },
+      "example": {
+        "en": "We would be remiss in failing to check the details of the contract.",
+        "zh": "如果不检查合同细节，我们就是失职。"
+      },
+      "id": "v000183",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7874fff8a12248681294ba5cce824275e6a3e10c28045394de91156be9074513"
+    },
+    {
+      "word": "plausible",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈplɔːzəbl/",
+        "us": "/ˈplɔːzəbl/"
+      },
+      "meaning": "看似合理的；可信的",
+      "collocation": {
+        "en": "plausible explanation",
+        "zh": "合理的解释"
+      },
+      "example": {
+        "en": "He gave a plausible explanation for the delay.",
+        "zh": "他对延误给出了一个看似合理的解释。"
+      },
+      "id": "v000184",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "65f36987db38c93c18a5d0c6e218c98203fad8312d9e287f7b098baa6d86c9e5"
+    },
+    {
+      "word": "auspicious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɔːˈspɪʃəs/",
+        "us": "/ɔːˈspɪʃəs/"
+      },
+      "meaning": "吉利的；有好兆头的",
+      "collocation": {
+        "en": "auspicious occasion",
+        "zh": "吉庆场合"
+      },
+      "example": {
+        "en": "They chose an auspicious day to open the business.",
+        "zh": "他们选择了一个吉利的日子开业。"
+      },
+      "id": "v000185",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e516c4ba1c3cde935aeaea1a2ed833b781900443e1411bf6f472f9bd2943b0b"
+    },
+    {
+      "word": "articulate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɑːˈtɪkjələt/",
+        "us": "/ɑːrˈtɪkjələt/"
+      },
+      "meaning": "善于表达的；表达清楚的",
+      "collocation": {
+        "en": "highly articulate",
+        "zh": "非常善于表达"
+      },
+      "example": {
+        "en": "She is a highly articulate manager.",
+        "zh": "她是一位思路清晰、善于表达的经理。"
+      },
+      "id": "v000186",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "577524ff8d3f8bab1c27b125df0513c9ee3364c8861ca8f4817bb996d0c78d18"
+    },
+    {
+      "word": "articulate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɑːˈtɪkjuleɪt/",
+        "us": "/ɑːrˈtɪkjuleɪt/"
+      },
+      "meaning": "清楚表达",
+      "collocation": {
+        "en": "articulate an idea",
+        "zh": "清楚表达一个想法"
+      },
+      "example": {
+        "en": "He found it difficult to articulate his concerns.",
+        "zh": "他很难清楚表达自己的担忧。"
+      },
+      "id": "v000187",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "adc29d350cd640245edb77463c3591a75e966842ab2c42fe9a718424622f6e4d"
+    },
+    {
+      "word": "criterion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kraɪˈtɪəriən/",
+        "us": "/kraɪˈtɪriən/"
+      },
+      "meaning": "标准；准则",
+      "collocation": {
+        "en": "selection criterion",
+        "zh": "选择标准"
+      },
+      "example": {
+        "en": "Work experience is one of the key selection criteria.",
+        "zh": "工作经验是重要的选择标准之一。"
+      },
+      "id": "v000188",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f31f3a7af41acd119fc49054f9f62c1fabb7fa3977257e41de50f3248093e30b"
+    },
+    {
+      "word": "tournament",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtʊənəmənt/",
+        "us": "/ˈtɝːnəmənt/"
+      },
+      "meaning": "锦标赛；比赛",
+      "collocation": {
+        "en": "tennis tournament",
+        "zh": "网球锦标赛"
+      },
+      "example": {
+        "en": "He took part in a local tennis tournament.",
+        "zh": "他参加了当地的网球锦标赛。"
+      },
+      "id": "v000189",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0eb685c46594b12e0baa7746433dfc12e9109147823f16937105ddd37d418ba8"
+    },
+    {
+      "word": "composition",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒmpəˈzɪʃən/",
+        "us": "/ˌkɑːmpəˈzɪʃən/"
+      },
+      "meaning": "组成；构成",
+      "collocation": {
+        "en": "chemical composition",
+        "zh": "化学成分"
+      },
+      "example": {
+        "en": "The researchers analyzed the chemical composition of the material.",
+        "zh": "研究人员分析了这种材料的化学成分。"
+      },
+      "id": "v000190",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ae002b0048a054539c02d73cd19549e0699af009f8e8585201d8fb67eb106aeb"
+    },
+    {
+      "word": "composition",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒmpəˈzɪʃən/",
+        "us": "/ˌkɑːmpəˈzɪʃən/"
+      },
+      "meaning": "作文；作品；作曲",
+      "collocation": {
+        "en": "write a composition",
+        "zh": "写作文"
+      },
+      "example": {
+        "en": "The teacher asked the students to write a short composition.",
+        "zh": "老师要求学生写一篇短作文。"
+      },
+      "id": "v000191",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a51fa1190a6400656fb52fda531cded0b6e1c11b1fbb12c134e406c82b7ad9fa"
+    },
+    {
+      "word": "jolt",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dʒəʊlt/",
+        "us": "/dʒoʊlt/"
+      },
+      "meaning": "猛震；震动；震惊",
+      "collocation": {
+        "en": "a sudden jolt",
+        "zh": "突然的震动"
+      },
+      "example": {
+        "en": "A sudden jolt of the train woke me up.",
+        "zh": "火车突然震了一下，把我惊醒了。"
+      },
+      "id": "v000192",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3c35c09ca221ceb3ddd1ca2a4d4c506e4739946f8b6cffce820c62b1c0450872"
+    },
+    {
+      "word": "jolt",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dʒəʊlt/",
+        "us": "/dʒoʊlt/"
+      },
+      "meaning": "使震动；使震惊",
+      "collocation": {
+        "en": "jolt someone into doing",
+        "zh": "使某人猛然采取行动"
+      },
+      "example": {
+        "en": "The accident jolted the company into reviewing its safety rules.",
+        "zh": "这次事故使公司开始认真审查安全规定。"
+      },
+      "id": "v000193",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c2abfcf7f74c661afefe301d1879467a3a6d67f839e698395c06beca0cceb03f"
+    },
+    {
+      "word": "enact",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈnækt/",
+        "us": "/ɪˈnækt/"
+      },
+      "meaning": "制定（法律）；通过",
+      "collocation": {
+        "en": "enact legislation",
+        "zh": "制定法律"
+      },
+      "example": {
+        "en": "The government plans to enact new data-protection legislation.",
+        "zh": "政府计划制定新的数据保护法律。"
+      },
+      "id": "v000194",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1936c51cd200bd2ab059fb9e647681e3bb63265aab7d7324e5326c2c874b0f87"
+    },
+    {
+      "word": "unleaded",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ʌnˈledɪd/",
+        "us": "/ʌnˈledɪd/"
+      },
+      "meaning": "无铅的",
+      "collocation": {
+        "en": "unleaded petrol/gasoline",
+        "zh": "无铅汽油"
+      },
+      "example": {
+        "en": "This car must use unleaded petrol.",
+        "zh": "这辆车必须使用无铅汽油。"
+      },
+      "id": "v000195",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "950aa970d7466dab60eebd7850c9d252e3c4e2e49902a1f08f5b27c9994d72b0"
+    },
+    {
+      "word": "bumper",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbʌmpə(r)/",
+        "us": "/ˈbʌmpər/"
+      },
+      "meaning": "保险杠",
+      "collocation": {
+        "en": "front bumper",
+        "zh": "前保险杠"
+      },
+      "example": {
+        "en": "The car's front bumper was damaged in the accident.",
+        "zh": "事故中汽车的前保险杠被撞坏了。"
+      },
+      "id": "v000196",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f20a9d76ea2f9bf6a02e09951bb39bdb06ebb49161c465d0b5319736272375d1"
+    },
+    {
+      "word": "bumper",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈbʌmpə(r)/",
+        "us": "/ˈbʌmpər/"
+      },
+      "meaning": "异常丰收的；数量巨大的",
+      "collocation": {
+        "en": "bumper crop",
+        "zh": "大丰收"
+      },
+      "example": {
+        "en": "Farmers enjoyed a bumper crop this year.",
+        "zh": "今年农民获得了大丰收。"
+      },
+      "id": "v000197",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4b98f8bc475b678942a578fffd17a6c442d16e26a116a9c92decf8991e849252"
+    },
+    {
+      "word": "hood",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hʊd/",
+        "us": "/hʊd/"
+      },
+      "meaning": "兜帽",
+      "collocation": {
+        "en": "pull up one's hood",
+        "zh": "戴上兜帽"
+      },
+      "example": {
+        "en": "He pulled up his hood when it started to rain.",
+        "zh": "下雨后他把兜帽戴了起来。"
+      },
+      "id": "v000198",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c4411767e6e9bddf72d5d0c16b21fb073d0f4034563d719a3d7d6b57ab44feb1"
+    },
+    {
+      "word": "hood",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hʊd/",
+        "us": "/hʊd/"
+      },
+      "meaning": "汽车发动机罩（美式）",
+      "collocation": {
+        "en": "under the hood",
+        "zh": "在发动机罩下面；深入内部"
+      },
+      "example": {
+        "en": "The mechanic looked under the hood to inspect the engine.",
+        "zh": "技师打开了发动机罩检查发动机。"
+      },
+      "id": "v000199",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2c44395c51983f8e7eff71c2b9a349a98cb205e69a616ebe82639c2dc817e083"
+    },
+    {
+      "word": "jaywalk",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdʒeɪwɔːk/",
+        "us": "/ˈdʒeɪwɔːk/"
+      },
+      "meaning": "乱穿马路",
+      "collocation": {
+        "en": "be fined for jaywalking",
+        "zh": "因乱穿马路被罚款"
+      },
+      "example": {
+        "en": "He was warned by the police for jaywalking.",
+        "zh": "他因为乱穿马路被警察警告了。"
+      },
+      "id": "v000200",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d15ea0fde006907241617cbcf2928cbdf47bf099637eeec380744a72eab5b031"
+    }
+  ]
+}

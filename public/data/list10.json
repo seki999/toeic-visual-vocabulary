@@ -1,0 +1,1107 @@
+{
+  "id": "list10",
+  "title": "List 10",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "dope",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dəʊp/",
+        "us": "/doʊp/"
+      },
+      "meaning": "给……服用兴奋剂；掺药",
+      "collocation": {
+        "en": "dope an athlete",
+        "zh": "给运动员使用兴奋剂"
+      },
+      "example": {
+        "en": "The rules strictly prohibit doping athletes.",
+        "zh": "赛事规定严禁给运动员使用兴奋剂。"
+      },
+      "id": "v000451",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80b718610f2c0a021bf12dc4ae3a02382d8e31a5e566eb9fa670fc54bec7de96"
+    },
+    {
+      "word": "strand",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/strænd/",
+        "us": "/strænd/"
+      },
+      "meaning": "一缕；一股；一根",
+      "collocation": {
+        "en": "a strand of hair",
+        "zh": "一缕头发"
+      },
+      "example": {
+        "en": "She removed a strand of hair from her coat.",
+        "zh": "她从外套上拿掉了一根头发。"
+      },
+      "id": "v000452",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3c27a835feccece3b32538ffff2b99657c2d14e8c29c5c9549016d3b34207e5b"
+    },
+    {
+      "word": "strand",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/strænd/",
+        "us": "/strænd/"
+      },
+      "meaning": "使滞留；使搁浅",
+      "collocation": {
+        "en": "be stranded at",
+        "zh": "被困在……"
+      },
+      "example": {
+        "en": "The blizzard left hundreds of travelers stranded at the airport.",
+        "zh": "暴雪导致数百名旅客滞留在机场。"
+      },
+      "id": "v000453",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "95905968e89fe77edaa3693b4e9c4edf730db08b96eb2b5879946e9f77685ae1"
+    },
+    {
+      "word": "vein",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/veɪn/",
+        "us": "/veɪn/"
+      },
+      "meaning": "静脉；血管",
+      "collocation": {
+        "en": "blood vein",
+        "zh": "静脉"
+      },
+      "example": {
+        "en": "The nurse quickly found a suitable vein.",
+        "zh": "护士很快找到了合适的静脉。"
+      },
+      "id": "v000454",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d4596f5dd293cc5f86bae983704339c927e268dedfaf3c8b0c5e38847e84b054"
+    },
+    {
+      "word": "vein",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/veɪn/",
+        "us": "/veɪn/"
+      },
+      "meaning": "风格；方式",
+      "collocation": {
+        "en": "in a similar vein",
+        "zh": "以类似的方式"
+      },
+      "example": {
+        "en": "He continued discussing the issue in a similar vein.",
+        "zh": "他继续以类似的方式讨论这个问题。"
+      },
+      "id": "v000455",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "579c425c6bf60e800a79c8afa4c23f61b8955cb5889ffd744a0ad6aa78c998bb"
+    },
+    {
+      "word": "tumor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtjuːmə(r)/",
+        "us": "/ˈtuːmər/"
+      },
+      "meaning": "肿瘤",
+      "collocation": {
+        "en": "malignant tumor",
+        "zh": "恶性肿瘤"
+      },
+      "example": {
+        "en": "The test results showed that the tumor was benign.",
+        "zh": "检查结果显示肿瘤是良性的。"
+      },
+      "id": "v000456",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9eb929a5daf74ee4e58e90f243311c4ac0896fe18179e93c87e070ff43e7b5bb"
+    },
+    {
+      "word": "tangle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtæŋɡl/",
+        "us": "/ˈtæŋɡl/"
+      },
+      "meaning": "缠结；混乱",
+      "collocation": {
+        "en": "a tangle of wires",
+        "zh": "一团乱线"
+      },
+      "example": {
+        "en": "There was a tangle of wires under the desk.",
+        "zh": "桌子下面有一团缠在一起的电线。"
+      },
+      "id": "v000457",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d0fe542979a169982e2ebbaf0be47807232c16f031e5d5b8f7aa8760c4a41143"
+    },
+    {
+      "word": "tangle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈtæŋɡl/",
+        "us": "/ˈtæŋɡl/"
+      },
+      "meaning": "使缠结；卷入",
+      "collocation": {
+        "en": "get tangled up in",
+        "zh": "卷入；纠缠于……"
+      },
+      "example": {
+        "en": "He did not want to get tangled up in the dispute between his colleagues.",
+        "zh": "他不想卷入同事之间的争执。"
+      },
+      "id": "v000458",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "473ea85fa9b93aa0a67719f762afed4b7bd81f42943c53e141bfbf9fcca0d525"
+    },
+    {
+      "word": "stick",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/stɪk/",
+        "us": "/stɪk/"
+      },
+      "meaning": "棍；棒；枝条",
+      "collocation": {
+        "en": "walking stick",
+        "zh": "手杖"
+      },
+      "example": {
+        "en": "The elderly man uses a walking stick.",
+        "zh": "老人走路时使用一根手杖。"
+      },
+      "id": "v000459",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0075dcb9b30f9a6ee2a70d2a7d833a6470af468202c42f9cd7d1ee775763f0cd"
+    },
+    {
+      "word": "stick",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stɪk/",
+        "us": "/stɪk/"
+      },
+      "meaning": "粘；贴",
+      "collocation": {
+        "en": "stick to",
+        "zh": "粘在；坚持……"
+      },
+      "example": {
+        "en": "The label stuck firmly to the box.",
+        "zh": "标签牢牢地粘在盒子上。"
+      },
+      "id": "v000460",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3b40459be62ddb97b045e3b78b162b2ebe0cda8b4be8ef09f544b51e52bfa31a"
+    },
+    {
+      "word": "stick",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stɪk/",
+        "us": "/stɪk/"
+      },
+      "meaning": "坚持；遵守",
+      "collocation": {
+        "en": "stick to a plan",
+        "zh": "坚持计划"
+      },
+      "example": {
+        "en": "We should stick to the original plan.",
+        "zh": "我们应该坚持原来的计划。"
+      },
+      "id": "v000461",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "de5e5af17fd741198fd261435c52124b3d5c3fdb88ce0c9df22048d7abcabce7"
+    },
+    {
+      "word": "derelict",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈderəlɪkt/",
+        "us": "/ˈderəlɪkt/"
+      },
+      "meaning": "废弃的；破败的",
+      "collocation": {
+        "en": "derelict building",
+        "zh": "废弃建筑"
+      },
+      "example": {
+        "en": "The derelict building has been unused for years.",
+        "zh": "那座废弃建筑已经多年无人使用。"
+      },
+      "id": "v000462",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7854a1bf7444df69f1972c3fade180c66a875d846389d41562ac67b7ffdfa8ea"
+    },
+    {
+      "word": "derelict",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈderəlɪkt/",
+        "us": "/ˈderəlɪkt/"
+      },
+      "meaning": "无家可归者；被遗弃的人（较旧且可能冒犯）",
+      "collocation": {
+        "en": "a homeless derelict",
+        "zh": "无家可归者（旧称）"
+      },
+      "example": {
+        "en": "In modern English, this word is generally avoided when referring to a homeless person.",
+        "zh": "现代英语中通常避免用这个词称呼无家可归者。"
+      },
+      "id": "v000463",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "98f2285093918b1d1b94c735a0e75dd532331d23c0f3ad457f7013aded49c8d8"
+    },
+    {
+      "word": "tune",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/tjuːn/",
+        "us": "/tuːn/"
+      },
+      "meaning": "曲调；旋律",
+      "collocation": {
+        "en": "catchy tune",
+        "zh": "朗朗上口的旋律"
+      },
+      "example": {
+        "en": "The song has a very catchy tune.",
+        "zh": "这首歌有一段非常好记的旋律。"
+      },
+      "id": "v000464",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "85946c47748c416cf9f6557f77ef8ee6acd956af6e7d8c9dda846f9582648bd6"
+    },
+    {
+      "word": "tune",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/tjuːn/",
+        "us": "/tuːn/"
+      },
+      "meaning": "调音；调节",
+      "collocation": {
+        "en": "tune an instrument",
+        "zh": "给乐器调音"
+      },
+      "example": {
+        "en": "He tuned his guitar before the performance.",
+        "zh": "演出前他给吉他调了音。"
+      },
+      "id": "v000465",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "710ac467153933e8bdfadf1b38281fe26d508106de51c80be54a81a6e474dfd8"
+    },
+    {
+      "word": "tune",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/tjuːn/",
+        "us": "/tuːn/"
+      },
+      "meaning": "调整；优化",
+      "collocation": {
+        "en": "tune performance",
+        "zh": "调优性能"
+      },
+      "example": {
+        "en": "The engineer is tuning the database for better performance.",
+        "zh": "工程师正在调整数据库以提高性能。"
+      },
+      "id": "v000466",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7fc6918548475e2f0315421dd3f97c5d609f68e9bae07f9fa4dc3520dc631c21"
+    },
+    {
+      "word": "skull",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/skʌl/",
+        "us": "/skʌl/"
+      },
+      "meaning": "头骨；颅骨",
+      "collocation": {
+        "en": "human skull",
+        "zh": "人类头骨"
+      },
+      "example": {
+        "en": "The museum displays an ancient human skull.",
+        "zh": "博物馆里展示了一个古代人类头骨。"
+      },
+      "id": "v000467",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f8fd23cb0478a3843a21477c7e7e8d8ee0ecd71b96c2c07d43caf70729042ebc"
+    },
+    {
+      "word": "legendary",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈledʒəndri/",
+        "us": "/ˈledʒənderi/"
+      },
+      "meaning": "传奇的；极其著名的",
+      "collocation": {
+        "en": "legendary figure",
+        "zh": "传奇人物"
+      },
+      "example": {
+        "en": "He is a legendary figure in the software industry.",
+        "zh": "他是软件行业的一位传奇人物。"
+      },
+      "id": "v000468",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c6490fd13a5c3bc04ec8939848ce6a77ec7edcfbe52edb146c4937d21806aa12"
+    },
+    {
+      "word": "shrug",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ʃrʌɡ/",
+        "us": "/ʃrʌɡ/"
+      },
+      "meaning": "耸肩",
+      "collocation": {
+        "en": "shrug one's shoulders",
+        "zh": "耸肩"
+      },
+      "example": {
+        "en": "He just shrugged his shoulders and did not answer.",
+        "zh": "他只是耸了耸肩，没有回答。"
+      },
+      "id": "v000469",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f2463284738f064bbb9d3ec91207170ff93953831846e9d8ce359d451235a434"
+    },
+    {
+      "word": "shrug",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ʃrʌɡ/",
+        "us": "/ʃrʌɡ/"
+      },
+      "meaning": "耸肩动作",
+      "collocation": {
+        "en": "with a shrug",
+        "zh": "耸耸肩"
+      },
+      "example": {
+        "en": "She responded with a shrug to show that she did not know either.",
+        "zh": "她耸了耸肩，表示自己也不知道。"
+      },
+      "id": "v000470",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "134832d5ac5de2b7bae86f06ac29b784bad89879568fd57dcbeb5189bbdf585e"
+    },
+    {
+      "word": "rhetoric",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈretərɪk/",
+        "us": "/ˈretərɪk/"
+      },
+      "meaning": "修辞；华丽言辞",
+      "collocation": {
+        "en": "political rhetoric",
+        "zh": "政治言辞"
+      },
+      "example": {
+        "en": "Voters are tired of empty political rhetoric.",
+        "zh": "选民对空洞的政治言辞感到厌倦。"
+      },
+      "id": "v000471",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b014071a73da91abd8622eb8ce6b55eb174e6fb2659903d70188f19f9153b0f2"
+    },
+    {
+      "word": "prejudice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpredʒudɪs/",
+        "us": "/ˈpredʒədɪs/"
+      },
+      "meaning": "偏见；成见",
+      "collocation": {
+        "en": "prejudice against",
+        "zh": "对……的偏见"
+      },
+      "example": {
+        "en": "Education can help reduce prejudice against different groups.",
+        "zh": "教育有助于减少对不同群体的偏见。"
+      },
+      "id": "v000472",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e37fb48020652a01db69b678d76900217b0e75f357fe5b4cebc5616806fdf5d"
+    },
+    {
+      "word": "prejudice",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpredʒudɪs/",
+        "us": "/ˈpredʒədɪs/"
+      },
+      "meaning": "使产生偏见；损害",
+      "collocation": {
+        "en": "prejudice a case",
+        "zh": "损害案件的公正审理"
+      },
+      "example": {
+        "en": "Public comments could prejudice the case.",
+        "zh": "公开评论可能影响案件的公正审理。"
+      },
+      "id": "v000473",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d740cc52375f192ba02cbd711785e502caac85a2e71a44967fef5dc8f30806b0"
+    },
+    {
+      "word": "plea",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pliː/",
+        "us": "/pliː/"
+      },
+      "meaning": "恳求；请求",
+      "collocation": {
+        "en": "make a plea for",
+        "zh": "恳求……"
+      },
+      "example": {
+        "en": "The doctor made a plea for greater public attention to mental health.",
+        "zh": "医生呼吁公众更多关注心理健康。"
+      },
+      "id": "v000474",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4b235186ede33d52d4e3d7ccfb3ed964a77bba383650eeb2ac5bf3a2a4bc79f0"
+    },
+    {
+      "word": "plea",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pliː/",
+        "us": "/pliː/"
+      },
+      "meaning": "答辩；认罪态度（法律）",
+      "collocation": {
+        "en": "enter a guilty plea",
+        "zh": "认罪"
+      },
+      "example": {
+        "en": "The defendant entered a guilty plea in court.",
+        "zh": "被告在法庭上表示认罪。"
+      },
+      "id": "v000475",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "531c1a822eaadf89307356d609af6f58d3b509d6fa166fbbeadc9afc3a403e20"
+    },
+    {
+      "word": "soil",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/sɔɪl/",
+        "us": "/sɔɪl/"
+      },
+      "meaning": "土壤；土地",
+      "collocation": {
+        "en": "fertile soil",
+        "zh": "肥沃的土壤"
+      },
+      "example": {
+        "en": "This crop grows well in fertile soil.",
+        "zh": "这种作物在肥沃的土壤中生长得很好。"
+      },
+      "id": "v000476",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "123cbde015aa9aad7001a7dbbbfe0f245efa0851bfa8559e37687728120f31a6"
+    },
+    {
+      "word": "soil",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/sɔɪl/",
+        "us": "/sɔɪl/"
+      },
+      "meaning": "弄脏；玷污",
+      "collocation": {
+        "en": "soil one's clothes",
+        "zh": "弄脏衣服"
+      },
+      "example": {
+        "en": "The child soiled his clothes while playing.",
+        "zh": "孩子玩耍时把衣服弄脏了。"
+      },
+      "id": "v000477",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d4008ee4d4aeb356fbddd66c22284f233d11d24241475054a4b74c57c486ac58"
+    },
+    {
+      "word": "turbid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtɜːbɪd/",
+        "us": "/ˈtɜːrbɪd/"
+      },
+      "meaning": "浑浊的；混乱难懂的",
+      "collocation": {
+        "en": "turbid water",
+        "zh": "浑浊的水"
+      },
+      "example": {
+        "en": "The river water became very turbid after the heavy rain.",
+        "zh": "暴雨过后河水变得非常浑浊。"
+      },
+      "id": "v000478",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "15dc200eae1e21a2445eaaae7e80fd71af85ed91ace055080ac629a3b396ae0b"
+    },
+    {
+      "word": "pill",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pɪl/",
+        "us": "/pɪl/"
+      },
+      "meaning": "药丸；片剂",
+      "collocation": {
+        "en": "take a pill",
+        "zh": "服药片"
+      },
+      "example": {
+        "en": "The doctor told him to take a pill after meals every day.",
+        "zh": "医生让他每天饭后服一片药。"
+      },
+      "id": "v000479",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f7726ab691a7adfcb86fb3bd8bb2fd83853ce697101cc87033bca8b90ca92c85"
+    },
+    {
+      "word": "pill",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pɪl/",
+        "us": "/pɪl/"
+      },
+      "meaning": "口服避孕药",
+      "collocation": {
+        "en": "the pill",
+        "zh": "口服避孕药"
+      },
+      "example": {
+        "en": "She asked her doctor for information about the pill.",
+        "zh": "她向医生咨询了口服避孕药的相关信息。"
+      },
+      "id": "v000480",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8199180cc5267313b9d39b02ed047f9a4866857928f8e5bb3e80d2b5fe5946df"
+    },
+    {
+      "word": "alloy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈælɔɪ/",
+        "us": "/ˈælɔɪ/"
+      },
+      "meaning": "合金",
+      "collocation": {
+        "en": "aluminum alloy",
+        "zh": "铝合金"
+      },
+      "example": {
+        "en": "This part is made of a lightweight aluminum alloy.",
+        "zh": "这个零件由轻质铝合金制成。"
+      },
+      "id": "v000481",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ec79e076856f3bbd071cd1e30e33f9dc436f937e5b585afc6ed4df08ae01bec5"
+    },
+    {
+      "word": "alloy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈlɔɪ/",
+        "us": "/əˈlɔɪ/"
+      },
+      "meaning": "使成合金；掺合",
+      "collocation": {
+        "en": "alloy A with B",
+        "zh": "把A与B制成合金"
+      },
+      "example": {
+        "en": "The manufacturer alloys copper with other metals.",
+        "zh": "制造商把铜和其他金属制成合金。"
+      },
+      "id": "v000482",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7ae91412dbedbd38d1e05567c9b5e8d8c8e1ca75ec917f6dfe491def4bf963f7"
+    },
+    {
+      "word": "paltry",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈpɔːltri/",
+        "us": "/ˈpɔːltri/"
+      },
+      "meaning": "微不足道的；少得可怜的",
+      "collocation": {
+        "en": "a paltry sum",
+        "zh": "微不足道的一笔钱"
+      },
+      "example": {
+        "en": "The company offered him only a paltry sum in compensation.",
+        "zh": "公司只给了他一笔少得可怜的补偿。"
+      },
+      "id": "v000483",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "72b1c444ff2912ffcb0b9d5d9fb667e6b4280348442ab5855a4410e30e7004aa"
+    },
+    {
+      "word": "mystify",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈmɪstɪfaɪ/",
+        "us": "/ˈmɪstɪfaɪ/"
+      },
+      "meaning": "使困惑；使不解",
+      "collocation": {
+        "en": "be mystified by",
+        "zh": "对……感到困惑"
+      },
+      "example": {
+        "en": "I was mystified by why the system suddenly stopped working.",
+        "zh": "我对系统突然停止工作的原因感到很困惑。"
+      },
+      "id": "v000484",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3050e4e1bd824baa34dcc389336a0f4f9dafa262c2e2860cc8520c78fbab2941"
+    },
+    {
+      "word": "piracy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpaɪrəsi/",
+        "us": "/ˈpaɪrəsi/"
+      },
+      "meaning": "海盗行为",
+      "collocation": {
+        "en": "maritime piracy",
+        "zh": "海上抢劫/海盗行为"
+      },
+      "example": {
+        "en": "The region has strengthened efforts to combat maritime piracy in recent years.",
+        "zh": "该地区近年来加强了打击海盗行为的行动。"
+      },
+      "id": "v000485",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ae2e91bfc9e2f16a03c5c502664e69873ff6755c835d655da70c9df5ed25d0de"
+    },
+    {
+      "word": "piracy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpaɪrəsi/",
+        "us": "/ˈpaɪrəsi/"
+      },
+      "meaning": "盗版；非法复制",
+      "collocation": {
+        "en": "software piracy",
+        "zh": "软件盗版"
+      },
+      "example": {
+        "en": "The company has taken measures to prevent software piracy.",
+        "zh": "公司采取措施防止软件盗版。"
+      },
+      "id": "v000486",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0faa1ebbb49d886dc83777f0ae87217af4e2b3566de656d6f2c9b3ff0f4ca7db"
+    },
+    {
+      "word": "mogul",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈməʊɡl/",
+        "us": "/ˈmoʊɡl/"
+      },
+      "meaning": "大亨；有权势的商人",
+      "collocation": {
+        "en": "media mogul",
+        "zh": "传媒大亨"
+      },
+      "example": {
+        "en": "The media mogul owns several television stations and newspapers.",
+        "zh": "这位传媒大亨拥有多家电视台和报纸。"
+      },
+      "id": "v000487",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5a38a5e96c41bd1aeda168f2b6e9681ccee24baf0f12507b2098de5d9af84e59"
+    },
+    {
+      "word": "portray",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/pɔːˈtreɪ/",
+        "us": "/pɔːrˈtreɪ/"
+      },
+      "meaning": "描绘；描述；扮演",
+      "collocation": {
+        "en": "portray someone as",
+        "zh": "把某人描绘成……"
+      },
+      "example": {
+        "en": "The media portrayed him as a determined reformer.",
+        "zh": "媒体把他描绘成一位坚定的改革者。"
+      },
+      "id": "v000488",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f3678c31109974e6f29bf4434b8375efb29f96fe9527ea67798ebf28f49c25a0"
+    },
+    {
+      "word": "paraphrase",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpærəfreɪz/",
+        "us": "/ˈpærəfreɪz/"
+      },
+      "meaning": "改述；意译",
+      "collocation": {
+        "en": "paraphrase a passage",
+        "zh": "改述一段文字"
+      },
+      "example": {
+        "en": "Please paraphrase the passage in your own words.",
+        "zh": "请用自己的话改述这段文章。"
+      },
+      "id": "v000489",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b374a67b46bdbb054c7be18663562a6991361e60b5023274f9e0ca66c5242d95"
+    },
+    {
+      "word": "paraphrase",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpærəfreɪz/",
+        "us": "/ˈpærəfreɪz/"
+      },
+      "meaning": "改述；释义",
+      "collocation": {
+        "en": "a paraphrase of",
+        "zh": "……的改述"
+      },
+      "example": {
+        "en": "This sentence is a concise paraphrase of the original text.",
+        "zh": "这句话是对原文的简洁改述。"
+      },
+      "id": "v000490",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a3ad21e28cd61323edda2bd88c812c67b6775bec94a0247f25cae36426f7b6e3"
+    },
+    {
+      "word": "strangle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈstræŋɡl/",
+        "us": "/ˈstræŋɡl/"
+      },
+      "meaning": "勒死；扼杀",
+      "collocation": {
+        "en": "strangle someone",
+        "zh": "勒住某人"
+      },
+      "example": {
+        "en": "Police accused the suspect of trying to strangle the victim.",
+        "zh": "警方指控嫌疑人试图勒住受害者。"
+      },
+      "id": "v000491",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c034888bd68156297711b5c9f882271da8736738d231eec204d5c12c151023bb"
+    },
+    {
+      "word": "strangle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈstræŋɡl/",
+        "us": "/ˈstræŋɡl/"
+      },
+      "meaning": "抑制；扼杀（发展等）",
+      "collocation": {
+        "en": "strangle growth",
+        "zh": "扼杀增长"
+      },
+      "example": {
+        "en": "Excessive regulation may strangle the growth of small businesses.",
+        "zh": "过度监管可能会扼杀小企业的发展。"
+      },
+      "id": "v000492",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a3fd06b043367d577660c9fcf149bd710fd7a726385c29539b66d606067fb79f"
+    },
+    {
+      "word": "malady",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmælədi/",
+        "us": "/ˈmælədi/"
+      },
+      "meaning": "疾病；弊病",
+      "collocation": {
+        "en": "social malady",
+        "zh": "社会弊病"
+      },
+      "example": {
+        "en": "Poverty remains a social malady in many cities.",
+        "zh": "贫困仍然是许多城市面临的社会弊病。"
+      },
+      "id": "v000493",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d6bc7254655f70418302863781ba96d950a97173f94890bcc21c71ee2e0c84c0"
+    },
+    {
+      "word": "stall",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/stɔːl/",
+        "us": "/stɔːl/"
+      },
+      "meaning": "摊位；货摊",
+      "collocation": {
+        "en": "market stall",
+        "zh": "市场摊位"
+      },
+      "example": {
+        "en": "She sells handmade accessories at a market stall.",
+        "zh": "她在市场摊位上卖手工饰品。"
+      },
+      "id": "v000494",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "769938fe089c59b4adda68a583cd89e8f615d31009f400212548da2d5803a691"
+    },
+    {
+      "word": "stall",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stɔːl/",
+        "us": "/stɔːl/"
+      },
+      "meaning": "拖延；使停滞",
+      "collocation": {
+        "en": "stall for time",
+        "zh": "拖延时间"
+      },
+      "example": {
+        "en": "The negotiators tried to stall for time.",
+        "zh": "谈判代表试图拖延时间。"
+      },
+      "id": "v000495",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cdc4c3766d30e223b49fbd689cc389c1c4a2996a1a56a5faaaa0c471c2fc4d11"
+    },
+    {
+      "word": "stall",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stɔːl/",
+        "us": "/stɔːl/"
+      },
+      "meaning": "熄火；停止运转",
+      "collocation": {
+        "en": "engine stalls",
+        "zh": "发动机熄火"
+      },
+      "example": {
+        "en": "The car's engine stalled at the intersection.",
+        "zh": "汽车在十字路口突然熄火了。"
+      },
+      "id": "v000496",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "585fe037e788491b2679b89097cefd4e1844e651bbea21cac894e5250f7d094a"
+    },
+    {
+      "word": "mar",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/mɑː(r)/",
+        "us": "/mɑːr/"
+      },
+      "meaning": "损坏；破坏；玷污",
+      "collocation": {
+        "en": "mar a reputation",
+        "zh": "损害声誉"
+      },
+      "example": {
+        "en": "The incident marred the company's reputation.",
+        "zh": "这次事故损害了公司的声誉。"
+      },
+      "id": "v000497",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a442073bde81961975b62c7618320406b114c3b5b324ed12c675cac87c593b1b"
+    },
+    {
+      "word": "stun",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stʌn/",
+        "us": "/stʌn/"
+      },
+      "meaning": "使震惊；使目瞪口呆",
+      "collocation": {
+        "en": "be stunned by",
+        "zh": "被……震惊"
+      },
+      "example": {
+        "en": "Everyone was stunned by the unexpected news.",
+        "zh": "大家都被这个意外消息震惊了。"
+      },
+      "id": "v000498",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "18d963d7bf2177a66f44f9a4a6b66fb9e7b7cd694ea1655e8d44870677b3da9c"
+    },
+    {
+      "word": "stun",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stʌn/",
+        "us": "/stʌn/"
+      },
+      "meaning": "击晕；使失去知觉",
+      "collocation": {
+        "en": "stun an animal",
+        "zh": "击晕动物"
+      },
+      "example": {
+        "en": "The equipment is used to stun the animal before processing.",
+        "zh": "设备用于在处理前将动物击晕。"
+      },
+      "id": "v000499",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "541a420139557f8e6797276b0afc749c508215b389086ed36bb3505199454934"
+    },
+    {
+      "word": "mire",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmaɪə(r)/",
+        "us": "/ˈmaɪər/"
+      },
+      "meaning": "泥沼；困境",
+      "collocation": {
+        "en": "be stuck in the mire",
+        "zh": "陷入困境"
+      },
+      "example": {
+        "en": "The company is stuck in a mire of debt.",
+        "zh": "公司深陷债务困境。"
+      },
+      "id": "v000500",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6c6cda40b7a44bf89309cf6c424a077472ea2db1d619903ffcf6bad274a553ea"
+    }
+  ]
+}

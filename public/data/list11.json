@@ -1,0 +1,1107 @@
+{
+  "id": "list11",
+  "title": "List 11",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "mire",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈmaɪə(r)/",
+        "us": "/ˈmaɪər/"
+      },
+      "meaning": "使陷入困境",
+      "collocation": {
+        "en": "be mired in",
+        "zh": "陷入……"
+      },
+      "example": {
+        "en": "The project became mired in legal disputes.",
+        "zh": "项目陷入了法律纠纷。"
+      },
+      "id": "v000501",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aca1680749c0d79698b331deb7d5a9e9038e95fc1949382f51d667792bea9577"
+    },
+    {
+      "word": "levy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈlevi/",
+        "us": "/ˈlevi/"
+      },
+      "meaning": "征税；税款",
+      "collocation": {
+        "en": "impose a levy on",
+        "zh": "对……征税"
+      },
+      "example": {
+        "en": "The government plans to impose a levy on single-use plastic bags.",
+        "zh": "政府计划对一次性塑料袋征税。"
+      },
+      "id": "v000502",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "373bb8b3208175d8bf8c1305a9ec2d5501ffaa69578e43e01e68060294c67fdc"
+    },
+    {
+      "word": "levy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈlevi/",
+        "us": "/ˈlevi/"
+      },
+      "meaning": "征收；征用",
+      "collocation": {
+        "en": "levy a tax",
+        "zh": "征税"
+      },
+      "example": {
+        "en": "The local government decided to levy a new tourist tax.",
+        "zh": "地方政府决定征收新的旅游税。"
+      },
+      "id": "v000503",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0f2c528e61519c6f2181717c06c4a68ce0de6976f0239d6b28979b558bc70951"
+    },
+    {
+      "word": "listless",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈlɪstləs/",
+        "us": "/ˈlɪstləs/"
+      },
+      "meaning": "无精打采的；倦怠的",
+      "collocation": {
+        "en": "feel listless",
+        "zh": "感到无精打采"
+      },
+      "example": {
+        "en": "The hot weather made me feel listless all day.",
+        "zh": "天气太热让我整天都无精打采。"
+      },
+      "id": "v000504",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "843cbf434532a650494d1b4330f7384b06113d7dd6e8ca19bc182b262a3338f1"
+    },
+    {
+      "word": "impregnable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪmˈpreɡnəbl/",
+        "us": "/ɪmˈpreɡnəbl/"
+      },
+      "meaning": "坚不可摧的；攻不破的",
+      "collocation": {
+        "en": "impregnable fortress",
+        "zh": "坚不可摧的堡垒"
+      },
+      "example": {
+        "en": "The fortress was once considered impregnable.",
+        "zh": "这座堡垒过去被认为牢不可破。"
+      },
+      "id": "v000505",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3e2a84a4b2709eeaef80c0ff47fa991eb6ca02245ce2a410a9b48532b518e3c5"
+    },
+    {
+      "word": "incite",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈsaɪt/",
+        "us": "/ɪnˈsaɪt/"
+      },
+      "meaning": "煽动；激起",
+      "collocation": {
+        "en": "incite violence",
+        "zh": "煽动暴力"
+      },
+      "example": {
+        "en": "The law prohibits publicly inciting violence.",
+        "zh": "法律禁止公开煽动暴力。"
+      },
+      "id": "v000506",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "05315f6153629d6a03de1192d03f132690506c4fcfdd067bba5ef041d5755ab2"
+    },
+    {
+      "word": "imperil",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪmˈperəl/",
+        "us": "/ɪmˈperəl/"
+      },
+      "meaning": "危及；使陷入危险",
+      "collocation": {
+        "en": "imperil public safety",
+        "zh": "危及公共安全"
+      },
+      "example": {
+        "en": "Neglecting maintenance could imperil public safety.",
+        "zh": "忽视维护可能危及公共安全。"
+      },
+      "id": "v000507",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "31ca8904e0143d1572a145b44b180de07794445f8b6059e3b5f2a33dfe411b0c"
+    },
+    {
+      "word": "garnish",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈɡɑːnɪʃ/",
+        "us": "/ˈɡɑːrnɪʃ/"
+      },
+      "meaning": "装饰；给菜肴加配饰",
+      "collocation": {
+        "en": "garnish with",
+        "zh": "用……装饰"
+      },
+      "example": {
+        "en": "Garnish the dish with herbs before serving.",
+        "zh": "上菜前用香草装饰这道菜。"
+      },
+      "id": "v000508",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e9a806578a8aa7b2709f67338c696cc9106f3101c634584507c746e63f051b97"
+    },
+    {
+      "word": "garnish",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɡɑːnɪʃ/",
+        "us": "/ˈɡɑːrnɪʃ/"
+      },
+      "meaning": "装饰配菜",
+      "collocation": {
+        "en": "a garnish of parsley",
+        "zh": "欧芹装饰"
+      },
+      "example": {
+        "en": "The chef added a garnish of parsley to the soup.",
+        "zh": "厨师在汤上放了一点欧芹作装饰。"
+      },
+      "id": "v000509",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c70615a048a31cbea0581e963fcd9234741f34a0bdd6626d7b3d33be49016109"
+    },
+    {
+      "word": "dermatologist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌdɜːməˈtɒlədʒɪst/",
+        "us": "/ˌdɜːrməˈtɑːlədʒɪst/"
+      },
+      "meaning": "皮肤科医生",
+      "collocation": {
+        "en": "consult a dermatologist",
+        "zh": "咨询皮肤科医生"
+      },
+      "example": {
+        "en": "If the rash persists, it is best to consult a dermatologist.",
+        "zh": "如果皮疹持续不退，最好去看皮肤科医生。"
+      },
+      "id": "v000510",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b057c0ecad95bb40ca1ffe8f3839f7a46a50ad42b5097ec31d168f03a5dfc150"
+    },
+    {
+      "word": "inflammable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈflæməbl/",
+        "us": "/ɪnˈflæməbl/"
+      },
+      "meaning": "易燃的",
+      "collocation": {
+        "en": "highly inflammable",
+        "zh": "高度易燃的"
+      },
+      "example": {
+        "en": "These chemicals are highly inflammable and must be stored properly.",
+        "zh": "这些化学品高度易燃，必须妥善存放。"
+      },
+      "id": "v000511",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "92d4f9ca7b42b3021eaaa090c6590b0e0faf139a2316da21b5cbc0060a95a8b4"
+    },
+    {
+      "word": "flock",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/flɒk/",
+        "us": "/flɑːk/"
+      },
+      "meaning": "群；一群鸟或羊",
+      "collocation": {
+        "en": "a flock of birds",
+        "zh": "一群鸟"
+      },
+      "example": {
+        "en": "A flock of birds flew over the lake.",
+        "zh": "一群鸟从湖面上飞过。"
+      },
+      "id": "v000512",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1ba5664dbc365808807c688a66596cf3bd4b633b3f98be4ba80aecf139245b1c"
+    },
+    {
+      "word": "flock",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/flɒk/",
+        "us": "/flɑːk/"
+      },
+      "meaning": "成群而去；蜂拥",
+      "collocation": {
+        "en": "flock to",
+        "zh": "蜂拥前往……"
+      },
+      "example": {
+        "en": "Tourists flocked to the newly opened attraction.",
+        "zh": "游客纷纷涌向新开的景点。"
+      },
+      "id": "v000513",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3171d3423c7d7fdbd68c848dee2b0ec208c6debdca5dc90d7c9694f4b984b0e5"
+    },
+    {
+      "word": "farce",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fɑːs/",
+        "us": "/fɑːrs/"
+      },
+      "meaning": "闹剧；荒唐可笑的事情",
+      "collocation": {
+        "en": "turn into a farce",
+        "zh": "变成一场闹剧"
+      },
+      "example": {
+        "en": "The meeting eventually turned into a farce.",
+        "zh": "会议最终变成了一场闹剧。"
+      },
+      "id": "v000514",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ccdf690d0234f5b1ba19a5506b83fa1411087ffeb86223eddf99fa30f08cbf06"
+    },
+    {
+      "word": "festive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfestɪv/",
+        "us": "/ˈfestɪv/"
+      },
+      "meaning": "节日的；喜庆的",
+      "collocation": {
+        "en": "festive atmosphere",
+        "zh": "节日气氛"
+      },
+      "example": {
+        "en": "The streets were filled with a festive atmosphere.",
+        "zh": "街道上充满了节日气氛。"
+      },
+      "id": "v000515",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9d2001b7816155a763652d8037d1fdb765e5cdd5a6e114fdd26072579e3ad020"
+    },
+    {
+      "word": "gloat",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡləʊt/",
+        "us": "/ɡloʊt/"
+      },
+      "meaning": "幸灾乐祸；扬扬得意",
+      "collocation": {
+        "en": "gloat over",
+        "zh": "对……幸灾乐祸"
+      },
+      "example": {
+        "en": "Do not gloat over your opponent's failure.",
+        "zh": "不要因为对手失败而幸灾乐祸。"
+      },
+      "id": "v000516",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e7fd44263441cbfef92605e125741435d2ad3c91b6de02de4c3d7ee8cc0283d1"
+    },
+    {
+      "word": "hearsay",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈhɪəseɪ/",
+        "us": "/ˈhɪrseɪ/"
+      },
+      "meaning": "传闻；道听途说",
+      "collocation": {
+        "en": "based on hearsay",
+        "zh": "基于传闻"
+      },
+      "example": {
+        "en": "The claim is based only on hearsay and has no reliable evidence.",
+        "zh": "这个说法只是道听途说，没有可靠证据。"
+      },
+      "id": "v000517",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3c05cf86cc54774e92f9aca136625d09484469b755f08b1f017f165a5b1c74e2"
+    },
+    {
+      "word": "grievance",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɡriːvəns/",
+        "us": "/ˈɡriːvəns/"
+      },
+      "meaning": "不满；委屈；申诉",
+      "collocation": {
+        "en": "file a grievance",
+        "zh": "提出申诉"
+      },
+      "example": {
+        "en": "Employees can file a grievance through the formal procedure.",
+        "zh": "员工可以通过正式程序提出申诉。"
+      },
+      "id": "v000518",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c5ce135496bd44d0b651d9c0917e48e13b77bc086e74a7877a5a3f1edd16d1e5"
+    },
+    {
+      "word": "gnaw",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/nɔː/",
+        "us": "/nɔː/"
+      },
+      "meaning": "啃；咬",
+      "collocation": {
+        "en": "gnaw at",
+        "zh": "啃咬……"
+      },
+      "example": {
+        "en": "The dog kept gnawing at a bone.",
+        "zh": "狗一直在啃一根骨头。"
+      },
+      "id": "v000519",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "418d044c5d75ae894f0424b3e0825ec640c9b731c422800744b28a7dc593e919"
+    },
+    {
+      "word": "gnaw",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/nɔː/",
+        "us": "/nɔː/"
+      },
+      "meaning": "折磨；不断困扰",
+      "collocation": {
+        "en": "gnaw at one's conscience",
+        "zh": "折磨某人的良心"
+      },
+      "example": {
+        "en": "The incident kept gnawing at his conscience.",
+        "zh": "这件事一直让他良心不安。"
+      },
+      "id": "v000520",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0f97d4481f6a72f79094bb4687b1ffb7a4fa9a95abceca02673ac1398dd4b07a"
+    },
+    {
+      "word": "foist",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fɔɪst/",
+        "us": "/fɔɪst/"
+      },
+      "meaning": "把……强加给；硬塞",
+      "collocation": {
+        "en": "foist something on",
+        "zh": "把某物强加给……"
+      },
+      "example": {
+        "en": "They tried to foist the extra costs on customers.",
+        "zh": "他们试图把额外费用强加给顾客。"
+      },
+      "id": "v000521",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5bf5dd00f590660edb05abad2492b11df6c127017f99813dcf46acf9ca0eddf4"
+    },
+    {
+      "word": "fossil",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfɒsl/",
+        "us": "/ˈfɑːsl/"
+      },
+      "meaning": "化石",
+      "collocation": {
+        "en": "fossil remains",
+        "zh": "化石遗骸"
+      },
+      "example": {
+        "en": "Researchers discovered fossil remains of an ancient animal.",
+        "zh": "研究人员发现了古代动物的化石遗骸。"
+      },
+      "id": "v000522",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a46b2d9e8347f07fe56e956025903fe7962d7d3daac0e2f3400118ecf8ec9266"
+    },
+    {
+      "word": "flora",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈflɔːrə/",
+        "us": "/ˈflɔːrə/"
+      },
+      "meaning": "植物群；植物区系",
+      "collocation": {
+        "en": "local flora",
+        "zh": "当地植物群"
+      },
+      "example": {
+        "en": "The island is known for its rich local flora.",
+        "zh": "这个岛以丰富的当地植物群而闻名。"
+      },
+      "id": "v000523",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cdd11a1ae9cdeed0f10961ca0bd13841a63467f65ca264dcd4f898369a56346b"
+    },
+    {
+      "word": "gory",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈɡɔːri/",
+        "us": "/ˈɡɔːri/"
+      },
+      "meaning": "血腥的；令人不适的",
+      "collocation": {
+        "en": "gory details",
+        "zh": "血腥细节"
+      },
+      "example": {
+        "en": "The news report omitted the most gory details.",
+        "zh": "新闻报道省略了过于血腥的细节。"
+      },
+      "id": "v000524",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d6d5e1ec1e47a070dbb373d23ac7f402d8f5640e4f1e2d5049746fba5c7e8dfa"
+    },
+    {
+      "word": "flounder",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈflaʊndə(r)/",
+        "us": "/ˈflaʊndər/"
+      },
+      "meaning": "挣扎；困难重重",
+      "collocation": {
+        "en": "flounder badly",
+        "zh": "陷入严重困境"
+      },
+      "example": {
+        "en": "The startup floundered because of a lack of funding.",
+        "zh": "由于缺乏资金，这家初创公司陷入困境。"
+      },
+      "id": "v000525",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b181c17731dd58530ca244d0e5e03166d1995f9406bc802b2e602b0eb9e1ca6a"
+    },
+    {
+      "word": "flounder",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈflaʊndə(r)/",
+        "us": "/ˈflaʊndər/"
+      },
+      "meaning": "比目鱼",
+      "collocation": {
+        "en": "grilled flounder",
+        "zh": "烤比目鱼"
+      },
+      "example": {
+        "en": "The main course tonight is grilled flounder.",
+        "zh": "今晚的主菜是烤比目鱼。"
+      },
+      "id": "v000526",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "74aaa8c234b083cc23d7da4ffa7dec05b906075e9ed13cdb737feabbc2085649"
+    },
+    {
+      "word": "extravagant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈstrævəɡənt/",
+        "us": "/ɪkˈstrævəɡənt/"
+      },
+      "meaning": "奢侈的；浪费的",
+      "collocation": {
+        "en": "extravagant lifestyle",
+        "zh": "奢侈的生活方式"
+      },
+      "example": {
+        "en": "He used to live an extravagant lifestyle.",
+        "zh": "他过去过着非常奢侈的生活。"
+      },
+      "id": "v000527",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a3d2138440bc767c242fbceba7e8b40a0678c6ed09eaabac29ee001df6bf9b8d"
+    },
+    {
+      "word": "extravagant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈstrævəɡənt/",
+        "us": "/ɪkˈstrævəɡənt/"
+      },
+      "meaning": "夸张的；过度的",
+      "collocation": {
+        "en": "extravagant claim",
+        "zh": "夸大的说法"
+      },
+      "example": {
+        "en": "The advertisement makes several extravagant claims.",
+        "zh": "广告中有一些明显夸大的说法。"
+      },
+      "id": "v000528",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a34acbce7f70a7173ab71f337d1fe558f03866a9b4d14143c96e6dadbeae6f78"
+    },
+    {
+      "word": "fascist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfæʃɪst/",
+        "us": "/ˈfæʃɪst/"
+      },
+      "meaning": "法西斯主义者",
+      "collocation": {
+        "en": "fascist regime",
+        "zh": "法西斯政权"
+      },
+      "example": {
+        "en": "The book examines fascist regimes in European history.",
+        "zh": "这本书研究了欧洲历史上的法西斯政权。"
+      },
+      "id": "v000529",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b4c361ee4709be08f570da1f74df1c63a00a941a7d352b56341cb7b4ffe226d7"
+    },
+    {
+      "word": "fascist",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfæʃɪst/",
+        "us": "/ˈfæʃɪst/"
+      },
+      "meaning": "法西斯主义的",
+      "collocation": {
+        "en": "fascist ideology",
+        "zh": "法西斯主义意识形态"
+      },
+      "example": {
+        "en": "The course discusses the rise of fascist ideology.",
+        "zh": "课程讨论了法西斯主义意识形态的兴起。"
+      },
+      "id": "v000530",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "566230e188625a853e282cc3e9fd8441fd05001e548a927dac3bfe4dd53227dd"
+    },
+    {
+      "word": "famine",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfæmɪn/",
+        "us": "/ˈfæmɪn/"
+      },
+      "meaning": "饥荒",
+      "collocation": {
+        "en": "severe famine",
+        "zh": "严重饥荒"
+      },
+      "example": {
+        "en": "The prolonged drought led to a severe famine.",
+        "zh": "长期干旱导致了严重饥荒。"
+      },
+      "id": "v000531",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "68f5176efd8d90a2dc869a96c1baa92c5ffcea71670388bd58250cf394a284a8"
+    },
+    {
+      "word": "euthanasia",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌjuːθəˈneɪziə/",
+        "us": "/ˌjuːθəˈneɪʒə/"
+      },
+      "meaning": "安乐死",
+      "collocation": {
+        "en": "legalize euthanasia",
+        "zh": "使安乐死合法化"
+      },
+      "example": {
+        "en": "Some countries are debating whether to legalize euthanasia.",
+        "zh": "一些国家正在讨论是否应使安乐死合法化。"
+      },
+      "id": "v000532",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aa946af4c4af572fc56bdc87eee0ea820e1544cf92edd1a88fc90f2b114f9e56"
+    },
+    {
+      "word": "discern",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈsɜːn/",
+        "us": "/dɪˈsɜːrn/"
+      },
+      "meaning": "辨别；察觉",
+      "collocation": {
+        "en": "discern the difference",
+        "zh": "辨别差异"
+      },
+      "example": {
+        "en": "It is difficult for an ordinary person to discern the difference between the two versions.",
+        "zh": "普通人很难辨别这两个版本之间的差异。"
+      },
+      "id": "v000533",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "142832da39afe85832daf3a0d336b09de5f4319e9f24a1d704debb8af2796525"
+    },
+    {
+      "word": "enrapture",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈræptʃə(r)/",
+        "us": "/ɪnˈræptʃər/"
+      },
+      "meaning": "使狂喜；使着迷",
+      "collocation": {
+        "en": "be enraptured by",
+        "zh": "被……深深吸引"
+      },
+      "example": {
+        "en": "The audience was enraptured by her singing.",
+        "zh": "观众被她的歌声深深吸引。"
+      },
+      "id": "v000534",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a3544120639aa41ec6920f0bcf557c1fdbb8c1cd69546b372e63f2393de75b8e"
+    },
+    {
+      "word": "disruption",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪsˈrʌpʃn/",
+        "us": "/dɪsˈrʌpʃn/"
+      },
+      "meaning": "中断；扰乱",
+      "collocation": {
+        "en": "service disruption",
+        "zh": "服务中断"
+      },
+      "example": {
+        "en": "The network failure caused several hours of service disruption.",
+        "zh": "网络故障造成了数小时的服务中断。"
+      },
+      "id": "v000535",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4bc293997654e530095c3d67e8374b781bc166f5ce10df1c38a5bb782f69a328"
+    },
+    {
+      "word": "dizziness",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdɪzinəs/",
+        "us": "/ˈdɪzinəs/"
+      },
+      "meaning": "头晕；眩晕",
+      "collocation": {
+        "en": "experience dizziness",
+        "zh": "感到头晕"
+      },
+      "example": {
+        "en": "He stood up too quickly and suddenly experienced dizziness.",
+        "zh": "他站起来太快，突然感到头晕。"
+      },
+      "id": "v000536",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6ef8cd83790c56106f2d8d09dc43fafe8d4824ad0a7ed102a79662d1f1d9a7cf"
+    },
+    {
+      "word": "drainage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdreɪnɪdʒ/",
+        "us": "/ˈdreɪnɪdʒ/"
+      },
+      "meaning": "排水；排水系统",
+      "collocation": {
+        "en": "drainage system",
+        "zh": "排水系统"
+      },
+      "example": {
+        "en": "The heavy rain exposed problems in the city's drainage system.",
+        "zh": "大雨暴露出了城市排水系统的问题。"
+      },
+      "id": "v000537",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "964a1366ad51538a186c062668658e7a5418de9c45752befed969cfa2d75337d"
+    },
+    {
+      "word": "archaeology",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌɑːkiˈɒlədʒi/",
+        "us": "/ˌɑːrkiˈɑːlədʒi/"
+      },
+      "meaning": "考古学",
+      "collocation": {
+        "en": "study archaeology",
+        "zh": "学习考古学"
+      },
+      "example": {
+        "en": "She studied archaeology at university.",
+        "zh": "她在大学学习考古学。"
+      },
+      "id": "v000538",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3e714ce9892e2d61aa2db4906e40e8ef52bb5f8d1b699d74d1c9e62695c06f97"
+    },
+    {
+      "word": "foam",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fəʊm/",
+        "us": "/foʊm/"
+      },
+      "meaning": "泡沫",
+      "collocation": {
+        "en": "shaving foam",
+        "zh": "剃须泡沫"
+      },
+      "example": {
+        "en": "He applied shaving foam before shaving.",
+        "zh": "他在刮胡子前涂了剃须泡沫。"
+      },
+      "id": "v000539",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "423c824aabea4045a8ebe82bd0f6a81c6d8f854abd85f10756bfafdb62397f14"
+    },
+    {
+      "word": "foam",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fəʊm/",
+        "us": "/foʊm/"
+      },
+      "meaning": "起泡；冒泡",
+      "collocation": {
+        "en": "foam up",
+        "zh": "起泡"
+      },
+      "example": {
+        "en": "The soap quickly foamed up when mixed with water.",
+        "zh": "肥皂遇水后很快起泡。"
+      },
+      "id": "v000540",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e75ccf53d372071d9abe8016ba4260558c3a57fb00e06b43261c89b77c5fc64"
+    },
+    {
+      "word": "dire",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdaɪə(r)/",
+        "us": "/ˈdaɪər/"
+      },
+      "meaning": "极严重的；危急的",
+      "collocation": {
+        "en": "dire consequences",
+        "zh": "严重后果"
+      },
+      "example": {
+        "en": "Failure to fix the problem in time could have dire consequences.",
+        "zh": "如果不及时修复，可能会造成严重后果。"
+      },
+      "id": "v000541",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3ae0f0f6a9227a6b3525064d3e3141856ac8ca6d769a013a09f38afcfc0af6d7"
+    },
+    {
+      "word": "demarcate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdiːmɑːkeɪt/",
+        "us": "/ˈdiːmɑːrkeɪt/"
+      },
+      "meaning": "划定界限；区分",
+      "collocation": {
+        "en": "demarcate the boundary",
+        "zh": "划定边界"
+      },
+      "example": {
+        "en": "The two countries agreed to demarcate the boundary again.",
+        "zh": "两国同意重新划定边界。"
+      },
+      "id": "v000542",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5fdcd0235e1f56073ddd3b769239cc740b920d5f4fafcaf82002966ad7f4b70a"
+    },
+    {
+      "word": "detention",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈtenʃn/",
+        "us": "/dɪˈtenʃn/"
+      },
+      "meaning": "拘留；扣留",
+      "collocation": {
+        "en": "in detention",
+        "zh": "被拘留"
+      },
+      "example": {
+        "en": "The suspect remained in detention during questioning.",
+        "zh": "嫌疑人在审讯期间一直被拘留。"
+      },
+      "id": "v000543",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "29cf751a43e73758ec64ab33febca46868a56160cf5135fd8bbe8d3f1aa0a917"
+    },
+    {
+      "word": "detention",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈtenʃn/",
+        "us": "/dɪˈtenʃn/"
+      },
+      "meaning": "课后留校",
+      "collocation": {
+        "en": "after-school detention",
+        "zh": "课后留校处罚"
+      },
+      "example": {
+        "en": "He received after-school detention for repeated lateness.",
+        "zh": "他因为多次迟到被罚课后留校。"
+      },
+      "id": "v000544",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "040df5b60f12ac9a38b78344e2678c906195036019edf11733aa6f32db99f7a9"
+    },
+    {
+      "word": "primitive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈprɪmətɪv/",
+        "us": "/ˈprɪmətɪv/"
+      },
+      "meaning": "原始的；简陋的",
+      "collocation": {
+        "en": "primitive tools",
+        "zh": "原始工具"
+      },
+      "example": {
+        "en": "Early humans used very primitive tools.",
+        "zh": "早期人类使用非常简陋的工具。"
+      },
+      "id": "v000545",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "928e560a6eeb384b41b74264646da70f7c84d3576f20af56b9f249471b5329cf"
+    },
+    {
+      "word": "primitive",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈprɪmətɪv/",
+        "us": "/ˈprɪmətɪv/"
+      },
+      "meaning": "原始人；原始事物（较旧用法）",
+      "collocation": {
+        "en": "primitive society",
+        "zh": "原始社会"
+      },
+      "example": {
+        "en": "The book discusses the structure of early primitive societies.",
+        "zh": "这本书讨论了早期原始社会的结构。"
+      },
+      "id": "v000546",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cfdc832c212b32b902259a62d29cedddd90fe79430ce3b24e2cae9ad8e8ff38f"
+    },
+    {
+      "word": "condole",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈdəʊl/",
+        "us": "/kənˈdoʊl/"
+      },
+      "meaning": "慰问；表示哀悼",
+      "collocation": {
+        "en": "condole with",
+        "zh": "向……表示慰问"
+      },
+      "example": {
+        "en": "We condoled with the families of the victims.",
+        "zh": "我们向遇难者家属表示深切慰问。"
+      },
+      "id": "v000547",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2933b62699b391f6a4d7c73820955512ede6e944770250afbbd67ab5eec88e90"
+    },
+    {
+      "word": "lament",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ləˈment/",
+        "us": "/ləˈment/"
+      },
+      "meaning": "哀悼；惋惜",
+      "collocation": {
+        "en": "lament the loss of",
+        "zh": "为失去……而惋惜"
+      },
+      "example": {
+        "en": "Many people lamented the loss of the old shop.",
+        "zh": "许多人为这家老店的关闭感到惋惜。"
+      },
+      "id": "v000548",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "effcd8a454a73320ccd2b7e9e89d43c95b9410460e59425a4dfcedaec0cbf678"
+    },
+    {
+      "word": "lament",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ləˈment/",
+        "us": "/ləˈment/"
+      },
+      "meaning": "悲叹；挽歌",
+      "collocation": {
+        "en": "a lament for",
+        "zh": "为……而作的挽歌"
+      },
+      "example": {
+        "en": "The poem is a lament for a lost era.",
+        "zh": "这首诗是一首为逝去时代而作的挽歌。"
+      },
+      "id": "v000549",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5d92f22eb2d3cf7f03aeccc8f0e00e1553114bcc41bea6000b2e1ec709483837"
+    },
+    {
+      "word": "razor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈreɪzə(r)/",
+        "us": "/ˈreɪzər/"
+      },
+      "meaning": "剃刀；刮胡刀",
+      "collocation": {
+        "en": "electric razor",
+        "zh": "电动剃须刀"
+      },
+      "example": {
+        "en": "He shaves every morning with an electric razor.",
+        "zh": "他每天早上用电动剃须刀刮胡子。"
+      },
+      "id": "v000550",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d84467fe307c363c787f53f3db200fb178103332c8b769f39cc6afae266e8e99"
+    }
+  ]
+}

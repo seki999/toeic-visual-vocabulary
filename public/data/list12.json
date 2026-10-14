@@ -1,0 +1,1107 @@
+{
+  "id": "list12",
+  "title": "List 12",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "bribe",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/braɪb/",
+        "us": "/braɪb/"
+      },
+      "meaning": "贿赂；贿款",
+      "collocation": {
+        "en": "accept a bribe",
+        "zh": "收受贿赂"
+      },
+      "example": {
+        "en": "The official was accused of accepting a bribe.",
+        "zh": "这名官员被指控收受贿赂。"
+      },
+      "id": "v000551",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "29dd661cee6b34fe5acdcd475d0798e8221329c266c3cfa3fb0719323d4e0cb1"
+    },
+    {
+      "word": "bribe",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/braɪb/",
+        "us": "/braɪb/"
+      },
+      "meaning": "贿赂；收买",
+      "collocation": {
+        "en": "bribe someone to do",
+        "zh": "贿赂某人做……"
+      },
+      "example": {
+        "en": "Someone tried to bribe an employee to reveal confidential information.",
+        "zh": "有人试图贿赂工作人员泄露信息。"
+      },
+      "id": "v000552",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a9a688723a83569b6bbabef6336b6c300e8ece9a9009cc0f06e79c72aa372727"
+    },
+    {
+      "word": "cellular",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈseljələ(r)/",
+        "us": "/ˈseljələr/"
+      },
+      "meaning": "细胞的",
+      "collocation": {
+        "en": "cellular structure",
+        "zh": "细胞结构"
+      },
+      "example": {
+        "en": "The microscope clearly shows the cellular structure of the plant.",
+        "zh": "显微镜可以清楚显示植物的细胞结构。"
+      },
+      "id": "v000553",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a48d8b6e75d28b0ad2fa5270e3045707eb678021e3f4593885beccf64a84d637"
+    },
+    {
+      "word": "cellular",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈseljələ(r)/",
+        "us": "/ˈseljələr/"
+      },
+      "meaning": "蜂窝式移动通信的",
+      "collocation": {
+        "en": "cellular network",
+        "zh": "蜂窝移动网络"
+      },
+      "example": {
+        "en": "The cellular network signal is weak in remote areas.",
+        "zh": "偏远地区的蜂窝网络信号比较弱。"
+      },
+      "id": "v000554",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f6b6cd19bd971803db92d04559ad1760a3ce20e846972d0c0116c5b19bb8c573"
+    },
+    {
+      "word": "tricky",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtrɪki/",
+        "us": "/ˈtrɪki/"
+      },
+      "meaning": "棘手的；难处理的",
+      "collocation": {
+        "en": "tricky problem",
+        "zh": "棘手的问题"
+      },
+      "example": {
+        "en": "This is a tricky problem that requires careful analysis.",
+        "zh": "这是一个需要仔细分析的棘手问题。"
+      },
+      "id": "v000555",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4afd94f039a683c754ac5a5537ecc3a6fc3883fd23f2db7964c3c174e61e3462"
+    },
+    {
+      "word": "tricky",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtrɪki/",
+        "us": "/ˈtrɪki/"
+      },
+      "meaning": "狡猾的；容易出错的",
+      "collocation": {
+        "en": "tricky question",
+        "zh": "容易误导的问题"
+      },
+      "example": {
+        "en": "The interviewer asked several tricky questions.",
+        "zh": "面试官问了几个很容易答错的问题。"
+      },
+      "id": "v000556",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6cf9f506975f13342e7b7f2720ab1cf21b2562456bd9da825220177e56f507da"
+    },
+    {
+      "word": "thrift",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/θrɪft/",
+        "us": "/θrɪft/"
+      },
+      "meaning": "节俭；节约",
+      "collocation": {
+        "en": "practice thrift",
+        "zh": "厉行节俭"
+      },
+      "example": {
+        "en": "During difficult economic times, many families practice greater thrift.",
+        "zh": "在经济困难时期，许多家庭更加注重节俭。"
+      },
+      "id": "v000557",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "df4fd41e9ee540c975654a09ec06926186add98ab4d17dec22977db3c18aeafb"
+    },
+    {
+      "word": "slice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/slaɪs/",
+        "us": "/slaɪs/"
+      },
+      "meaning": "薄片；一片",
+      "collocation": {
+        "en": "a slice of bread",
+        "zh": "一片面包"
+      },
+      "example": {
+        "en": "I ate two slices of bread for breakfast.",
+        "zh": "早餐时我吃了两片面包。"
+      },
+      "id": "v000558",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "be44e2a1c16cfed46688b11486acb92bd77e9d8413488f2bdf3dea4eadf0ad20"
+    },
+    {
+      "word": "slice",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/slaɪs/",
+        "us": "/slaɪs/"
+      },
+      "meaning": "切成薄片",
+      "collocation": {
+        "en": "slice thinly",
+        "zh": "切成薄片"
+      },
+      "example": {
+        "en": "Please slice the cucumber thinly.",
+        "zh": "请把黄瓜切成薄片。"
+      },
+      "id": "v000559",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0bf162bc56952a52e2a5fcf33e4e958726670ba01fa640f29e9522d8c66e8f98"
+    },
+    {
+      "word": "inflate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈfleɪt/",
+        "us": "/ɪnˈfleɪt/"
+      },
+      "meaning": "给……充气；膨胀",
+      "collocation": {
+        "en": "inflate a tire",
+        "zh": "给轮胎充气"
+      },
+      "example": {
+        "en": "Please inflate the tires before departure.",
+        "zh": "出发前请把轮胎充好气。"
+      },
+      "id": "v000560",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "66a23f315e5005185414affd71417b46da9d7bfb3754a22d0939e2e245d58c49"
+    },
+    {
+      "word": "inflate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈfleɪt/",
+        "us": "/ɪnˈfleɪt/"
+      },
+      "meaning": "抬高；夸大（价格、数字等）",
+      "collocation": {
+        "en": "inflate prices",
+        "zh": "抬高价格"
+      },
+      "example": {
+        "en": "A supply shortage may inflate commodity prices.",
+        "zh": "供应短缺可能会推高商品价格。"
+      },
+      "id": "v000561",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d1ed7bdcf5eb49bd32a4063cb8af04dec80e3cadf4e09b826d734afab04050bf"
+    },
+    {
+      "word": "helmet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈhelmɪt/",
+        "us": "/ˈhelmɪt/"
+      },
+      "meaning": "头盔；安全帽",
+      "collocation": {
+        "en": "wear a helmet",
+        "zh": "戴头盔"
+      },
+      "example": {
+        "en": "Please always wear a helmet when riding a bicycle.",
+        "zh": "骑自行车时请务必戴头盔。"
+      },
+      "id": "v000562",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c7a71f91d339c1422e65bede28b3f100e90c2184aa4bf383c638b04df7873e9a"
+    },
+    {
+      "word": "beneath",
+      "partOfSpeech": "prep.",
+      "ipa": {
+        "uk": "/bɪˈniːθ/",
+        "us": "/bɪˈniːθ/"
+      },
+      "meaning": "在……下面",
+      "collocation": {
+        "en": "beneath the surface",
+        "zh": "在表面之下"
+      },
+      "example": {
+        "en": "The pipe is buried beneath the road.",
+        "zh": "水管埋在道路下面。"
+      },
+      "id": "v000563",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a01b172e25e63c1e978fbd52b3d8db66f6f4433a13bcbbdb756486237618515f"
+    },
+    {
+      "word": "beneath",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/bɪˈniːθ/",
+        "us": "/bɪˈniːθ/"
+      },
+      "meaning": "在下面",
+      "collocation": {
+        "en": "from beneath",
+        "zh": "从下面"
+      },
+      "example": {
+        "en": "We heard a noise coming from beneath.",
+        "zh": "我们听到楼板下面传来声音。"
+      },
+      "id": "v000564",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aa1c1998874495863a3e972581a0b2d02fcccb29d687ecf5c61f92494901c617"
+    },
+    {
+      "word": "wrap",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ræp/",
+        "us": "/ræp/"
+      },
+      "meaning": "包；裹",
+      "collocation": {
+        "en": "wrap something in",
+        "zh": "用……包裹某物"
+      },
+      "example": {
+        "en": "She wrapped the gift in colorful paper.",
+        "zh": "她把礼物包在彩纸里。"
+      },
+      "id": "v000565",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "07d6105ca3ec43fe8cdb8d85b88158579822e5e60b6ccb8015485a4edb2b3e59"
+    },
+    {
+      "word": "wrap",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ræp/",
+        "us": "/ræp/"
+      },
+      "meaning": "包裹物；卷饼",
+      "collocation": {
+        "en": "chicken wrap",
+        "zh": "鸡肉卷饼"
+      },
+      "example": {
+        "en": "I ordered a chicken wrap for lunch.",
+        "zh": "我午餐点了一个鸡肉卷饼。"
+      },
+      "id": "v000566",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9506b899ad81410c95c8601fe39ac2f7c2118e5ed9d4b0203b955fbf6f86e33c"
+    },
+    {
+      "word": "petal",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpetl/",
+        "us": "/ˈpetl/"
+      },
+      "meaning": "花瓣",
+      "collocation": {
+        "en": "rose petal",
+        "zh": "玫瑰花瓣"
+      },
+      "example": {
+        "en": "Several rose petals were scattered on the table.",
+        "zh": "桌上散落着几片玫瑰花瓣。"
+      },
+      "id": "v000567",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "df8b771dbb8fc32b3f641410f6e73a28c3c3878cb2e27e7193ddc4112f7df5a5"
+    },
+    {
+      "word": "attach",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈtætʃ/",
+        "us": "/əˈtætʃ/"
+      },
+      "meaning": "连接；附上",
+      "collocation": {
+        "en": "attach A to B",
+        "zh": "把A连接到B"
+      },
+      "example": {
+        "en": "Please attach the file to the email.",
+        "zh": "请把文件附在电子邮件中。"
+      },
+      "id": "v000568",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "98297d0d09b9175307c9a05b19cd8480e76eb6cbd649d3375d739735b7ff0cf6"
+    },
+    {
+      "word": "bundle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbʌndl/",
+        "us": "/ˈbʌndl/"
+      },
+      "meaning": "捆；束；一包",
+      "collocation": {
+        "en": "a bundle of",
+        "zh": "一捆/一束……"
+      },
+      "example": {
+        "en": "A bundle of vegetables was placed beside the stall.",
+        "zh": "摊位旁放着一捆蔬菜。"
+      },
+      "id": "v000569",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "74b4a048cc99ded8fbfc0e8d835e5e5f599c8fe1fe57460dc3ddbbe03da74225"
+    },
+    {
+      "word": "bundle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈbʌndl/",
+        "us": "/ˈbʌndl/"
+      },
+      "meaning": "捆绑；打包",
+      "collocation": {
+        "en": "bundle together",
+        "zh": "捆在一起"
+      },
+      "example": {
+        "en": "The workers bundled the cables together.",
+        "zh": "工作人员把电缆捆在一起。"
+      },
+      "id": "v000570",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "da2ae7ac44c3e71e4118f52beb8daa5e1d1f83de35185c3b0f80238deb8efbcf"
+    },
+    {
+      "word": "scale",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/skeɪl/",
+        "us": "/skeɪl/"
+      },
+      "meaning": "秤；衡器",
+      "collocation": {
+        "en": "weigh something on a scale",
+        "zh": "用秤称某物"
+      },
+      "example": {
+        "en": "The customer is weighing a gourd on a scale.",
+        "zh": "顾客正在用秤称一个葫芦。"
+      },
+      "id": "v000571",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e02741e4f0d2950322cc6c01226a81a7d53dc4cd79923e772717cef0dd217d4c"
+    },
+    {
+      "word": "scale",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/skeɪl/",
+        "us": "/skeɪl/"
+      },
+      "meaning": "规模；范围",
+      "collocation": {
+        "en": "on a large scale",
+        "zh": "大规模地"
+      },
+      "example": {
+        "en": "The service will be launched on a large scale nationwide.",
+        "zh": "这项服务将在全国范围内大规模推出。"
+      },
+      "id": "v000572",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e0c721e547e702340b9e2661632f7d373c3a01c5b89fc767e7c30a085a35898f"
+    },
+    {
+      "word": "scale",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/skeɪl/",
+        "us": "/skeɪl/"
+      },
+      "meaning": "扩大；按比例调整",
+      "collocation": {
+        "en": "scale up",
+        "zh": "扩大规模"
+      },
+      "example": {
+        "en": "The company plans to scale up production next year.",
+        "zh": "公司计划明年扩大生产规模。"
+      },
+      "id": "v000573",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "07a2e18f51956e41087063430d5ce2238e1bacaf0d13deed1e1eab216f058763"
+    },
+    {
+      "word": "identical",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/aɪˈdentɪkl/",
+        "us": "/aɪˈdentɪkl/"
+      },
+      "meaning": "完全相同的",
+      "collocation": {
+        "en": "identical to",
+        "zh": "与……完全相同"
+      },
+      "example": {
+        "en": "The two boxes are identical in size.",
+        "zh": "两个箱子的尺寸完全相同。"
+      },
+      "id": "v000574",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8c9f3cc3091fe870f771107c809f8a152cccd2bc556b4afb05e17c4a394046e6"
+    },
+    {
+      "word": "peel",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/piːl/",
+        "us": "/piːl/"
+      },
+      "meaning": "削皮；剥皮",
+      "collocation": {
+        "en": "peel potatoes",
+        "zh": "削土豆皮"
+      },
+      "example": {
+        "en": "The chef is peeling potatoes.",
+        "zh": "厨师正在削土豆皮。"
+      },
+      "id": "v000575",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "01a847331b1a69d9d42bbf5f1a3e71eb764987bc86267b7a29959253faf47042"
+    },
+    {
+      "word": "peel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/piːl/",
+        "us": "/piːl/"
+      },
+      "meaning": "果皮；外皮",
+      "collocation": {
+        "en": "orange peel",
+        "zh": "橙皮"
+      },
+      "example": {
+        "en": "Please throw the orange peel in the trash.",
+        "zh": "请把橙皮扔进垃圾桶。"
+      },
+      "id": "v000576",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "01869459d84cc12d4858c0d31889537094f16d2663da13ff461bda34c1862873"
+    },
+    {
+      "word": "corridor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒrɪdɔː(r)/",
+        "us": "/ˈkɔːrɪdɔːr/"
+      },
+      "meaning": "走廊；通道",
+      "collocation": {
+        "en": "long corridor",
+        "zh": "长走廊"
+      },
+      "example": {
+        "en": "The meeting room is at the end of the corridor.",
+        "zh": "会议室在走廊尽头。"
+      },
+      "id": "v000577",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "350bc5dadd035bbdb5cc489defd3493660313035db13fff09208ebcee00cb4da"
+    },
+    {
+      "word": "cord",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kɔːd/",
+        "us": "/kɔːrd/"
+      },
+      "meaning": "绳；线；电线",
+      "collocation": {
+        "en": "power cord",
+        "zh": "电源线"
+      },
+      "example": {
+        "en": "Please check that the power cord is securely connected.",
+        "zh": "请检查电源线是否连接牢固。"
+      },
+      "id": "v000578",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "24fa2647ff4d15ae15e427d76f9521be1e40eaff1c7e32608dbb300be150bac4"
+    },
+    {
+      "word": "rainfall",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈreɪnfɔːl/",
+        "us": "/ˈreɪnfɔːl/"
+      },
+      "meaning": "降雨；降雨量",
+      "collocation": {
+        "en": "annual rainfall",
+        "zh": "年降雨量"
+      },
+      "example": {
+        "en": "The region has high annual rainfall.",
+        "zh": "这个地区的年降雨量很高。"
+      },
+      "id": "v000579",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ca4eda1cfce81fba77aee4dee3250d2fee1fea7e8c166626a73b1a03fce68685"
+    },
+    {
+      "word": "escort",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈeskɔːt/",
+        "us": "/ˈeskɔːrt/"
+      },
+      "meaning": "护送人员；陪同人员",
+      "collocation": {
+        "en": "police escort",
+        "zh": "警察护送"
+      },
+      "example": {
+        "en": "The convoy passed through the city center under police escort.",
+        "zh": "车队在警察护送下通过市中心。"
+      },
+      "id": "v000580",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d66fc37604267ec0575a2cac2b7937198056dd0d7e4128549675f68840562e2f"
+    },
+    {
+      "word": "escort",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈskɔːt/",
+        "us": "/ɪˈskɔːrt/"
+      },
+      "meaning": "护送；陪同",
+      "collocation": {
+        "en": "escort someone to",
+        "zh": "护送某人到……"
+      },
+      "example": {
+        "en": "A staff member escorted the visitor to the meeting room.",
+        "zh": "工作人员把访客带到会议室。"
+      },
+      "id": "v000581",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "880c4af28b590d249056758e312a486770c39050b817831bf199b095df3d7270"
+    },
+    {
+      "word": "vessel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvesl/",
+        "us": "/ˈvesl/"
+      },
+      "meaning": "船；舰艇",
+      "collocation": {
+        "en": "cargo vessel",
+        "zh": "货船"
+      },
+      "example": {
+        "en": "A cargo vessel is entering the harbor.",
+        "zh": "一艘货船正在驶入港口。"
+      },
+      "id": "v000582",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dd5edf43fb59e303966319efe8065ad2f8b9e30ec6f5f4c09d309893dea818cd"
+    },
+    {
+      "word": "vessel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvesl/",
+        "us": "/ˈvesl/"
+      },
+      "meaning": "容器；器皿",
+      "collocation": {
+        "en": "storage vessel",
+        "zh": "储存容器"
+      },
+      "example": {
+        "en": "The chemical should be stored in a sealed vessel.",
+        "zh": "化学品应存放在密封容器中。"
+      },
+      "id": "v000583",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d49b90e413683a3f5b7480475323278af09dcfe75216df2514fe1211914ace83"
+    },
+    {
+      "word": "meridian",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/məˈrɪdiən/",
+        "us": "/məˈrɪdiən/"
+      },
+      "meaning": "子午线；经线",
+      "collocation": {
+        "en": "prime meridian",
+        "zh": "本初子午线"
+      },
+      "example": {
+        "en": "Greenwich lies on the prime meridian.",
+        "zh": "格林尼治位于本初子午线上。"
+      },
+      "id": "v000584",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ca16229839c965457079954b7b2c5f78b8e2973df38160f3f90bcf31f155ea30"
+    },
+    {
+      "word": "motion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈməʊʃn/",
+        "us": "/ˈmoʊʃn/"
+      },
+      "meaning": "运动；移动",
+      "collocation": {
+        "en": "in motion",
+        "zh": "在运动中"
+      },
+      "example": {
+        "en": "Do not touch moving parts while the machine is in motion.",
+        "zh": "机器运行时不要触摸移动部件。"
+      },
+      "id": "v000585",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6a6ffe70a4e4e790a6b75e2f6aced92111a4c4fb6c4ec17bce32a67d09c95aac"
+    },
+    {
+      "word": "motion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈməʊʃn/",
+        "us": "/ˈmoʊʃn/"
+      },
+      "meaning": "动议；提议",
+      "collocation": {
+        "en": "pass a motion",
+        "zh": "通过动议"
+      },
+      "example": {
+        "en": "The committee passed a motion to amend the rules.",
+        "zh": "委员会通过了一项修改规则的动议。"
+      },
+      "id": "v000586",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9bb7c5d2e3049540ac788834d0bc470056a299d6b5e3fb1cac5e869db332d1cf"
+    },
+    {
+      "word": "entrance",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈentrəns/",
+        "us": "/ˈentrəns/"
+      },
+      "meaning": "入口；进入",
+      "collocation": {
+        "en": "main entrance",
+        "zh": "正门；主入口"
+      },
+      "example": {
+        "en": "Please enter the building through the main entrance.",
+        "zh": "请从北侧主入口进入大楼。"
+      },
+      "id": "v000587",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "611e04811a1301ea9e5638bad7afea96b94af7a012cc14cbf34d5e9dd01679c4"
+    },
+    {
+      "word": "assessment",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈsesmənt/",
+        "us": "/əˈsesmənt/"
+      },
+      "meaning": "评估；评价",
+      "collocation": {
+        "en": "risk assessment",
+        "zh": "风险评估"
+      },
+      "example": {
+        "en": "A risk assessment must be completed before the project begins.",
+        "zh": "项目开始前必须完成风险评估。"
+      },
+      "id": "v000588",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8225bb3bdfd8bf9d5c61b19344eb46ba87eff537b31b796064cead4d0f3f27d9"
+    },
+    {
+      "word": "assess",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈses/",
+        "us": "/əˈses/"
+      },
+      "meaning": "评估；评价",
+      "collocation": {
+        "en": "assess the risk",
+        "zh": "评估风险"
+      },
+      "example": {
+        "en": "The engineer needs to assess the risk of system failure.",
+        "zh": "工程师需要评估系统故障的风险。"
+      },
+      "id": "v000589",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "282810fa901c44e39d2b5ff0c3180ff4e8d6abfbb814131ae04dce054ff5f8b5"
+    },
+    {
+      "word": "badge",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/bædʒ/",
+        "us": "/bædʒ/"
+      },
+      "meaning": "徽章；证件牌",
+      "collocation": {
+        "en": "name badge",
+        "zh": "姓名牌"
+      },
+      "example": {
+        "en": "Participants must wear a name badge before entering the venue.",
+        "zh": "参加者进入会场前必须佩戴姓名牌。"
+      },
+      "id": "v000590",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6a7651653d153b40765e7099827595354026c650999b6ea7ac66f16d7886dfee"
+    },
+    {
+      "word": "quotation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kwəʊˈteɪʃn/",
+        "us": "/kwoʊˈteɪʃn/"
+      },
+      "meaning": "报价；报价单",
+      "collocation": {
+        "en": "request a quotation",
+        "zh": "索取报价"
+      },
+      "example": {
+        "en": "We requested a formal quotation from the supplier.",
+        "zh": "我们向供应商索取了一份正式报价。"
+      },
+      "id": "v000591",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "53df94f36aa6300fccc4aa103c43fafc56e69debc2240c1871b926dcd98a5e17"
+    },
+    {
+      "word": "quotation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kwəʊˈteɪʃn/",
+        "us": "/kwoʊˈteɪʃn/"
+      },
+      "meaning": "引语；引用",
+      "collocation": {
+        "en": "direct quotation",
+        "zh": "直接引语"
+      },
+      "example": {
+        "en": "Please provide the source of this direct quotation.",
+        "zh": "请注明这段直接引语的出处。"
+      },
+      "id": "v000592",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bc4b56231e3763537cb98d315cdace318ccbafe045fb61501d307b34fd1d0998"
+    },
+    {
+      "word": "coat",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəʊt/",
+        "us": "/koʊt/"
+      },
+      "meaning": "外套；大衣",
+      "collocation": {
+        "en": "winter coat",
+        "zh": "冬季大衣"
+      },
+      "example": {
+        "en": "He put on a thick winter coat when the weather turned cold.",
+        "zh": "天气变冷后他穿上了厚外套。"
+      },
+      "id": "v000593",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2ee87bbfe510d600b956bafc323b3216491505f8541dc2c05b66c6ac2509c139"
+    },
+    {
+      "word": "coat",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kəʊt/",
+        "us": "/koʊt/"
+      },
+      "meaning": "覆盖；涂上一层",
+      "collocation": {
+        "en": "coat with",
+        "zh": "在……表面涂上……"
+      },
+      "example": {
+        "en": "Coat the fish with breadcrumbs.",
+        "zh": "把鱼表面裹上一层面包屑。"
+      },
+      "id": "v000594",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bea762966ff79d5b26417b8d57e52b9a02520d699f7ac11f4603e18b209233fa"
+    },
+    {
+      "word": "dust",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dʌst/",
+        "us": "/dʌst/"
+      },
+      "meaning": "灰尘；尘土",
+      "collocation": {
+        "en": "covered in dust",
+        "zh": "布满灰尘"
+      },
+      "example": {
+        "en": "The old furniture was covered in dust.",
+        "zh": "旧家具上布满了灰尘。"
+      },
+      "id": "v000595",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "133499826d98e79bdbb25eb856e10843141ab6082e533ad8f4e68e2101c13614"
+    },
+    {
+      "word": "dust",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dʌst/",
+        "us": "/dʌst/"
+      },
+      "meaning": "掸去灰尘；撒粉",
+      "collocation": {
+        "en": "dust the shelves",
+        "zh": "给架子除尘"
+      },
+      "example": {
+        "en": "She dusts the shelves every week.",
+        "zh": "她每周都会给书架除尘。"
+      },
+      "id": "v000596",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9721fc389d95ef306a6de040811c6073407161cc81eeac96320bd2e0b685e91a"
+    },
+    {
+      "word": "sesame",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsesəmi/",
+        "us": "/ˈsesəmi/"
+      },
+      "meaning": "芝麻",
+      "collocation": {
+        "en": "sesame seeds",
+        "zh": "芝麻籽"
+      },
+      "example": {
+        "en": "The bread is topped with sesame seeds.",
+        "zh": "面包表面撒着芝麻。"
+      },
+      "id": "v000597",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f6b879eb1503ec09786b8d782558addfb9d9c6fda000804b2735b91238a3bad7"
+    },
+    {
+      "word": "allergy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈælədʒi/",
+        "us": "/ˈælərdʒi/"
+      },
+      "meaning": "过敏；过敏症",
+      "collocation": {
+        "en": "allergy to",
+        "zh": "对……过敏"
+      },
+      "example": {
+        "en": "She has a severe allergy to sesame.",
+        "zh": "她对芝麻严重过敏。"
+      },
+      "id": "v000598",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f934ff62c1a7618f3f1d98628f6273ac5074b78dd8e132f07592bfb903859c39"
+    },
+    {
+      "word": "bowl",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/bəʊl/",
+        "us": "/boʊl/"
+      },
+      "meaning": "碗；钵",
+      "collocation": {
+        "en": "a bowl of soup",
+        "zh": "一碗汤"
+      },
+      "example": {
+        "en": "He had a bowl of soup for lunch.",
+        "zh": "他午餐喝了一碗汤。"
+      },
+      "id": "v000599",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8fb73d6e6ff20ddef6304a3663643c07df84a939c8fe4080c3dd55be22d893cd"
+    },
+    {
+      "word": "distributor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈstrɪbjətə(r)/",
+        "us": "/dɪˈstrɪbjətər/"
+      },
+      "meaning": "经销商；分销商",
+      "collocation": {
+        "en": "authorized distributor",
+        "zh": "授权经销商"
+      },
+      "example": {
+        "en": "We sell our products through a local authorized distributor.",
+        "zh": "我们通过当地授权经销商销售产品。"
+      },
+      "id": "v000600",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cc263d6c21b04595181a8610142c0f8f9d9806cc4fd6d2337a1d3118842d65fb"
+    }
+  ]
+}

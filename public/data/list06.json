@@ -1,0 +1,1107 @@
+{
+  "id": "list06",
+  "title": "List 06",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "longitude",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈlɒndʒɪtjuːd/",
+        "us": "/ˈlɑːndʒətuːd/"
+      },
+      "meaning": "经度",
+      "collocation": {
+        "en": "line of longitude",
+        "zh": "经线"
+      },
+      "example": {
+        "en": "Longitude is used to indicate a location's east-west position.",
+        "zh": "经度用于表示一个地点东西方向的位置。"
+      },
+      "id": "v000251",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3066c252067fc390ea1805676454fff3cf92153b7b4aacc24337377773f5f56c"
+    },
+    {
+      "word": "outskirts",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈaʊtskɜːts/",
+        "us": "/ˈaʊtskɜːrts/"
+      },
+      "meaning": "市郊；郊区",
+      "collocation": {
+        "en": "on the outskirts of",
+        "zh": "在……郊区"
+      },
+      "example": {
+        "en": "They live on the outskirts of Tokyo.",
+        "zh": "他们住在东京郊区。"
+      },
+      "id": "v000252",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a5f5f480098558f5eb55048c3c4ffb0625e0469f01c4e3a55fb0d86ff8137464"
+    },
+    {
+      "word": "excursion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪkˈskɜːʃn/",
+        "us": "/ɪkˈskɜːrʒn/"
+      },
+      "meaning": "短途旅行；远足",
+      "collocation": {
+        "en": "go on an excursion",
+        "zh": "去短途旅行"
+      },
+      "example": {
+        "en": "We went on an excursion to the lake at the weekend.",
+        "zh": "我们周末去湖边进行了一次短途旅行。"
+      },
+      "id": "v000253",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ec4517955ec0b71df2a277ac0bd6ee03da18058473b0435113815b1738d90e80"
+    },
+    {
+      "word": "diplomacy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈpləʊməsi/",
+        "us": "/dɪˈploʊməsi/"
+      },
+      "meaning": "外交；外交手腕",
+      "collocation": {
+        "en": "international diplomacy",
+        "zh": "国际外交"
+      },
+      "example": {
+        "en": "Both sides hope to resolve the dispute through diplomacy.",
+        "zh": "双方希望通过外交解决争端。"
+      },
+      "id": "v000254",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3f57b9748e9140c6f6145ed8c544960875a9ec99c97e86505073481a4eb2fb2f"
+    },
+    {
+      "word": "spontaneous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/spɒnˈteɪniəs/",
+        "us": "/spɑːnˈteɪniəs/"
+      },
+      "meaning": "自发的；自然产生的",
+      "collocation": {
+        "en": "spontaneous applause",
+        "zh": "自发的掌声"
+      },
+      "example": {
+        "en": "The speech was followed by spontaneous applause.",
+        "zh": "演讲结束后响起了自发的掌声。"
+      },
+      "id": "v000255",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0106d7688dd455cd47d900976d6f4414017eb803f8b0b00d2ce34de82a844494"
+    },
+    {
+      "word": "pelagic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/pəˈlædʒɪk/",
+        "us": "/pəˈlædʒɪk/"
+      },
+      "meaning": "远洋的；海洋中上层的",
+      "collocation": {
+        "en": "pelagic fish",
+        "zh": "远洋鱼类"
+      },
+      "example": {
+        "en": "Tuna are common pelagic fish.",
+        "zh": "金枪鱼属于常见的远洋鱼类。"
+      },
+      "id": "v000256",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e67f983a1125d71d1fcf62a55851ef9c2a782c78ae1c90f8e0361784973d7d58"
+    },
+    {
+      "word": "jet lag",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdʒet læɡ/",
+        "us": "/ˈdʒet læɡ/"
+      },
+      "meaning": "时差反应",
+      "collocation": {
+        "en": "suffer from jet lag",
+        "zh": "受时差反应困扰"
+      },
+      "example": {
+        "en": "After arriving in New York, he suffered from jet lag for two days.",
+        "zh": "到达纽约后，他花了两天才缓过时差。"
+      },
+      "id": "v000257",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8f96ac5688c327e31b4cb809226689c2c673924db151b36bef75d2f8d090c35a"
+    },
+    {
+      "word": "aerobics",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/eəˈrəʊbɪks/",
+        "us": "/eˈroʊbɪks/"
+      },
+      "meaning": "有氧运动；健美操",
+      "collocation": {
+        "en": "do aerobics",
+        "zh": "做有氧运动"
+      },
+      "example": {
+        "en": "She does aerobics three times a week.",
+        "zh": "她每周做三次有氧运动。"
+      },
+      "id": "v000258",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6d77e8ee0972ac20c3670bca5f89209bf8154b7b759526e50ad9e2137f3e264d"
+    },
+    {
+      "word": "marathon",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmærəθən/",
+        "us": "/ˈmærəθɑːn/"
+      },
+      "meaning": "马拉松比赛",
+      "collocation": {
+        "en": "run a marathon",
+        "zh": "跑马拉松"
+      },
+      "example": {
+        "en": "He plans to run the Tokyo Marathon next year.",
+        "zh": "他计划明年参加东京马拉松。"
+      },
+      "id": "v000259",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cfe69694c421b86f4b0f92614b1de0d49b34f2db3a31620ed8c24881168d53ed"
+    },
+    {
+      "word": "itinerary",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/aɪˈtɪnərəri/",
+        "us": "/aɪˈtɪnəreri/"
+      },
+      "meaning": "旅行计划；行程表",
+      "collocation": {
+        "en": "travel itinerary",
+        "zh": "旅行行程"
+      },
+      "example": {
+        "en": "I have sent everyone the complete travel itinerary.",
+        "zh": "我已经把完整的旅行行程发给大家了。"
+      },
+      "id": "v000260",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ee0d11b329c2510485ebeb0b87dce254e8806c3f6954eece19c9c303d3337088"
+    },
+    {
+      "word": "rural",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈrʊərəl/",
+        "us": "/ˈrʊrəl/"
+      },
+      "meaning": "农村的；乡村的",
+      "collocation": {
+        "en": "rural area",
+        "zh": "农村地区"
+      },
+      "example": {
+        "en": "The program aims to improve healthcare in rural areas.",
+        "zh": "这项计划旨在改善农村地区的医疗服务。"
+      },
+      "id": "v000261",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "98717b853528cb4a7846a6d59ce3770c514bb5f5d949cf96cb214856d2034a31"
+    },
+    {
+      "word": "dormitory",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdɔːmətri/",
+        "us": "/ˈdɔːrmətɔːri/"
+      },
+      "meaning": "宿舍",
+      "collocation": {
+        "en": "student dormitory",
+        "zh": "学生宿舍"
+      },
+      "example": {
+        "en": "He lived in a student dormitory while at university.",
+        "zh": "他大学期间住在学生宿舍。"
+      },
+      "id": "v000262",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7837c9d633429b7b4a7ac779fe8bcdf04a34668271e13e1e9ca7ed0e1a69e08b"
+    },
+    {
+      "word": "suburb",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsʌbɜːb/",
+        "us": "/ˈsʌbɜːrb/"
+      },
+      "meaning": "郊区；城郊住宅区",
+      "collocation": {
+        "en": "live in the suburbs",
+        "zh": "住在郊区"
+      },
+      "example": {
+        "en": "They moved to a suburb of the city.",
+        "zh": "他们搬到了城市郊区。"
+      },
+      "id": "v000263",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f310cac8bd1c3a972ef0d1be88db66dc3fd1b4b5a2cb8804336c0647b6eb1959"
+    },
+    {
+      "word": "urban",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈɜːbən/",
+        "us": "/ˈɜːrbən/"
+      },
+      "meaning": "城市的；都市的",
+      "collocation": {
+        "en": "urban development",
+        "zh": "城市发展"
+      },
+      "example": {
+        "en": "Rapid urban development has created new traffic problems.",
+        "zh": "快速的城市发展带来了新的交通问题。"
+      },
+      "id": "v000264",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "be0ebba8558ad79564f0cedd80ab14a79ddb790b664273e87b9857d8fd1ce1fc"
+    },
+    {
+      "word": "residence",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈrezɪdəns/",
+        "us": "/ˈrezɪdəns/"
+      },
+      "meaning": "住所；住宅",
+      "collocation": {
+        "en": "place of residence",
+        "zh": "居住地"
+      },
+      "example": {
+        "en": "The application form asks for your place of residence.",
+        "zh": "申请表要求填写你的居住地。"
+      },
+      "id": "v000265",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "334fd2bbfc956e648ce106e684ac54f4bdcebd676119af31e96ff7ac6c69f5cf"
+    },
+    {
+      "word": "advection",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ədˈvekʃn/",
+        "us": "/ədˈvekʃn/"
+      },
+      "meaning": "平流；移流",
+      "collocation": {
+        "en": "warm-air advection",
+        "zh": "暖空气平流"
+      },
+      "example": {
+        "en": "Warm-air advection caused temperatures to rise quickly.",
+        "zh": "暖空气平流导致气温迅速升高。"
+      },
+      "id": "v000266",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ebfe365b5e96cd0fca6f637905b43e9a57aaf1a7bd2e0f934811515f3dcefb81"
+    },
+    {
+      "word": "sleet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/sliːt/",
+        "us": "/sliːt/"
+      },
+      "meaning": "雨夹雪；冰粒",
+      "collocation": {
+        "en": "freezing rain and sleet",
+        "zh": "冻雨和雨夹雪"
+      },
+      "example": {
+        "en": "The forecast says there may be sleet tonight.",
+        "zh": "天气预报说晚上可能有雨夹雪。"
+      },
+      "id": "v000267",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "45c85d25be55c50f8e9b6d64be2aceefbb402a94b297a68fbe2850081b3e7643"
+    },
+    {
+      "word": "blizzard",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈblɪzəd/",
+        "us": "/ˈblɪzərd/"
+      },
+      "meaning": "暴风雪",
+      "collocation": {
+        "en": "severe blizzard",
+        "zh": "严重暴风雪"
+      },
+      "example": {
+        "en": "The severe blizzard caused many flights to be canceled.",
+        "zh": "暴风雪导致许多航班被取消。"
+      },
+      "id": "v000268",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1a6c7dcafb903ed16f7bab285ef674fa9c0f4d02401777c1b2ffdeec83e315b6"
+    },
+    {
+      "word": "breeze",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/briːz/",
+        "us": "/briːz/"
+      },
+      "meaning": "微风",
+      "collocation": {
+        "en": "gentle breeze",
+        "zh": "轻柔的微风"
+      },
+      "example": {
+        "en": "A cool gentle breeze came from the sea.",
+        "zh": "海边吹来一阵凉爽的微风。"
+      },
+      "id": "v000269",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2a2e81c84be03808aab4573587ac0725416f3994b193035205c20da244803491"
+    },
+    {
+      "word": "tornado",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/tɔːˈneɪdəʊ/",
+        "us": "/tɔːrˈneɪdoʊ/"
+      },
+      "meaning": "龙卷风",
+      "collocation": {
+        "en": "tornado warning",
+        "zh": "龙卷风警报"
+      },
+      "example": {
+        "en": "The local authorities issued a tornado warning.",
+        "zh": "当地政府发布了龙卷风警报。"
+      },
+      "id": "v000270",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e88acef28273d52ee3da9e4036761ad9bc6bd70912db03a4d6e5d540df916b56"
+    },
+    {
+      "word": "thermometer",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/θəˈmɒmɪtə(r)/",
+        "us": "/θərˈmɑːmɪtər/"
+      },
+      "meaning": "温度计",
+      "collocation": {
+        "en": "digital thermometer",
+        "zh": "数字温度计"
+      },
+      "example": {
+        "en": "The nurse measured his temperature with a digital thermometer.",
+        "zh": "护士用数字温度计测量了他的体温。"
+      },
+      "id": "v000271",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7ef2f83eb3cccb2c4be75f26b8808d4b433adc62a89a3351eb086cfdb04bf809"
+    },
+    {
+      "word": "humidity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hjuːˈmɪdəti/",
+        "us": "/hjuːˈmɪdəti/"
+      },
+      "meaning": "湿度",
+      "collocation": {
+        "en": "high humidity",
+        "zh": "高湿度"
+      },
+      "example": {
+        "en": "High humidity makes summer feel even hotter.",
+        "zh": "高湿度让夏天感觉更加闷热。"
+      },
+      "id": "v000272",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e5b3cf63f03b6b84317c67d649cf3d96763a18da16f5a147d1833e51930b4b0b"
+    },
+    {
+      "word": "wanton",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈwɒntən/",
+        "us": "/ˈwɑːntən/"
+      },
+      "meaning": "肆意的；无端的",
+      "collocation": {
+        "en": "wanton destruction",
+        "zh": "肆意破坏"
+      },
+      "example": {
+        "en": "The historic building suffered wanton destruction.",
+        "zh": "这座历史建筑遭到了肆意破坏。"
+      },
+      "id": "v000273",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8e46810688ac93d95129cb6f743bd6e0fc4d25eeb79fc72f68dbdfba63fc2612"
+    },
+    {
+      "word": "atmospheric",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌætməsˈferɪk/",
+        "us": "/ˌætməsˈferɪk/"
+      },
+      "meaning": "大气的；空气中的",
+      "collocation": {
+        "en": "atmospheric pressure",
+        "zh": "大气压"
+      },
+      "example": {
+        "en": "Atmospheric pressure decreases as altitude increases.",
+        "zh": "大气压会随着海拔升高而下降。"
+      },
+      "id": "v000274",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6870841fedee1590174de6971d7444c876e8b033ffa7990fd82a9e8587142bb0"
+    },
+    {
+      "word": "optics",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɒptɪks/",
+        "us": "/ˈɑːptɪks/"
+      },
+      "meaning": "光学",
+      "collocation": {
+        "en": "fiber optics",
+        "zh": "光纤技术"
+      },
+      "example": {
+        "en": "Modern communications make extensive use of fiber optics.",
+        "zh": "现代通信大量使用光纤技术。"
+      },
+      "id": "v000275",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "504455eb20190fbf6e69837cc26ddeb55419692aebb3bc942a49d68c034cef56"
+    },
+    {
+      "word": "optics",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɒptɪks/",
+        "us": "/ˈɑːptɪks/"
+      },
+      "meaning": "公众观感；外在形象",
+      "collocation": {
+        "en": "bad optics",
+        "zh": "不好的公众观感"
+      },
+      "example": {
+        "en": "The decision could create bad optics.",
+        "zh": "这个决定可能会造成不好的公众观感。"
+      },
+      "id": "v000276",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "de5a2990925bb930a875d47820991b4c8e513146109ad1f9c530e8994a552715"
+    },
+    {
+      "word": "avalanche",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈævəlɑːnʃ/",
+        "us": "/ˈævəlæntʃ/"
+      },
+      "meaning": "雪崩；大量涌来之物",
+      "collocation": {
+        "en": "an avalanche of",
+        "zh": "大量的……"
+      },
+      "example": {
+        "en": "We received an avalanche of user feedback after the launch.",
+        "zh": "项目发布后我们收到大量用户反馈。"
+      },
+      "id": "v000277",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1d2ed212c83daaf64576af60e5399a1ecc474f4fbca1b200c0490c011ebc2748"
+    },
+    {
+      "word": "goad",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡəʊd/",
+        "us": "/ɡoʊd/"
+      },
+      "meaning": "刺激；激励；怂恿",
+      "collocation": {
+        "en": "goad someone into doing",
+        "zh": "刺激某人去做……"
+      },
+      "example": {
+        "en": "The criticism goaded him into training harder.",
+        "zh": "批评反而激励他更加努力地训练。"
+      },
+      "id": "v000278",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3959c858de6154b5aee6e224723c67f67508b6018dcff1b446d58a28eab680b4"
+    },
+    {
+      "word": "malnutrition",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌmælnjuːˈtrɪʃn/",
+        "us": "/ˌmælnuːˈtrɪʃn/"
+      },
+      "meaning": "营养不良",
+      "collocation": {
+        "en": "suffer from malnutrition",
+        "zh": "患营养不良"
+      },
+      "example": {
+        "en": "A prolonged inadequate diet can lead to malnutrition.",
+        "zh": "长期饮食不足可能导致营养不良。"
+      },
+      "id": "v000279",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c9e8bbb98e57197d84c328b60b182f58d5375ab59abb45eb917794127aba156d"
+    },
+    {
+      "word": "panacea",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌpænəˈsiːə/",
+        "us": "/ˌpænəˈsiːə/"
+      },
+      "meaning": "万能药；万全之策",
+      "collocation": {
+        "en": "panacea for",
+        "zh": "解决……的万能办法"
+      },
+      "example": {
+        "en": "AI is not a panacea for every problem.",
+        "zh": "人工智能并不是解决所有问题的万能药。"
+      },
+      "id": "v000280",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dfad85ae70379e042ff3c90d14c71c670ab332e6c61205f5121810a98407dd97"
+    },
+    {
+      "word": "mellow",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmeləʊ/",
+        "us": "/ˈmeloʊ/"
+      },
+      "meaning": "柔和的；成熟醇厚的",
+      "collocation": {
+        "en": "mellow flavor",
+        "zh": "醇厚的味道"
+      },
+      "example": {
+        "en": "This cheese has a mellow flavor.",
+        "zh": "这种奶酪有一种柔和而醇厚的味道。"
+      },
+      "id": "v000281",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "42664e779d3c636ca744f1b4834d3b9984ca2cfa063a1112e3ba5317080cd5e8"
+    },
+    {
+      "word": "mellow",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈmeləʊ/",
+        "us": "/ˈmeloʊ/"
+      },
+      "meaning": "变柔和；变成熟",
+      "collocation": {
+        "en": "mellow with age",
+        "zh": "随时间变醇厚"
+      },
+      "example": {
+        "en": "This wine mellows with age.",
+        "zh": "这种酒会随着时间变得更加醇厚。"
+      },
+      "id": "v000282",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f6c5eff64049fe596c168cc5fe5e820c65230a472f60c8598fd12cdf66b71f44"
+    },
+    {
+      "word": "penurious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/pəˈnjʊəriəs/",
+        "us": "/pəˈnʊriəs/"
+      },
+      "meaning": "贫困的；吝啬的",
+      "collocation": {
+        "en": "penurious circumstances",
+        "zh": "贫困境况"
+      },
+      "example": {
+        "en": "He lived in penurious circumstances when he was young.",
+        "zh": "他年轻时生活在十分贫困的环境中。"
+      },
+      "id": "v000283",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7017abfbeede24f6055254bca6581b50868a1c58b85c57f6dd505a029d55d420"
+    },
+    {
+      "word": "diabetes",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌdaɪəˈbiːtiːz/",
+        "us": "/ˌdaɪəˈbiːtiːz/"
+      },
+      "meaning": "糖尿病",
+      "collocation": {
+        "en": "develop diabetes",
+        "zh": "患上糖尿病"
+      },
+      "example": {
+        "en": "A healthy diet can help reduce the risk of developing diabetes.",
+        "zh": "健康饮食有助于降低患糖尿病的风险。"
+      },
+      "id": "v000284",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "efbbc406e0c2a29ab1dc981eddc02a0e6ec1d08c8d640832634708ec89d8babd"
+    },
+    {
+      "word": "pneumonia",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/njuːˈməʊniə/",
+        "us": "/nuːˈmoʊniə/"
+      },
+      "meaning": "肺炎",
+      "collocation": {
+        "en": "contract pneumonia",
+        "zh": "患上肺炎"
+      },
+      "example": {
+        "en": "He was hospitalized for a week after contracting pneumonia.",
+        "zh": "他因肺炎住院治疗了一周。"
+      },
+      "id": "v000285",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "015ad240a100f0f513064a6b7991c81dad322796007171936ea813a5b78941b7"
+    },
+    {
+      "word": "seasonings",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsiːzənɪŋz/",
+        "us": "/ˈsiːzənɪŋz/"
+      },
+      "meaning": "调味料",
+      "collocation": {
+        "en": "add seasonings",
+        "zh": "加入调味料"
+      },
+      "example": {
+        "en": "Add the seasonings to taste at the end.",
+        "zh": "最后加入适量调味料。"
+      },
+      "id": "v000286",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e216512f4aca25a325520f2724732d88894743186574fcbef437568f54cb3e70"
+    },
+    {
+      "word": "nutrition",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/njuˈtrɪʃn/",
+        "us": "/nuˈtrɪʃn/"
+      },
+      "meaning": "营养；营养学",
+      "collocation": {
+        "en": "balanced nutrition",
+        "zh": "均衡营养"
+      },
+      "example": {
+        "en": "Balanced nutrition is essential for children's growth.",
+        "zh": "均衡营养对儿童成长十分重要。"
+      },
+      "id": "v000287",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "694b11e5e28d8440d9f60f89001ab7414205d1c421b4f3040eb0d64713a8b170"
+    },
+    {
+      "word": "purification",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌpjʊərɪfɪˈkeɪʃn/",
+        "us": "/ˌpjʊrɪfɪˈkeɪʃn/"
+      },
+      "meaning": "净化；提纯",
+      "collocation": {
+        "en": "water purification",
+        "zh": "水净化"
+      },
+      "example": {
+        "en": "The village installed a new water purification system.",
+        "zh": "这个村庄安装了新的水净化设备。"
+      },
+      "id": "v000288",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "091fa63800f957da2c36979875f903ffb97f31b05ccf13015511acf794dc7ce6"
+    },
+    {
+      "word": "gourmet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɡʊəmeɪ/",
+        "us": "/ˈɡʊrmeɪ/"
+      },
+      "meaning": "美食家",
+      "collocation": {
+        "en": "a gourmet",
+        "zh": "美食家"
+      },
+      "example": {
+        "en": "He is a gourmet who enjoys trying cuisines from around the world.",
+        "zh": "他是一位喜欢尝试各国料理的美食家。"
+      },
+      "id": "v000289",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fca13463bbe49ff3ffb45932207a09628c3d37bf1d893d9a6cb46a1c0fba6484"
+    },
+    {
+      "word": "gourmet",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈɡʊəmeɪ/",
+        "us": "/ˈɡʊrmeɪ/"
+      },
+      "meaning": "高档美食的；精致的",
+      "collocation": {
+        "en": "gourmet food",
+        "zh": "精品美食"
+      },
+      "example": {
+        "en": "The shop sells a wide range of gourmet food.",
+        "zh": "商店出售各种精品食品。"
+      },
+      "id": "v000290",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7bec36a1a7db42d9bcf5877a97aba285768cde1f67784503884a28ee66209e42"
+    },
+    {
+      "word": "obese",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əʊˈbiːs/",
+        "us": "/oʊˈbiːs/"
+      },
+      "meaning": "肥胖的",
+      "collocation": {
+        "en": "clinically obese",
+        "zh": "临床肥胖的"
+      },
+      "example": {
+        "en": "The doctor advised obese patients to change their diet and exercise habits.",
+        "zh": "医生建议肥胖患者调整饮食和运动习惯。"
+      },
+      "id": "v000291",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e320328b5652b3e8d0f46823d4e49e88a60885e29decc94ac313fdc4ff70f69b"
+    },
+    {
+      "word": "contamination",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˌtæmɪˈneɪʃn/",
+        "us": "/kənˌtæməˈneɪʃn/"
+      },
+      "meaning": "污染；玷污",
+      "collocation": {
+        "en": "food contamination",
+        "zh": "食品污染"
+      },
+      "example": {
+        "en": "Strict hygiene controls can reduce the risk of food contamination.",
+        "zh": "严格的卫生管理可以降低食品污染风险。"
+      },
+      "id": "v000292",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "975a62a634b0f4d2754fbebd5454794180248735f70569d3952c2f0fab7f2169"
+    },
+    {
+      "word": "recital",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rɪˈsaɪtl/",
+        "us": "/rɪˈsaɪtl/"
+      },
+      "meaning": "独奏会；朗诵会",
+      "collocation": {
+        "en": "piano recital",
+        "zh": "钢琴独奏会"
+      },
+      "example": {
+        "en": "She will give a piano recital on Saturday.",
+        "zh": "她将在周六举行钢琴独奏会。"
+      },
+      "id": "v000293",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c64adbf6568a9c24ed9f0ab96d07519d0d926f93074e72bd2789e0f55722da92"
+    },
+    {
+      "word": "appetite",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈæpɪtaɪt/",
+        "us": "/ˈæpɪtaɪt/"
+      },
+      "meaning": "食欲；欲望",
+      "collocation": {
+        "en": "lose one's appetite",
+        "zh": "失去食欲"
+      },
+      "example": {
+        "en": "I often lose my appetite when the weather is very hot.",
+        "zh": "天气太热时我常常没有食欲。"
+      },
+      "id": "v000294",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4951513d9adafc048c335cbccd0a18943c0e4eb11faeeb494c04ee57a20156ea"
+    },
+    {
+      "word": "cordially",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/ˈkɔːdiəli/",
+        "us": "/ˈkɔːrdʒəli/"
+      },
+      "meaning": "热诚地；友好地",
+      "collocation": {
+        "en": "cordially invited",
+        "zh": "诚挚邀请"
+      },
+      "example": {
+        "en": "You are cordially invited to our anniversary celebration.",
+        "zh": "诚挚邀请您参加我们的周年庆典。"
+      },
+      "id": "v000295",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ed8c4233eaa3f76972950843d3f084095a50783ffc3068f9373d1f32b099383e"
+    },
+    {
+      "word": "bland",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/blænd/",
+        "us": "/blænd/"
+      },
+      "meaning": "清淡无味的；乏味的",
+      "collocation": {
+        "en": "bland diet",
+        "zh": "清淡饮食"
+      },
+      "example": {
+        "en": "The doctor advised him to follow a bland diet for a while.",
+        "zh": "医生建议他暂时吃清淡饮食。"
+      },
+      "id": "v000296",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "200769f24dc22a03ba1b669cffef660ee8166806bfaaadd091f0377f30cf6769"
+    },
+    {
+      "word": "delicacy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdelɪkəsi/",
+        "us": "/ˈdelɪkəsi/"
+      },
+      "meaning": "美味佳肴；珍馐",
+      "collocation": {
+        "en": "local delicacy",
+        "zh": "当地美食"
+      },
+      "example": {
+        "en": "Grilled eel is a local delicacy here.",
+        "zh": "烤鳗鱼是这里的一道当地美食。"
+      },
+      "id": "v000297",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a88717202b55765534a9abc082621857f969bff475742cb3be9e3a65fea9f774"
+    },
+    {
+      "word": "delicacy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdelɪkəsi/",
+        "us": "/ˈdelɪkəsi/"
+      },
+      "meaning": "微妙；谨慎",
+      "collocation": {
+        "en": "handle with delicacy",
+        "zh": "谨慎处理"
+      },
+      "example": {
+        "en": "This sensitive issue needs to be handled with delicacy.",
+        "zh": "这种敏感问题需要谨慎处理。"
+      },
+      "id": "v000298",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "976ff4b893478d3915cc79a987127cc489100fc6d3b9c7fd12346b7617c5e078"
+    },
+    {
+      "word": "fragrant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfreɪɡrənt/",
+        "us": "/ˈfreɪɡrənt/"
+      },
+      "meaning": "芳香的",
+      "collocation": {
+        "en": "fragrant herbs",
+        "zh": "芳香草本"
+      },
+      "example": {
+        "en": "The kitchen was filled with the smell of fragrant herbs.",
+        "zh": "厨房里充满了新鲜香草的香气。"
+      },
+      "id": "v000299",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e14cccac6eed98c34704098ee6eb94407fcbd4c95274ad90984464223fe8da1c"
+    },
+    {
+      "word": "ingredient",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪnˈɡriːdiənt/",
+        "us": "/ɪnˈɡriːdiənt/"
+      },
+      "meaning": "原料；成分",
+      "collocation": {
+        "en": "key ingredient",
+        "zh": "关键成分"
+      },
+      "example": {
+        "en": "Patience is a key ingredient for success.",
+        "zh": "耐心是成功的重要因素之一。"
+      },
+      "id": "v000300",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c0b796654300a12d5f7e979689a6614fd0786a68227c401ae01b8e4804353199"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "id": "list03",
+  "title": "List 03",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "distinguished",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dɪˈstɪŋɡwɪʃt/",
+        "us": "/dɪˈstɪŋɡwɪʃt/"
+      },
+      "meaning": "高贵的；气度不凡的",
+      "collocation": {
+        "en": "distinguished appearance",
+        "zh": "气度不凡的外表"
+      },
+      "example": {
+        "en": "The professor has a calm and distinguished appearance.",
+        "zh": "那位教授有一种沉稳而不凡的气质。"
+      },
+      "id": "v000101",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "27f35463eca99fea6d4709ad0cfb0677b45b796c1de68bfa8752aaae44fc5937"
+    },
+    {
+      "word": "campaign",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kæmˈpeɪn/",
+        "us": "/kæmˈpeɪn/"
+      },
+      "meaning": "运动；活动；竞选",
+      "collocation": {
+        "en": "launch a campaign",
+        "zh": "发起一场活动"
+      },
+      "example": {
+        "en": "The company launched a campaign to promote energy conservation.",
+        "zh": "公司发起了一项节能宣传活动。"
+      },
+      "id": "v000102",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "52b1a17e2351c36ed0ab7759a00a8ca724fd73b58afa7424bfcb08354287fd76"
+    },
+    {
+      "word": "campaign",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kæmˈpeɪn/",
+        "us": "/kæmˈpeɪn/"
+      },
+      "meaning": "参加运动；开展竞选活动",
+      "collocation": {
+        "en": "campaign for/against",
+        "zh": "为/反对……开展活动"
+      },
+      "example": {
+        "en": "Residents are campaigning for improved neighborhood safety.",
+        "zh": "居民们正在为改善社区安全而奔走。"
+      },
+      "id": "v000103",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0664957b0d971f1fd19b59c41536d603387e2fa0c798266cdf5af619ec59e7b1"
+    },
+    {
+      "word": "prevalent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈprevələnt/",
+        "us": "/ˈprevələnt/"
+      },
+      "meaning": "普遍的；盛行的",
+      "collocation": {
+        "en": "be prevalent among",
+        "zh": "在……中普遍存在"
+      },
+      "example": {
+        "en": "Remote work is now prevalent among technology companies.",
+        "zh": "远程办公在科技行业已经非常普遍。"
+      },
+      "id": "v000104",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8216da4a6d4850a2dfe7127b60625dd13ca7ffdb58535d6ece03a134d2148053"
+    },
+    {
+      "word": "forfeit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈfɔːfɪt/",
+        "us": "/ˈfɔːrfɪt/"
+      },
+      "meaning": "丧失；被没收",
+      "collocation": {
+        "en": "forfeit the right to",
+        "zh": "丧失……的权利"
+      },
+      "example": {
+        "en": "If you pay late, you may forfeit the right to receive the discount.",
+        "zh": "如果逾期付款，你可能会失去享受折扣的权利。"
+      },
+      "id": "v000105",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1a9f9c5099662156010d7c60d583c34ff4c599b7080bbbc2917fd8c14a34ee4e"
+    },
+    {
+      "word": "forfeit",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfɔːfɪt/",
+        "us": "/ˈfɔːrfɪt/"
+      },
+      "meaning": "罚金；被没收物；代价",
+      "collocation": {
+        "en": "pay a forfeit",
+        "zh": "支付罚金"
+      },
+      "example": {
+        "en": "He paid a forfeit for breaching the contract.",
+        "zh": "他因违反合同而支付了一笔罚金。"
+      },
+      "id": "v000106",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0f19211ed407776394b45c162870bd1dde81ca9f3058a51479e935553c096d70"
+    },
+    {
+      "word": "forfeit",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈfɔːfɪt/",
+        "us": "/ˈfɔːrfɪt/"
+      },
+      "meaning": "被没收的；丧失的",
+      "collocation": {
+        "en": "be forfeit",
+        "zh": "被没收；丧失"
+      },
+      "example": {
+        "en": "The deposit may be forfeit if the obligation is not fulfilled.",
+        "zh": "如果不履行义务，押金可能会被没收。"
+      },
+      "id": "v000107",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5f8a859ea62d751810bc8136580610aac7cdadcb88918d880e45a3a240cdc223"
+    },
+    {
+      "word": "confiscate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkɒnfɪskeɪt/",
+        "us": "/ˈkɑːnfɪskeɪt/"
+      },
+      "meaning": "没收；充公",
+      "collocation": {
+        "en": "confiscate goods",
+        "zh": "没收物品"
+      },
+      "example": {
+        "en": "Customs officers confiscated the illegally imported goods.",
+        "zh": "海关没收了非法进口的商品。"
+      },
+      "id": "v000108",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5f53e84ab74a1a93d9ef010cef4a04b1dd7d2b6f746c526d98f8ea9edf5ef92a"
+    },
+    {
+      "word": "default",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈfɔːlt/",
+        "us": "/dɪˈfɔːlt/"
+      },
+      "meaning": "违约；拖欠",
+      "collocation": {
+        "en": "default on a loan",
+        "zh": "贷款违约"
+      },
+      "example": {
+        "en": "The company defaulted on a loan because of cash-flow problems.",
+        "zh": "公司因现金流问题发生了贷款违约。"
+      },
+      "id": "v000109",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "38826e4daf62390e16878aad2ff5587b714db326e0a5c3b89d533b8f212773e5"
+    },
+    {
+      "word": "default",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈfɔːlt/",
+        "us": "/dɪˈfɔːlt/"
+      },
+      "meaning": "默认值；默认设置",
+      "collocation": {
+        "en": "by default",
+        "zh": "默认情况下"
+      },
+      "example": {
+        "en": "The system saves files automatically by default.",
+        "zh": "系统默认情况下会自动保存文件。"
+      },
+      "id": "v000110",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e66f10f7f7443ab300f503cfe0b327972b7efd88351c65443b2c8c4f56362e8c"
+    },
+    {
+      "word": "default",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈfɔːlt/",
+        "us": "/dɪˈfɔːlt/"
+      },
+      "meaning": "违约；未履行义务",
+      "collocation": {
+        "en": "default on",
+        "zh": "拖欠；不履行……"
+      },
+      "example": {
+        "en": "The borrower defaulted on the loan for three consecutive months.",
+        "zh": "借款人连续三个月未偿还贷款。"
+      },
+      "id": "v000111",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "76443da631aaa691044ac79cca2ca2150e722aacef322363dbaa8c26e196e59d"
+    },
+    {
+      "word": "implicit",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪmˈplɪsɪt/",
+        "us": "/ɪmˈplɪsɪt/"
+      },
+      "meaning": "含蓄的；暗示的；不言明的",
+      "collocation": {
+        "en": "implicit assumption",
+        "zh": "隐含假设"
+      },
+      "example": {
+        "en": "The plan is based on an implicit assumption.",
+        "zh": "这个计划建立在一个没有明说的假设之上。"
+      },
+      "id": "v000112",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b1fec2707e0497280fcd3c88efa48b5e07d7059cc120b06674f32b3f901c4025"
+    },
+    {
+      "word": "implicit",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪmˈplɪsɪt/",
+        "us": "/ɪmˈplɪsɪt/"
+      },
+      "meaning": "绝对的；无保留的",
+      "collocation": {
+        "en": "implicit trust",
+        "zh": "绝对信任"
+      },
+      "example": {
+        "en": "Team members need to have implicit trust in one another.",
+        "zh": "团队成员之间必须建立充分的信任。"
+      },
+      "id": "v000113",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "204ad9b8c2482dff1830e4889ad45b092e1923101596d19a4456d5f6127bfb65"
+    },
+    {
+      "word": "substitute",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsʌbstɪtjuːt/",
+        "us": "/ˈsʌbstɪtuːt/"
+      },
+      "meaning": "代替者；替代品",
+      "collocation": {
+        "en": "a substitute for",
+        "zh": "……的替代品"
+      },
+      "example": {
+        "en": "Online video meetings are not a complete substitute for face-to-face communication.",
+        "zh": "在线视频会议不能完全替代面对面沟通。"
+      },
+      "id": "v000114",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b7bb5f279e3049df5776c36b655382a28c604ae965b3608f2abe5c526f20c11d"
+    },
+    {
+      "word": "substitute",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsʌbstɪtjuːt/",
+        "us": "/ˈsʌbstɪtuːt/"
+      },
+      "meaning": "代替；替换",
+      "collocation": {
+        "en": "substitute A for B",
+        "zh": "用A代替B"
+      },
+      "example": {
+        "en": "We substituted open-source software for the original commercial software.",
+        "zh": "我们用开源软件替换了原来的商业软件。"
+      },
+      "id": "v000115",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4651c4be14273b5897b4e3428859b0411f717459b5941bc50a5adb3bc609e6e1"
+    },
+    {
+      "word": "substitute",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈsʌbstɪtjuːt/",
+        "us": "/ˈsʌbstɪtuːt/"
+      },
+      "meaning": "替代的；代用的",
+      "collocation": {
+        "en": "substitute teacher",
+        "zh": "代课教师"
+      },
+      "example": {
+        "en": "A substitute teacher taught our class today.",
+        "zh": "今天由一位代课老师给我们上课。"
+      },
+      "id": "v000116",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d0c3a6cb4f6ad664dcf4862ef384dbb09c6906e225b2c3020f5c9b7e5d47b705"
+    },
+    {
+      "word": "deter",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈtɜː(r)/",
+        "us": "/dɪˈtɜːr/"
+      },
+      "meaning": "阻止；威慑",
+      "collocation": {
+        "en": "deter someone from doing",
+        "zh": "阻止某人做……"
+      },
+      "example": {
+        "en": "Heavy fines can deter companies from violating the rules.",
+        "zh": "高额罚款可以阻止企业违反规定。"
+      },
+      "id": "v000117",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0d5f63311f8eccff5631d2f7d1e80be37190decb57b0b56d7ac92f44fd7fb05d"
+    },
+    {
+      "word": "incur",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈkɜː(r)/",
+        "us": "/ɪnˈkɜːr/"
+      },
+      "meaning": "招致；承担（费用、债务、损失等）",
+      "collocation": {
+        "en": "incur costs",
+        "zh": "产生费用"
+      },
+      "example": {
+        "en": "A delay in the project will incur additional costs.",
+        "zh": "项目延期会产生额外费用。"
+      },
+      "id": "v000118",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b16b110e4c2144b6dcfaa398b380d29d49f6cd9eb8296956e15215f223881d51"
+    },
+    {
+      "word": "incur",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈkɜː(r)/",
+        "us": "/ɪnˈkɜːr/"
+      },
+      "meaning": "招致（不满、风险等）",
+      "collocation": {
+        "en": "incur the risk of",
+        "zh": "招致……的风险"
+      },
+      "example": {
+        "en": "Ignoring safety inspections may incur the risk of an accident.",
+        "zh": "忽视安全检查会增加发生事故的风险。"
+      },
+      "id": "v000119",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "feaef93c1b6fc2be03eb24b8a851d45245038d6b183a7a1efd7eaf1569354296"
+    },
+    {
+      "word": "tumultuous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/tjuːˈmʌltʃuəs/",
+        "us": "/tuːˈmʌltʃuəs/"
+      },
+      "meaning": "动荡的；混乱的；喧闹的",
+      "collocation": {
+        "en": "tumultuous period",
+        "zh": "动荡时期"
+      },
+      "example": {
+        "en": "The company went through a tumultuous period of restructuring.",
+        "zh": "公司经历了一段动荡的重组时期。"
+      },
+      "id": "v000120",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d3abc7575609c74161b62d1761c578c0b1338beca95a85cba9085680b9b49f6f"
+    },
+    {
+      "word": "vicinity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/vəˈsɪnəti/",
+        "us": "/vəˈsɪnəti/"
+      },
+      "meaning": "附近；邻近地区",
+      "collocation": {
+        "en": "in the vicinity of",
+        "zh": "在……附近"
+      },
+      "example": {
+        "en": "There are several good restaurants in the vicinity of the station.",
+        "zh": "车站附近有几家不错的餐厅。"
+      },
+      "id": "v000121",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cd1636ca32f267010edb69337c405427d809648c2d418b240ef929495f9b5863"
+    },
+    {
+      "word": "surge",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/sɜːdʒ/",
+        "us": "/sɜːrdʒ/"
+      },
+      "meaning": "激增；急剧上升",
+      "collocation": {
+        "en": "a surge in demand",
+        "zh": "需求激增"
+      },
+      "example": {
+        "en": "There was a surge in electricity demand during the summer.",
+        "zh": "夏季出现了电力需求激增。"
+      },
+      "id": "v000122",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3ed88019634ee3c0df9116a762e86af3c958fa24844e24278d0ebea05462b93a"
+    },
+    {
+      "word": "surge",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/sɜːdʒ/",
+        "us": "/sɜːrdʒ/"
+      },
+      "meaning": "激增；猛涨；涌动",
+      "collocation": {
+        "en": "surge to",
+        "zh": "猛增至……"
+      },
+      "example": {
+        "en": "The company's share price surged after the announcement.",
+        "zh": "消息公布后，该公司股价迅速上涨。"
+      },
+      "id": "v000123",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1b4f9ec6fce5e905887703087c7d4f03a0cec79c70d30b20ddb8574536b03f0a"
+    },
+    {
+      "word": "ratify",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈrætɪfaɪ/",
+        "us": "/ˈrætɪfaɪ/"
+      },
+      "meaning": "批准；正式认可（条约、协议等）",
+      "collocation": {
+        "en": "ratify an agreement",
+        "zh": "批准协议"
+      },
+      "example": {
+        "en": "Parliament formally ratified the international agreement.",
+        "zh": "议会正式批准了这项国际协议。"
+      },
+      "id": "v000124",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e8d692181c7e7566bb318c1ac42b3eb4be42b760d7647ece9aef8bad0af732a3"
+    },
+    {
+      "word": "patronage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpætrənɪdʒ/",
+        "us": "/ˈpætrənɪdʒ/"
+      },
+      "meaning": "赞助；资助；支持",
+      "collocation": {
+        "en": "under the patronage of",
+        "zh": "在……的赞助下"
+      },
+      "example": {
+        "en": "The art exhibition was held under the patronage of local businesses.",
+        "zh": "这次艺术展在当地企业的赞助下举办。"
+      },
+      "id": "v000125",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e1e42bb44cf84bd70ea4df5e659979826eb1a4e54ec097437f618a81f28fe609"
+    },
+    {
+      "word": "patronage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpætrənɪdʒ/",
+        "us": "/ˈpætrənɪdʒ/"
+      },
+      "meaning": "惠顾；光顾",
+      "collocation": {
+        "en": "customer patronage",
+        "zh": "顾客惠顾"
+      },
+      "example": {
+        "en": "The restaurant thanked its customers for their patronage over the years.",
+        "zh": "餐厅感谢顾客多年来的支持与惠顾。"
+      },
+      "id": "v000126",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c644fd3bddabb4121e6786dd40e30b2c2c84d04da37bba88e05171da456b7049"
+    },
+    {
+      "word": "subsidy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsʌbsədi/",
+        "us": "/ˈsʌbsədi/"
+      },
+      "meaning": "补贴；津贴",
+      "collocation": {
+        "en": "government subsidy",
+        "zh": "政府补贴"
+      },
+      "example": {
+        "en": "The government provides subsidies to renewable-energy companies.",
+        "zh": "政府向新能源企业提供补贴。"
+      },
+      "id": "v000127",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1b7e467e10a5fb9bf82fe39ec33e28ac1266afd783ec81923708d32b30b53b7c"
+    },
+    {
+      "word": "reprieve",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rɪˈpriːv/",
+        "us": "/rɪˈpriːv/"
+      },
+      "meaning": "暂缓；缓刑；暂时解脱",
+      "collocation": {
+        "en": "a temporary reprieve",
+        "zh": "暂时的缓解/喘息"
+      },
+      "example": {
+        "en": "The rain brought a temporary reprieve from the heat.",
+        "zh": "降雨给高温天气带来了短暂的缓解。"
+      },
+      "id": "v000128",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1f7025831627e529d33b7d482529d007c1ce9ba94f0693727ef3da2faee8d67c"
+    },
+    {
+      "word": "reprieve",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈpriːv/",
+        "us": "/rɪˈpriːv/"
+      },
+      "meaning": "暂缓执行；使暂时免除",
+      "collocation": {
+        "en": "reprieve someone from",
+        "zh": "暂时免除某人……"
+      },
+      "example": {
+        "en": "The court reprieved him from the penalty temporarily.",
+        "zh": "法院暂缓执行了对他的处罚。"
+      },
+      "id": "v000129",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "35fe782a302cee04ffb95e7d1b4cea688062c3bef986983156fa5b9f5e8591b8"
+    },
+    {
+      "word": "penetrate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpenətreɪt/",
+        "us": "/ˈpenətreɪt/"
+      },
+      "meaning": "穿透；渗入",
+      "collocation": {
+        "en": "penetrate through",
+        "zh": "穿透……"
+      },
+      "example": {
+        "en": "Sunlight penetrated through the thick clouds.",
+        "zh": "阳光透过厚厚的云层照了进来。"
+      },
+      "id": "v000130",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "853d995e3474cfa2fbffb8975475be91b1b6d473210de240cabceff89d23d221"
+    },
+    {
+      "word": "penetrate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpenətreɪt/",
+        "us": "/ˈpenətreɪt/"
+      },
+      "meaning": "打入；进入（市场、组织等）",
+      "collocation": {
+        "en": "penetrate a market",
+        "zh": "打入市场"
+      },
+      "example": {
+        "en": "The company is trying to penetrate the Southeast Asian market.",
+        "zh": "这家公司正在努力打入东南亚市场。"
+      },
+      "id": "v000131",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2f9b01d2ada5ccec2ee68e03b3e4483dd9bb6d67c9239eedf2ba8b74b9e5dd10"
+    },
+    {
+      "word": "ubiquitous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/juːˈbɪkwɪtəs/",
+        "us": "/juːˈbɪkwɪtəs/"
+      },
+      "meaning": "无处不在的；普遍存在的",
+      "collocation": {
+        "en": "become ubiquitous",
+        "zh": "变得无处不在"
+      },
+      "example": {
+        "en": "Smartphones have now become almost ubiquitous.",
+        "zh": "智能手机如今几乎已经无处不在。"
+      },
+      "id": "v000132",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fde06f8adc67a905aac8c623e9c690a27e52c30b369420b05eb0a61084e05d6d"
+    },
+    {
+      "word": "proliferate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prəˈlɪfəreɪt/",
+        "us": "/prəˈlɪfəreɪt/"
+      },
+      "meaning": "激增；迅速扩散",
+      "collocation": {
+        "en": "proliferate rapidly",
+        "zh": "迅速增加"
+      },
+      "example": {
+        "en": "AI-based tools have proliferated rapidly in recent years.",
+        "zh": "近年来，基于人工智能的工具迅速增加。"
+      },
+      "id": "v000133",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7d9452170f13ce3f34216036e3fb78eec94073e400a15109eda7dbd6a20dddd7"
+    },
+    {
+      "word": "densely",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/ˈdensli/",
+        "us": "/ˈdensli/"
+      },
+      "meaning": "密集地；稠密地",
+      "collocation": {
+        "en": "densely populated",
+        "zh": "人口稠密的"
+      },
+      "example": {
+        "en": "Tokyo is a densely populated city.",
+        "zh": "东京是一个人口非常稠密的城市。"
+      },
+      "id": "v000134",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "67fdeec1afe3eed5a7944ee100565cee01d723b63e1965c5b4a73087a239c50e"
+    },
+    {
+      "word": "inevitable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪnˈevɪtəbl/",
+        "us": "/ɪnˈevɪtəbl/"
+      },
+      "meaning": "不可避免的；必然的",
+      "collocation": {
+        "en": "it is inevitable that",
+        "zh": "……是不可避免的"
+      },
+      "example": {
+        "en": "As the system grows, some architectural changes are inevitable.",
+        "zh": "随着系统规模扩大，某些架构调整是不可避免的。"
+      },
+      "id": "v000135",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7778c7ca5eb15dfb66e737461fb1233cdf0b45f71f2fae927eaa925c544ca21f"
+    },
+    {
+      "word": "arouse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈraʊz/",
+        "us": "/əˈraʊz/"
+      },
+      "meaning": "引起；激起（兴趣、怀疑、情感等）",
+      "collocation": {
+        "en": "arouse interest",
+        "zh": "引起兴趣"
+      },
+      "example": {
+        "en": "The new project aroused the interest of many investors.",
+        "zh": "这个新项目引起了许多投资者的兴趣。"
+      },
+      "id": "v000136",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3f7ce912b38529a7dfb0da1b39518300447d8f75b9307ff062e2a44db9e381a5"
+    },
+    {
+      "word": "arouse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈraʊz/",
+        "us": "/əˈraʊz/"
+      },
+      "meaning": "唤醒；使醒来",
+      "collocation": {
+        "en": "arouse someone from sleep",
+        "zh": "把某人从睡梦中唤醒"
+      },
+      "example": {
+        "en": "The loud noise aroused him from sleep.",
+        "zh": "巨大的噪声把他从睡梦中惊醒。"
+      },
+      "id": "v000137",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e53e16774f9ee04c9fb7d73609d46d6dbca761016cb473c26ddd44db81a5e5d4"
+    },
+    {
+      "word": "inoculate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈnɒkjuleɪt/",
+        "us": "/ɪˈnɑːkjuleɪt/"
+      },
+      "meaning": "给……接种疫苗",
+      "collocation": {
+        "en": "inoculate someone against",
+        "zh": "给某人接种以预防……"
+      },
+      "example": {
+        "en": "The doctor recommended that travelers be inoculated against the disease before departure.",
+        "zh": "医生建议旅行前接种相关疫苗。"
+      },
+      "id": "v000138",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "52c478321d292b7bad340d5430b4fb5ff44071c1efc21f30285a6ce96fb95b94"
+    },
+    {
+      "word": "inoculate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈnɒkjuleɪt/",
+        "us": "/ɪˈnɑːkjuleɪt/"
+      },
+      "meaning": "灌输；使具有抵抗力（比喻）",
+      "collocation": {
+        "en": "inoculate someone against",
+        "zh": "使某人对……具有抵抗力"
+      },
+      "example": {
+        "en": "Education can help inoculate young people against online misinformation.",
+        "zh": "教育可以帮助年轻人抵御网络谣言。"
+      },
+      "id": "v000139",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "458db810d0fcb48782925411f682f532dd25e8a4fa621bd69d4ae2066ab89400"
+    },
+    {
+      "word": "terminology",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌtɜːmɪˈnɒlədʒi/",
+        "us": "/ˌtɜːrməˈnɑːlədʒi/"
+      },
+      "meaning": "术语；专业用语",
+      "collocation": {
+        "en": "technical terminology",
+        "zh": "技术术语"
+      },
+      "example": {
+        "en": "The document contains a great deal of cloud-computing terminology.",
+        "zh": "这份文档包含大量云计算技术术语。"
+      },
+      "id": "v000140",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b0f79eec19fe4da794059e85c33074471dab943d087017d1f65cb89eb442e8aa"
+    },
+    {
+      "word": "upsurge",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈʌpsɜːdʒ/",
+        "us": "/ˈʌpsɜːrdʒ/"
+      },
+      "meaning": "急剧增长；高涨",
+      "collocation": {
+        "en": "an upsurge in",
+        "zh": "……的激增"
+      },
+      "example": {
+        "en": "There has recently been an upsurge in AI-related jobs.",
+        "zh": "最近出现了人工智能相关职位的激增。"
+      },
+      "id": "v000141",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "acaf1029e706b63e4701909e940c9ab12a18060fae856b51d9f30b0c222d76d5"
+    },
+    {
+      "word": "handicap",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈhændikæp/",
+        "us": "/ˈhændikæp/"
+      },
+      "meaning": "障碍；不利条件",
+      "collocation": {
+        "en": "be a handicap to",
+        "zh": "成为……的障碍"
+      },
+      "example": {
+        "en": "Lack of experience can be a handicap when looking for a job.",
+        "zh": "缺乏经验可能成为求职时的一个不利条件。"
+      },
+      "id": "v000142",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "63e9031b0d96d3eaef8283ec2477faed2d4993f50f0f65712d1c3043662fa5d8"
+    },
+    {
+      "word": "handicap",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈhændikæp/",
+        "us": "/ˈhændikæp/"
+      },
+      "meaning": "妨碍；使处于不利地位",
+      "collocation": {
+        "en": "be handicapped by",
+        "zh": "受……妨碍"
+      },
+      "example": {
+        "en": "The project was handicapped by an insufficient budget.",
+        "zh": "这个项目因预算不足而受到限制。"
+      },
+      "id": "v000143",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "20823148b3e74747d24eb929416e8c57bb35263bc71b53511a3e3825dd4573fe"
+    },
+    {
+      "word": "consolation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒnsəˈleɪʃən/",
+        "us": "/ˌkɑːnsəˈleɪʃən/"
+      },
+      "meaning": "安慰；慰藉",
+      "collocation": {
+        "en": "take consolation in/from",
+        "zh": "从……中得到安慰"
+      },
+      "example": {
+        "en": "Although he did not win, he took consolation in the progress he had made.",
+        "zh": "虽然没有获胜，但他从自己的进步中得到了安慰。"
+      },
+      "id": "v000144",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e83b7eefa9fb6da3fde41a719f83cd1c9de7d2432b65161fd1f71bd5b596aed5"
+    },
+    {
+      "word": "consolation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒnsəˈleɪʃən/",
+        "us": "/ˌkɑːnsəˈleɪʃən/"
+      },
+      "meaning": "安慰奖；次等奖励",
+      "collocation": {
+        "en": "consolation prize",
+        "zh": "安慰奖"
+      },
+      "example": {
+        "en": "The contestants who did not reach the final received a consolation prize.",
+        "zh": "没有进入决赛的参赛者获得了安慰奖。"
+      },
+      "id": "v000145",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5fdf1ebe07acdfb4cbaec8dcdaf57698223664ea4b43c7ca3ff79d2f279217d2"
+    },
+    {
+      "word": "vicious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈvɪʃəs/",
+        "us": "/ˈvɪʃəs/"
+      },
+      "meaning": "恶毒的；凶猛的",
+      "collocation": {
+        "en": "vicious attack",
+        "zh": "恶意/凶猛的攻击"
+      },
+      "example": {
+        "en": "The company was hit by a vicious cyberattack.",
+        "zh": "公司遭到了一轮恶意的网络攻击。"
+      },
+      "id": "v000146",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4bc358347ff6f53a810b2f00db2398cd3541ab0b06622c579693b4b4a41d3f3f"
+    },
+    {
+      "word": "vicious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈvɪʃəs/",
+        "us": "/ˈvɪʃəs/"
+      },
+      "meaning": "恶性的；循环加剧的",
+      "collocation": {
+        "en": "vicious circle",
+        "zh": "恶性循环"
+      },
+      "example": {
+        "en": "Debt and low income can create a vicious circle.",
+        "zh": "债务和低收入可能形成恶性循环。"
+      },
+      "id": "v000147",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b9d300574d2c987497ca0d19f4436bedba15bfb385380671f4744114a390c8ce"
+    },
+    {
+      "word": "mishap",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmɪshæp/",
+        "us": "/ˈmɪshæp/"
+      },
+      "meaning": "小事故；意外",
+      "collocation": {
+        "en": "minor mishap",
+        "zh": "小意外"
+      },
+      "example": {
+        "en": "There was a minor mishap during the trip, but no one was injured.",
+        "zh": "旅途中发生了一点小意外，但没有人受伤。"
+      },
+      "id": "v000148",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ab0066c2c9e7461877d65adeee8d83393fb0ef80c1de438ddda7f65498f30be4"
+    },
+    {
+      "word": "eradication",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪˌrædɪˈkeɪʃən/",
+        "us": "/ɪˌrædɪˈkeɪʃən/"
+      },
+      "meaning": "根除；消灭",
+      "collocation": {
+        "en": "eradication of disease",
+        "zh": "疾病的根除"
+      },
+      "example": {
+        "en": "Vaccination is essential for the eradication of this disease.",
+        "zh": "疫苗接种对根除这种疾病至关重要。"
+      },
+      "id": "v000149",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f2dbc8f571e3c447d67ae2fb82e584d212580f6c76685acfd15b58dea506fe3c"
+    },
+    {
+      "word": "facade",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fəˈsɑːd/",
+        "us": "/fəˈsɑːd/"
+      },
+      "meaning": "（建筑物的）正面；外观",
+      "collocation": {
+        "en": "building facade",
+        "zh": "建筑物正面"
+      },
+      "example": {
+        "en": "The facade of the historic building has been restored.",
+        "zh": "这座历史建筑的正面经过了修复。"
+      },
+      "id": "v000150",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "28d8f57bb7507880a63194ea45a5b0a95f28dc460f33219f251323256fb85d67"
+    }
+  ]
+}

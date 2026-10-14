@@ -1,0 +1,1107 @@
+{
+  "id": "list08",
+  "title": "List 08",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "scapegoat",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈskeɪpɡəʊt/",
+        "us": "/ˈskeɪpɡoʊt/"
+      },
+      "meaning": "把……当作替罪羊",
+      "collocation": {
+        "en": "scapegoat someone for",
+        "zh": "因……把某人当替罪羊"
+      },
+      "example": {
+        "en": "Management should not scapegoat one employee for all the problems.",
+        "zh": "管理层不应把一个员工当作所有问题的替罪羊。"
+      },
+      "id": "v000351",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "af509e58a80235f8b8e12c39db04e8b30695c611fe12ecdd59b16982ab17fe75"
+    },
+    {
+      "word": "untied",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ʌnˈtaɪd/",
+        "us": "/ʌnˈtaɪd/"
+      },
+      "meaning": "解开的；未系上的",
+      "collocation": {
+        "en": "shoelaces are untied",
+        "zh": "鞋带松开了"
+      },
+      "example": {
+        "en": "Your shoelaces are untied, so be careful not to trip.",
+        "zh": "你的鞋带松了，小心别绊倒。"
+      },
+      "id": "v000352",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8b5ecfdbc17048ec7e302de86705b92f50fb41ab5e926bde54148aa27151e6df"
+    },
+    {
+      "word": "denounce",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈnaʊns/",
+        "us": "/dɪˈnaʊns/"
+      },
+      "meaning": "公开谴责；斥责",
+      "collocation": {
+        "en": "denounce as",
+        "zh": "谴责……为……"
+      },
+      "example": {
+        "en": "Many experts denounced the practice as unethical.",
+        "zh": "许多专家公开谴责了这种不道德的做法。"
+      },
+      "id": "v000353",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c8938e360cc23c20901d7c31426711aabfaa503f86861b882a88cec59704566d"
+    },
+    {
+      "word": "bureau",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbjʊərəʊ/",
+        "us": "/ˈbjʊroʊ/"
+      },
+      "meaning": "局；处；办事机构",
+      "collocation": {
+        "en": "information bureau",
+        "zh": "信息局/咨询处"
+      },
+      "example": {
+        "en": "Tourists can get maps from the information bureau.",
+        "zh": "游客可以在旅游咨询处领取地图。"
+      },
+      "id": "v000354",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "03f6b417747256017d7e1be3bb2b6173f02b34eac1252e63b709ca53a002a6a5"
+    },
+    {
+      "word": "bureau",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbjʊərəʊ/",
+        "us": "/ˈbjʊroʊ/"
+      },
+      "meaning": "写字台；五斗柜（较旧用法）",
+      "collocation": {
+        "en": "a writing bureau",
+        "zh": "写字台"
+      },
+      "example": {
+        "en": "My grandfather's old writing bureau is still in the study.",
+        "zh": "祖父的旧写字台还放在书房里。"
+      },
+      "id": "v000355",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a304d1f2cc4d7bfa6d917bf91d5cd3db62a9ea1c127e16ec862b7b4eb22d901e"
+    },
+    {
+      "word": "proximity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prɒkˈsɪməti/",
+        "us": "/prɑːkˈsɪməti/"
+      },
+      "meaning": "接近；邻近",
+      "collocation": {
+        "en": "in close proximity to",
+        "zh": "非常靠近……"
+      },
+      "example": {
+        "en": "The office is in close proximity to the station.",
+        "zh": "办公室距离车站非常近。"
+      },
+      "id": "v000356",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "94f14a62c7865e4f4d517b9bb4511cc67d0e2c4ebb38ef1e2a853f5fa3c579fb"
+    },
+    {
+      "word": "blossom",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈblɒsəm/",
+        "us": "/ˈblɑːsəm/"
+      },
+      "meaning": "花；花朵",
+      "collocation": {
+        "en": "cherry blossom",
+        "zh": "樱花"
+      },
+      "example": {
+        "en": "The park is full of cherry blossoms in spring.",
+        "zh": "春天公园里到处都是樱花。"
+      },
+      "id": "v000357",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "525048224f1b8f6032f535ace121c90a5a013aaacb94213e3c23b3bc18b7e135"
+    },
+    {
+      "word": "blossom",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈblɒsəm/",
+        "us": "/ˈblɑːsəm/"
+      },
+      "meaning": "开花；蓬勃发展",
+      "collocation": {
+        "en": "blossom into",
+        "zh": "发展成为……"
+      },
+      "example": {
+        "en": "The small project later blossomed into a major business.",
+        "zh": "这个小项目后来发展成了一项重要业务。"
+      },
+      "id": "v000358",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f89dfc77dca6f0cbed5b7429bc544e1a6d09805b111915092cdfa4083bfe6a66"
+    },
+    {
+      "word": "punk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pʌŋk/",
+        "us": "/pʌŋk/"
+      },
+      "meaning": "朋克；朋克音乐/文化爱好者",
+      "collocation": {
+        "en": "punk rock",
+        "zh": "朋克摇滚"
+      },
+      "example": {
+        "en": "He was very fond of punk rock when he was young.",
+        "zh": "他年轻时很喜欢朋克摇滚。"
+      },
+      "id": "v000359",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1ecbc388fe5ffcb5b6fdb9efbeb498f091249bf49f2a91b6ecac6439233a8e70"
+    },
+    {
+      "word": "punk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pʌŋk/",
+        "us": "/pʌŋk/"
+      },
+      "meaning": "小混混；无赖（非正式，可能冒犯）",
+      "collocation": {
+        "en": "young punk",
+        "zh": "小混混"
+      },
+      "example": {
+        "en": "The main character in the movie used to be a young punk.",
+        "zh": "电影里的主角曾经是个街头小混混。"
+      },
+      "id": "v000360",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5d7c0b6e79b93acade6384de99aca1f8ce8ff064655ac72045275c356671c136"
+    },
+    {
+      "word": "excel",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪkˈsel/",
+        "us": "/ɪkˈsel/"
+      },
+      "meaning": "擅长；胜过",
+      "collocation": {
+        "en": "excel at/in",
+        "zh": "擅长……"
+      },
+      "example": {
+        "en": "She excels at analyzing complex data.",
+        "zh": "她非常擅长分析复杂的数据。"
+      },
+      "id": "v000361",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9796c65bff722bfc3e7ebe09a2396176ac4700b1e2fea93e5c3eccb81ad1b2a9"
+    },
+    {
+      "word": "abortion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈbɔːʃn/",
+        "us": "/əˈbɔːrʃn/"
+      },
+      "meaning": "人工流产；堕胎",
+      "collocation": {
+        "en": "have an abortion",
+        "zh": "接受人工流产"
+      },
+      "example": {
+        "en": "The study discusses access to abortion care in different regions.",
+        "zh": "这项研究讨论了不同地区获得人工流产医疗服务的情况。"
+      },
+      "id": "v000362",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0185ce68ff6b7c33ef872588ffb9ba92ca9d1af69fde73b1ae4fa183f129db1c"
+    },
+    {
+      "word": "demote",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌdiːˈməʊt/",
+        "us": "/ˌdiːˈmoʊt/"
+      },
+      "meaning": "降职；降级",
+      "collocation": {
+        "en": "demote someone to",
+        "zh": "把某人降为……"
+      },
+      "example": {
+        "en": "He was demoted to a regular staff position because of a serious mistake.",
+        "zh": "由于严重失误，他被降职为普通员工。"
+      },
+      "id": "v000363",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4ca365ff59c581b87fca6c9fc16ae45ea66ebd26653a77a8158344460ac44987"
+    },
+    {
+      "word": "obsolete",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈɒbsəliːt/",
+        "us": "/ˌɑːbsəˈliːt/"
+      },
+      "meaning": "过时的；淘汰的",
+      "collocation": {
+        "en": "become obsolete",
+        "zh": "变得过时"
+      },
+      "example": {
+        "en": "The old security protocol has become obsolete.",
+        "zh": "旧的安全协议已经变得过时。"
+      },
+      "id": "v000364",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d79509e188a6a5d240a3887718a68672a413619a6adcebcde8a905c46f6434ad"
+    },
+    {
+      "word": "vogue",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/vəʊɡ/",
+        "us": "/voʊɡ/"
+      },
+      "meaning": "流行；时尚",
+      "collocation": {
+        "en": "be in vogue",
+        "zh": "正在流行"
+      },
+      "example": {
+        "en": "Retro styles are back in vogue.",
+        "zh": "复古风格现在又开始流行了。"
+      },
+      "id": "v000365",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "93e05378411ca855a81248292c55c1757b6e3e7c8245978045f8833f1e9c4073"
+    },
+    {
+      "word": "stow",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/stəʊ/",
+        "us": "/stoʊ/"
+      },
+      "meaning": "装载；收好；存放",
+      "collocation": {
+        "en": "stow away",
+        "zh": "收好；藏好"
+      },
+      "example": {
+        "en": "Please stow your luggage safely in the overhead compartment.",
+        "zh": "请把行李安全地放到座位上方。"
+      },
+      "id": "v000366",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "560e730b03dd679a0caec49ad672fb5f36409a54806b04c5a8d1e1353c95cce7"
+    },
+    {
+      "word": "ballet",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbæleɪ/",
+        "us": "/bæˈleɪ/"
+      },
+      "meaning": "芭蕾舞；芭蕾舞剧",
+      "collocation": {
+        "en": "classical ballet",
+        "zh": "古典芭蕾"
+      },
+      "example": {
+        "en": "She has studied classical ballet since she was six.",
+        "zh": "她从六岁开始学习古典芭蕾。"
+      },
+      "id": "v000367",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7a063090661fee697f27a24eb3f582fb0f902a9453ea1cd34c9603467e60305e"
+    },
+    {
+      "word": "cue",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kjuː/",
+        "us": "/kjuː/"
+      },
+      "meaning": "提示；暗示；信号",
+      "collocation": {
+        "en": "take one's cue from",
+        "zh": "从……得到提示/仿效"
+      },
+      "example": {
+        "en": "New employees often take their cue from more experienced colleagues.",
+        "zh": "新员工通常会观察资深同事并照着做。"
+      },
+      "id": "v000368",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "19cb2d65b23f6eff31d769f700689ce0dcee24329186d5eaf5f334530ed07129"
+    },
+    {
+      "word": "cue",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kjuː/",
+        "us": "/kjuː/"
+      },
+      "meaning": "提示；给信号",
+      "collocation": {
+        "en": "cue someone to do",
+        "zh": "提示某人做……"
+      },
+      "example": {
+        "en": "The host cued the band to start playing.",
+        "zh": "主持人示意乐队开始演奏。"
+      },
+      "id": "v000369",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "40ae9ae6140b2f79ac14372044b2791f3b2b211b2bfcf0ba611fc0097579566a"
+    },
+    {
+      "word": "counsel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkaʊnsl/",
+        "us": "/ˈkaʊnsl/"
+      },
+      "meaning": "建议；忠告",
+      "collocation": {
+        "en": "seek counsel",
+        "zh": "寻求建议"
+      },
+      "example": {
+        "en": "He sought counsel from his mentor before making the major decision.",
+        "zh": "在作出重大决定前，他向导师寻求建议。"
+      },
+      "id": "v000370",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "488082db8a0a8fd36fc59999c8a8eb9663adce6f809e16ea198dc65a00d7df3b"
+    },
+    {
+      "word": "counsel",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkaʊnsl/",
+        "us": "/ˈkaʊnsl/"
+      },
+      "meaning": "法律顾问；律师",
+      "collocation": {
+        "en": "legal counsel",
+        "zh": "法律顾问"
+      },
+      "example": {
+        "en": "The company consulted legal counsel before signing the contract.",
+        "zh": "公司在签署合同之前咨询了法律顾问。"
+      },
+      "id": "v000371",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6b35603d5fc20db9d06688c8357683e9f212ba26215b93ccb98052be167d5357"
+    },
+    {
+      "word": "counsel",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkaʊnsl/",
+        "us": "/ˈkaʊnsl/"
+      },
+      "meaning": "劝告；提供咨询",
+      "collocation": {
+        "en": "counsel someone against",
+        "zh": "劝某人不要……"
+      },
+      "example": {
+        "en": "The lawyer counseled the client against signing the document immediately.",
+        "zh": "律师劝客户不要立即签署文件。"
+      },
+      "id": "v000372",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3322bb2af39afc1a9c3ba49cc6e63609d2127a2beb22c9734ce0f4cc04a8acd1"
+    },
+    {
+      "word": "stroll",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/strəʊl/",
+        "us": "/stroʊl/"
+      },
+      "meaning": "散步；闲逛",
+      "collocation": {
+        "en": "go for a stroll",
+        "zh": "去散步"
+      },
+      "example": {
+        "en": "We went for a stroll along the river after dinner.",
+        "zh": "晚饭后我们沿着河边散步。"
+      },
+      "id": "v000373",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7df5c09a4b5727679733d59987b9a572ca5fa1f1cd74a385b93f48007e5c14c8"
+    },
+    {
+      "word": "stroll",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/strəʊl/",
+        "us": "/stroʊl/"
+      },
+      "meaning": "漫步；闲逛",
+      "collocation": {
+        "en": "stroll through",
+        "zh": "漫步穿过……"
+      },
+      "example": {
+        "en": "The tourists strolled through the old town.",
+        "zh": "游客们悠闲地走过老城区。"
+      },
+      "id": "v000374",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c63a89f8f1cad6365dd1908ca4be6bcfb659f838973482427fac67bc7a331935"
+    },
+    {
+      "word": "messy",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmesi/",
+        "us": "/ˈmesi/"
+      },
+      "meaning": "凌乱的；脏乱的",
+      "collocation": {
+        "en": "messy room",
+        "zh": "凌乱的房间"
+      },
+      "example": {
+        "en": "His desk is messy, but he knows where everything is.",
+        "zh": "他的桌子很乱，但他知道每样东西在哪里。"
+      },
+      "id": "v000375",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3595c5800b8c37c29733ace4876c6b34c6c0dc0a13c0aee504c3e207c09cce4e"
+    },
+    {
+      "word": "messy",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmesi/",
+        "us": "/ˈmesi/"
+      },
+      "meaning": "棘手的；混乱复杂的",
+      "collocation": {
+        "en": "messy situation",
+        "zh": "棘手的局面"
+      },
+      "example": {
+        "en": "The contract dispute created a messy situation for the project.",
+        "zh": "合同争议使项目陷入了复杂局面。"
+      },
+      "id": "v000376",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "653ab59743acb074abce91e40e8780b38dc1b3a989416f4840cedfbf251c03b0"
+    },
+    {
+      "word": "porch",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pɔːtʃ/",
+        "us": "/pɔːrtʃ/"
+      },
+      "meaning": "门廊；走廊",
+      "collocation": {
+        "en": "front porch",
+        "zh": "前门廊"
+      },
+      "example": {
+        "en": "They sat on the front porch and talked in the evening.",
+        "zh": "他们晚上坐在前门廊上聊天。"
+      },
+      "id": "v000377",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f99b6490a14707c2399f336cc5aaf9e9a743b6b57cf29f146ed1ac675a15e3de"
+    },
+    {
+      "word": "overdraft",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈəʊvədrɑːft/",
+        "us": "/ˈoʊvərdræft/"
+      },
+      "meaning": "银行透支；透支额度",
+      "collocation": {
+        "en": "overdraft facility",
+        "zh": "透支额度/透支服务"
+      },
+      "example": {
+        "en": "The bank provided the company with an overdraft facility.",
+        "zh": "银行给这家公司提供了一定的透支额度。"
+      },
+      "id": "v000378",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "09b3b291e0e58d7dd68e1385f5abe867691b54c7fd22306a3c73deea3576bfe6"
+    },
+    {
+      "word": "vice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/vaɪs/",
+        "us": "/vaɪs/"
+      },
+      "meaning": "恶习；不道德行为",
+      "collocation": {
+        "en": "a personal vice",
+        "zh": "个人恶习"
+      },
+      "example": {
+        "en": "Overspending can become a difficult personal vice to break.",
+        "zh": "过度消费可能成为一种难以戒掉的恶习。"
+      },
+      "id": "v000379",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e35a283de0310ea2943b2f0743ca3f369b00fcc49f9bcc83a7ec337cafcc6ddb"
+    },
+    {
+      "word": "vice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/vaɪs/",
+        "us": "/vaɪs/"
+      },
+      "meaning": "台钳；老虎钳",
+      "collocation": {
+        "en": "bench vice",
+        "zh": "台钳"
+      },
+      "example": {
+        "en": "The worker held the metal part in a bench vice.",
+        "zh": "工人用台钳固定住金属零件。"
+      },
+      "id": "v000380",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c48d30a2dcbecf03489badf133c565e27c175d84b2cd26949c5a77fbcfffd427"
+    },
+    {
+      "word": "bourse",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/bʊəs/",
+        "us": "/bʊrs/"
+      },
+      "meaning": "证券交易所",
+      "collocation": {
+        "en": "Paris Bourse",
+        "zh": "巴黎证券交易所"
+      },
+      "example": {
+        "en": "The company's shares will be listed on the Paris Bourse.",
+        "zh": "该公司的股票将在巴黎证券交易所上市。"
+      },
+      "id": "v000381",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6429d48578c0ac5b07b5f6a58aa6b0112bfabcae4a1fb6357cc2e4f5518da4d3"
+    },
+    {
+      "word": "dividend",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdɪvɪdend/",
+        "us": "/ˈdɪvɪdend/"
+      },
+      "meaning": "股息；红利",
+      "collocation": {
+        "en": "pay a dividend",
+        "zh": "支付股息"
+      },
+      "example": {
+        "en": "The company decided to increase its dividend this year.",
+        "zh": "公司今年决定提高股息。"
+      },
+      "id": "v000382",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "029ca5bd46e01a9e396e99480607c04b4d15bb374a878fcc41058ca067bb7cca"
+    },
+    {
+      "word": "dividend",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdɪvɪdend/",
+        "us": "/ˈdɪvɪdend/"
+      },
+      "meaning": "收益；好处",
+      "collocation": {
+        "en": "pay dividends",
+        "zh": "带来收益"
+      },
+      "example": {
+        "en": "Consistent long-term study will eventually pay dividends.",
+        "zh": "长期学习最终会带来回报。"
+      },
+      "id": "v000383",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "06391417a57094eb081d8e4bd2d5c8740451765dc69a822595d25ed30f776497"
+    },
+    {
+      "word": "avenue",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈævənjuː/",
+        "us": "/ˈævənuː/"
+      },
+      "meaning": "大街；林荫道",
+      "collocation": {
+        "en": "a tree-lined avenue",
+        "zh": "林荫大道"
+      },
+      "example": {
+        "en": "We walked along a wide tree-lined avenue.",
+        "zh": "我们沿着宽阔的林荫大道步行。"
+      },
+      "id": "v000384",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "518c197d6fdf7f8e6e0ca8c80e90da46a501b3586ff501f7147a1b9101e0e543"
+    },
+    {
+      "word": "avenue",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈævənjuː/",
+        "us": "/ˈævənuː/"
+      },
+      "meaning": "途径；方法",
+      "collocation": {
+        "en": "avenue for",
+        "zh": "……的途径"
+      },
+      "example": {
+        "en": "Online courses provide a new avenue for continued learning.",
+        "zh": "在线课程为继续学习提供了新的途径。"
+      },
+      "id": "v000385",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3f6d27969728e590debd1944e57ab193deceb464955f2d4cd24a53587f3d6283"
+    },
+    {
+      "word": "avid",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈævɪd/",
+        "us": "/ˈævɪd/"
+      },
+      "meaning": "热衷的；渴望的",
+      "collocation": {
+        "en": "an avid reader",
+        "zh": "热衷阅读的人"
+      },
+      "example": {
+        "en": "He is an avid reader of history books.",
+        "zh": "他是一个非常热爱历史书籍的读者。"
+      },
+      "id": "v000386",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8330c5494d844eb772782d590734f1694658dc0d6effdf5893676292ca598e97"
+    },
+    {
+      "word": "maturity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/məˈtʃʊərəti/",
+        "us": "/məˈtʃʊrəti/"
+      },
+      "meaning": "成熟；成熟度",
+      "collocation": {
+        "en": "emotional maturity",
+        "zh": "情绪成熟度"
+      },
+      "example": {
+        "en": "A management position requires a high degree of emotional maturity.",
+        "zh": "管理岗位需要较高的情绪成熟度。"
+      },
+      "id": "v000387",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "24a9db4cf9a4e30d538f7eb9e0477491a9a1dd3ce320a513e37163be2cfa0904"
+    },
+    {
+      "word": "maturity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/məˈtʃʊərəti/",
+        "us": "/məˈtʃʊrəti/"
+      },
+      "meaning": "到期；到期日（金融）",
+      "collocation": {
+        "en": "reach maturity",
+        "zh": "到期"
+      },
+      "example": {
+        "en": "The bond will reach maturity in five years.",
+        "zh": "这笔债券将在五年后到期。"
+      },
+      "id": "v000388",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "40807dbd0842d0cf325a348044e0b8ade9b674256144264a3f2678a2f3f96ec5"
+    },
+    {
+      "word": "hip",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hɪp/",
+        "us": "/hɪp/"
+      },
+      "meaning": "臀部；髋部",
+      "collocation": {
+        "en": "hip joint",
+        "zh": "髋关节"
+      },
+      "example": {
+        "en": "The doctor examined his hip joint.",
+        "zh": "医生检查了他的髋关节。"
+      },
+      "id": "v000389",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fb3f451a87b247ac920a4725b30b83181c276318bef69c69289aaa120d2be58a"
+    },
+    {
+      "word": "hip",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/hɪp/",
+        "us": "/hɪp/"
+      },
+      "meaning": "时髦的；赶时髦的（非正式）",
+      "collocation": {
+        "en": "hip neighborhood",
+        "zh": "时尚街区"
+      },
+      "example": {
+        "en": "The area has become a hip neighborhood popular with young people.",
+        "zh": "这一区域已经变成了年轻人喜欢的时尚街区。"
+      },
+      "id": "v000390",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "70fa2d7dab26bb93e829dafac817805aa8d06bdb6b4ed55c146680ebdd6d42bf"
+    },
+    {
+      "word": "freebie",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfriːbi/",
+        "us": "/ˈfriːbi/"
+      },
+      "meaning": "免费赠品；免费获得的东西",
+      "collocation": {
+        "en": "get a freebie",
+        "zh": "得到免费赠品"
+      },
+      "example": {
+        "en": "Everyone who attended the event got a small freebie.",
+        "zh": "参加活动的人都得到了一份小赠品。"
+      },
+      "id": "v000391",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "19822a14c7ad692279037f701c19ac0f7976fe32cd664ea887f3a90c75921247"
+    },
+    {
+      "word": "horn",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hɔːn/",
+        "us": "/hɔːrn/"
+      },
+      "meaning": "角；动物角",
+      "collocation": {
+        "en": "deer horn",
+        "zh": "鹿角"
+      },
+      "example": {
+        "en": "An old deer horn was hanging on the wall.",
+        "zh": "墙上挂着一只旧鹿角。"
+      },
+      "id": "v000392",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f1fd7c79c6436797b3cf575d62fbd2ce16bbd113e1051ec5a407f8ce9fbfeed1"
+    },
+    {
+      "word": "horn",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hɔːn/",
+        "us": "/hɔːrn/"
+      },
+      "meaning": "喇叭；汽车喇叭",
+      "collocation": {
+        "en": "sound the horn",
+        "zh": "按喇叭"
+      },
+      "example": {
+        "en": "The driver sounded the horn to warn the pedestrian ahead.",
+        "zh": "司机按喇叭提醒前面的行人。"
+      },
+      "id": "v000393",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d9fb028ddacccbf10728300aae0a59de1ac2dd60b621baa6cca28dda16d7d011"
+    },
+    {
+      "word": "skid",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/skɪd/",
+        "us": "/skɪd/"
+      },
+      "meaning": "打滑；侧滑",
+      "collocation": {
+        "en": "skid on ice",
+        "zh": "在冰上打滑"
+      },
+      "example": {
+        "en": "The car skidded on the icy road.",
+        "zh": "汽车在结冰的路面上打滑了。"
+      },
+      "id": "v000394",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "30bf3b1b1afdc96a5079e17de31705914d691048c792b75b1e63acc25cad02fa"
+    },
+    {
+      "word": "skid",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/skɪd/",
+        "us": "/skɪd/"
+      },
+      "meaning": "打滑；侧滑",
+      "collocation": {
+        "en": "go into a skid",
+        "zh": "开始打滑"
+      },
+      "example": {
+        "en": "The car went into a skid after the driver braked suddenly.",
+        "zh": "司机急刹车后汽车开始侧滑。"
+      },
+      "id": "v000395",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9a0c67d54008ea6fd975b906ffed4cc186d636cafed6420304bb6641f96e0b8f"
+    },
+    {
+      "word": "vest",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/vest/",
+        "us": "/vest/"
+      },
+      "meaning": "背心；马甲",
+      "collocation": {
+        "en": "safety vest",
+        "zh": "安全背心"
+      },
+      "example": {
+        "en": "You must wear a safety vest when entering the construction site.",
+        "zh": "进入施工现场必须穿安全背心。"
+      },
+      "id": "v000396",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c3c316940bcee61f9f657966e8ecafb54047e7b2d43428a5486766bd41640cb2"
+    },
+    {
+      "word": "vest",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/vest/",
+        "us": "/vest/"
+      },
+      "meaning": "授予；赋予",
+      "collocation": {
+        "en": "vest authority in",
+        "zh": "把权力授予……"
+      },
+      "example": {
+        "en": "The law vests this authority in local governments.",
+        "zh": "法律把这项权力授予地方政府。"
+      },
+      "id": "v000397",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f23c33ce66cee5f4a2de8b620805aebd5a87bd1cf374f3d60b8bcc589d7b040a"
+    },
+    {
+      "word": "monolithic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌmɒnəˈlɪθɪk/",
+        "us": "/ˌmɑːnəˈlɪθɪk/"
+      },
+      "meaning": "庞大而单一的；整体式的",
+      "collocation": {
+        "en": "monolithic architecture",
+        "zh": "单体架构"
+      },
+      "example": {
+        "en": "The team is gradually breaking the monolithic architecture into microservices.",
+        "zh": "团队正在把单体架构逐步拆分成微服务。"
+      },
+      "id": "v000398",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a28ad29cfcb2287144f7d0f180e58af6ec873e29f3b4bda40bd363a5285a059f"
+    },
+    {
+      "word": "delude",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈluːd/",
+        "us": "/dɪˈluːd/"
+      },
+      "meaning": "欺骗；使产生错觉",
+      "collocation": {
+        "en": "delude oneself into thinking",
+        "zh": "自欺地认为……"
+      },
+      "example": {
+        "en": "Do not delude yourself into thinking that the problem will disappear on its own.",
+        "zh": "不要自欺地认为这个问题会自动消失。"
+      },
+      "id": "v000399",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f482b740449af25c66a4ba09bbb40262fa04c7863e6f8a3c0755b63ea65a54a8"
+    },
+    {
+      "word": "prolific",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prəˈlɪfɪk/",
+        "us": "/prəˈlɪfɪk/"
+      },
+      "meaning": "多产的；作品丰富的",
+      "collocation": {
+        "en": "prolific writer",
+        "zh": "多产作家"
+      },
+      "example": {
+        "en": "He is a prolific writer who has published dozens of books.",
+        "zh": "他是一位出版过数十本书的多产作家。"
+      },
+      "id": "v000400",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ed06bd2a6156fb7d2958149f12457072efa4ed4d621a5b8fc92d666b647d63ed"
+    }
+  ]
+}
