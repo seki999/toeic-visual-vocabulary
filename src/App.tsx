@@ -182,13 +182,13 @@ function Reader() {
     list?.items.map((w) => {
       const draft = drafts.find((d) => d.id === w.id);
       if (!draft) return w;
-      const draftPaths = new Set(draft.images.map((image) => image.src));
+      // Draft images often have UUID/WebP names while the same published
+      // image has a PNG name. Combining both arrays displays duplicates.
+      // Keep the user's draft images when present; otherwise use published
+      // images so old text-only drafts cannot hide newly published photos.
       return {
         ...draft,
-        images: [
-          ...draft.images,
-          ...w.images.filter((image) => !draftPaths.has(image.src)),
-        ],
+        images: draft.images.length > 0 ? draft.images : w.images,
       };
     }) ?? [];
   useEffect(() => {
