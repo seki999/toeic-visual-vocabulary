@@ -802,7 +802,19 @@
         "zh": "这个问题属于地方政府的权限范围。"
       },
       "id": "v000024",
-      "images": [],
+      "images": [
+        {
+          "id": "cc9b2f81-e26f-43c1-aa4c-164d7ef63ac4",
+          "src": "images/list01/v000024-cc9b2f81-e26f-43c1-aa4c-164d7ef63ac4.webp",
+          "alt": "jurisdiction",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c259c2836553dabfd35feb1342f05e1aea41bb360cfa200c8fcfd75efc5382d1"
@@ -824,7 +836,19 @@
         "zh": "他对犯罪现场有一种病态的好奇心。"
       },
       "id": "v000025",
-      "images": [],
+      "images": [
+        {
+          "id": "e700958b-cbed-47b6-8148-eb5abc0fef42",
+          "src": "images/list01/v000025-e700958b-cbed-47b6-8148-eb5abc0fef42.webp",
+          "alt": "morbid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4e73202cb34ff44cae657ea311c193202568d29d036a206e2701c2d93f10d8ca"
@@ -846,7 +870,19 @@
         "zh": "医生检查了可能导致疼痛的病理状态。"
       },
       "id": "v000026",
-      "images": [],
+      "images": [
+        {
+          "id": "91d9bdc0-9d64-453d-909d-c766cef60c75",
+          "src": "images/list01/v000026-91d9bdc0-9d64-453d-909d-c766cef60c75.webp",
+          "alt": "morbid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "955e6c7adbf7b906a4bcbd7853e4dca8bf006e5557548dd9d724a0254bb9bbdf"
@@ -868,7 +904,19 @@
         "zh": "新技术给这个濒临衰退的产业带来了生机。"
       },
       "id": "v000027",
-      "images": [],
+      "images": [
+        {
+          "id": "3a91ab0b-0b28-4ffe-ad3e-b14e39651eb1",
+          "src": "images/list01/v000027-3a91ab0b-0b28-4ffe-ad3e-b14e39651eb1.webp",
+          "alt": "moribund",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f1dd592d5617000848e0917102ba03f6b4a737b71903ca718a3044b822800cc1"
