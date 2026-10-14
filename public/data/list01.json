@@ -666,7 +666,19 @@
         "zh": "葡萄汁需要发酵数日。"
       },
       "id": "v000020",
-      "images": [],
+      "images": [
+        {
+          "id": "19a7a5fb-fb6d-4b46-9bae-cb04f50beaf6",
+          "src": "images/list01/v000020-19a7a5fb-fb6d-4b46-9bae-cb04f50beaf6.webp",
+          "alt": "ferment",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "423f5387ba1a4554706db318cb6c1121ad46ef42f283493be2989cdfa6c09683"
@@ -688,7 +700,19 @@
         "zh": "这个国家正处于政治和社会思想剧烈变化的时期。"
       },
       "id": "v000021",
-      "images": [],
+      "images": [
+        {
+          "id": "126480ec-576a-49c4-908f-7c3f1dcb42c5",
+          "src": "images/list01/v000021-126480ec-576a-49c4-908f-7c3f1dcb42c5.webp",
+          "alt": "ferment",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7c01f491e7be3a42d4a97c8f596b71e77be7970e3f5e7c5fad0c6f7aadd90978"
@@ -710,7 +734,19 @@
         "zh": "那位狗仔摄影师在酒店外等了好几个小时。"
       },
       "id": "v000022",
-      "images": [],
+      "images": [
+        {
+          "id": "80e178c9-1aff-4c28-b8ed-191685884a67",
+          "src": "images/list01/v000022-80e178c9-1aff-4c28-b8ed-191685884a67.webp",
+          "alt": "paparazzo",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "45777764dbee56db96c57dc696e3f9f8233f276c0e766907bd680413ea10a2b4"
@@ -732,7 +768,19 @@
         "zh": "该法院对这类案件没有管辖权。"
       },
       "id": "v000023",
-      "images": [],
+      "images": [
+        {
+          "id": "f5918612-e6a2-44ec-867b-f0ec64ac3af3",
+          "src": "images/list01/v000023-f5918612-e6a2-44ec-867b-f0ec64ac3af3.webp",
+          "alt": "jurisdiction",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0a4c0f6572cb9aab41fb9f9e7513a60f006b33ed7f203066c31437b88213dfc5"
