@@ -271,12 +271,10 @@ test("selecting a word while stopped updates the saved learning position", async
   await page.reload();
   await expect(page.locator(".progress strong")).toHaveText("05 / 50");
 });
-test("lists, modes, search and durable edits", async ({ page }) => {
+test("lists, modes, search and read-only hosted controls", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator(".card")).toHaveCount(50);
-  await expect(page.locator(".word-content h2").first()).toContainText(
-    "abstain",
-  );
+  await expect(page.locator(".word-content h2").first()).toContainText("abstain");
   await page.getByRole("button", { name: "List 02", exact: false }).click();
   await expect(page.locator("h1")).toContainText("List 02");
   await expect(page.locator(".card")).toHaveCount(50);
@@ -286,33 +284,12 @@ test("lists, modes, search and durable edits", async ({ page }) => {
   await expect(page.locator(".word-content")).toHaveCount(0);
   await expect(page.locator(".image-area")).toHaveCount(50);
   await page.getByRole("button", { name: "图文", exact: true }).click();
-  await page.getByRole("button", { name: "图片编辑", exact: true }).click();
-  const first = page.locator(".card").first();
-  await first.locator("summary").click();
-  await first.getByLabel("笔记", { exact: true }).fill("刷新保留的学习笔记");
-  await page.waitForTimeout(300);
-  await page.reload();
-  await expect(page.locator(".card").first()).toContainText(
-    "刷新保留的学习笔记",
-  );
-  await page.getByRole("button", { name: "图片编辑", exact: true }).click();
-  await page
-    .locator(".card")
-    .first()
-    .locator("input[type=file]")
-    .last()
-    .setInputFiles({
-      name: "sample.png",
-      mimeType: "image/png",
-      buffer: await page.screenshot(),
-    });
-  await expect(
-    page.locator(".card").first().locator(".picture img"),
-  ).toHaveCount(1);
-  await page.reload();
-  await expect(
-    page.locator(".card").first().locator(".picture img"),
-  ).toHaveCount(1);
+
+  // This webServer runs Vite without --mode edit: project writing
+  // and image editing must be disabled outside the local editor.
+  await expect(page.getByRole("button", { name: "图片编辑" })).toBeDisabled();
+  await expect(page.getByRole("button", { name: "保存到项目" })).toBeDisabled();
+
   await page.getByRole("textbox", { name: "搜索词汇" }).fill("abstain");
   await expect(page.locator(".search-results button")).toHaveCount(2);
   await page.locator(".search-results button").first().click();
