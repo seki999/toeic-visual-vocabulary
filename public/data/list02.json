@@ -1074,7 +1074,19 @@
         "zh": "这座城市正在建设新的污水处理设施。"
       },
       "id": "v000082",
-      "images": [],
+      "images": [
+        {
+          "id": "9760fffe-80cf-4b2b-bacb-4dd1be37a50a",
+          "src": "images/list02/v000082-9760fffe-80cf-4b2b-bacb-4dd1be37a50a.webp",
+          "alt": "sewage",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "19143917a2f6ce3399547bc5f88f486a5a28d42185e359fc6c90d050d9c51f05"
@@ -1096,7 +1108,19 @@
         "zh": "暴风雨给沿海地区造成了严重损失。"
       },
       "id": "v000083",
-      "images": [],
+      "images": [
+        {
+          "id": "57478e7f-312d-4e94-8f4d-0a9ac2c5c139",
+          "src": "images/list02/v000083-57478e7f-312d-4e94-8f4d-0a9ac2c5c139.webp",
+          "alt": "inflict",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5e0d357f3c3bfc5cf2d7cefb089a09927a1aaa3af92bea0f02f41af0d7101693"
@@ -1118,7 +1142,19 @@
         "zh": "任何人都不应被剥夺接受教育的机会。"
       },
       "id": "v000084",
-      "images": [],
+      "images": [
+        {
+          "id": "75bc9f8c-2025-42bb-a256-644c8a55f31d",
+          "src": "images/list02/v000084-75bc9f8c-2025-42bb-a256-644c8a55f31d.webp",
+          "alt": "deprive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "301e2956d68498167989c7658eb044c16256ced05f30f9132c9930514d00d2bf"
@@ -1140,7 +1176,19 @@
         "zh": "这件首饰展现了精湛的工艺。"
       },
       "id": "v000085",
-      "images": [],
+      "images": [
+        {
+          "id": "9e42edb7-61c5-451a-b41a-6d20e8344590",
+          "src": "images/list02/v000085-9e42edb7-61c5-451a-b41a-6d20e8344590.webp",
+          "alt": "exquisite",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c54de4b36eec1144c5aedd6251dae968a0f8bec9af7ae06cc82509c1d758d006"
@@ -1162,7 +1210,19 @@
         "zh": "伤口让他感到一阵剧烈的疼痛。"
       },
       "id": "v000086",
-      "images": [],
+      "images": [
+        {
+          "id": "daa85251-b4cd-4851-9120-ee8db4fb884f",
+          "src": "images/list02/v000086-daa85251-b4cd-4851-9120-ee8db4fb884f.webp",
+          "alt": "exquisite",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ae85fbcae44e52c6afea12ee445e83af9fe6e4bee7195e48a341806675bb4136"
@@ -1184,7 +1244,19 @@
         "zh": "工程师提出了一个巧妙的解决方案。"
       },
       "id": "v000087",
-      "images": [],
+      "images": [
+        {
+          "id": "76be3a8b-5bdd-41f1-9f02-d736d2942981",
+          "src": "images/list02/v000087-76be3a8b-5bdd-41f1-9f02-d736d2942981.webp",
+          "alt": "ingenious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f5072a1a64ca6abfbda1d74ebce9fb0e2ff8720a96c9fb24caa0676af8ff922e"
@@ -1206,7 +1278,19 @@
         "zh": "他完全没有意识到周围发生的变化。"
       },
       "id": "v000088",
-      "images": [],
+      "images": [
+        {
+          "id": "299d0dbc-83da-4a5f-beef-ce67cd47cde7",
+          "src": "images/list02/v000088-299d0dbc-83da-4a5f-beef-ce67cd47cde7.webp",
+          "alt": "oblivious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "17e1f7db01acde33b43605885d0b81f4b37819ec6eb1288f4413077c51137d50"
@@ -1228,7 +1312,19 @@
         "zh": "Python 是一种用途非常广泛的编程语言。"
       },
       "id": "v000089",
-      "images": [],
+      "images": [
+        {
+          "id": "e067e5c4-53cf-4059-8af6-974c913bb8a3",
+          "src": "images/list02/v000089-e067e5c4-53cf-4059-8af6-974c913bb8a3.webp",
+          "alt": "versatile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "70891e4e39468865c96f03210701ee844f213af7b4b8f4d93594a87bc80ea263"
@@ -1250,7 +1346,19 @@
         "zh": "市政府计划改善公共交通。"
       },
       "id": "v000090",
-      "images": [],
+      "images": [
+        {
+          "id": "d93341f4-adca-4841-9586-c91290707a8c",
+          "src": "images/list02/v000090-d93341f4-adca-4841-9586-c91290707a8c.webp",
+          "alt": "municipal",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "de2fc77346f1c05bc4df55ce3c31820c0099874319ba01c2447670055e644717"
@@ -1272,7 +1380,19 @@
         "zh": "办公室需要保持适当的通风。"
       },
       "id": "v000091",
-      "images": [],
+      "images": [
+        {
+          "id": "41f434a5-d4a4-49a0-bb85-886b45a679b6",
+          "src": "images/list02/v000091-41f434a5-d4a4-49a0-bb85-886b45a679b6.webp",
+          "alt": "ventilation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5e99311c65c72438ec0c01a3d82d7204752ae5da0cb67e1d3b82311ba704b256"
@@ -1294,7 +1414,19 @@
         "zh": "这家公司是该集团的全资子公司。"
       },
       "id": "v000092",
-      "images": [],
+      "images": [
+        {
+          "id": "064d107d-cd8e-44f9-97c5-6dfd8e4685d7",
+          "src": "images/list02/v000092-064d107d-cd8e-44f9-97c5-6dfd8e4685d7.webp",
+          "alt": "subsidiary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "deb746e04b086edf807215c54a48d030efc1f88da7310589e1c5e0ad608ba6fd"
@@ -1316,7 +1448,19 @@
         "zh": "这个部门在项目中承担辅助性的角色。"
       },
       "id": "v000093",
-      "images": [],
+      "images": [
+        {
+          "id": "bd37d433-f204-403a-b849-71e92d972a81",
+          "src": "images/list02/v000093-bd37d433-f204-403a-b849-71e92d972a81.webp",
+          "alt": "subsidiary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9c4c1f207a9b7f43a8b33df7bea71ab21af03e6e7d9d8e2c35ea4feb4fb42c15"
@@ -1338,7 +1482,19 @@
         "zh": "我们不应该让次要问题影响核心决策。"
       },
       "id": "v000094",
-      "images": [],
+      "images": [
+        {
+          "id": "1dab44df-df5d-49df-8d70-22bd0c0a8301",
+          "src": "images/list02/v000094-1dab44df-df5d-49df-8d70-22bd0c0a8301.webp",
+          "alt": "peripheral",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "377ea6d9cf460cbc4d6cf5430329e6f54c12473b1a91b7439fb2590148c63871"
