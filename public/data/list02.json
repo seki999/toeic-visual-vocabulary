@@ -20,7 +20,19 @@
         "zh": "会计每个月都要完成银行对账。"
       },
       "id": "v000051",
-      "images": [],
+      "images": [
+        {
+          "id": "ba6e61c6-f602-49bc-8698-0dae429e4088",
+          "src": "images/list02/v000051-ba6e61c6-f602-49bc-8698-0dae429e4088.webp",
+          "alt": "reconciliation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b6c4421ef31a5e5720fdffb340f1f153317a1eff52ddf2ffc3488aa63e177cdf"
@@ -42,7 +54,19 @@
         "zh": "学生不得从网上文章中抄袭内容。"
       },
       "id": "v000052",
-      "images": [],
+      "images": [
+        {
+          "id": "69ccb23a-818f-48a3-9cd9-a69d25df1be6",
+          "src": "images/list02/v000052-69ccb23a-818f-48a3-9cd9-a69d25df1be6.webp",
+          "alt": "plagiarize",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "112ccd642b3102264dcea665bb47d0aba13f448836952319752ef234d0f58d9c"
@@ -64,7 +88,19 @@
         "zh": "他去年被授予牧师圣职。"
       },
       "id": "v000053",
-      "images": [],
+      "images": [
+        {
+          "id": "65b9153f-a592-4c34-af3e-9cacf7652614",
+          "src": "images/list02/v000053-65b9153f-a592-4c34-af3e-9cacf7652614.webp",
+          "alt": "ordain",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e60ac9dbad388b54f8b78745234eba827f9c3d076fc126ba6c746d5c94cb498c"

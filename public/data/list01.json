@@ -1618,7 +1618,19 @@
         "zh": "他们通过法律途径维护自己的权利。"
       },
       "id": "v000048",
-      "images": [],
+      "images": [
+        {
+          "id": "9c913235-c3c7-4c04-89b5-91ead0178c89",
+          "src": "images/list01/v000048-9c913235-c3c7-4c04-89b5-91ead0178c89.webp",
+          "alt": "vindicate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "dd35be25e55e719c2ab00c4430a16ef76fd7d03ded0e59ca6547823bc0dc1d8e"
@@ -1640,7 +1652,19 @@
         "zh": "他后来为自己的粗鲁行为深感后悔。"
       },
       "id": "v000049",
-      "images": [],
+      "images": [
+        {
+          "id": "a057964e-21a7-48f5-89d9-22d728b5e42c",
+          "src": "images/list01/v000049-a057964e-21a7-48f5-89d9-22d728b5e42c.webp",
+          "alt": "repent",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9cab4ae23a1722108375f39052055bf4b3f1790abbb2ac2f4ebd05b5b5930334"
@@ -1662,7 +1686,19 @@
         "zh": "双方经过多年冲突后终于实现了和解。"
       },
       "id": "v000050",
-      "images": [],
+      "images": [
+        {
+          "id": "f675950f-66a1-494c-a6f7-f4d453a12a78",
+          "src": "images/list01/v000050-f675950f-66a1-494c-a6f7-f4d453a12a78.webp",
+          "alt": "reconciliation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "857fd27f891d4843253837f7c3e5b36218b953bda805f2b71df4464c3987bcd2"
