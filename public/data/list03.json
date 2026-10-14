@@ -20,7 +20,19 @@
         "zh": "那位教授有一种沉稳而不凡的气质。"
       },
       "id": "v000101",
-      "images": [],
+      "images": [
+        {
+          "id": "aaf525e4-244c-4560-951a-b784d436a4a6",
+          "src": "images/list03/v000101-aaf525e4-244c-4560-951a-b784d436a4a6.webp",
+          "alt": "distinguished",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "27f35463eca99fea6d4709ad0cfb0677b45b796c1de68bfa8752aaae44fc5937"
@@ -42,7 +54,19 @@
         "zh": "公司发起了一项节能宣传活动。"
       },
       "id": "v000102",
-      "images": [],
+      "images": [
+        {
+          "id": "3f0621ed-01e0-40d3-a936-b9929874ce34",
+          "src": "images/list03/v000102-3f0621ed-01e0-40d3-a936-b9929874ce34.webp",
+          "alt": "campaign",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "52b1a17e2351c36ed0ab7759a00a8ca724fd73b58afa7424bfcb08354287fd76"
@@ -64,7 +88,19 @@
         "zh": "居民们正在为改善社区安全而奔走。"
       },
       "id": "v000103",
-      "images": [],
+      "images": [
+        {
+          "id": "5ac62153-ce65-4fe1-ad5c-41f011dcdcff",
+          "src": "images/list03/v000103-5ac62153-ce65-4fe1-ad5c-41f011dcdcff.webp",
+          "alt": "campaign",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0664957b0d971f1fd19b59c41536d603387e2fa0c798266cdf5af619ec59e7b1"
@@ -86,7 +122,19 @@
         "zh": "远程办公在科技行业已经非常普遍。"
       },
       "id": "v000104",
-      "images": [],
+      "images": [
+        {
+          "id": "c491624c-c409-4e86-b3df-74a24936f528",
+          "src": "images/list03/v000104-c491624c-c409-4e86-b3df-74a24936f528.webp",
+          "alt": "prevalent",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8216da4a6d4850a2dfe7127b60625dd13ca7ffdb58535d6ece03a134d2148053"
@@ -108,7 +156,19 @@
         "zh": "如果逾期付款，你可能会失去享受折扣的权利。"
       },
       "id": "v000105",
-      "images": [],
+      "images": [
+        {
+          "id": "19608c48-cb15-4145-96fd-0f716b44f445",
+          "src": "images/list03/v000105-19608c48-cb15-4145-96fd-0f716b44f445.webp",
+          "alt": "forfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1a9f9c5099662156010d7c60d583c34ff4c599b7080bbbc2917fd8c14a34ee4e"
@@ -130,7 +190,19 @@
         "zh": "他因违反合同而支付了一笔罚金。"
       },
       "id": "v000106",
-      "images": [],
+      "images": [
+        {
+          "id": "aba6571b-e93c-4edc-9222-0b0514ce8e74",
+          "src": "images/list03/v000106-aba6571b-e93c-4edc-9222-0b0514ce8e74.webp",
+          "alt": "forfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0f19211ed407776394b45c162870bd1dde81ca9f3058a51479e935553c096d70"
@@ -152,7 +224,19 @@
         "zh": "如果不履行义务，押金可能会被没收。"
       },
       "id": "v000107",
-      "images": [],
+      "images": [
+        {
+          "id": "afe2bd08-447c-481b-ba6a-b473cf3eada1",
+          "src": "images/list03/v000107-afe2bd08-447c-481b-ba6a-b473cf3eada1.webp",
+          "alt": "forfeit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5f8a859ea62d751810bc8136580610aac7cdadcb88918d880e45a3a240cdc223"
@@ -174,7 +258,19 @@
         "zh": "海关没收了非法进口的商品。"
       },
       "id": "v000108",
-      "images": [],
+      "images": [
+        {
+          "id": "fffcf42b-2a59-4e1f-8b1c-8b227923ad55",
+          "src": "images/list03/v000108-fffcf42b-2a59-4e1f-8b1c-8b227923ad55.webp",
+          "alt": "confiscate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5f53e84ab74a1a93d9ef010cef4a04b1dd7d2b6f746c526d98f8ea9edf5ef92a"
@@ -196,7 +292,19 @@
         "zh": "公司因现金流问题发生了贷款违约。"
       },
       "id": "v000109",
-      "images": [],
+      "images": [
+        {
+          "id": "0632b14e-4d79-4cb1-962e-e7c8b7e6bdd1",
+          "src": "images/list03/v000109-0632b14e-4d79-4cb1-962e-e7c8b7e6bdd1.webp",
+          "alt": "default",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "38826e4daf62390e16878aad2ff5587b714db326e0a5c3b89d533b8f212773e5"
@@ -218,7 +326,19 @@
         "zh": "系统默认情况下会自动保存文件。"
       },
       "id": "v000110",
-      "images": [],
+      "images": [
+        {
+          "id": "cc779d6e-f10d-41db-be78-af25d60eca4a",
+          "src": "images/list03/v000110-cc779d6e-f10d-41db-be78-af25d60eca4a.webp",
+          "alt": "default",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e66f10f7f7443ab300f503cfe0b327972b7efd88351c65443b2c8c4f56362e8c"
@@ -240,7 +360,19 @@
         "zh": "借款人连续三个月未偿还贷款。"
       },
       "id": "v000111",
-      "images": [],
+      "images": [
+        {
+          "id": "dc880fe7-d32b-49b5-a95b-b51ea39e10cf",
+          "src": "images/list03/v000111-dc880fe7-d32b-49b5-a95b-b51ea39e10cf.webp",
+          "alt": "default",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "76443da631aaa691044ac79cca2ca2150e722aacef322363dbaa8c26e196e59d"
@@ -262,7 +394,19 @@
         "zh": "这个计划建立在一个没有明说的假设之上。"
       },
       "id": "v000112",
-      "images": [],
+      "images": [
+        {
+          "id": "6b000307-8de7-4b80-8d54-83d7afc1967c",
+          "src": "images/list03/v000112-6b000307-8de7-4b80-8d54-83d7afc1967c.webp",
+          "alt": "implicit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b1fec2707e0497280fcd3c88efa48b5e07d7059cc120b06674f32b3f901c4025"
@@ -284,7 +428,19 @@
         "zh": "团队成员之间必须建立充分的信任。"
       },
       "id": "v000113",
-      "images": [],
+      "images": [
+        {
+          "id": "138e8acb-30d8-4cf2-87e7-88bf64fca2e2",
+          "src": "images/list03/v000113-138e8acb-30d8-4cf2-87e7-88bf64fca2e2.webp",
+          "alt": "implicit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "204ad9b8c2482dff1830e4889ad45b092e1923101596d19a4456d5f6127bfb65"
@@ -306,7 +462,19 @@
         "zh": "在线视频会议不能完全替代面对面沟通。"
       },
       "id": "v000114",
-      "images": [],
+      "images": [
+        {
+          "id": "fbe453c1-c70a-4bd8-b998-fba5502f8e4a",
+          "src": "images/list03/v000114-fbe453c1-c70a-4bd8-b998-fba5502f8e4a.webp",
+          "alt": "substitute",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b7bb5f279e3049df5776c36b655382a28c604ae965b3608f2abe5c526f20c11d"

@@ -1652,7 +1652,19 @@
         "zh": "在特定条件下，证人可能获得免于起诉的待遇。"
       },
       "id": "v000099",
-      "images": [],
+      "images": [
+        {
+          "id": "56a8aaa1-925c-4609-9afa-871ead9a9b56",
+          "src": "images/list02/v000099-56a8aaa1-925c-4609-9afa-871ead9a9b56.webp",
+          "alt": "immune",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ecd77d113dcccd38dc412bb90f42e6f1d050dea9e5c12685e589d0d1e5494d33"
@@ -1674,7 +1686,19 @@
         "zh": "他拥有三十多年的杰出职业生涯。"
       },
       "id": "v000100",
-      "images": [],
+      "images": [
+        {
+          "id": "d50a7e5e-b390-499a-aa12-2ff0c6d7d329",
+          "src": "images/list02/v000100-d50a7e5e-b390-499a-aa12-2ff0c6d7d329.webp",
+          "alt": "distinguished",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e70629876549ae18adbfed76be51b226b29a84c87bd11bd2100ab24df30dc483"
