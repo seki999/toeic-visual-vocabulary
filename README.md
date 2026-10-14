@@ -12,7 +12,7 @@ python -m pip install -r requirements.txt
 npm run dev
 ```
 
-打开终端显示的 http://127.0.0.1:5173/ 。需要直接保存图片到项目时，用 `npm run dev:edit` 启动，在页面顶部开启「图片编辑」。此模式仅在 127.0.0.1 运行本地写盘接口，图片自动写入 `public/images/listXX/`，词条同步写入 `public/data/listXX.json`。顶部提示「已保存到项目文件夹」表示写盘成功。以前保留在浏览器的草稿可点击「保存到项目」批量保存。失败时浏览器草稿仍保留，可重试或导出 ZIP。`npm run dev` 和已发布的网站不开放此接口。
+执行 `npm run dev` 后自动打开系统默认浏览器，访问 http://127.0.0.1:5173/ ，并默认开启本地自动保存。`npm run dev:edit` 是同样的编辑启动方式，在页面顶部开启「图片编辑」即可添加图片。此模式仅在 127.0.0.1 运行本地写盘接口，图片自动写入 `public/images/listXX/`，词条同步写入 `public/data/listXX.json`。顶部提示「已保存到项目文件夹」表示写盘成功。以前保留在浏览器的草稿可点击「保存到项目」批量保存。失败时浏览器草稿仍保留，可重试或导出 ZIP。`npm run dev:view` 启动仅浏览模式，也会自动打开浏览器；已发布的网站不开放本地写盘接口。若端口 5173 被之前的开发服务占用，先在原终端按 Ctrl+C 停止后重新启动，避免换端口导致草稿看似消失。
 
 ```powershell
 npm run typecheck

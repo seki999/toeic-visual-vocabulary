@@ -4,8 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite --host 127.0.0.1",
-    "dev:edit": "vite --host 127.0.0.1 --mode edit",
+    "dev": "vite --host 127.0.0.1 --mode edit --open --port 5173 --strictPort",
+    "dev:edit": "vite --host 127.0.0.1 --mode edit --open --port 5173 --strictPort",
+    "dev:view": "vite --host 127.0.0.1 --open --port 5173 --strictPort",
     "build": "tsc -b && vite build",
     "typecheck": "tsc -b",
     "test": "vitest run",
