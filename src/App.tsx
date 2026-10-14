@@ -32,6 +32,7 @@ import {
 } from "./types";
 import { useStore, type Settings } from "./store";
 import { SpeechPlayer, type Status } from "./speech";
+import { connectLocalEditor, saveLocalWord } from "./localEditor";
 import {
   saveWord,
   loadWords,
@@ -103,6 +104,13 @@ function Reader() {
   const [manifest, setManifest] = useState<Manifest>();
   const [lists, setLists] = useState<List[]>([]);
   const [drafts, setDrafts] = useState<Word[]>([]);
+  const [localSaving, setLocalSaving] = useState(false);
+  const [saveMessage, setSaveMessage] = useState("");
+  useEffect(() => {
+    connectLocalEditor()
+      .then(setLocalSaving)
+      .catch((e) => setError(String(e)));
+  }, []);
   const [status, setStatus] = useState<Status>("stopped");
   const [panel, setPanel] = useState<"speech" | "display" | "edit" | null>(
     null,
@@ -292,6 +300,16 @@ function Reader() {
     try {
       await saveWord(w);
       setDrafts((d) => [...d.filter((x) => x.id !== w.id), w]);
+      if (localSaving) {
+        setSaveMessage("正在保存到项目…");
+        try {
+          await saveLocalWord(listId, w);
+          setSaveMessage("已保存到项目文件夹");
+        } catch (e) {
+          setError(`浏览器草稿已保留，本地保存失败：${e}`);
+          setSaveMessage("本地保存失败，可重试");
+        }
+      }
     } catch {
       setError("草稿保存失败，请检查浏览器存储空间。");
     }
@@ -490,6 +508,27 @@ function Reader() {
             学习空间 <span>/</span> {list?.title ?? "加载中"}
           </div>
           <div className="header-actions">
+            {localSaving && (
+              <button
+                onClick={async () => {
+                  try {
+                    setSaveMessage("正在保存全部草稿…");
+                    for (const w of drafts) {
+                      const l = lists.find((l) =>
+                        l.items.some((x) => x.id === w.id),
+                      );
+                      if (l) await saveLocalWord(l.id, w);
+                    }
+                    setSaveMessage("已保存到项目文件夹");
+                  } catch (e) {
+                    setError(String(e));
+                  }
+                }}
+                disabled={!drafts.length}
+              >
+                保存到项目
+              </button>
+            )}
             <button
               onClick={() => {
                 setEditing(!editing);
@@ -505,6 +544,12 @@ function Reader() {
             </button>
           </div>
         </header>
+        {localSaving && (
+          <div className="hint" role="status">
+            本地自动保存已开启 ·{" "}
+            {saveMessage || "图片将写入 public/images，词条写入 public/data"}
+          </div>
+        )}
         <section className="intro">
           <div>
             <div className="eyebrow">LEARN IT. SEE IT. REMEMBER IT.</div>
@@ -946,9 +991,10 @@ function Reader() {
             ) : (
               <>
                 <p>
-                  点击词条后按 Ctrl+V
-                  粘贴图片，或拖入图片、选择文件。修改保存在当前浏览器的
-                  IndexedDB。导出 ZIP 后解压到项目目录，再提交 GitHub。
+                  点击词条后按 Ctrl+V 粘贴图片，或拖入图片、选择文件。
+                  {localSaving
+                    ? "本地自动保存已开启：图片写入 public/images，词条写入 public/data，同时保留浏览器草稿。"
+                    : "当前仅保存浏览器草稿，不会写入电脑文件夹。请导出 ZIP 后导入项目，或用 npm run dev:edit 启动本地自动保存页面。"}
                 </p>
                 <div className="checks">
                   <label>

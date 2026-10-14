@@ -1,3 +1,8 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-export default defineConfig({ plugins: [react()], base: "./" });
+import { localEditor } from "./scripts/localEditor";
+export default defineConfig(({ mode }) => ({
+  plugins: [react(), ...(mode === "edit" ? [localEditor()] : [])],
+  base: "./",
+  server: { host: "127.0.0.1" },
+}));
