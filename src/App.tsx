@@ -295,8 +295,10 @@ function Reader() {
     }
     function visibility() {
       if (document.hidden) {
-        player.current?.pause();
+        // Do not pause speech when the phone locks or the tab goes background.
+        // Browsers may still suspend Web Speech independently.
         lock?.release();
+        lock = undefined;
       } else void acquire();
     }
     void acquire();
