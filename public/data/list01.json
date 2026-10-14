@@ -632,7 +632,19 @@
         "zh": "这本书讲述了一名逃亡者的经历。"
       },
       "id": "v000019",
-      "images": [],
+      "images": [
+        {
+          "id": "d1ee9e39-30b3-4bde-acfa-ca8378d97b0a",
+          "src": "images/list01/v000019-d1ee9e39-30b3-4bde-acfa-ca8378d97b0a.webp",
+          "alt": "fugitive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "524515ef589aa32cfd958d222a6bb5fbecfeab7c571c16edbe9f7f803ea1b226"
