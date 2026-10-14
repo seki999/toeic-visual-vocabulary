@@ -98,7 +98,7 @@ export const useStore = create<{
         return {
           ...state,
           settings: { ...defaults, ...state.settings, wake: true },
-        } as ReturnType<typeof useStore.getState>;
+        };
       },
     },
   ),
