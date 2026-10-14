@@ -732,21 +732,73 @@ details label {
   position: fixed;
   inset: 0;
   z-index: 60;
-  background: #10271de8;
+  background: #111a17;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 50px;
+  flex-direction: column;
+  padding: 16px;
+  gap: 12px;
+  height: 100dvh;
 }
-.lightbox > button {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  color: white;
+.lightbox-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  color: #eef2e9;
+  flex-shrink: 0;
+  padding-top: env(safe-area-inset-top);
 }
-.lightbox img {
+.lightbox-toolbar span {
+  margin-right: auto;
+  font-size: 14px;
+}
+.lightbox-toolbar button {
+  background: #2f3c35;
+  font-size: 13px;
+}
+.lightbox-stage {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overscroll-behavior: contain;
+}
+.lightbox-stage img {
   max-width: 100%;
-  max-height: 85vh;
+  max-height: 100%;
+  object-fit: contain;
+  touch-action: pan-x pan-y pinch-zoom;
+}
+.lightbox-stage.zoomed {
+  display: block;
+}
+.lightbox-stage.zoomed img {
+  width: 200% !important;
+  max-width: none;
+  max-height: none;
+}
+.lightbox-caption {
+  font-size: 12px;
+  color: #c1cabc;
+  padding-bottom: env(safe-area-inset-bottom);
+  flex-shrink: 0;
+}
+@media (max-width: 900px) and (orientation: portrait) {
+  .card-body {
+    flex-direction: column;
+  }
+  .word-content {
+    width: 100%;
+  }
+  .image-area {
+    border-left: 0;
+    border-top: 1px solid #e0e4d6;
+  }
 }
 .mobile {
   display: none;

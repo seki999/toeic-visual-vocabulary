@@ -27,6 +27,8 @@ export interface Picture {
   alt: string;
   widthPercent: number;
   height: number;
+  heightMode?: "auto" | "fixed";
+  aspectRatio?: "original" | "4/3" | "1/1" | "16/9";
   objectFit: "contain" | "cover";
   objectPosition: string;
   rotation: number;

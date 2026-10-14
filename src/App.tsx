@@ -71,7 +71,14 @@ function PictureView({
       alt={picture.alt}
       style={{
         width: `${picture.widthPercent}%`,
-        height: picture.height ?? 300,
+        height:
+          picture.heightMode === "fixed" ? (picture.height ?? 300) : "auto",
+        aspectRatio:
+          picture.heightMode === "fixed" ||
+          !picture.aspectRatio ||
+          picture.aspectRatio === "original"
+            ? undefined
+            : picture.aspectRatio,
         objectFit: picture.objectFit,
         objectPosition: picture.objectPosition,
         transform: `rotate(${picture.rotation}deg) scale(${picture.zoom ?? 1})`,
@@ -107,6 +114,21 @@ function Reader() {
   const [revealed, setRevealed] = useState<Set<string>>(new Set());
   const [following, setFollowing] = useState(true);
   const [lightbox, setLightbox] = useState<Picture>();
+  const [imageZoomed, setImageZoomed] = useState(false);
+  useEffect(() => {
+    setImageZoomed(false);
+    if (!lightbox) return;
+    const previous = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    const close = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setLightbox(undefined);
+    };
+    window.addEventListener("keydown", close);
+    return () => {
+      document.body.style.overflow = previous;
+      window.removeEventListener("keydown", close);
+    };
+  }, [lightbox]);
   const refs = useRef<Record<string, HTMLElement | null>>({});
   const player = useRef<SpeechPlayer | null>(null);
   const list = lists.find((l) => l.id === listId);
@@ -1150,6 +1172,47 @@ function Reader() {
                             {editing && (
                               <div className="image-controls">
                                 <label>
+                                  图片窗口比例
+                                  <select
+                                    value={
+                                      pic.heightMode === "fixed"
+                                        ? "fixed"
+                                        : (pic.aspectRatio ?? "original")
+                                    }
+                                    onChange={(e) =>
+                                      void update({
+                                        ...w,
+                                        images: w.images.map((p) =>
+                                          p.id === pic.id
+                                            ? {
+                                                ...p,
+                                                heightMode:
+                                                  e.target.value === "fixed"
+                                                    ? "fixed"
+                                                    : "auto",
+                                                aspectRatio:
+                                                  e.target.value === "fixed"
+                                                    ? "original"
+                                                    : (e.target
+                                                        .value as Picture["aspectRatio"]),
+                                              }
+                                            : p,
+                                        ),
+                                      })
+                                    }
+                                  >
+                                    <option value="original">
+                                      原图比例（自适应）
+                                    </option>
+                                    <option value="4/3">4:3</option>
+                                    <option value="1/1">1:1</option>
+                                    <option value="16/9">16:9</option>
+                                    <option value="fixed">
+                                      自定义固定高度
+                                    </option>
+                                  </select>
+                                </label>
+                                <label>
                                   宽度 {pic.widthPercent}%
                                   <input
                                     type="range"
@@ -1178,6 +1241,7 @@ function Reader() {
                                     min="120"
                                     max="900"
                                     value={pic.height ?? 300}
+                                    disabled={pic.heightMode !== "fixed"}
                                     onChange={(e) =>
                                       void update({
                                         ...w,
@@ -1503,23 +1567,45 @@ function Reader() {
         <div
           className="lightbox"
           role="dialog"
+          aria-modal="true"
           aria-label="图片大图"
           onClick={() => setLightbox(undefined)}
         >
-          <button aria-label="关闭大图">
-            <X />
-          </button>
-          <PictureView
-            picture={{
-              ...lightbox,
-              height: Math.min(window.innerHeight * 0.8, 900),
-              widthPercent: 100,
-              objectFit: "contain",
-              zoom: 1,
-              rotation: 0,
-            }}
-            onOpen={() => {}}
-          />
+          <div
+            className="lightbox-toolbar"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <span>查看图片</span>
+            <button onClick={() => setImageZoomed(!imageZoomed)}>
+              {imageZoomed ? "适应屏幕" : "放大细节"}
+            </button>
+            <button
+              aria-label="关闭大图"
+              onClick={() => setLightbox(undefined)}
+            >
+              <X />
+            </button>
+          </div>
+          <div
+            className={imageZoomed ? "lightbox-stage zoomed" : "lightbox-stage"}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <PictureView
+              picture={{
+                ...lightbox,
+                heightMode: "auto",
+                aspectRatio: "original",
+                widthPercent: 100,
+                objectFit: "contain",
+                zoom: 1,
+                rotation: 0,
+              }}
+              onOpen={() => {}}
+            />
+          </div>
+          <div className="lightbox-caption">
+            {imageZoomed ? "滑动查看画面细节" : "完整显示原图 · 可放大查看细节"}
+          </div>
         </div>
       )}
     </div>
