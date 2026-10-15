@@ -20,7 +20,19 @@
         "zh": "因为恐高，他不敢站到阳台边上。"
       },
       "id": "v000201",
-      "images": [],
+      "images": [
+        {
+          "id": "832070c5-7d78-4131-8c62-8937c6547309",
+          "src": "images/list05/v000201-832070c5-7d78-4131-8c62-8937c6547309.webp",
+          "alt": "acrophobia",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "99da0de0c3b9f5228c729a9e8a81979a2730e7dc8dbc3f5283e7c0d5da257ec8"
@@ -42,7 +54,19 @@
         "zh": "我们乘渡船去了对面的岛。"
       },
       "id": "v000202",
-      "images": [],
+      "images": [
+        {
+          "id": "52d7147a-1e43-4308-9459-6d2fd3c35d9e",
+          "src": "images/list05/v000202-52d7147a-1e43-4308-9459-6d2fd3c35d9e.webp",
+          "alt": "ferry",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4cf08b2a284f88b4a5014af5665e40b3370a65a75856f4b473d72417b0592fd9"
@@ -64,7 +88,19 @@
         "zh": "小船负责把乘客送到岸边。"
       },
       "id": "v000203",
-      "images": [],
+      "images": [
+        {
+          "id": "4683190e-51d7-4798-8024-c72ebbfa1176",
+          "src": "images/list05/v000203-4683190e-51d7-4798-8024-c72ebbfa1176.webp",
+          "alt": "ferry",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e5794a6f6722efbd90f64b03af67afb522dcf8cdbbaf35bba22c6351eefcbb6e"
@@ -86,7 +122,19 @@
         "zh": "资金不足使整个项目陷入危险。"
       },
       "id": "v000204",
-      "images": [],
+      "images": [
+        {
+          "id": "d3d27ac5-8ddc-4a58-b5bb-19feb1167473",
+          "src": "images/list05/v000204-d3d27ac5-8ddc-4a58-b5bb-19feb1167473.webp",
+          "alt": "jeopardy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "407b1645b391506853869d5c56ca6389353bcf077db31242f476ff375595966f"
@@ -108,7 +156,19 @@
         "zh": "禁止擅自进入私人土地。"
       },
       "id": "v000205",
-      "images": [],
+      "images": [
+        {
+          "id": "151b2d65-69c8-4b4c-b9db-f1c556929125",
+          "src": "images/list05/v000205-151b2d65-69c8-4b4c-b9db-f1c556929125.webp",
+          "alt": "trespass",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6b719e9c7f4f70ace231b86e0fb069c550a00f974b84a3b825a45a932efd1a73"
@@ -130,7 +190,19 @@
         "zh": "他因非法侵入而受到指控。"
       },
       "id": "v000206",
-      "images": [],
+      "images": [
+        {
+          "id": "df3f95d3-8f1c-4a2f-9eec-9b5e00fe6c5a",
+          "src": "images/list05/v000206-df3f95d3-8f1c-4a2f-9eec-9b5e00fe6c5a.webp",
+          "alt": "trespass",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c7fa5ce237f247b2d42ab8e69e97059f48db4a76942f7761eddf630665ed9214"
@@ -152,7 +224,19 @@
         "zh": "他们经过长途跋涉才到达村庄。"
       },
       "id": "v000207",
-      "images": [],
+      "images": [
+        {
+          "id": "86b45773-bf27-4e5d-88e2-2d112441e539",
+          "src": "images/list05/v000207-86b45773-bf27-4e5d-88e2-2d112441e539.webp",
+          "alt": "trek",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9e439f43098532c26bd1fcea2de6a3f5563937ce64452e90f6138cc5caba771e"
@@ -174,7 +258,19 @@
         "zh": "我们花了两天徒步穿越山区。"
       },
       "id": "v000208",
-      "images": [],
+      "images": [
+        {
+          "id": "e26e0d4e-3951-4617-b291-0fea421a45ae",
+          "src": "images/list05/v000208-e26e0d4e-3951-4617-b291-0fea421a45ae.webp",
+          "alt": "trek",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "db7823a0ec92b4881af0c3879bcd0748460aa1c60406a074055dfc949bd03058"

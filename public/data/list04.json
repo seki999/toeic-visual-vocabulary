@@ -1346,7 +1346,19 @@
         "zh": "研究人员分析了这种材料的化学成分。"
       },
       "id": "v000190",
-      "images": [],
+      "images": [
+        {
+          "id": "2ea8bbe7-39a7-463d-a82e-e8171fe67088",
+          "src": "images/list04/v000190-2ea8bbe7-39a7-463d-a82e-e8171fe67088.webp",
+          "alt": "composition",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ae002b0048a054539c02d73cd19549e0699af009f8e8585201d8fb67eb106aeb"
@@ -1368,7 +1380,19 @@
         "zh": "老师要求学生写一篇短作文。"
       },
       "id": "v000191",
-      "images": [],
+      "images": [
+        {
+          "id": "11f62ea7-5182-418a-8aa2-62ac5cdabeea",
+          "src": "images/list04/v000191-11f62ea7-5182-418a-8aa2-62ac5cdabeea.webp",
+          "alt": "composition",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a51fa1190a6400656fb52fda531cded0b6e1c11b1fbb12c134e406c82b7ad9fa"
@@ -1390,7 +1414,19 @@
         "zh": "火车突然震了一下，把我惊醒了。"
       },
       "id": "v000192",
-      "images": [],
+      "images": [
+        {
+          "id": "3df2ecea-d041-453c-9a37-0a9b21d04ad9",
+          "src": "images/list04/v000192-3df2ecea-d041-453c-9a37-0a9b21d04ad9.webp",
+          "alt": "jolt",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3c35c09ca221ceb3ddd1ca2a4d4c506e4739946f8b6cffce820c62b1c0450872"
@@ -1412,7 +1448,19 @@
         "zh": "这次事故使公司开始认真审查安全规定。"
       },
       "id": "v000193",
-      "images": [],
+      "images": [
+        {
+          "id": "01ceafe3-e7c5-416e-a6a5-6279ea41407e",
+          "src": "images/list04/v000193-01ceafe3-e7c5-416e-a6a5-6279ea41407e.webp",
+          "alt": "jolt",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c2abfcf7f74c661afefe301d1879467a3a6d67f839e698395c06beca0cceb03f"
@@ -1434,7 +1482,19 @@
         "zh": "政府计划制定新的数据保护法律。"
       },
       "id": "v000194",
-      "images": [],
+      "images": [
+        {
+          "id": "f97a0cc0-9320-42f0-9196-ee96c202e9e2",
+          "src": "images/list04/v000194-f97a0cc0-9320-42f0-9196-ee96c202e9e2.webp",
+          "alt": "enact",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1936c51cd200bd2ab059fb9e647681e3bb63265aab7d7324e5326c2c874b0f87"
@@ -1456,7 +1516,19 @@
         "zh": "这辆车必须使用无铅汽油。"
       },
       "id": "v000195",
-      "images": [],
+      "images": [
+        {
+          "id": "e7f4e847-e3f7-4ef3-af90-03621d060b11",
+          "src": "images/list04/v000195-e7f4e847-e3f7-4ef3-af90-03621d060b11.webp",
+          "alt": "unleaded",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "950aa970d7466dab60eebd7850c9d252e3c4e2e49902a1f08f5b27c9994d72b0"
@@ -1478,7 +1550,19 @@
         "zh": "事故中汽车的前保险杠被撞坏了。"
       },
       "id": "v000196",
-      "images": [],
+      "images": [
+        {
+          "id": "239e9406-1853-48ee-838d-83cee96bf78a",
+          "src": "images/list04/v000196-239e9406-1853-48ee-838d-83cee96bf78a.webp",
+          "alt": "bumper",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f20a9d76ea2f9bf6a02e09951bb39bdb06ebb49161c465d0b5319736272375d1"
@@ -1500,7 +1584,19 @@
         "zh": "今年农民获得了大丰收。"
       },
       "id": "v000197",
-      "images": [],
+      "images": [
+        {
+          "id": "890a2076-2f0b-49b2-b960-e938672a3cab",
+          "src": "images/list04/v000197-890a2076-2f0b-49b2-b960-e938672a3cab.webp",
+          "alt": "bumper",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4b98f8bc475b678942a578fffd17a6c442d16e26a116a9c92decf8991e849252"
@@ -1522,7 +1618,19 @@
         "zh": "下雨后他把兜帽戴了起来。"
       },
       "id": "v000198",
-      "images": [],
+      "images": [
+        {
+          "id": "d16cf106-e9e1-4d06-9a8f-0e50c9a95ec4",
+          "src": "images/list04/v000198-d16cf106-e9e1-4d06-9a8f-0e50c9a95ec4.webp",
+          "alt": "hood",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c4411767e6e9bddf72d5d0c16b21fb073d0f4034563d719a3d7d6b57ab44feb1"
@@ -1544,7 +1652,19 @@
         "zh": "技师打开了发动机罩检查发动机。"
       },
       "id": "v000199",
-      "images": [],
+      "images": [
+        {
+          "id": "ef0ec3f1-e600-4dd1-bec1-ed8b3cc3cf5d",
+          "src": "images/list04/v000199-ef0ec3f1-e600-4dd1-bec1-ed8b3cc3cf5d.webp",
+          "alt": "hood",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2c44395c51983f8e7eff71c2b9a349a98cb205e69a616ebe82639c2dc817e083"
@@ -1566,7 +1686,19 @@
         "zh": "他因为乱穿马路被警察警告了。"
       },
       "id": "v000200",
-      "images": [],
+      "images": [
+        {
+          "id": "2cd0e530-fe06-4372-9fcc-531c1e88de67",
+          "src": "images/list04/v000200-2cd0e530-fe06-4372-9fcc-531c1e88de67.webp",
+          "alt": "jaywalk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d15ea0fde006907241617cbcf2928cbdf47bf099637eeec380744a72eab5b031"
