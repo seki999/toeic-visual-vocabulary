@@ -802,7 +802,19 @@
         "zh": "本周末可能会有一次短暂寒潮。"
       },
       "id": "v000224",
-      "images": [],
+      "images": [
+        {
+          "id": "cd77e7c1-4868-4030-89a0-340a9f85d60a",
+          "src": "images/list05/v000224-cd77e7c1-4868-4030-89a0-340a9f85d60a.webp",
+          "alt": "snap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "53379639c91bb8bb8a3742ce49f19c918b01a097f1b3f2aef5b47037e48b4218"
@@ -824,7 +836,19 @@
         "zh": "公司请专业人员来消灭仓库里的害虫。"
       },
       "id": "v000225",
-      "images": [],
+      "images": [
+        {
+          "id": "43237f1c-4da4-4385-85eb-f9d59a3b3c7c",
+          "src": "images/list05/v000225-43237f1c-4da4-4385-85eb-f9d59a3b3c7c.webp",
+          "alt": "exterminate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "769094fc5e73f0e1b3973cc9449da564a79b6b318cbeb9a57f1841f561ed0d10"
@@ -846,7 +870,19 @@
         "zh": "他凭借丰富的经验获得了这个职位。"
       },
       "id": "v000226",
-      "images": [],
+      "images": [
+        {
+          "id": "9985dc3e-e5f9-408c-a298-d325287f30d9",
+          "src": "images/list05/v000226-9985dc3e-e5f9-408c-a298-d325287f30d9.webp",
+          "alt": "virtue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b5cf27ba0a14037dd86228508ef2b7fcb3c14c471f260185c9c738e5848d2ddd"
@@ -868,7 +904,19 @@
         "zh": "她喜欢乡村的平静与安宁。"
       },
       "id": "v000227",
-      "images": [],
+      "images": [
+        {
+          "id": "530435e3-1f47-4a7b-abad-0c88c023eeb1",
+          "src": "images/list05/v000227-530435e3-1f47-4a7b-abad-0c88c023eeb1.webp",
+          "alt": "tranquility",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "94dec868c7d623a3bc858480bd87f02b6e457d63c73da414c4bc004fa67875d0"
@@ -890,7 +938,19 @@
         "zh": "请确保你的字迹清晰可读。"
       },
       "id": "v000228",
-      "images": [],
+      "images": [
+        {
+          "id": "5ad15f86-7cac-4753-bd23-5b62f4015a06",
+          "src": "images/list05/v000228-5ad15f86-7cac-4753-bd23-5b62f4015a06.webp",
+          "alt": "legible",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a130102d05be17a36ea2647206684b0d0740f80c1507c6fb2d86514040964afb"
@@ -912,7 +972,19 @@
         "zh": "我们在滑雪场附近的一家小旅馆住了两晚。"
       },
       "id": "v000229",
-      "images": [],
+      "images": [
+        {
+          "id": "5cf0e36c-2882-4934-ab70-f60cacabd9ef",
+          "src": "images/list05/v000229-5cf0e36c-2882-4934-ab70-f60cacabd9ef.webp",
+          "alt": "lodge",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "508462f4ab3927697a7300888375451a67afffe4e58adf8c54b06830136e4cc8"
@@ -934,7 +1006,19 @@
         "zh": "顾客向酒店正式提出了投诉。"
       },
       "id": "v000230",
-      "images": [],
+      "images": [
+        {
+          "id": "40897ad9-3f26-47d7-aad9-243be19f70b8",
+          "src": "images/list05/v000230-40897ad9-3f26-47d7-aad9-243be19f70b8.webp",
+          "alt": "lodge",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6159a880b7949075d28554fdf26e21c7af7fdb050f75c55cfcca289b632ad88d"
@@ -956,7 +1040,19 @@
         "zh": "这个社区有完善的娱乐设施。"
       },
       "id": "v000231",
-      "images": [],
+      "images": [
+        {
+          "id": "e606ecfa-e620-4cf7-9abc-2e141413c313",
+          "src": "images/list05/v000231-e606ecfa-e620-4cf7-9abc-2e141413c313.webp",
+          "alt": "recreation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "280cb7566273afcc633e11f0c01dc4811e701abe84fdc8ebf0dce265d5565b8d"
@@ -978,7 +1074,19 @@
         "zh": "他们选择了一个充满异国情调的海岛作为度假地。"
       },
       "id": "v000232",
-      "images": [],
+      "images": [
+        {
+          "id": "82c68661-ec6b-42a2-86d6-83cdfe45a909",
+          "src": "images/list05/v000232-82c68661-ec6b-42a2-86d6-83cdfe45a909.webp",
+          "alt": "exotic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "184ac2acea1ecc6d998d40c5578307b78a0c3745e55704c2cd37de53d03c147f"
