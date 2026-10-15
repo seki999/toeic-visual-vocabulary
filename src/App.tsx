@@ -1013,19 +1013,12 @@ function Reader() {
                   </label>
                   <label>
                     覆盖文字大小
-                    <input
-                      type="number"
-                      min="12"
-                      max="48"
+                    <NumericSettingInput
                       value={c.overlaySize}
-                      onChange={(e) =>
-                        set({
-                          overlaySize: Math.max(
-                            12,
-                            Math.min(48, +e.target.value),
-                          ),
-                        })
-                      }
+                      min={12}
+                      max={48}
+                      step={1}
+                      onCommit={(value) => set({ overlaySize: value })}
                     />
                   </label>
                   <label>
