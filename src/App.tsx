@@ -529,6 +529,16 @@ function Reader() {
         } as CSSProperties
       }
     >
+      {fullscreen && (
+        <button
+          className="exit-fullscreen"
+          type="button"
+          aria-label="退出全屏模式"
+          onClick={() => void toggleFullscreen()}
+        >
+          <Minimize2 size={18} />
+        </button>
+      )}
       <aside className={drawer ? "sidebar open" : "sidebar"}>
         <div className="brand">
           <BookOpen size={25} />
