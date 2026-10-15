@@ -1414,7 +1414,19 @@
         "zh": "请保存所有与客户的商务往来邮件。"
       },
       "id": "v000242",
-      "images": [],
+      "images": [
+        {
+          "id": "d1cf654c-2d75-4290-a145-f6aef1dc1a8a",
+          "src": "images/list05/v000242-d1cf654c-2d75-4290-a145-f6aef1dc1a8a.webp",
+          "alt": "correspondence",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ac209a8a760ab6b1d7ba959c2d5acb06badf8b0d4e9fccdf99b126c661bff206"
@@ -1436,7 +1448,19 @@
         "zh": "她活泼开朗的性格很受同事欢迎。"
       },
       "id": "v000243",
-      "images": [],
+      "images": [
+        {
+          "id": "bf19886c-c27e-4c4f-b66c-74695a2a63f5",
+          "src": "images/list05/v000243-bf19886c-c27e-4c4f-b66c-74695a2a63f5.webp",
+          "alt": "vivacious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "18dab913a989d65ddc095b9c4d8211d4ad43dd0b7b79a15d9cfacb28fb199611"
@@ -1458,7 +1482,19 @@
         "zh": "我们不得不蹚过齐膝深的水。"
       },
       "id": "v000244",
-      "images": [],
+      "images": [
+        {
+          "id": "3713672f-91ba-467d-abae-9d14d3056f9f",
+          "src": "images/list05/v000244-3713672f-91ba-467d-abae-9d14d3056f9f.webp",
+          "alt": "wade",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c4595a06bb1553b6ec5da32b1ae1cc3c6781a62ba628bb2ec1223643131908af"
@@ -1480,7 +1516,19 @@
         "zh": "他对代码质量要求非常严格。"
       },
       "id": "v000245",
-      "images": [],
+      "images": [
+        {
+          "id": "cfdf0fc4-9497-43e8-b881-a7954bb8b337",
+          "src": "images/list05/v000245-cfdf0fc4-9497-43e8-b881-a7954bb8b337.webp",
+          "alt": "fastidious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "dcf7deebecff73574c503b7d464ad66e24d5fcd8ed8ae85cc6d0ff98b52fc36d"
@@ -1502,7 +1550,19 @@
         "zh": "大家已经厌倦了无休止的会议。"
       },
       "id": "v000246",
-      "images": [],
+      "images": [
+        {
+          "id": "78f76793-f049-4464-afde-edd5c5921f12",
+          "src": "images/list05/v000246-78f76793-f049-4464-afde-edd5c5921f12.webp",
+          "alt": "weary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3246ad0b0a1a1fb3be8060897b538d33dbf048205ddd732694550cfe5ad81b5f"
@@ -1524,7 +1584,19 @@
         "zh": "这种葫芦常被用来做汤。"
       },
       "id": "v000247",
-      "images": [],
+      "images": [
+        {
+          "id": "08c992c7-ad12-4c94-81df-e311ef3cddfd",
+          "src": "images/list05/v000247-08c992c7-ad12-4c94-81df-e311ef3cddfd.webp",
+          "alt": "gourd",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cf14815586e06cd52783a9669952b0b9252b9b68aec1353f47ecb0dfefb183c2"
