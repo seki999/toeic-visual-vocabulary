@@ -245,8 +245,18 @@ function Reader() {
       synth.removeEventListener("voiceschanged", refresh);
     };
   }, [setPosition]);
+  // Changing speech speed must not stop playback. Other playback settings
+  // continue to reset the player, as they may alter its reading sequence.
+  const previousPlaybackSettings = useRef({ listId, settings: c });
   useEffect(() => {
-    player.current?.stop();
+    const previous = previousPlaybackSettings.current;
+    const changedOtherSettings = (Object.keys(c) as (keyof Settings)[]).some(
+      (key) => key !== "rate" && previous.settings[key] !== c[key],
+    );
+    if (previous.listId !== listId || changedOtherSettings) {
+      player.current?.stop();
+    }
+    previousPlaybackSettings.current = { listId, settings: c };
   }, [listId, c]);
   function scrollToWord(id: string) {
     const card = refs.current[id];
@@ -769,13 +779,24 @@ function Reader() {
                         value={c[key]}
                         onChange={(e) => {
                           const v = e.target.valueAsNumber;
-                          if (Number.isFinite(v))
-                            set({
-                              [key]: Math.min(
-                                Number(e.target.max),
-                                Math.max(Number(e.target.min), v),
-                              ),
-                            });
+                          if (Number.isFinite(v)) {
+                            const value = Math.min(
+                              Number(e.target.max),
+                              Math.max(Number(e.target.min), v),
+                            );
+                            // Apply speed changes immediately without waiting for
+                            // the current utterance to finish.
+                            if (key === "rate") {
+                              player.current?.setRate(value);
+                              if (player.current?.status === "playing") {
+                                player.current.play(merged, index, {
+                                  ...c,
+                                  rate: value,
+                                });
+                              }
+                            }
+                            set({ [key]: value });
+                          }
                         }}
                       />
                     </label>
