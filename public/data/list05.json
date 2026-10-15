@@ -292,7 +292,19 @@
         "zh": "冲突造成了严重的平民伤亡。"
       },
       "id": "v000209",
-      "images": [],
+      "images": [
+        {
+          "id": "ba8ff909-15c5-47bf-8689-1c386fe018da",
+          "src": "images/list05/v000209-ba8ff909-15c5-47bf-8689-1c386fe018da.webp",
+          "alt": "casualty",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d44abcf4214c742bf294c30a185bdfa5008f9ce831cff36c1b6bcfa290a02e41"
@@ -314,7 +326,19 @@
         "zh": "这家小店成了经济衰退的牺牲品。"
       },
       "id": "v000210",
-      "images": [],
+      "images": [
+        {
+          "id": "0501b9bd-1ecf-4b97-b62e-32660737918a",
+          "src": "images/list05/v000210-0501b9bd-1ecf-4b97-b62e-32660737918a.webp",
+          "alt": "casualty",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "96c4579d121941852016dd44455e9014d45f34b8640bdb69530680a95a0e005c"
@@ -336,7 +360,19 @@
         "zh": "两辆车在十字路口相撞了。"
       },
       "id": "v000211",
-      "images": [],
+      "images": [
+        {
+          "id": "048ed498-4c1e-4f5e-8ab6-3d5d3067ff62",
+          "src": "images/list05/v000211-048ed498-4c1e-4f5e-8ab6-3d5d3067ff62.webp",
+          "alt": "collide",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e56917ad43e2b53346445dcefe46508bce5617a980b6451de0ed7d33e1854a8b"
@@ -358,7 +394,19 @@
         "zh": "该国决定对相关商品实施出口禁运。"
       },
       "id": "v000212",
-      "images": [],
+      "images": [
+        {
+          "id": "a3018dcd-5d9c-4c49-ab50-2472a5f1036b",
+          "src": "images/list05/v000212-a3018dcd-5d9c-4c49-ab50-2472a5f1036b.webp",
+          "alt": "embargo",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f63bf6d0a5a0c2ea8b496b71d1889472abffbee45f1ba0f5988b66d789ccd60a"
@@ -380,7 +428,19 @@
         "zh": "这份报告在周一之前不得发布。"
       },
       "id": "v000213",
-      "images": [],
+      "images": [
+        {
+          "id": "f3aac1df-31f9-425a-b0d5-4fb9b8f92383",
+          "src": "images/list05/v000213-f3aac1df-31f9-425a-b0d5-4fb9b8f92383.webp",
+          "alt": "embargo",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "93fdfea8f835d804a2189789d2c621c3b9d645a6c6ea784630cbc6c514403474"
@@ -402,7 +462,19 @@
         "zh": "孩子们正在学习基本的加法和减法。"
       },
       "id": "v000214",
-      "images": [],
+      "images": [
+        {
+          "id": "22bd1c32-e280-42e7-86b0-ff447fbab236",
+          "src": "images/list05/v000214-22bd1c32-e280-42e7-86b0-ff447fbab236.webp",
+          "alt": "subtraction",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "957ad20be85362a6341f5df995b237fb51501811b45eed7049834b46b0de3d2f"
@@ -424,7 +496,19 @@
         "zh": "会议最终变成了一场空洞而乏味的讨论。"
       },
       "id": "v000215",
-      "images": [],
+      "images": [
+        {
+          "id": "30ea8cf8-ea9d-43f3-aa10-4c0a30bef8a4",
+          "src": "images/list05/v000215-30ea8cf8-ea9d-43f3-aa10-4c0a30bef8a4.webp",
+          "alt": "vapid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3f50a6624979d01c93a50dbaf54498e3d0f6dc865183ad09afdbd97648c2ba6a"
@@ -446,7 +530,19 @@
         "zh": "两家公司签署了一项合作协议。"
       },
       "id": "v000216",
-      "images": [],
+      "images": [
+        {
+          "id": "7ec08500-c751-4fe6-9f5f-572bd993b4c2",
+          "src": "images/list05/v000216-7ec08500-c751-4fe6-9f5f-572bd993b4c2.webp",
+          "alt": "pact",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f899b63a4cb6bfc1689738dfa662be1dd4cf2871e086de892d797b1ad956ff10"
@@ -468,7 +564,19 @@
         "zh": "她每天早晨都会给马梳毛。"
       },
       "id": "v000217",
-      "images": [],
+      "images": [
+        {
+          "id": "ea267587-076d-45b6-9359-ccba49fd384e",
+          "src": "images/list05/v000217-ea267587-076d-45b6-9359-ccba49fd384e.webp",
+          "alt": "groom",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "67c791a3ab4bab7840ec3c9f7cb84c392631d1e48e135535e6b5b64436e0e7c2"
@@ -490,7 +598,19 @@
         "zh": "公司正在培养她接任管理职位。"
       },
       "id": "v000218",
-      "images": [],
+      "images": [
+        {
+          "id": "6e9c7001-29cc-48e0-bd8a-d738dcd627fc",
+          "src": "images/list05/v000218-6e9c7001-29cc-48e0-bd8a-d738dcd627fc.webp",
+          "alt": "groom",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b13ce7e8098add3b994d3f7318a00622265e2dd7d601547ebb959656d3695af1"
