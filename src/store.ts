@@ -53,7 +53,7 @@ export const defaults: Settings = {
   reveal: false,
   order: ["word", "example.en"],
   enRate: 0.8,
-  zhRate: 1.2;
+  zhRate: 1.2,
   pitch: 1,
   volume: 1,
   enVoice: "",
