@@ -8,6 +8,10 @@ export class SpeechPlayer {
   private remaining = 0;
   private deadline = 0;
   private utterance: SpeechSynthesisUtterance | undefined;
+  private activeSettings: Settings | undefined;
+  setRate(rate: number) {
+    if (this.activeSettings) this.activeSettings.rate = rate;
+  }
   status: Status = "stopped";
   constructor(
     private synth: SpeechSynthesis,
@@ -29,6 +33,7 @@ export class SpeechPlayer {
       this.utterance = undefined;
     }
     this.status = "stopped";
+    this.activeSettings = undefined;
     this.synth.cancel();
     // cancel() clears queued speech but does not reset the browser's paused flag.
     // Resume only the now-empty queue so the next play starts a fresh utterance.
@@ -64,8 +69,10 @@ export class SpeechPlayer {
       fn();
     }, ms);
   }
-  play(items: Word[], start: number, c: Settings) {
+  play(items: Word[], start: number, settings: Settings) {
     this.stop();
+    const c = { ...settings };
+    this.activeSettings = c;
     if (!items.length || !c.order.length) return;
     const token = this.generation;
     this.status = "playing";
