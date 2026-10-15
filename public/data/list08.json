@@ -20,7 +20,19 @@
         "zh": "管理层不应把一个员工当作所有问题的替罪羊。"
       },
       "id": "v000351",
-      "images": [],
+      "images": [
+        {
+          "id": "80cc44ec-32cf-4f37-a8b3-839bacc35641",
+          "src": "images/list08/v000351-80cc44ec-32cf-4f37-a8b3-839bacc35641.webp",
+          "alt": "scapegoat",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "af509e58a80235f8b8e12c39db04e8b30695c611fe12ecdd59b16982ab17fe75"
@@ -42,7 +54,19 @@
         "zh": "你的鞋带松了，小心别绊倒。"
       },
       "id": "v000352",
-      "images": [],
+      "images": [
+        {
+          "id": "6da3612f-f2f3-4a24-8181-f2fb8872cae6",
+          "src": "images/list08/v000352-6da3612f-f2f3-4a24-8181-f2fb8872cae6.webp",
+          "alt": "untied",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8b5ecfdbc17048ec7e302de86705b92f50fb41ab5e926bde54148aa27151e6df"
@@ -64,7 +88,19 @@
         "zh": "许多专家公开谴责了这种不道德的做法。"
       },
       "id": "v000353",
-      "images": [],
+      "images": [
+        {
+          "id": "a6d36f39-1fa8-4884-ae2a-695a045d2fe9",
+          "src": "images/list08/v000353-a6d36f39-1fa8-4884-ae2a-695a045d2fe9.webp",
+          "alt": "denounce",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c8938e360cc23c20901d7c31426711aabfaa503f86861b882a88cec59704566d"
@@ -86,7 +122,19 @@
         "zh": "游客可以在旅游咨询处领取地图。"
       },
       "id": "v000354",
-      "images": [],
+      "images": [
+        {
+          "id": "018bdbb4-cff5-4197-a64c-a789abf7edc8",
+          "src": "images/list08/v000354-018bdbb4-cff5-4197-a64c-a789abf7edc8.webp",
+          "alt": "bureau",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "03f6b417747256017d7e1be3bb2b6173f02b34eac1252e63b709ca53a002a6a5"
@@ -108,7 +156,19 @@
         "zh": "祖父的旧写字台还放在书房里。"
       },
       "id": "v000355",
-      "images": [],
+      "images": [
+        {
+          "id": "bcf0fd85-b6e9-4c04-9835-ce4f367aa640",
+          "src": "images/list08/v000355-bcf0fd85-b6e9-4c04-9835-ce4f367aa640.webp",
+          "alt": "bureau",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a304d1f2cc4d7bfa6d917bf91d5cd3db62a9ea1c127e16ec862b7b4eb22d901e"
@@ -130,7 +190,19 @@
         "zh": "办公室距离车站非常近。"
       },
       "id": "v000356",
-      "images": [],
+      "images": [
+        {
+          "id": "467436bb-103f-4f53-ad27-44c69657a62b",
+          "src": "images/list08/v000356-467436bb-103f-4f53-ad27-44c69657a62b.webp",
+          "alt": "proximity",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "94f14a62c7865e4f4d517b9bb4511cc67d0e2c4ebb38ef1e2a853f5fa3c579fb"
@@ -152,7 +224,19 @@
         "zh": "春天公园里到处都是樱花。"
       },
       "id": "v000357",
-      "images": [],
+      "images": [
+        {
+          "id": "9ba13c5a-a196-49e3-b7d7-37eb22a70eb4",
+          "src": "images/list08/v000357-9ba13c5a-a196-49e3-b7d7-37eb22a70eb4.webp",
+          "alt": "blossom",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "525048224f1b8f6032f535ace121c90a5a013aaacb94213e3c23b3bc18b7e135"
@@ -174,7 +258,19 @@
         "zh": "这个小项目后来发展成了一项重要业务。"
       },
       "id": "v000358",
-      "images": [],
+      "images": [
+        {
+          "id": "81892fc4-0754-4660-8709-e0a97968bc34",
+          "src": "images/list08/v000358-81892fc4-0754-4660-8709-e0a97968bc34.webp",
+          "alt": "blossom",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f89dfc77dca6f0cbed5b7429bc544e1a6d09805b111915092cdfa4083bfe6a66"
@@ -196,7 +292,19 @@
         "zh": "他年轻时很喜欢朋克摇滚。"
       },
       "id": "v000359",
-      "images": [],
+      "images": [
+        {
+          "id": "5f5df850-0307-425d-a9e5-7eb8a2dde7dc",
+          "src": "images/list08/v000359-5f5df850-0307-425d-a9e5-7eb8a2dde7dc.webp",
+          "alt": "punk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1ecbc388fe5ffcb5b6fdb9efbeb498f091249bf49f2a91b6ecac6439233a8e70"
@@ -218,7 +326,19 @@
         "zh": "电影里的主角曾经是个街头小混混。"
       },
       "id": "v000360",
-      "images": [],
+      "images": [
+        {
+          "id": "1381bdbe-f7fa-4ed8-8325-9c6905bc1b12",
+          "src": "images/list08/v000360-1381bdbe-f7fa-4ed8-8325-9c6905bc1b12.webp",
+          "alt": "punk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5d7c0b6e79b93acade6384de99aca1f8ce8ff064655ac72045275c356671c136"
@@ -240,7 +360,19 @@
         "zh": "她非常擅长分析复杂的数据。"
       },
       "id": "v000361",
-      "images": [],
+      "images": [
+        {
+          "id": "977fa6e7-b26a-4f82-abb6-abad7f2ec920",
+          "src": "images/list08/v000361-977fa6e7-b26a-4f82-abb6-abad7f2ec920.webp",
+          "alt": "excel",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9796c65bff722bfc3e7ebe09a2396176ac4700b1e2fea93e5c3eccb81ad1b2a9"
@@ -262,7 +394,19 @@
         "zh": "这项研究讨论了不同地区获得人工流产医疗服务的情况。"
       },
       "id": "v000362",
-      "images": [],
+      "images": [
+        {
+          "id": "c3a900ee-060a-4a60-a406-5782b0df3b21",
+          "src": "images/list08/v000362-c3a900ee-060a-4a60-a406-5782b0df3b21.webp",
+          "alt": "abortion",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0185ce68ff6b7c33ef872588ffb9ba92ca9d1af69fde73b1ae4fa183f129db1c"
@@ -284,7 +428,19 @@
         "zh": "由于严重失误，他被降职为普通员工。"
       },
       "id": "v000363",
-      "images": [],
+      "images": [
+        {
+          "id": "d12944ce-d497-42d0-ac37-0ae06e153505",
+          "src": "images/list08/v000363-d12944ce-d497-42d0-ac37-0ae06e153505.webp",
+          "alt": "demote",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4ca365ff59c581b87fca6c9fc16ae45ea66ebd26653a77a8158344460ac44987"
@@ -306,7 +462,19 @@
         "zh": "旧的安全协议已经变得过时。"
       },
       "id": "v000364",
-      "images": [],
+      "images": [
+        {
+          "id": "c7b7c13e-d0e3-417f-9ff0-27a363c778dd",
+          "src": "images/list08/v000364-c7b7c13e-d0e3-417f-9ff0-27a363c778dd.webp",
+          "alt": "obsolete",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d79509e188a6a5d240a3887718a68672a413619a6adcebcde8a905c46f6434ad"
@@ -328,7 +496,19 @@
         "zh": "复古风格现在又开始流行了。"
       },
       "id": "v000365",
-      "images": [],
+      "images": [
+        {
+          "id": "c9f387c5-3b87-4f70-b1ca-37c6816e9a8c",
+          "src": "images/list08/v000365-c9f387c5-3b87-4f70-b1ca-37c6816e9a8c.webp",
+          "alt": "vogue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "93e05378411ca855a81248292c55c1757b6e3e7c8245978045f8833f1e9c4073"
@@ -350,7 +530,19 @@
         "zh": "请把行李安全地放到座位上方。"
       },
       "id": "v000366",
-      "images": [],
+      "images": [
+        {
+          "id": "c4371841-5c64-4a52-bded-6dae146556e1",
+          "src": "images/list08/v000366-c4371841-5c64-4a52-bded-6dae146556e1.webp",
+          "alt": "stow",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "560e730b03dd679a0caec49ad672fb5f36409a54806b04c5a8d1e1353c95cce7"
@@ -372,7 +564,19 @@
         "zh": "她从六岁开始学习古典芭蕾。"
       },
       "id": "v000367",
-      "images": [],
+      "images": [
+        {
+          "id": "4b4c7cd1-d03e-484b-8b12-f0f432cfd902",
+          "src": "images/list08/v000367-4b4c7cd1-d03e-484b-8b12-f0f432cfd902.webp",
+          "alt": "ballet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7a063090661fee697f27a24eb3f582fb0f902a9453ea1cd34c9603467e60305e"
@@ -394,7 +598,19 @@
         "zh": "新员工通常会观察资深同事并照着做。"
       },
       "id": "v000368",
-      "images": [],
+      "images": [
+        {
+          "id": "66a8bd67-1ea0-4b3a-af08-1a10105172f7",
+          "src": "images/list08/v000368-66a8bd67-1ea0-4b3a-af08-1a10105172f7.webp",
+          "alt": "cue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "19cb2d65b23f6eff31d769f700689ce0dcee24329186d5eaf5f334530ed07129"
@@ -416,7 +632,19 @@
         "zh": "主持人示意乐队开始演奏。"
       },
       "id": "v000369",
-      "images": [],
+      "images": [
+        {
+          "id": "87629e78-efac-4af1-aebb-b17bdd2204c0",
+          "src": "images/list08/v000369-87629e78-efac-4af1-aebb-b17bdd2204c0.webp",
+          "alt": "cue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "40ae9ae6140b2f79ac14372044b2791f3b2b211b2bfcf0ba611fc0097579566a"
@@ -438,7 +666,19 @@
         "zh": "在作出重大决定前，他向导师寻求建议。"
       },
       "id": "v000370",
-      "images": [],
+      "images": [
+        {
+          "id": "3bb7f17f-fc68-486b-8235-05efd5262a18",
+          "src": "images/list08/v000370-3bb7f17f-fc68-486b-8235-05efd5262a18.webp",
+          "alt": "counsel",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "488082db8a0a8fd36fc59999c8a8eb9663adce6f809e16ea198dc65a00d7df3b"
@@ -460,7 +700,19 @@
         "zh": "公司在签署合同之前咨询了法律顾问。"
       },
       "id": "v000371",
-      "images": [],
+      "images": [
+        {
+          "id": "9263a427-6168-4da5-8906-c349336ee8dc",
+          "src": "images/list08/v000371-9263a427-6168-4da5-8906-c349336ee8dc.webp",
+          "alt": "counsel",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6b35603d5fc20db9d06688c8357683e9f212ba26215b93ccb98052be167d5357"
@@ -482,7 +734,19 @@
         "zh": "律师劝客户不要立即签署文件。"
       },
       "id": "v000372",
-      "images": [],
+      "images": [
+        {
+          "id": "1aa4fdef-0575-4b34-8f0a-08c2b2b14a76",
+          "src": "images/list08/v000372-1aa4fdef-0575-4b34-8f0a-08c2b2b14a76.webp",
+          "alt": "counsel",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3322bb2af39afc1a9c3ba49cc6e63609d2127a2beb22c9734ce0f4cc04a8acd1"
