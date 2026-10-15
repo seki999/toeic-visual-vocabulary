@@ -1108,7 +1108,19 @@
         "zh": "他正在为退休生活制定长期财务计划。"
       },
       "id": "v000233",
-      "images": [],
+      "images": [
+        {
+          "id": "bd4046ee-f9bb-4c02-9484-8d5ab04802c7",
+          "src": "images/list05/v000233-2cbdf58f-4ca1-42f4-a01a-c34f64e4b623.webp",
+          "alt": "retirement",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "92b257f9ca4833579eedfba1f54c2b25334949ea232dc376dbea95ea0dfcdb9c"
@@ -1130,7 +1142,19 @@
         "zh": "这位科学家留下了重要的学术遗产。"
       },
       "id": "v000234",
-      "images": [],
+      "images": [
+        {
+          "id": "0fa5c2a6-6d01-4670-8570-494a40d74b97",
+          "src": "images/list05/v000234-0fa5c2a6-6d01-4670-8570-494a40d74b97.webp",
+          "alt": "legacy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f900289c53b20ccb93f619fcf211688df3450e495c5056e54766b224c2997a98"
@@ -1152,7 +1176,19 @@
         "zh": "公司计划逐步替换旧有系统。"
       },
       "id": "v000235",
-      "images": [],
+      "images": [
+        {
+          "id": "d597b7ef-d736-4a95-8185-418df131e39e",
+          "src": "images/list05/v000235-d597b7ef-d736-4a95-8185-418df131e39e.webp",
+          "alt": "legacy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "74765a3024a2bf40599ac0505c9f11f63d6560c201d9ee9d0be8024e26633a89"
@@ -1174,7 +1210,19 @@
         "zh": "水从破裂的管道中喷涌而出。"
       },
       "id": "v000236",
-      "images": [],
+      "images": [
+        {
+          "id": "c42fa4f5-389b-4a0e-862f-0ab98f19b205",
+          "src": "images/list05/v000236-c42fa4f5-389b-4a0e-862f-0ab98f19b205.webp",
+          "alt": "gush",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7e6698c936aaacb73900a23663cdc8428261ad4698ad73759fad533557b4e4c6"
@@ -1196,7 +1244,19 @@
         "zh": "她兴奋地称赞了那场演出。"
       },
       "id": "v000237",
-      "images": [],
+      "images": [
+        {
+          "id": "65feabe0-1e28-43db-9b34-022fda2687a3",
+          "src": "images/list05/v000237-65feabe0-1e28-43db-9b34-022fda2687a3.webp",
+          "alt": "gush",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f8237e6d52f524f82b0c679dd779dcf43b8eabba1e8ab9beebaf41c2252944a1"
@@ -1218,7 +1278,19 @@
         "zh": "今天又热又闷，很不舒服。"
       },
       "id": "v000238",
-      "images": [],
+      "images": [
+        {
+          "id": "3f8319e8-faba-4129-a46a-0c15a743b1cd",
+          "src": "images/list05/v000238-3f8319e8-faba-4129-a46a-0c15a743b1cd.webp",
+          "alt": "muggy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2039c1b520e6bb97c1ca7930782526349107cac3af71ae6cbf806f31b96d8ccd"
@@ -1240,7 +1312,19 @@
         "zh": "山区预计会有大量降水。"
       },
       "id": "v000239",
-      "images": [],
+      "images": [
+        {
+          "id": "62260490-61c3-476a-951b-d14386d84f9e",
+          "src": "images/list05/v000239-62260490-61c3-476a-951b-d14386d84f9e.webp",
+          "alt": "precipitation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9884ebf4e92d5febe61be5b382d83f4f49526de5ac4dd2d31513102f04a86f30"
@@ -1262,7 +1346,19 @@
         "zh": "高利率可能会抑制经济增长。"
       },
       "id": "v000240",
-      "images": [],
+      "images": [
+        {
+          "id": "42ce55e8-f82b-4a02-bdbb-fdf74a4de0cd",
+          "src": "images/list05/v000240-42ce55e8-f82b-4a02-bdbb-fdf74a4de0cd.webp",
+          "alt": "crimp",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "49c660a285b7f0930ef979cfbf8f91f9b212552fba4cb6a1f7aee5467890fa3e"
@@ -1284,7 +1380,19 @@
         "zh": "技术人员正在给网线压接接头。"
       },
       "id": "v000241",
-      "images": [],
+      "images": [
+        {
+          "id": "f23701d3-3886-4cf5-9931-68ba45f5fb60",
+          "src": "images/list05/v000241-f23701d3-3886-4cf5-9931-68ba45f5fb60.webp",
+          "alt": "crimp",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fac4ffac286170a73a0912287e36c702cbc9e2804077ca41ad277b425ba16f2e"
