@@ -632,7 +632,19 @@
         "zh": "新娘和新郎向宾客表示感谢。"
       },
       "id": "v000219",
-      "images": [],
+      "images": [
+        {
+          "id": "a91d35b2-8b3c-4edd-9b24-25e449f1631d",
+          "src": "images/list05/v000219-a91d35b2-8b3c-4edd-9b24-25e449f1631d.webp",
+          "alt": "groom",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "86398416da5152e02d5c4e9ac40b615bd84b93136bd0c43f2bdb1b4f7ec954f1"
@@ -654,7 +666,19 @@
         "zh": "学生们测量了圆的周长。"
       },
       "id": "v000220",
-      "images": [],
+      "images": [
+        {
+          "id": "a69ad71b-0038-4ed8-834e-ab50a31f8e7c",
+          "src": "images/list05/v000220-a69ad71b-0038-4ed8-834e-ab50a31f8e7c.webp",
+          "alt": "circumference",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "928940ccd7d7cd6f951b2f60ddba5bf6b4520e0bf26255e1a99cb5b1fa630926"
@@ -676,7 +700,19 @@
         "zh": "该组织在争议中努力保持中立。"
       },
       "id": "v000221",
-      "images": [],
+      "images": [
+        {
+          "id": "fceb76b7-63c9-4a37-a16c-7cf55e81b4bd",
+          "src": "images/list05/v000221-fceb76b7-63c9-4a37-a16c-7cf55e81b4bd.webp",
+          "alt": "neutrality",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "26c534e3d8c8c10f48b325ae598f4baf4d3b4bc17aa4c1e1fc1bed3aa689549c"
@@ -698,7 +734,19 @@
         "zh": "树枝在强风中啪的一声断成了两截。"
       },
       "id": "v000222",
-      "images": [],
+      "images": [
+        {
+          "id": "52141095-1468-43de-b2ad-80e418fc87d9",
+          "src": "images/list05/v000222-52141095-1468-43de-b2ad-80e418fc87d9.webp",
+          "alt": "snap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2ddb38b96daa9c5b8883c81ac6cd8f2de9fb542bfecd89064d8824afec184e71"
@@ -720,7 +768,19 @@
         "zh": "她用手机迅速拍了一张照片。"
       },
       "id": "v000223",
-      "images": [],
+      "images": [
+        {
+          "id": "39a28843-aaaf-4a65-87e1-f2f6c7ec6c5c",
+          "src": "images/list05/v000223-39a28843-aaaf-4a65-87e1-f2f6c7ec6c5c.webp",
+          "alt": "snap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "03a09400d99ca226437a07dd87ed1616b0f059d001032ac51a0566337270a62b"
