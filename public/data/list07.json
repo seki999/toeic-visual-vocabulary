@@ -20,7 +20,19 @@
         "zh": "一点香料让这道菜更可口。"
       },
       "id": "v000301",
-      "images": [],
+      "images": [
+        {
+          "id": "3e3f011e-00ed-4036-bac1-bb6ead3e92b7",
+          "src": "images/list07/v000301-3e3f011e-00ed-4036-bac1-bb6ead3e92b7.webp",
+          "alt": "palatable",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "233dd4478bef5c8bfda8069571c092ad0c4542034b0fa28dfbf1c26e9ef9186c"
@@ -42,7 +54,19 @@
         "zh": "徒步一整天后，我们都饿极了。"
       },
       "id": "v000302",
-      "images": [],
+      "images": [
+        {
+          "id": "65e1ec39-dda5-4ef5-a4df-e6a6973db407",
+          "src": "images/list07/v000302-65e1ec39-dda5-4ef5-a4df-e6a6973db407.webp",
+          "alt": "ravenous",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ea0b8dd92d8378d5f43e2527be8bd9597faf8d73af9fa88bd9d7280d86106ce7"
@@ -64,7 +88,19 @@
         "zh": "酒店每天早晨提供自助早餐。"
       },
       "id": "v000303",
-      "images": [],
+      "images": [
+        {
+          "id": "91106e78-f6fa-4071-97e0-c218385c4f17",
+          "src": "images/list07/v000303-91106e78-f6fa-4071-97e0-c218385c4f17.webp",
+          "alt": "buffet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8328027ccafe95f1af4d016210814f04c665d480ce78d0212a44a72a5bbaa8b4"
@@ -86,7 +122,19 @@
         "zh": "日本料理以新鲜食材著称。"
       },
       "id": "v000304",
-      "images": [],
+      "images": [
+        {
+          "id": "b8938fdb-40a7-4a8b-b1e1-5390fec76f5d",
+          "src": "images/list07/v000304-b8938fdb-40a7-4a8b-b1e1-5390fec76f5d.webp",
+          "alt": "cuisine",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e3ba3b0649ea812b4e7421d3423dc4af7e7eec7f2d76b708c45b86516d8073ba"
@@ -108,7 +156,19 @@
         "zh": "我点了烤鱼作为主菜。"
       },
       "id": "v000305",
-      "images": [],
+      "images": [
+        {
+          "id": "49069476-2a47-4e40-b540-add49f87668c",
+          "src": "images/list07/v000305-49069476-2a47-4e40-b540-add49f87668c.webp",
+          "alt": "entree",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "197458994690e29977d04204be81618f0348b6620d09bcbbc1d776f01cc5a587"
@@ -130,7 +190,19 @@
         "zh": "服务员在桌上放了干净的餐巾。"
       },
       "id": "v000306",
-      "images": [],
+      "images": [
+        {
+          "id": "ca1d78c3-45bb-4b32-951a-a65a1f2e48d2",
+          "src": "images/list07/v000306-ca1d78c3-45bb-4b32-951a-a65a1f2e48d2.webp",
+          "alt": "napkin",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4b015714439021da5254560eb28bcb41dc81613f8f384dccbfd870fd05e9f7b3"
@@ -152,7 +224,19 @@
         "zh": "这种食品不含人工防腐剂。"
       },
       "id": "v000307",
-      "images": [],
+      "images": [
+        {
+          "id": "cffb4531-115e-4e7e-9cdd-149fab429892",
+          "src": "images/list07/v000307-cffb4531-115e-4e7e-9cdd-149fab429892.webp",
+          "alt": "preservative",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "543f813c199bccafa70a408bb7b3540881c478533aa1a8fb480f4a78a5cc6239"
@@ -174,7 +258,19 @@
         "zh": "她严格按照食谱做了这道菜。"
       },
       "id": "v000308",
-      "images": [],
+      "images": [
+        {
+          "id": "fb6914df-303f-4be0-a5b6-a9c6dd8cc0e7",
+          "src": "images/list07/v000308-fb6914df-303f-4be0-a5b6-a9c6dd8cc0e7.webp",
+          "alt": "recipe",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "09dcbe75a46fa2c608ef0f5d4e78bddfbda925e85063cd0ccb94a7b5d37f78df"
@@ -196,7 +292,19 @@
         "zh": "并非所有野生蘑菇都可以食用。"
       },
       "id": "v000309",
-      "images": [],
+      "images": [
+        {
+          "id": "8eb61cc3-d55b-4478-a9b1-1baed18018e1",
+          "src": "images/list07/v000309-8eb61cc3-d55b-4478-a9b1-1baed18018e1.webp",
+          "alt": "edible",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cfae4936cbba1a9a21a0b288e7bf01e581baeb4f55aeb9470b6d31ed77265053"
@@ -218,7 +326,19 @@
         "zh": "使用前请用水稀释清洁剂。"
       },
       "id": "v000310",
-      "images": [],
+      "images": [
+        {
+          "id": "78e2113e-faec-4073-9cc1-b2ded0e941fc",
+          "src": "images/list07/v000310-78e2113e-faec-4073-9cc1-b2ded0e941fc.webp",
+          "alt": "dilute",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7800d71b53ad49d1b281bedd91e2129f8341457a026ecff8713ee7b1a950a334"
@@ -240,7 +360,19 @@
         "zh": "实验需要使用稀释溶液。"
       },
       "id": "v000311",
-      "images": [],
+      "images": [
+        {
+          "id": "0a86c9a5-f786-4ec5-acbc-3241962942b5",
+          "src": "images/list07/v000311-0a86c9a5-f786-4ec5-acbc-3241962942b5.webp",
+          "alt": "dilute",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "249f42cb18445be9a2f15675ab365992d808a3a4fc23eef717cd25101a69169e"
@@ -262,7 +394,19 @@
         "zh": "这种酱汁有一种令人开胃的辛香味。"
       },
       "id": "v000312",
-      "images": [],
+      "images": [
+        {
+          "id": "e6aef42a-2393-4970-aa73-298f9d6867f1",
+          "src": "images/list07/v000312-e6aef42a-2393-4970-aa73-298f9d6867f1.webp",
+          "alt": "piquant",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1bf4acca5371aab7fb5fd89e3ff80ad49b1e4fd2a519e93510e16f28c2cfd7a3"
@@ -284,7 +428,19 @@
         "zh": "他的无礼行为让大家都很不舒服。"
       },
       "id": "v000313",
-      "images": [],
+      "images": [
+        {
+          "id": "9b6e7247-aede-418b-806c-f1987bc73004",
+          "src": "images/list07/v000313-9b6e7247-aede-418b-806c-f1987bc73004.webp",
+          "alt": "obnoxious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "12cb3414e671453374ea925c7c59de5e4be1b7054be82d4788c9aabb7709a4ef"
@@ -306,7 +462,19 @@
         "zh": "天气状况在下午迅速恶化。"
       },
       "id": "v000314",
-      "images": [],
+      "images": [
+        {
+          "id": "26cb9758-af8a-4d39-8697-5692d551ec82",
+          "src": "images/list07/v000314-26cb9758-af8a-4d39-8697-5692d551ec82.webp",
+          "alt": "deteriorate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "87fe6277da4bc2993e574fe62b4421c9a2bfc0dd67cc9147fd56731092b48da7"
@@ -328,7 +496,19 @@
         "zh": "投资者在购买股票前阅读了招股说明书。"
       },
       "id": "v000315",
-      "images": [],
+      "images": [
+        {
+          "id": "2674b479-e978-4f8f-aff2-9e5faf13ffe3",
+          "src": "images/list07/v000315-2674b479-e978-4f8f-aff2-9e5faf13ffe3.webp",
+          "alt": "prospectus",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3b0a671e9e58b2aaf34f329c81ef8b98b5bbdc1993e3816d82da459380b4fd59"
@@ -350,7 +530,19 @@
         "zh": "营养师为他制定了新的饮食计划。"
       },
       "id": "v000316",
-      "images": [],
+      "images": [
+        {
+          "id": "5df1d30f-3ce0-4790-bae3-51f2ca681b35",
+          "src": "images/list07/v000316-5df1d30f-3ce0-4790-bae3-51f2ca681b35.webp",
+          "alt": "dietitian",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4ca9c320a17237277627a5db9c3005b9a88bf25852380f4f5a153f21c08d4048"
@@ -372,7 +564,19 @@
         "zh": "把鸡蛋搅打到均匀起泡。"
       },
       "id": "v000317",
-      "images": [],
+      "images": [
+        {
+          "id": "0591f3eb-df00-454b-9fe9-6f2449b358af",
+          "src": "images/list07/v000317-0591f3eb-df00-454b-9fe9-6f2449b358af.webp",
+          "alt": "whisk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d2f7fb3bf1f46aeccd972fef3e7557b9c81cfe1b3a7425d9ea752aedd3f7bd1e"
@@ -394,7 +598,19 @@
         "zh": "她用打蛋器搅拌奶油。"
       },
       "id": "v000318",
-      "images": [],
+      "images": [
+        {
+          "id": "45a1578c-37ac-434a-a72c-500dd28ad39f",
+          "src": "images/list07/v000318-45a1578c-37ac-434a-a72c-500dd28ad39f.webp",
+          "alt": "whisk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b4ff6144463eb0cd825054325376b8ae22a8a5bb90cde3e6a9162a8efd0bbd8d"
@@ -416,7 +632,19 @@
         "zh": "两家公司一直保持着友好关系。"
       },
       "id": "v000319",
-      "images": [],
+      "images": [
+        {
+          "id": "22bb5075-f197-4123-986d-11acc05bd15c",
+          "src": "images/list07/v000319-22bb5075-f197-4123-986d-11acc05bd15c.webp",
+          "alt": "cordial",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ce8bc7a08e5d0013c584bc8123aef6803613e12d8711e8641a080439fd158ab6"
@@ -438,7 +666,19 @@
         "zh": "孩子们喝了加水稀释的果味饮料。"
       },
       "id": "v000320",
-      "images": [],
+      "images": [
+        {
+          "id": "a74ed9d8-e663-4e10-8906-e371b3ffa6f8",
+          "src": "images/list07/v000320-a74ed9d8-e663-4e10-8906-e371b3ffa6f8.webp",
+          "alt": "cordial",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "336b1bfd7641e3eabfcbffb9d12992cad9f2d993933daf741c7b591484e64c68"

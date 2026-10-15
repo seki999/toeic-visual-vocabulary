@@ -20,7 +20,19 @@
         "zh": "经度用于表示一个地点东西方向的位置。"
       },
       "id": "v000251",
-      "images": [],
+      "images": [
+        {
+          "id": "35d2cd2e-0348-433b-9db8-134721bbf9cf",
+          "src": "images/list06/v000251-35d2cd2e-0348-433b-9db8-134721bbf9cf.webp",
+          "alt": "longitude",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3066c252067fc390ea1805676454fff3cf92153b7b4aacc24337377773f5f56c"
@@ -42,7 +54,19 @@
         "zh": "他们住在东京郊区。"
       },
       "id": "v000252",
-      "images": [],
+      "images": [
+        {
+          "id": "7d7e7c16-c913-4c3b-8f1c-8d857a7328f1",
+          "src": "images/list06/v000252-7d7e7c16-c913-4c3b-8f1c-8d857a7328f1.webp",
+          "alt": "outskirts",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a5f5f480098558f5eb55048c3c4ffb0625e0469f01c4e3a55fb0d86ff8137464"
@@ -64,7 +88,19 @@
         "zh": "我们周末去湖边进行了一次短途旅行。"
       },
       "id": "v000253",
-      "images": [],
+      "images": [
+        {
+          "id": "a7f2881f-3599-4a3f-946e-c4634d3c21c8",
+          "src": "images/list06/v000253-a7f2881f-3599-4a3f-946e-c4634d3c21c8.webp",
+          "alt": "excursion",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ec4517955ec0b71df2a277ac0bd6ee03da18058473b0435113815b1738d90e80"
@@ -86,7 +122,19 @@
         "zh": "双方希望通过外交解决争端。"
       },
       "id": "v000254",
-      "images": [],
+      "images": [
+        {
+          "id": "af007a82-791e-4c29-a797-170c8a8a23c9",
+          "src": "images/list06/v000254-af007a82-791e-4c29-a797-170c8a8a23c9.webp",
+          "alt": "diplomacy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3f57b9748e9140c6f6145ed8c544960875a9ec99c97e86505073481a4eb2fb2f"
@@ -108,7 +156,19 @@
         "zh": "演讲结束后响起了自发的掌声。"
       },
       "id": "v000255",
-      "images": [],
+      "images": [
+        {
+          "id": "316f0712-43d1-43eb-a30e-ea2664f743cf",
+          "src": "images/list06/v000255-316f0712-43d1-43eb-a30e-ea2664f743cf.webp",
+          "alt": "spontaneous",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0106d7688dd455cd47d900976d6f4414017eb803f8b0b00d2ce34de82a844494"
@@ -130,7 +190,19 @@
         "zh": "金枪鱼属于常见的远洋鱼类。"
       },
       "id": "v000256",
-      "images": [],
+      "images": [
+        {
+          "id": "b11a87a7-9954-4b75-86e2-9c15a73f32ac",
+          "src": "images/list06/v000256-b11a87a7-9954-4b75-86e2-9c15a73f32ac.webp",
+          "alt": "pelagic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e67f983a1125d71d1fcf62a55851ef9c2a782c78ae1c90f8e0361784973d7d58"
@@ -152,7 +224,19 @@
         "zh": "到达纽约后，他花了两天才缓过时差。"
       },
       "id": "v000257",
-      "images": [],
+      "images": [
+        {
+          "id": "a29c771d-126b-40f2-b1af-a9ed2953c038",
+          "src": "images/list06/v000257-a29c771d-126b-40f2-b1af-a9ed2953c038.webp",
+          "alt": "jet lag",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8f96ac5688c327e31b4cb809226689c2c673924db151b36bef75d2f8d090c35a"
@@ -174,7 +258,19 @@
         "zh": "她每周做三次有氧运动。"
       },
       "id": "v000258",
-      "images": [],
+      "images": [
+        {
+          "id": "91fe2e94-bd00-4b09-a90b-042ebdf59afe",
+          "src": "images/list06/v000258-91fe2e94-bd00-4b09-a90b-042ebdf59afe.webp",
+          "alt": "aerobics",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6d77e8ee0972ac20c3670bca5f89209bf8154b7b759526e50ad9e2137f3e264d"
@@ -196,7 +292,19 @@
         "zh": "他计划明年参加东京马拉松。"
       },
       "id": "v000259",
-      "images": [],
+      "images": [
+        {
+          "id": "cd25428f-33ae-4206-bf69-fdfb33f1a2cf",
+          "src": "images/list06/v000259-cd25428f-33ae-4206-bf69-fdfb33f1a2cf.webp",
+          "alt": "marathon",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cfe69694c421b86f4b0f92614b1de0d49b34f2db3a31620ed8c24881168d53ed"
@@ -218,7 +326,19 @@
         "zh": "我已经把完整的旅行行程发给大家了。"
       },
       "id": "v000260",
-      "images": [],
+      "images": [
+        {
+          "id": "ef9b8c32-14f6-485e-a5dc-7e4dfcfa0405",
+          "src": "images/list06/v000260-ef9b8c32-14f6-485e-a5dc-7e4dfcfa0405.webp",
+          "alt": "itinerary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ee0d11b329c2510485ebeb0b87dce254e8806c3f6954eece19c9c303d3337088"
@@ -240,7 +360,19 @@
         "zh": "这项计划旨在改善农村地区的医疗服务。"
       },
       "id": "v000261",
-      "images": [],
+      "images": [
+        {
+          "id": "24ee6f53-149a-48b3-8b52-6b400f59cfba",
+          "src": "images/list06/v000261-24ee6f53-149a-48b3-8b52-6b400f59cfba.webp",
+          "alt": "rural",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "98717b853528cb4a7846a6d59ce3770c514bb5f5d949cf96cb214856d2034a31"
@@ -262,7 +394,19 @@
         "zh": "他大学期间住在学生宿舍。"
       },
       "id": "v000262",
-      "images": [],
+      "images": [
+        {
+          "id": "42d115d3-3716-4c91-b64e-bef71ba730a5",
+          "src": "images/list06/v000262-42d115d3-3716-4c91-b64e-bef71ba730a5.webp",
+          "alt": "dormitory",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7837c9d633429b7b4a7ac779fe8bcdf04a34668271e13e1e9ca7ed0e1a69e08b"
@@ -284,7 +428,19 @@
         "zh": "他们搬到了城市郊区。"
       },
       "id": "v000263",
-      "images": [],
+      "images": [
+        {
+          "id": "0e9ff942-7b98-4985-9330-076b76b0ea43",
+          "src": "images/list06/v000263-0e9ff942-7b98-4985-9330-076b76b0ea43.webp",
+          "alt": "suburb",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f310cac8bd1c3a972ef0d1be88db66dc3fd1b4b5a2cb8804336c0647b6eb1959"
@@ -306,7 +462,19 @@
         "zh": "快速的城市发展带来了新的交通问题。"
       },
       "id": "v000264",
-      "images": [],
+      "images": [
+        {
+          "id": "c53554f5-b1af-4a45-b655-381e1b69ad74",
+          "src": "images/list06/v000264-c53554f5-b1af-4a45-b655-381e1b69ad74.webp",
+          "alt": "urban",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "be0ebba8558ad79564f0cedd80ab14a79ddb790b664273e87b9857d8fd1ce1fc"
@@ -328,7 +496,19 @@
         "zh": "申请表要求填写你的居住地。"
       },
       "id": "v000265",
-      "images": [],
+      "images": [
+        {
+          "id": "1bbc6a50-534a-489c-8279-f3f1a9115d62",
+          "src": "images/list06/v000265-1bbc6a50-534a-489c-8279-f3f1a9115d62.webp",
+          "alt": "residence",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "334fd2bbfc956e648ce106e684ac54f4bdcebd676119af31e96ff7ac6c69f5cf"
@@ -350,7 +530,19 @@
         "zh": "暖空气平流导致气温迅速升高。"
       },
       "id": "v000266",
-      "images": [],
+      "images": [
+        {
+          "id": "373e640e-7a49-4be0-a515-70284a2e0c0c",
+          "src": "images/list06/v000266-373e640e-7a49-4be0-a515-70284a2e0c0c.webp",
+          "alt": "advection",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ebfe365b5e96cd0fca6f637905b43e9a57aaf1a7bd2e0f934811515f3dcefb81"
@@ -372,7 +564,19 @@
         "zh": "天气预报说晚上可能有雨夹雪。"
       },
       "id": "v000267",
-      "images": [],
+      "images": [
+        {
+          "id": "3c0cec0b-e8da-4ab6-994a-bc05845fd38c",
+          "src": "images/list06/v000267-3c0cec0b-e8da-4ab6-994a-bc05845fd38c.webp",
+          "alt": "sleet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "45c85d25be55c50f8e9b6d64be2aceefbb402a94b297a68fbe2850081b3e7643"
@@ -394,7 +598,19 @@
         "zh": "暴风雪导致许多航班被取消。"
       },
       "id": "v000268",
-      "images": [],
+      "images": [
+        {
+          "id": "1285dfa8-24e3-482a-a3d7-f5c2b5bc2552",
+          "src": "images/list06/v000268-1285dfa8-24e3-482a-a3d7-f5c2b5bc2552.webp",
+          "alt": "blizzard",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1a6c7dcafb903ed16f7bab285ef674fa9c0f4d02401777c1b2ffdeec83e315b6"
@@ -416,7 +632,19 @@
         "zh": "海边吹来一阵凉爽的微风。"
       },
       "id": "v000269",
-      "images": [],
+      "images": [
+        {
+          "id": "e0460568-16d9-43e3-8356-ed1f37e99ac2",
+          "src": "images/list06/v000269-e0460568-16d9-43e3-8356-ed1f37e99ac2.webp",
+          "alt": "breeze",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2a2e81c84be03808aab4573587ac0725416f3994b193035205c20da244803491"
@@ -438,7 +666,19 @@
         "zh": "当地政府发布了龙卷风警报。"
       },
       "id": "v000270",
-      "images": [],
+      "images": [
+        {
+          "id": "02b47991-0bdb-4246-95b4-b3764aff8865",
+          "src": "images/list06/v000270-02b47991-0bdb-4246-95b4-b3764aff8865.webp",
+          "alt": "tornado",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e88acef28273d52ee3da9e4036761ad9bc6bd70912db03a4d6e5d540df916b56"
@@ -460,7 +700,19 @@
         "zh": "护士用数字温度计测量了他的体温。"
       },
       "id": "v000271",
-      "images": [],
+      "images": [
+        {
+          "id": "5ec9d433-02c1-45c4-be13-0e798c6513a0",
+          "src": "images/list06/v000271-5ec9d433-02c1-45c4-be13-0e798c6513a0.webp",
+          "alt": "thermometer",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7ef2f83eb3cccb2c4be75f26b8808d4b433adc62a89a3351eb086cfdb04bf809"
@@ -482,7 +734,19 @@
         "zh": "高湿度让夏天感觉更加闷热。"
       },
       "id": "v000272",
-      "images": [],
+      "images": [
+        {
+          "id": "f1bda491-a702-4b2f-9685-3bfeebeb2b6c",
+          "src": "images/list06/v000272-f1bda491-a702-4b2f-9685-3bfeebeb2b6c.webp",
+          "alt": "humidity",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e5b3cf63f03b6b84317c67d649cf3d96763a18da16f5a147d1833e51930b4b0b"
@@ -504,7 +768,19 @@
         "zh": "这座历史建筑遭到了肆意破坏。"
       },
       "id": "v000273",
-      "images": [],
+      "images": [
+        {
+          "id": "8f571209-ba78-4f3c-b4d1-d15e97ab811f",
+          "src": "images/list06/v000273-8f571209-ba78-4f3c-b4d1-d15e97ab811f.webp",
+          "alt": "wanton",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8e46810688ac93d95129cb6f743bd6e0fc4d25eeb79fc72f68dbdfba63fc2612"
@@ -526,7 +802,19 @@
         "zh": "大气压会随着海拔升高而下降。"
       },
       "id": "v000274",
-      "images": [],
+      "images": [
+        {
+          "id": "10a93853-414d-49fd-897a-14d8465705a3",
+          "src": "images/list06/v000274-10a93853-414d-49fd-897a-14d8465705a3.webp",
+          "alt": "atmospheric",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6870841fedee1590174de6971d7444c876e8b033ffa7990fd82a9e8587142bb0"
@@ -548,7 +836,19 @@
         "zh": "现代通信大量使用光纤技术。"
       },
       "id": "v000275",
-      "images": [],
+      "images": [
+        {
+          "id": "77942557-8f3c-4035-9444-7433e1285df2",
+          "src": "images/list06/v000275-77942557-8f3c-4035-9444-7433e1285df2.webp",
+          "alt": "optics",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "504455eb20190fbf6e69837cc26ddeb55419692aebb3bc942a49d68c034cef56"
@@ -570,7 +870,19 @@
         "zh": "这个决定可能会造成不好的公众观感。"
       },
       "id": "v000276",
-      "images": [],
+      "images": [
+        {
+          "id": "3a982f01-8ef8-4176-bb05-54ce6f219031",
+          "src": "images/list06/v000276-3a982f01-8ef8-4176-bb05-54ce6f219031.webp",
+          "alt": "optics",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "de5a2990925bb930a875d47820991b4c8e513146109ad1f9c530e8994a552715"
@@ -592,7 +904,19 @@
         "zh": "项目发布后我们收到大量用户反馈。"
       },
       "id": "v000277",
-      "images": [],
+      "images": [
+        {
+          "id": "9e845e07-650e-4e52-bcaf-1d3278007228",
+          "src": "images/list06/v000277-9e845e07-650e-4e52-bcaf-1d3278007228.webp",
+          "alt": "avalanche",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1d2ed212c83daaf64576af60e5399a1ecc474f4fbca1b200c0490c011ebc2748"
@@ -614,7 +938,19 @@
         "zh": "批评反而激励他更加努力地训练。"
       },
       "id": "v000278",
-      "images": [],
+      "images": [
+        {
+          "id": "ae914f72-ed0a-4f87-93a6-26e3035c11c0",
+          "src": "images/list06/v000278-ae914f72-ed0a-4f87-93a6-26e3035c11c0.webp",
+          "alt": "goad",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3959c858de6154b5aee6e224723c67f67508b6018dcff1b446d58a28eab680b4"
@@ -636,7 +972,19 @@
         "zh": "长期饮食不足可能导致营养不良。"
       },
       "id": "v000279",
-      "images": [],
+      "images": [
+        {
+          "id": "709bec19-3fe6-477e-bb4f-89db12ba2f0a",
+          "src": "images/list06/v000279-709bec19-3fe6-477e-bb4f-89db12ba2f0a.webp",
+          "alt": "malnutrition",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c9e8bbb98e57197d84c328b60b182f58d5375ab59abb45eb917794127aba156d"
@@ -658,7 +1006,19 @@
         "zh": "人工智能并不是解决所有问题的万能药。"
       },
       "id": "v000280",
-      "images": [],
+      "images": [
+        {
+          "id": "fef0b6b3-dbd4-465a-b145-31dd566c9977",
+          "src": "images/list06/v000280-fef0b6b3-dbd4-465a-b145-31dd566c9977.webp",
+          "alt": "panacea",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "dfad85ae70379e042ff3c90d14c71c670ab332e6c61205f5121810a98407dd97"
@@ -680,7 +1040,19 @@
         "zh": "这种奶酪有一种柔和而醇厚的味道。"
       },
       "id": "v000281",
-      "images": [],
+      "images": [
+        {
+          "id": "456b2841-4d2c-4595-a3a2-a348e65093aa",
+          "src": "images/list06/v000281-456b2841-4d2c-4595-a3a2-a348e65093aa.webp",
+          "alt": "mellow",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "42664e779d3c636ca744f1b4834d3b9984ca2cfa063a1112e3ba5317080cd5e8"
@@ -702,7 +1074,19 @@
         "zh": "这种酒会随着时间变得更加醇厚。"
       },
       "id": "v000282",
-      "images": [],
+      "images": [
+        {
+          "id": "d91d6002-9a9d-4d64-9341-6c0ae8990913",
+          "src": "images/list06/v000282-d91d6002-9a9d-4d64-9341-6c0ae8990913.webp",
+          "alt": "mellow",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f6c5eff64049fe596c168cc5fe5e820c65230a472f60c8598fd12cdf66b71f44"
@@ -724,7 +1108,19 @@
         "zh": "他年轻时生活在十分贫困的环境中。"
       },
       "id": "v000283",
-      "images": [],
+      "images": [
+        {
+          "id": "ae7e1089-c6ee-4c93-930a-059ab07b1fc1",
+          "src": "images/list06/v000283-ae7e1089-c6ee-4c93-930a-059ab07b1fc1.webp",
+          "alt": "penurious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7017abfbeede24f6055254bca6581b50868a1c58b85c57f6dd505a029d55d420"
@@ -746,7 +1142,19 @@
         "zh": "健康饮食有助于降低患糖尿病的风险。"
       },
       "id": "v000284",
-      "images": [],
+      "images": [
+        {
+          "id": "14ec7b53-3e71-4d0e-acf6-c90bbee9197c",
+          "src": "images/list06/v000284-14ec7b53-3e71-4d0e-acf6-c90bbee9197c.webp",
+          "alt": "diabetes",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "efbbc406e0c2a29ab1dc981eddc02a0e6ec1d08c8d640832634708ec89d8babd"
@@ -768,7 +1176,19 @@
         "zh": "他因肺炎住院治疗了一周。"
       },
       "id": "v000285",
-      "images": [],
+      "images": [
+        {
+          "id": "2a56d875-f877-4e0f-9bf9-334fd7c23028",
+          "src": "images/list06/v000285-2a56d875-f877-4e0f-9bf9-334fd7c23028.webp",
+          "alt": "pneumonia",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "015ad240a100f0f513064a6b7991c81dad322796007171936ea813a5b78941b7"
@@ -790,7 +1210,19 @@
         "zh": "最后加入适量调味料。"
       },
       "id": "v000286",
-      "images": [],
+      "images": [
+        {
+          "id": "95bc4d4d-415c-4fac-acfb-051ab603a1b0",
+          "src": "images/list06/v000286-95bc4d4d-415c-4fac-acfb-051ab603a1b0.webp",
+          "alt": "seasonings",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e216512f4aca25a325520f2724732d88894743186574fcbef437568f54cb3e70"
@@ -812,7 +1244,19 @@
         "zh": "均衡营养对儿童成长十分重要。"
       },
       "id": "v000287",
-      "images": [],
+      "images": [
+        {
+          "id": "ad800a4e-bf11-4ff0-8367-fdd25077bcbc",
+          "src": "images/list06/v000287-ad800a4e-bf11-4ff0-8367-fdd25077bcbc.webp",
+          "alt": "nutrition",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "694b11e5e28d8440d9f60f89001ab7414205d1c421b4f3040eb0d64713a8b170"
@@ -834,7 +1278,19 @@
         "zh": "这个村庄安装了新的水净化设备。"
       },
       "id": "v000288",
-      "images": [],
+      "images": [
+        {
+          "id": "d9a446d7-da7c-4f8d-b815-2fafcb644338",
+          "src": "images/list06/v000288-d9a446d7-da7c-4f8d-b815-2fafcb644338.webp",
+          "alt": "purification",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "091fa63800f957da2c36979875f903ffb97f31b05ccf13015511acf794dc7ce6"
@@ -856,7 +1312,19 @@
         "zh": "他是一位喜欢尝试各国料理的美食家。"
       },
       "id": "v000289",
-      "images": [],
+      "images": [
+        {
+          "id": "ce38a9e7-0ec8-47c7-9a9b-2d36827710d4",
+          "src": "images/list06/v000289-ce38a9e7-0ec8-47c7-9a9b-2d36827710d4.webp",
+          "alt": "gourmet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fca13463bbe49ff3ffb45932207a09628c3d37bf1d893d9a6cb46a1c0fba6484"
@@ -878,7 +1346,19 @@
         "zh": "商店出售各种精品食品。"
       },
       "id": "v000290",
-      "images": [],
+      "images": [
+        {
+          "id": "740814b0-b6a7-4b5f-adee-a01994af455e",
+          "src": "images/list06/v000290-b42c3e6e-9c57-46fe-a7ea-1ce920175912.webp",
+          "alt": "gourmet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7bec36a1a7db42d9bcf5877a97aba285768cde1f67784503884a28ee66209e42"
@@ -900,7 +1380,19 @@
         "zh": "医生建议肥胖患者调整饮食和运动习惯。"
       },
       "id": "v000291",
-      "images": [],
+      "images": [
+        {
+          "id": "0c5e8466-1f17-421a-9b13-ff769dec06bc",
+          "src": "images/list06/v000291-50448824-fd1b-44fa-a9d3-ac7ac3894407.webp",
+          "alt": "obese",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e320328b5652b3e8d0f46823d4e49e88a60885e29decc94ac313fdc4ff70f69b"
@@ -922,7 +1414,19 @@
         "zh": "严格的卫生管理可以降低食品污染风险。"
       },
       "id": "v000292",
-      "images": [],
+      "images": [
+        {
+          "id": "d0957516-4cc4-4209-b510-6c45d28d5d92",
+          "src": "images/list06/v000292-d0957516-4cc4-4209-b510-6c45d28d5d92.webp",
+          "alt": "contamination",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "975a62a634b0f4d2754fbebd5454794180248735f70569d3952c2f0fab7f2169"
@@ -944,7 +1448,19 @@
         "zh": "她将在周六举行钢琴独奏会。"
       },
       "id": "v000293",
-      "images": [],
+      "images": [
+        {
+          "id": "e2a6e6fb-9ba7-4f1c-976b-f14885100a58",
+          "src": "images/list06/v000293-e2a6e6fb-9ba7-4f1c-976b-f14885100a58.webp",
+          "alt": "recital",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c64adbf6568a9c24ed9f0ab96d07519d0d926f93074e72bd2789e0f55722da92"
@@ -966,7 +1482,19 @@
         "zh": "天气太热时我常常没有食欲。"
       },
       "id": "v000294",
-      "images": [],
+      "images": [
+        {
+          "id": "befb828f-f8d8-408d-b21a-10e6e9765cf4",
+          "src": "images/list06/v000294-befb828f-f8d8-408d-b21a-10e6e9765cf4.webp",
+          "alt": "appetite",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4951513d9adafc048c335cbccd0a18943c0e4eb11faeeb494c04ee57a20156ea"
@@ -988,7 +1516,19 @@
         "zh": "诚挚邀请您参加我们的周年庆典。"
       },
       "id": "v000295",
-      "images": [],
+      "images": [
+        {
+          "id": "d7553f78-c81d-414e-a37d-d4b7bc51ef0f",
+          "src": "images/list06/v000295-d7553f78-c81d-414e-a37d-d4b7bc51ef0f.webp",
+          "alt": "cordially",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ed8c4233eaa3f76972950843d3f084095a50783ffc3068f9373d1f32b099383e"
@@ -1010,7 +1550,19 @@
         "zh": "医生建议他暂时吃清淡饮食。"
       },
       "id": "v000296",
-      "images": [],
+      "images": [
+        {
+          "id": "9dbd3d13-9aa8-49ea-b5bd-78863a7989ed",
+          "src": "images/list06/v000296-9dbd3d13-9aa8-49ea-b5bd-78863a7989ed.webp",
+          "alt": "bland",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "200769f24dc22a03ba1b669cffef660ee8166806bfaaadd091f0377f30cf6769"
@@ -1032,7 +1584,19 @@
         "zh": "烤鳗鱼是这里的一道当地美食。"
       },
       "id": "v000297",
-      "images": [],
+      "images": [
+        {
+          "id": "be14ff76-f3dd-436a-bbed-1cf7640dafb0",
+          "src": "images/list06/v000297-be14ff76-f3dd-436a-bbed-1cf7640dafb0.webp",
+          "alt": "delicacy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a88717202b55765534a9abc082621857f969bff475742cb3be9e3a65fea9f774"
@@ -1054,7 +1618,19 @@
         "zh": "这种敏感问题需要谨慎处理。"
       },
       "id": "v000298",
-      "images": [],
+      "images": [
+        {
+          "id": "3c6bada9-1d88-4403-9f4b-683b040f386c",
+          "src": "images/list06/v000298-3c6bada9-1d88-4403-9f4b-683b040f386c.webp",
+          "alt": "delicacy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "976ff4b893478d3915cc79a987127cc489100fc6d3b9c7fd12346b7617c5e078"
@@ -1076,7 +1652,19 @@
         "zh": "厨房里充满了新鲜香草的香气。"
       },
       "id": "v000299",
-      "images": [],
+      "images": [
+        {
+          "id": "5ca809b7-7b3e-439b-ad25-bc118c624c2d",
+          "src": "images/list06/v000299-5ca809b7-7b3e-439b-ad25-bc118c624c2d.webp",
+          "alt": "fragrant",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e14cccac6eed98c34704098ee6eb94407fcbd4c95274ad90984464223fe8da1c"
@@ -1098,7 +1686,19 @@
         "zh": "耐心是成功的重要因素之一。"
       },
       "id": "v000300",
-      "images": [],
+      "images": [
+        {
+          "id": "6d7c76bd-bce5-41ec-8642-68f6e8070d1f",
+          "src": "images/list06/v000300-6d7c76bd-bce5-41ec-8642-68f6e8070d1f.webp",
+          "alt": "ingredient",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c0b796654300a12d5f7e979689a6614fd0786a68227c401ae01b8e4804353199"

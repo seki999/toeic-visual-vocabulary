@@ -1618,7 +1618,19 @@
         "zh": "大量工作让他有些不知所措。"
       },
       "id": "v000248",
-      "images": [],
+      "images": [
+        {
+          "id": "35b4ad3d-58fd-4b4e-925e-9b7b8b89280c",
+          "src": "images/list05/v000248-35b4ad3d-58fd-4b4e-925e-9b7b8b89280c.webp",
+          "alt": "overwhelm",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "30f2b01478bfa11c62aa4056cf9e7ea21c711f923804e7d970894d4748e9de9a"
@@ -1640,7 +1652,19 @@
         "zh": "东京大约位于北纬35度。"
       },
       "id": "v000249",
-      "images": [],
+      "images": [
+        {
+          "id": "99284280-3807-4628-89e5-2e9134a3d50c",
+          "src": "images/list05/v000249-99284280-3807-4628-89e5-2e9134a3d50c.webp",
+          "alt": "latitude",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f77b17954b60728de22317d0e4c20e5ecc536d6a8072ccfe97e7e328e8c16750"
@@ -1662,7 +1686,19 @@
         "zh": "经理给团队很大的自主决策空间。"
       },
       "id": "v000250",
-      "images": [],
+      "images": [
+        {
+          "id": "c650f934-5d64-4015-b09f-6bf360ddbd1e",
+          "src": "images/list05/v000250-c650f934-5d64-4015-b09f-6bf360ddbd1e.webp",
+          "alt": "latitude",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6b5ed474b1fe322ef11424cec390884d99860298cea81da196aef940270e85f2"
