@@ -1321,3 +1321,20 @@ header .breadcrumb button {
     padding: 6px;
   }
 }
+
+/* Always keep an exit control reachable even when image-focus hides the header. */
+.exit-fullscreen {
+  position: fixed;
+  top: max(8px, env(safe-area-inset-top));
+  right: max(8px, env(safe-area-inset-right));
+  z-index: 110;
+  color: white;
+  background: rgba(15, 35, 31, 0.72);
+  border-radius: 10px;
+  min-width: 42px;
+  min-height: 42px;
+}
+:fullscreen body, :fullscreen #root {
+  height: 100dvh;
+  overflow: hidden;
+}
