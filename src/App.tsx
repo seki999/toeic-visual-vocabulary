@@ -309,7 +309,7 @@ function Reader() {
   useEffect(() => {
     const previous = previousPlaybackSettings.current;
     const changedOtherSettings = (Object.keys(c) as (keyof Settings)[]).some(
-      (key) => key !== "rate" && previous.settings[key] !== c[key],
+      (key) => key !== "enRate" && key !== "zhRate" && previous.settings[key] !== c[key],
     );
     if (previous.listId !== listId || changedOtherSettings) {
       player.current?.stop();
@@ -804,7 +804,8 @@ function Reader() {
                   </label>
                   {(
                     [
-                      "rate",
+                      "enRate",
+                      "zhRate",
                       "pitch",
                       "volume",
                       "repeat",
@@ -816,7 +817,8 @@ function Reader() {
                     <label key={key}>
                       {
                         {
-                          rate: "语速 (0.5–2)",
+                          enRate: "英语语速 (0.5–2)",
+                          zhRate: "中文语速 (0.5–2)",
                           pitch: "音调 (0–2)",
                           volume: "音量 (0–1)",
                           repeat: "每词重复 (1–10)",
@@ -828,14 +830,14 @@ function Reader() {
                       <NumericSettingInput
                         value={c[key]}
                         min={
-                          key === "rate"
+                          key === "enRate" || key === "zhRate"
                             ? 0.5
                             : key === "repeat" || key === "fieldRepeat"
                               ? 1
                               : 0
                         }
                         max={
-                          key === "rate" || key === "pitch"
+                          key === "enRate" || key === "zhRate" || key === "pitch"
                             ? 2
                             : key === "volume"
                               ? 1
@@ -846,17 +848,11 @@ function Reader() {
                                   : 30000
                         }
                         step={
-                          ["rate", "pitch", "volume"].includes(key) ? 0.1 : 1
+                          ["enRate", "zhRate", "pitch", "volume"].includes(key) ? 0.1 : 1
                         }
                         onCommit={(value) => {
-                          if (key === "rate") {
-                            player.current?.setRate(value);
-                            if (player.current?.status === "playing") {
-                              player.current.play(merged, index, {
-                                ...c,
-                                rate: value,
-                              });
-                            }
+                          if (key === "enRate" || key === "zhRate") {
+                            player.current?.setRate(key === "zhRate" ? "zh" : "en", value);
                           }
                           set({ [key]: value });
                         }}
@@ -1783,7 +1779,7 @@ function Reader() {
             </button>
           </div>
           <button className="player-config" onClick={() => setPanel("speech")}>
-            {c.rate}× <Settings2 size={18} />
+            EN {c.enRate}× / 中 {c.zhRate}× <Settings2 size={18} />
           </button>
           {compactScreen && status === "playing" && (
             <button
