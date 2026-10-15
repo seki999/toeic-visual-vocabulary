@@ -18,6 +18,7 @@ import {
   ArrowDown,
   Trash2,
   Maximize2,
+  Minimize2,
 } from "lucide-react";
 import {
   asset,
@@ -158,6 +159,23 @@ function Reader() {
   );
   const [controlsVisible, setControlsVisible] = useState(true);
   const [controlsActivity, setControlsActivity] = useState(0);
+  const [fullscreen, setFullscreen] = useState(false);
+  useEffect(() => {
+    const sync = () => setFullscreen(Boolean(document.fullscreenElement));
+    document.addEventListener("fullscreenchange", sync);
+    return () => document.removeEventListener("fullscreenchange", sync);
+  }, []);
+  async function toggleFullscreen() {
+    try {
+      if (document.fullscreenElement) {
+        await document.exitFullscreen();
+      } else {
+        await document.documentElement.requestFullscreen();
+      }
+    } catch {
+      setError("当前浏览器不允许网页全屏，请尝试 Chrome 或将网站添加到主屏幕。");
+    }
+  }
   const [compactScreen, setCompactScreen] = useState(
     () => matchMedia("(max-width:1366px)").matches,
   );
@@ -591,6 +609,10 @@ function Reader() {
             学习空间 <span>/</span> {list?.title ?? "加载中"}
           </div>
           <div className="header-actions">
+            <button type="button" onClick={() => void toggleFullscreen()} aria-label={fullscreen ? "退出全屏" : "进入全屏"} title={fullscreen ? "退出全屏" : "进入全屏"}>
+              {fullscreen ? <Minimize2 size={18} /> : <Maximize2 size={18} />}
+              {fullscreen ? "退出全屏" : "全屏"}
+            </button>
             <button
               onClick={async () => {
                 if (!localSaving) return;
