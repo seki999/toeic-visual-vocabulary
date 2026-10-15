@@ -9,8 +9,11 @@ export class SpeechPlayer {
   private deadline = 0;
   private utterance: SpeechSynthesisUtterance | undefined;
   private activeSettings: Settings | undefined;
-  setRate(rate: number) {
-    if (this.activeSettings) this.activeSettings.rate = rate;
+  setRate(language: "en" | "zh", rate: number) {
+    if (this.activeSettings) {
+      if (language === "zh") this.activeSettings.zhRate = rate;
+      else this.activeSettings.enRate = rate;
+    }
   }
   status: Status = "stopped";
   constructor(
@@ -128,7 +131,7 @@ export class SpeechPlayer {
         voices.find((v) => v.lang === u.lang) ??
         voices.find((v) => v.lang.startsWith(zh ? "zh" : "en")) ??
         null;
-      u.rate = c.rate;
+      u.rate = zh ? c.zhRate : c.enRate;
       u.pitch = c.pitch;
       u.volume = c.volume;
       u.onend = () => {
