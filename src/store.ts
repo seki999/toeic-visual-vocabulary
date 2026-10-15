@@ -13,7 +13,8 @@ export interface Settings {
   overlayBackground: number;
   reveal: boolean;
   order: Field[];
-  rate: number;
+  enRate: number;
+  zhRate: number;
   pitch: number;
   volume: number;
   enVoice: string;
@@ -51,7 +52,8 @@ export const defaults: Settings = {
   overlayBackground: 0.65,
   reveal: false,
   order: ["word", "example.en"],
-  rate: 1,
+  enRate: 0.8,
+  zhRate: 1.2;
   pitch: 1,
   volume: 1,
   enVoice: "",
@@ -91,13 +93,13 @@ export const useStore = create<{
     }),
     {
       name: "toeic-settings-v1",
-      version: 2,
+      version: 3,
       // Enable screen wake for existing installations, not only new visitors.
       migrate: (persisted) => {
         const state = persisted as { settings?: Partial<Settings> };
         return {
           ...state,
-          settings: { ...defaults, ...state.settings, wake: true },
+          settings: { ...defaults, ...state.settings, enRate: 0.8, zhRate: 1.2, wake: true },
         };
       },
     },
