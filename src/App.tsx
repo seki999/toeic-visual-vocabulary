@@ -91,6 +91,46 @@ function PictureView({
     />
   );
 }
+function NumericSettingInput({
+  value,
+  min,
+  max,
+  step,
+  onCommit,
+}: {
+  value: number;
+  min: number;
+  max: number;
+  step: number;
+  onCommit: (value: number) => void;
+}) {
+  const [draft, setDraft] = useState(String(value));
+  useEffect(() => setDraft(String(value)), [value]);
+  function commit() {
+    const parsed = Number(draft);
+    if (draft.trim() === "" || !Number.isFinite(parsed)) {
+      setDraft(String(value));
+      return;
+    }
+    const normalized = Math.min(max, Math.max(min, parsed));
+    setDraft(String(normalized));
+    if (normalized !== value) onCommit(normalized);
+  }
+  return (
+    <input
+      type="number"
+      min={min}
+      max={max}
+      step={step}
+      value={draft}
+      onChange={(event) => setDraft(event.target.value)}
+      onBlur={commit}
+      onKeyDown={(event) => {
+        if (event.key === "Enter") event.currentTarget.blur();
+      }}
+    />
+  );
+}
 function Reader() {
   const navigate = useNavigate(),
     params = useParams();
@@ -753,8 +793,8 @@ function Reader() {
                           itemGap: "词条间隔 (毫秒)",
                         }[key]
                       }
-                      <input
-                        type="number"
+                      <NumericSettingInput
+                        value={c[key]}
                         min={
                           key === "rate"
                             ? 0.5
@@ -776,27 +816,17 @@ function Reader() {
                         step={
                           ["rate", "pitch", "volume"].includes(key) ? 0.1 : 1
                         }
-                        value={c[key]}
-                        onChange={(e) => {
-                          const v = e.target.valueAsNumber;
-                          if (Number.isFinite(v)) {
-                            const value = Math.min(
-                              Number(e.target.max),
-                              Math.max(Number(e.target.min), v),
-                            );
-                            // Apply speed changes immediately without waiting for
-                            // the current utterance to finish.
-                            if (key === "rate") {
-                              player.current?.setRate(value);
-                              if (player.current?.status === "playing") {
-                                player.current.play(merged, index, {
-                                  ...c,
-                                  rate: value,
-                                });
-                              }
+                        onCommit={(value) => {
+                          if (key === "rate") {
+                            player.current?.setRate(value);
+                            if (player.current?.status === "playing") {
+                              player.current.play(merged, index, {
+                                ...c,
+                                rate: value,
+                              });
                             }
-                            set({ [key]: value });
                           }
+                          set({ [key]: value });
                         }}
                       />
                     </label>
