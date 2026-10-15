@@ -496,7 +496,19 @@
         "zh": "我们用开源软件替换了原来的商业软件。"
       },
       "id": "v000115",
-      "images": [],
+      "images": [
+        {
+          "id": "b3b1b7d5-103b-4a1c-bace-d258730eb39d",
+          "src": "images/list03/v000115-b3b1b7d5-103b-4a1c-bace-d258730eb39d.webp",
+          "alt": "substitute",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4651c4be14273b5897b4e3428859b0411f717459b5941bc50a5adb3bc609e6e1"
@@ -518,7 +530,19 @@
         "zh": "今天由一位代课老师给我们上课。"
       },
       "id": "v000116",
-      "images": [],
+      "images": [
+        {
+          "id": "71d6964e-6e63-43e3-9a5c-ec491486e949",
+          "src": "images/list03/v000116-71d6964e-6e63-43e3-9a5c-ec491486e949.webp",
+          "alt": "substitute",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d0c3a6cb4f6ad664dcf4862ef384dbb09c6906e225b2c3020f5c9b7e5d47b705"
@@ -540,7 +564,19 @@
         "zh": "高额罚款可以阻止企业违反规定。"
       },
       "id": "v000117",
-      "images": [],
+      "images": [
+        {
+          "id": "dbb6dce2-0a04-4e52-ba0c-892a0910105e",
+          "src": "images/list03/v000117-dbb6dce2-0a04-4e52-ba0c-892a0910105e.webp",
+          "alt": "deter",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0d5f63311f8eccff5631d2f7d1e80be37190decb57b0b56d7ac92f44fd7fb05d"
@@ -562,7 +598,19 @@
         "zh": "项目延期会产生额外费用。"
       },
       "id": "v000118",
-      "images": [],
+      "images": [
+        {
+          "id": "40feba56-4eec-4ef5-8a07-3faf79aa5702",
+          "src": "images/list03/v000118-40feba56-4eec-4ef5-8a07-3faf79aa5702.webp",
+          "alt": "incur",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b16b110e4c2144b6dcfaa398b380d29d49f6cd9eb8296956e15215f223881d51"
@@ -584,7 +632,19 @@
         "zh": "忽视安全检查会增加发生事故的风险。"
       },
       "id": "v000119",
-      "images": [],
+      "images": [
+        {
+          "id": "f657e424-339b-43c4-921d-d7259e6a3ee0",
+          "src": "images/list03/v000119-f657e424-339b-43c4-921d-d7259e6a3ee0.webp",
+          "alt": "incur",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "feaef93c1b6fc2be03eb24b8a851d45245038d6b183a7a1efd7eaf1569354296"
@@ -606,7 +666,19 @@
         "zh": "公司经历了一段动荡的重组时期。"
       },
       "id": "v000120",
-      "images": [],
+      "images": [
+        {
+          "id": "fcf5f764-d23b-4f75-9ac0-0a2d3db420e9",
+          "src": "images/list03/v000120-fcf5f764-d23b-4f75-9ac0-0a2d3db420e9.webp",
+          "alt": "tumultuous",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d3abc7575609c74161b62d1761c578c0b1338beca95a85cba9085680b9b49f6f"
@@ -628,7 +700,19 @@
         "zh": "车站附近有几家不错的餐厅。"
       },
       "id": "v000121",
-      "images": [],
+      "images": [
+        {
+          "id": "1304d9ad-49fe-4de7-9cec-6be009fdc976",
+          "src": "images/list03/v000121-1304d9ad-49fe-4de7-9cec-6be009fdc976.webp",
+          "alt": "vicinity",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cd1636ca32f267010edb69337c405427d809648c2d418b240ef929495f9b5863"
@@ -650,7 +734,19 @@
         "zh": "夏季出现了电力需求激增。"
       },
       "id": "v000122",
-      "images": [],
+      "images": [
+        {
+          "id": "cd4fb3b6-8adc-4f2f-ac2a-5224faca9bda",
+          "src": "images/list03/v000122-cd4fb3b6-8adc-4f2f-ac2a-5224faca9bda.webp",
+          "alt": "surge",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3ed88019634ee3c0df9116a762e86af3c958fa24844e24278d0ebea05462b93a"
@@ -672,7 +768,19 @@
         "zh": "消息公布后，该公司股价迅速上涨。"
       },
       "id": "v000123",
-      "images": [],
+      "images": [
+        {
+          "id": "4399666e-235e-4d2f-a3c6-6fa477d89a75",
+          "src": "images/list03/v000123-4399666e-235e-4d2f-a3c6-6fa477d89a75.webp",
+          "alt": "surge",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1b4f9ec6fce5e905887703087c7d4f03a0cec79c70d30b20ddb8574536b03f0a"
@@ -694,7 +802,19 @@
         "zh": "议会正式批准了这项国际协议。"
       },
       "id": "v000124",
-      "images": [],
+      "images": [
+        {
+          "id": "25092ef5-4056-444a-b319-1563ed753213",
+          "src": "images/list03/v000124-25092ef5-4056-444a-b319-1563ed753213.webp",
+          "alt": "ratify",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e8d692181c7e7566bb318c1ac42b3eb4be42b760d7647ece9aef8bad0af732a3"
@@ -716,7 +836,19 @@
         "zh": "这次艺术展在当地企业的赞助下举办。"
       },
       "id": "v000125",
-      "images": [],
+      "images": [
+        {
+          "id": "63f12d36-f818-4439-a67b-e8694369fce3",
+          "src": "images/list03/v000125-63f12d36-f818-4439-a67b-e8694369fce3.webp",
+          "alt": "patronage",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e1e42bb44cf84bd70ea4df5e659979826eb1a4e54ec097437f618a81f28fe609"
@@ -738,7 +870,19 @@
         "zh": "餐厅感谢顾客多年来的支持与惠顾。"
       },
       "id": "v000126",
-      "images": [],
+      "images": [
+        {
+          "id": "b6a8fe6e-3182-4bbd-8f98-45982f1e3d2d",
+          "src": "images/list03/v000126-b6a8fe6e-3182-4bbd-8f98-45982f1e3d2d.webp",
+          "alt": "patronage",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c644fd3bddabb4121e6786dd40e30b2c2c84d04da37bba88e05171da456b7049"
@@ -760,7 +904,19 @@
         "zh": "政府向新能源企业提供补贴。"
       },
       "id": "v000127",
-      "images": [],
+      "images": [
+        {
+          "id": "33084fdd-8259-4797-98c8-c03802a21a07",
+          "src": "images/list03/v000127-33084fdd-8259-4797-98c8-c03802a21a07.webp",
+          "alt": "subsidy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1b7e467e10a5fb9bf82fe39ec33e28ac1266afd783ec81923708d32b30b53b7c"
@@ -782,7 +938,19 @@
         "zh": "降雨给高温天气带来了短暂的缓解。"
       },
       "id": "v000128",
-      "images": [],
+      "images": [
+        {
+          "id": "0d9f81f5-f84f-4ef2-9db8-25cf93c60b65",
+          "src": "images/list03/v000128-0d9f81f5-f84f-4ef2-9db8-25cf93c60b65.webp",
+          "alt": "reprieve",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1f7025831627e529d33b7d482529d007c1ce9ba94f0693727ef3da2faee8d67c"
@@ -804,7 +972,19 @@
         "zh": "法院暂缓执行了对他的处罚。"
       },
       "id": "v000129",
-      "images": [],
+      "images": [
+        {
+          "id": "f92ad8ee-9e28-452f-a945-ae4031ebf849",
+          "src": "images/list03/v000129-f92ad8ee-9e28-452f-a945-ae4031ebf849.webp",
+          "alt": "reprieve",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "35fe782a302cee04ffb95e7d1b4cea688062c3bef986983156fa5b9f5e8591b8"
@@ -826,7 +1006,19 @@
         "zh": "阳光透过厚厚的云层照了进来。"
       },
       "id": "v000130",
-      "images": [],
+      "images": [
+        {
+          "id": "d1ac9fdf-9d24-445d-8a2a-5a9a13e61606",
+          "src": "images/list03/v000130-d1ac9fdf-9d24-445d-8a2a-5a9a13e61606.webp",
+          "alt": "penetrate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "853d995e3474cfa2fbffb8975475be91b1b6d473210de240cabceff89d23d221"
@@ -848,7 +1040,19 @@
         "zh": "这家公司正在努力打入东南亚市场。"
       },
       "id": "v000131",
-      "images": [],
+      "images": [
+        {
+          "id": "ad5dac22-9fe3-4281-b8ad-84461822f5e9",
+          "src": "images/list03/v000131-ad5dac22-9fe3-4281-b8ad-84461822f5e9.webp",
+          "alt": "penetrate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2f9b01d2ada5ccec2ee68e03b3e4483dd9bb6d67c9239eedf2ba8b74b9e5dd10"
@@ -870,7 +1074,19 @@
         "zh": "智能手机如今几乎已经无处不在。"
       },
       "id": "v000132",
-      "images": [],
+      "images": [
+        {
+          "id": "82e6d0f0-35c0-441a-a840-f3d465f6d22f",
+          "src": "images/list03/v000132-82e6d0f0-35c0-441a-a840-f3d465f6d22f.webp",
+          "alt": "ubiquitous",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fde06f8adc67a905aac8c623e9c690a27e52c30b369420b05eb0a61084e05d6d"
@@ -892,7 +1108,19 @@
         "zh": "近年来，基于人工智能的工具迅速增加。"
       },
       "id": "v000133",
-      "images": [],
+      "images": [
+        {
+          "id": "e9634fbb-36de-4c8b-9579-b045e4ad5326",
+          "src": "images/list03/v000133-e9634fbb-36de-4c8b-9579-b045e4ad5326.webp",
+          "alt": "proliferate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7d9452170f13ce3f34216036e3fb78eec94073e400a15109eda7dbd6a20dddd7"
@@ -914,7 +1142,19 @@
         "zh": "东京是一个人口非常稠密的城市。"
       },
       "id": "v000134",
-      "images": [],
+      "images": [
+        {
+          "id": "cea0b049-6b17-4ea5-8b4c-7796a3d327d7",
+          "src": "images/list03/v000134-cea0b049-6b17-4ea5-8b4c-7796a3d327d7.webp",
+          "alt": "densely",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "67fdeec1afe3eed5a7944ee100565cee01d723b63e1965c5b4a73087a239c50e"
@@ -936,7 +1176,19 @@
         "zh": "随着系统规模扩大，某些架构调整是不可避免的。"
       },
       "id": "v000135",
-      "images": [],
+      "images": [
+        {
+          "id": "7653b6b5-27d2-4f73-bef1-6c308c516ad7",
+          "src": "images/list03/v000135-7653b6b5-27d2-4f73-bef1-6c308c516ad7.webp",
+          "alt": "inevitable",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7778c7ca5eb15dfb66e737461fb1233cdf0b45f71f2fae927eaa925c544ca21f"
@@ -958,7 +1210,19 @@
         "zh": "这个新项目引起了许多投资者的兴趣。"
       },
       "id": "v000136",
-      "images": [],
+      "images": [
+        {
+          "id": "c7435955-060f-4257-8d3d-f7f7ac15aee6",
+          "src": "images/list03/v000136-c7435955-060f-4257-8d3d-f7f7ac15aee6.webp",
+          "alt": "arouse",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3f7ce912b38529a7dfb0da1b39518300447d8f75b9307ff062e2a44db9e381a5"
@@ -980,7 +1244,19 @@
         "zh": "巨大的噪声把他从睡梦中惊醒。"
       },
       "id": "v000137",
-      "images": [],
+      "images": [
+        {
+          "id": "ab035268-75c3-4f52-9835-52b6cda3fa6f",
+          "src": "images/list03/v000137-3e1cb5d1-7632-4c63-8673-748ef212faa2.webp",
+          "alt": "arouse",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e53e16774f9ee04c9fb7d73609d46d6dbca761016cb473c26ddd44db81a5e5d4"
@@ -1002,7 +1278,19 @@
         "zh": "医生建议旅行前接种相关疫苗。"
       },
       "id": "v000138",
-      "images": [],
+      "images": [
+        {
+          "id": "2ebc73ba-59bf-4cad-84f7-ef518ecbd406",
+          "src": "images/list03/v000138-2ebc73ba-59bf-4cad-84f7-ef518ecbd406.webp",
+          "alt": "inoculate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "52c478321d292b7bad340d5430b4fb5ff44071c1efc21f30285a6ce96fb95b94"
@@ -1024,7 +1312,19 @@
         "zh": "教育可以帮助年轻人抵御网络谣言。"
       },
       "id": "v000139",
-      "images": [],
+      "images": [
+        {
+          "id": "2c34544f-1f04-4f92-803a-9f912204236b",
+          "src": "images/list03/v000139-2c34544f-1f04-4f92-803a-9f912204236b.webp",
+          "alt": "inoculate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "458db810d0fcb48782925411f682f532dd25e8a4fa621bd69d4ae2066ab89400"
@@ -1046,7 +1346,19 @@
         "zh": "这份文档包含大量云计算技术术语。"
       },
       "id": "v000140",
-      "images": [],
+      "images": [
+        {
+          "id": "793eb929-b1d1-4146-acc3-24762f43bad9",
+          "src": "images/list03/v000140-793eb929-b1d1-4146-acc3-24762f43bad9.webp",
+          "alt": "terminology",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b0f79eec19fe4da794059e85c33074471dab943d087017d1f65cb89eb442e8aa"
@@ -1068,7 +1380,19 @@
         "zh": "最近出现了人工智能相关职位的激增。"
       },
       "id": "v000141",
-      "images": [],
+      "images": [
+        {
+          "id": "4f1eeb11-de1e-4000-87fa-fe1b651d4cc7",
+          "src": "images/list03/v000141-4f1eeb11-de1e-4000-87fa-fe1b651d4cc7.webp",
+          "alt": "upsurge",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "acaf1029e706b63e4701909e940c9ab12a18060fae856b51d9f30b0c222d76d5"
@@ -1090,7 +1414,19 @@
         "zh": "缺乏经验可能成为求职时的一个不利条件。"
       },
       "id": "v000142",
-      "images": [],
+      "images": [
+        {
+          "id": "2823363a-428f-4cf9-ac37-11e026991a0c",
+          "src": "images/list03/v000142-2823363a-428f-4cf9-ac37-11e026991a0c.webp",
+          "alt": "handicap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "63e9031b0d96d3eaef8283ec2477faed2d4993f50f0f65712d1c3043662fa5d8"
@@ -1112,7 +1448,19 @@
         "zh": "这个项目因预算不足而受到限制。"
       },
       "id": "v000143",
-      "images": [],
+      "images": [
+        {
+          "id": "78767019-eeee-445e-a16f-50536d28bc3a",
+          "src": "images/list03/v000143-78767019-eeee-445e-a16f-50536d28bc3a.webp",
+          "alt": "handicap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "20823148b3e74747d24eb929416e8c57bb35263bc71b53511a3e3825dd4573fe"
@@ -1134,7 +1482,19 @@
         "zh": "虽然没有获胜，但他从自己的进步中得到了安慰。"
       },
       "id": "v000144",
-      "images": [],
+      "images": [
+        {
+          "id": "5f54009c-5648-4310-ab53-6d5db0aef753",
+          "src": "images/list03/v000144-5f54009c-5648-4310-ab53-6d5db0aef753.webp",
+          "alt": "consolation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e83b7eefa9fb6da3fde41a719f83cd1c9de7d2432b65161fd1f71bd5b596aed5"
@@ -1156,7 +1516,19 @@
         "zh": "没有进入决赛的参赛者获得了安慰奖。"
       },
       "id": "v000145",
-      "images": [],
+      "images": [
+        {
+          "id": "61997edc-482c-42e7-a066-3dfd56b8f3e3",
+          "src": "images/list03/v000145-61997edc-482c-42e7-a066-3dfd56b8f3e3.webp",
+          "alt": "consolation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5fdf1ebe07acdfb4cbaec8dcdaf57698223664ea4b43c7ca3ff79d2f279217d2"
@@ -1178,7 +1550,19 @@
         "zh": "公司遭到了一轮恶意的网络攻击。"
       },
       "id": "v000146",
-      "images": [],
+      "images": [
+        {
+          "id": "cbbaf91e-8f67-4746-823d-344fc6a0291a",
+          "src": "images/list03/v000146-cbbaf91e-8f67-4746-823d-344fc6a0291a.webp",
+          "alt": "vicious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4bc358347ff6f53a810b2f00db2398cd3541ab0b06622c579693b4b4a41d3f3f"
@@ -1200,7 +1584,19 @@
         "zh": "债务和低收入可能形成恶性循环。"
       },
       "id": "v000147",
-      "images": [],
+      "images": [
+        {
+          "id": "d07458b4-c6c1-4e63-a17a-69afbf0305e1",
+          "src": "images/list03/v000147-d07458b4-c6c1-4e63-a17a-69afbf0305e1.webp",
+          "alt": "vicious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b9d300574d2c987497ca0d19f4436bedba15bfb385380671f4744114a390c8ce"
@@ -1222,7 +1618,19 @@
         "zh": "旅途中发生了一点小意外，但没有人受伤。"
       },
       "id": "v000148",
-      "images": [],
+      "images": [
+        {
+          "id": "384282e0-653c-4878-998c-8513698219dc",
+          "src": "images/list03/v000148-384282e0-653c-4878-998c-8513698219dc.webp",
+          "alt": "mishap",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ab0066c2c9e7461877d65adeee8d83393fb0ef80c1de438ddda7f65498f30be4"
@@ -1244,7 +1652,19 @@
         "zh": "疫苗接种对根除这种疾病至关重要。"
       },
       "id": "v000149",
-      "images": [],
+      "images": [
+        {
+          "id": "4a71920c-c6e4-4139-bda4-3684a5fb0978",
+          "src": "images/list03/v000149-4a71920c-c6e4-4139-bda4-3684a5fb0978.webp",
+          "alt": "eradication",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f2dbc8f571e3c447d67ae2fb82e584d212580f6c76685acfd15b58dea506fe3c"
@@ -1266,7 +1686,19 @@
         "zh": "这座历史建筑的正面经过了修复。"
       },
       "id": "v000150",
-      "images": [],
+      "images": [
+        {
+          "id": "8c0146d8-501f-40bd-aab8-800b54e8f9bf",
+          "src": "images/list03/v000150-8c0146d8-501f-40bd-aab8-800b54e8f9bf.webp",
+          "alt": "facade",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "28d8f57bb7507880a63194ea45a5b0a95f28dc460f33219f251323256fb85d67"

@@ -20,7 +20,19 @@
         "zh": "他在自信的外表背后其实很紧张。"
       },
       "id": "v000151",
-      "images": [],
+      "images": [
+        {
+          "id": "40b56c51-9ee4-40e4-a956-e2aa7cfb9f93",
+          "src": "images/list04/v000151-40b56c51-9ee4-40e4-a956-e2aa7cfb9f93.webp",
+          "alt": "facade",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3b086567314d9eb531eea3815787c7f252a46bd699b35a109dbff686fd623b49"
@@ -42,7 +54,19 @@
         "zh": "警方用一辆假车作为诱饵。"
       },
       "id": "v000152",
-      "images": [],
+      "images": [
+        {
+          "id": "fd56db43-0a77-437f-880a-0912ef56f08a",
+          "src": "images/list04/v000152-fd56db43-0a77-437f-880a-0912ef56f08a.webp",
+          "alt": "decoy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "dd2f89c278785080303d6c78985c90577c6930eccede10d2493923e7ca28858b"
@@ -64,7 +88,19 @@
         "zh": "他们试图把嫌疑人诱骗进仓库。"
       },
       "id": "v000153",
-      "images": [],
+      "images": [
+        {
+          "id": "43400b11-955e-451a-92e1-ae1f893f414d",
+          "src": "images/list04/v000153-43400b11-955e-451a-92e1-ae1f893f414d.webp",
+          "alt": "decoy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "00ea7c3473d31d3ffa36dabfb01561f474e6ee4db7c430cf42e467c2eaf09860"
@@ -86,7 +122,19 @@
         "zh": "一支军用车队穿过了城镇。"
       },
       "id": "v000154",
-      "images": [],
+      "images": [
+        {
+          "id": "b37c4521-848e-4e94-a5cd-5e96282d7497",
+          "src": "images/list04/v000154-b37c4521-848e-4e94-a5cd-5e96282d7497.webp",
+          "alt": "convoy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5e2ae961be5f0af827b4cb422e26b55b272b17745ab15b96f9360b48e2144f1e"
@@ -108,7 +156,19 @@
         "zh": "军舰负责为商船护航。"
       },
       "id": "v000155",
-      "images": [],
+      "images": [
+        {
+          "id": "5b2aa6fe-f5c5-40eb-aafb-c2153b2a7c9e",
+          "src": "images/list04/v000155-a7919c02-9561-4ad1-9e4f-acbe84b47b59.webp",
+          "alt": "convoy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "55e857dde579811f32b013771d079c55a47b3048ac5a620cf07c51c8f423b53e"
@@ -130,7 +190,19 @@
         "zh": "多年的研究最终促成了一项重大突破。"
       },
       "id": "v000156",
-      "images": [],
+      "images": [
+        {
+          "id": "9ae6d752-3dd3-4016-83ee-f4c131ec5d45",
+          "src": "images/list04/v000156-9ae6d752-3dd3-4016-83ee-f4c131ec5d45.webp",
+          "alt": "culminate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c787fc402d8f229369741010b124d0d385e653941b2d8cdd68d98df585471f0b"
@@ -152,7 +224,19 @@
         "zh": "这些措施有助于减轻经济冲击。"
       },
       "id": "v000157",
-      "images": [],
+      "images": [
+        {
+          "id": "fc97f685-deb1-4b58-8e36-48a7dc41688c",
+          "src": "images/list04/v000157-fc97f685-deb1-4b58-8e36-48a7dc41688c.webp",
+          "alt": "lessen",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e04b982b40eae057542fc789931b0832ad2a048c40c9607df855af4bc87f7b11"
@@ -174,7 +258,19 @@
         "zh": "及时备份重要数据至关重要。"
       },
       "id": "v000158",
-      "images": [],
+      "images": [
+        {
+          "id": "093669ac-7bf0-4989-a2e9-62d17dc58254",
+          "src": "images/list04/v000158-093669ac-7bf0-4989-a2e9-62d17dc58254.webp",
+          "alt": "imperative",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f8a750fa918c2456678a21c9f748d9ff89652f4436e0b4930d203861e2025275"
@@ -196,7 +292,19 @@
         "zh": "提高网络安全已成为企业的一项紧迫任务。"
       },
       "id": "v000159",
-      "images": [],
+      "images": [
+        {
+          "id": "7e44aae5-c437-462b-8847-4ddcd0486c93",
+          "src": "images/list04/v000159-7e44aae5-c437-462b-8847-4ddcd0486c93.webp",
+          "alt": "imperative",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cb995c1b2ec7dfdfb3092e4e6e1ffc3bb4111d282a22739ededef8a82b93012e"
@@ -218,7 +326,19 @@
         "zh": "这本书里有很多晦涩的历史典故。"
       },
       "id": "v000160",
-      "images": [],
+      "images": [
+        {
+          "id": "db351de8-a381-4b14-a980-4ee408dfd15d",
+          "src": "images/list04/v000160-db351de8-a381-4b14-a980-4ee408dfd15d.webp",
+          "alt": "obscure",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0465358792937fa61eabc97c5de5a6306ebb0e6dede9c3044d5d34d6ad448665"
@@ -240,7 +360,19 @@
         "zh": "复杂的数据反而掩盖了真正的问题。"
       },
       "id": "v000161",
-      "images": [],
+      "images": [
+        {
+          "id": "ab29f738-415d-4e49-ba3e-8ac219f7d057",
+          "src": "images/list04/v000161-ab29f738-415d-4e49-ba3e-8ac219f7d057.webp",
+          "alt": "obscure",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9451434c28fb96247b5b006c7516f67b1bf7d676c46f059d11996d7edb390690"
@@ -262,7 +394,19 @@
         "zh": "新系统已经带来了切实的效率提升。"
       },
       "id": "v000162",
-      "images": [],
+      "images": [
+        {
+          "id": "c832700f-2909-4085-8c2b-83cbe6fe0161",
+          "src": "images/list04/v000162-c832700f-2909-4085-8c2b-83cbe6fe0161.webp",
+          "alt": "tangible",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d8863ba24bb08daae015c9c20b8c2bec1205ab291d6a0abce5d1a207ef6c770a"
@@ -284,7 +428,19 @@
         "zh": "网站上展示了多条客户评价。"
       },
       "id": "v000163",
-      "images": [],
+      "images": [
+        {
+          "id": "7dfc7f6f-665a-480d-98c2-99b5a52d3bf7",
+          "src": "images/list04/v000163-7dfc7f6f-665a-480d-98c2-99b5a52d3bf7.webp",
+          "alt": "testimonial",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4b2b09e88e3c13e2a3bcc79cb22ef1a833cc53a6f656268c0f97f4194f436dec"
@@ -306,7 +462,19 @@
         "zh": "她在演讲中表现得非常出色。"
       },
       "id": "v000164",
-      "images": [],
+      "images": [
+        {
+          "id": "71f143ed-455f-4b03-a684-7b7d2ca4eca7",
+          "src": "images/list04/v000164-71f143ed-455f-4b03-a684-7b7d2ca4eca7.webp",
+          "alt": "superb",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9247e6da5a9a566963233567d1abf8266bc1b4d6e51a56b6218a6ec085724846"
@@ -328,7 +496,19 @@
         "zh": "这个问题没有引起听众的任何反应。"
       },
       "id": "v000165",
-      "images": [],
+      "images": [
+        {
+          "id": "d407d6a4-3170-426b-915b-a84c8c2c565c",
+          "src": "images/list04/v000165-d407d6a4-3170-426b-915b-a84c8c2c565c.webp",
+          "alt": "elicit",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7983a0589e90f99c9fc568cb264f1f627a4b3a262fd1ed6ec4ba9dd8c594e982"
@@ -350,7 +530,19 @@
         "zh": "公司给每位员工发了一张礼品券。"
       },
       "id": "v000166",
-      "images": [],
+      "images": [
+        {
+          "id": "0cca10ca-eadc-47c7-b210-4191d5505264",
+          "src": "images/list04/v000166-0cca10ca-eadc-47c7-b210-4191d5505264.webp",
+          "alt": "voucher",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8268133bee4a2b0ea94bccfe09518a357d8cac8aad767c54fa5e7a3e2f616930"
@@ -372,7 +564,19 @@
         "zh": "公交车票价明年将会上涨。"
       },
       "id": "v000167",
-      "images": [],
+      "images": [
+        {
+          "id": "3ef73eb5-eb4e-4f93-9b55-8f625df61355",
+          "src": "images/list04/v000167-3ef73eb5-eb4e-4f93-9b55-8f625df61355.webp",
+          "alt": "fare",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f720149cf1552a1da3bde22f959e4ec8a914fe90c27b5ac34ef2f21a4fb57094"
@@ -394,7 +598,19 @@
         "zh": "这家公司在经济低迷时期表现得相当不错。"
       },
       "id": "v000168",
-      "images": [],
+      "images": [
+        {
+          "id": "ede9bdb7-dd0e-4181-b231-6789d3dbc1a9",
+          "src": "images/list04/v000168-ede9bdb7-dd0e-4181-b231-6789d3dbc1a9.webp",
+          "alt": "fare",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6070d9ca927f3273d2cd2ed21b813c26cfc78fc2b284ad128dec796c55cc47e9"
@@ -416,7 +632,19 @@
         "zh": "气温上升可能是更炎热夏季的先兆。"
       },
       "id": "v000169",
-      "images": [],
+      "images": [
+        {
+          "id": "83e789e0-afbe-4078-8f9f-efcbf8b2ab22",
+          "src": "images/list04/v000169-83e789e0-afbe-4078-8f9f-efcbf8b2ab22.webp",
+          "alt": "harbinger",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7f31f02534ed77ec982aaff6e296a352af496947ecbca6a8a33133ad9e59db8a"
@@ -438,7 +666,19 @@
         "zh": "会议的暂定日程已经发给大家。"
       },
       "id": "v000170",
-      "images": [],
+      "images": [
+        {
+          "id": "43d9eaf1-f0f5-4fec-b8d2-00a13b052267",
+          "src": "images/list04/v000170-43d9eaf1-f0f5-4fec-b8d2-00a13b052267.webp",
+          "alt": "provisional",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9b1e543662b9ac7fca3208d60c01f5248b188ce399e8078fd2755bae166a3783"
@@ -460,7 +700,19 @@
         "zh": "公司决定重新启动去年搁置的计划。"
       },
       "id": "v000171",
-      "images": [],
+      "images": [
+        {
+          "id": "bfbb8086-ebec-473e-a4ea-f50c24c49838",
+          "src": "images/list04/v000171-bfbb8086-ebec-473e-a4ea-f50c24c49838.webp",
+          "alt": "resurrect",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "30bc8d95dde46ff3487ffac265b8abe10c0a7d93a04dcf4868390a65dafa9ea8"
@@ -482,7 +734,19 @@
         "zh": "我们需要用全面的方法解决这个问题。"
       },
       "id": "v000172",
-      "images": [],
+      "images": [
+        {
+          "id": "695a8291-16bf-4c51-9182-d3804a57ebc4",
+          "src": "images/list04/v000172-695a8291-16bf-4c51-9182-d3804a57ebc4.webp",
+          "alt": "holistic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "651bdc067c96b73862df1d5ddd632ab44d31848204bc9e5997ae9b6f79f359fd"
@@ -504,7 +768,19 @@
         "zh": "这部小说反映了当代社会的问题。"
       },
       "id": "v000173",
-      "images": [],
+      "images": [
+        {
+          "id": "cc25eab9-a616-477d-ae13-37ba3dd4a4de",
+          "src": "images/list04/v000173-cc25eab9-a616-477d-ae13-37ba3dd4a4de.webp",
+          "alt": "contemporary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d218901f39907051c1727cb32d94328c73826a655a91d3860c802b25094c7023"
@@ -526,7 +802,19 @@
         "zh": "牛顿是许多著名科学家的同时代人。"
       },
       "id": "v000174",
-      "images": [],
+      "images": [
+        {
+          "id": "f5d84e1b-b885-4685-a095-56bd4ad645b9",
+          "src": "images/list04/v000174-f5d84e1b-b885-4685-a095-56bd4ad645b9.webp",
+          "alt": "contemporary",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "840f296e0a30c0f04bc3af58dbf5a6bdbbbed20864ced45b1e77b2306331d5a1"
@@ -548,7 +836,19 @@
         "zh": "她收到了一束漂亮的鲜花。"
       },
       "id": "v000175",
-      "images": [],
+      "images": [
+        {
+          "id": "dc202dfd-9d11-4bb6-b3ab-157cd8f3dbd2",
+          "src": "images/list04/v000175-dc202dfd-9d11-4bb6-b3ab-157cd8f3dbd2.webp",
+          "alt": "bouquet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "41671cbc0457449897adbc3cdb9a0d949d0809effbc18db7dae90135aed1cbe1"
@@ -570,7 +870,19 @@
         "zh": "这款葡萄酒有一种浓郁的果香。"
       },
       "id": "v000176",
-      "images": [],
+      "images": [
+        {
+          "id": "f36e9397-1896-4b81-98c5-344781df1272",
+          "src": "images/list04/v000176-f36e9397-1896-4b81-98c5-344781df1272.webp",
+          "alt": "bouquet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "bad480aa3d14b274dd65176240c858ed2674759bbfbd3cdc47e67fdaba52f921"
@@ -592,7 +904,19 @@
         "zh": "他们在旅行中参观了一家大型赌场度假村。"
       },
       "id": "v000177",
-      "images": [],
+      "images": [
+        {
+          "id": "85ea5df6-d5d1-449d-9ec1-353b5794a4ed",
+          "src": "images/list04/v000177-85ea5df6-d5d1-449d-9ec1-353b5794a4ed.webp",
+          "alt": "casino",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d47fb99f07ffd853cd7b5b7ec9cd5953cc9ebea2947dfa7ecc83c80c8b684b38"
@@ -614,7 +938,19 @@
         "zh": "他喜欢远离城市的喧嚣。"
       },
       "id": "v000178",
-      "images": [],
+      "images": [
+        {
+          "id": "ae156454-bf3c-4a31-b979-1055db79686e",
+          "src": "images/list04/v000178-ae156454-bf3c-4a31-b979-1055db79686e.webp",
+          "alt": "hustle-bustle",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9cd5cfb092b88763dc9729cc7323b63b07b6c4d25516d9a4570ebf352160833f"
@@ -636,7 +972,19 @@
         "zh": "这个项目带来了多方面的好处。"
       },
       "id": "v000179",
-      "images": [],
+      "images": [
+        {
+          "id": "78b86aa0-d2e8-4625-a1da-40e2ade05b78",
+          "src": "images/list04/v000179-78b86aa0-d2e8-4625-a1da-40e2ade05b78.webp",
+          "alt": "manifold",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4e1c0c7fd5e3777ba1bd27bf37f3379c01e61c41a6f0fb0016ba36ce94ee6862"
@@ -658,7 +1006,19 @@
         "zh": "技师检查了发动机的进气歧管。"
       },
       "id": "v000180",
-      "images": [],
+      "images": [
+        {
+          "id": "83284ce5-87d2-4212-91a8-0ae0f2c8766b",
+          "src": "images/list04/v000180-83284ce5-87d2-4212-91a8-0ae0f2c8766b.webp",
+          "alt": "manifold",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "aae6fb3095e4e74b049afcef0edd450c3441f16c0ca5dd6c7854d572057e6496"
@@ -680,7 +1040,19 @@
         "zh": "她热情开朗的性格感染了整个团队。"
       },
       "id": "v000181",
-      "images": [],
+      "images": [
+        {
+          "id": "f6dab46b-7b24-4151-b032-23930e620042",
+          "src": "images/list04/v000181-f6dab46b-7b24-4151-b032-23930e620042.webp",
+          "alt": "ebullient",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a612fcac504f3ce4bbfecebb4aaa8a3a74cc136bdc9f41eb94d46308bb0b6c11"
@@ -702,7 +1074,19 @@
         "zh": "连续的高温使工人们感到筋疲力尽。"
       },
       "id": "v000182",
-      "images": [],
+      "images": [
+        {
+          "id": "66bd01ab-d0c3-4401-b243-7c8358473209",
+          "src": "images/list04/v000182-66bd01ab-d0c3-4401-b243-7c8358473209.webp",
+          "alt": "enervate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "592665e2ca744b7eb86fd7b741cee648016a078d861ef7b4315c51bf036867e6"
@@ -724,7 +1108,19 @@
         "zh": "如果不检查合同细节，我们就是失职。"
       },
       "id": "v000183",
-      "images": [],
+      "images": [
+        {
+          "id": "6f731a82-001a-460a-a8db-4e6cd7e4d59b",
+          "src": "images/list04/v000183-6f731a82-001a-460a-a8db-4e6cd7e4d59b.webp",
+          "alt": "remiss",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7874fff8a12248681294ba5cce824275e6a3e10c28045394de91156be9074513"
@@ -746,7 +1142,19 @@
         "zh": "他对延误给出了一个看似合理的解释。"
       },
       "id": "v000184",
-      "images": [],
+      "images": [
+        {
+          "id": "ac67735f-7cda-4717-8d7c-0dd03b1b98da",
+          "src": "images/list04/v000184-ac67735f-7cda-4717-8d7c-0dd03b1b98da.webp",
+          "alt": "plausible",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "65f36987db38c93c18a5d0c6e218c98203fad8312d9e287f7b098baa6d86c9e5"
@@ -768,7 +1176,19 @@
         "zh": "他们选择了一个吉利的日子开业。"
       },
       "id": "v000185",
-      "images": [],
+      "images": [
+        {
+          "id": "1cbb06b1-4aac-4463-b5ad-6ba91dfae889",
+          "src": "images/list04/v000185-1cbb06b1-4aac-4463-b5ad-6ba91dfae889.webp",
+          "alt": "auspicious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4e516c4ba1c3cde935aeaea1a2ed833b781900443e1411bf6f472f9bd2943b0b"
@@ -790,7 +1210,19 @@
         "zh": "她是一位思路清晰、善于表达的经理。"
       },
       "id": "v000186",
-      "images": [],
+      "images": [
+        {
+          "id": "88e98048-8603-402a-8f5b-a4a95d6f818a",
+          "src": "images/list04/v000186-88e98048-8603-402a-8f5b-a4a95d6f818a.webp",
+          "alt": "articulate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "577524ff8d3f8bab1c27b125df0513c9ee3364c8861ca8f4817bb996d0c78d18"
@@ -812,7 +1244,19 @@
         "zh": "他很难清楚表达自己的担忧。"
       },
       "id": "v000187",
-      "images": [],
+      "images": [
+        {
+          "id": "85681b1e-7d3c-433a-9067-68c5716d0a34",
+          "src": "images/list04/v000187-85681b1e-7d3c-433a-9067-68c5716d0a34.webp",
+          "alt": "articulate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "adc29d350cd640245edb77463c3591a75e966842ab2c42fe9a718424622f6e4d"
@@ -834,7 +1278,19 @@
         "zh": "工作经验是重要的选择标准之一。"
       },
       "id": "v000188",
-      "images": [],
+      "images": [
+        {
+          "id": "59f1d5f8-9af3-4bda-8eec-72c9cdf845cf",
+          "src": "images/list04/v000188-59f1d5f8-9af3-4bda-8eec-72c9cdf845cf.webp",
+          "alt": "criterion",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f31f3a7af41acd119fc49054f9f62c1fabb7fa3977257e41de50f3248093e30b"
@@ -856,7 +1312,19 @@
         "zh": "他参加了当地的网球锦标赛。"
       },
       "id": "v000189",
-      "images": [],
+      "images": [
+        {
+          "id": "88cb79c6-be25-4498-a84b-70d93b5002ae",
+          "src": "images/list04/v000189-88cb79c6-be25-4498-a84b-70d93b5002ae.webp",
+          "alt": "tournament",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0eb685c46594b12e0baa7746433dfc12e9109147823f16937105ddd37d418ba8"
