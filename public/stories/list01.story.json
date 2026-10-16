@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "id": "list01-story",
+  "listId": "list01",
+  "title": "The Night Riverside Hall Reopened",
+  "titleZh": "河畔礼堂重开之夜",
+  "targetWordIds": [
+    "v000001",
+    "v000002",
+    "v000003",
+    "v000004",
+    "v000005",
+    "v000006",
+    "v000007",
+    "v000008",
+    "v000009",
+    "v000010",
+    "v000011",
+    "v000012",
+    "v000013",
+    "v000014",
+    "v000015",
+    "v000016",
+    "v000017",
+    "v000018",
+    "v000019",
+    "v000020",
+    "v000021",
+    "v000022",
+    "v000023",
+    "v000024",
+    "v000025",
+    "v000026",
+    "v000027",
+    "v000028",
+    "v000029",
+    "v000030",
+    "v000031",
+    "v000032",
+    "v000033",
+    "v000034",
+    "v000035",
+    "v000036",
+    "v000037",
+    "v000038",
+    "v000039",
+    "v000040",
+    "v000041",
+    "v000042",
+    "v000043",
+    "v000044",
+    "v000045",
+    "v000046",
+    "v000047",
+    "v000048",
+    "v000049",
+    "v000050"
+  ],
+  "characters": [
+    {
+      "id": "anna",
+      "name": "Anna · 活动负责人",
+      "voiceGender": "female",
+      "preferredVoice": null
+    },
+    {
+      "id": "ben",
+      "name": "Ben · 财务协调员",
+      "voiceGender": "male",
+      "preferredVoice": null
+    },
+    {
+      "id": "leo",
+      "name": "Leo · 安保与展品管理员",
+      "voiceGender": "male",
+      "preferredVoice": null
+    },
+    {
+      "id": "maya",
+      "name": "Maya · 社会学家",
+      "voiceGender": "female",
+      "preferredVoice": null
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene01",
+      "title": "A Promise for Riverside Hall",
+      "titleZh": "河畔礼堂的承诺",
+      "image": "images/stories/list01/scene01.webp",
+      "lines": [
+        {
+          "id": "line001",
+          "speakerId": "anna",
+          "en": "Before we open Riverside Hall, I must abstain from alcohol; my doctor says I am still recovering.",
+          "zh": "河畔礼堂开放之前，我必须戒酒；医生说我还在康复中。",
+          "targetWordIds": [
+            "v000001"
+          ],
+          "image": null
+        },
+        {
+          "id": "line002",
+          "speakerId": "ben",
+          "en": "I will abstain from voting on the catering contract because my sister owns one of the bidding companies.",
+          "zh": "餐饮合同表决时我会弃权，因为其中一家竞标公司是我姐姐的。",
+          "targetWordIds": [
+            "v000002"
+          ],
+          "image": null
+        },
+        {
+          "id": "line003",
+          "speakerId": "anna",
+          "en": "Good. The mayor promised in her inaugural address to revive this moribund cultural center, and we must earn the public's trust.",
+          "zh": "很好。市长在就职演说中承诺让这座日渐衰败的文化中心重获生机，我们必须赢得公众的信任。",
+          "targetWordIds": [
+            "v000003",
+            "v000027"
+          ],
+          "image": null
+        },
+        {
+          "id": "line004",
+          "speakerId": "maya",
+          "en": "As a sociologist, I am helping residents tell their own history. Our restored film includes footage of a presidential inaugural that many local families attended.",
+          "zh": "作为社会学家，我正在帮助居民讲述自己的历史。我们修复的影片中，有许多本地家庭参加总统就职典礼的影像。",
+          "targetWordIds": [
+            "v000044",
+            "v000004"
+          ],
+          "image": null
+        },
+        {
+          "id": "line005",
+          "speakerId": "ben",
+          "en": "The council's monetary contribution covers the film restoration. We can keep tickets affordable if the benefit event succeeds.",
+          "zh": "市议会的资金捐助支付了影片修复费用。如果这次公益活动成功，我们就能继续让票价保持亲民。",
+          "targetWordIds": [
+            "v000007"
+          ],
+          "image": null
+        },
+        {
+          "id": "line006",
+          "speakerId": "anna",
+          "en": "I will spearhead the fundraising campaign. Leo, hang the silver ornament donated by the founder's family, and ornament the entrance with flowers.",
+          "zh": "我来带头组织筹款活动。利奥，请挂上创办人家属捐赠的银饰，并用鲜花装饰入口。",
+          "targetWordIds": [
+            "v000036",
+            "v000005",
+            "v000006"
+          ],
+          "image": null
+        },
+        {
+          "id": "line007",
+          "speakerId": "leo",
+          "en": "The lights and projector will come on simultaneously. Then we can check the display cases before the guests arrive.",
+          "zh": "灯光和放映机会同时启动。之后我们就能在来宾到达前检查展柜。",
+          "targetWordIds": [
+            "v000008"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene02",
+      "title": "A Donation with a Secret",
+      "titleZh": "暗藏秘密的捐赠",
+      "image": "images/stories/list01/scene02.webp",
+      "lines": [
+        {
+          "id": "line008",
+          "speakerId": "leo",
+          "en": "Wait. These donation certificates are counterfeit, and the silver ornament may be a counterfeit too. The maker's mark looks wrong.",
+          "zh": "等等。这些捐赠证书是伪造的，那件银饰也可能是赝品。制造者的印记不对。",
+          "targetWordIds": [
+            "v000009",
+            "v000010"
+          ],
+          "image": null
+        },
+        {
+          "id": "line009",
+          "speakerId": "ben",
+          "en": "Someone who can counterfeit a certificate could also falsify a receipt. We should compare the delivery records before making an accusation.",
+          "zh": "能伪造证书的人也可能伪造收据。在提出指控前，我们应该先核对送货记录。",
+          "targetWordIds": [
+            "v000011"
+          ],
+          "image": null
+        },
+        {
+          "id": "line010",
+          "speakerId": "maya",
+          "en": "The new donor kept trying to insinuate himself into our planning committee. Now his assistant is trying to insinuate that Ben took the missing restoration money.",
+          "zh": "那位新捐赠人一直设法混进我们的筹备委员会。现在他的助理又在暗示本挪用了失踪的修复资金。",
+          "targetWordIds": [
+            "v000030",
+            "v000029"
+          ],
+          "image": null
+        },
+        {
+          "id": "line011",
+          "speakerId": "anna",
+          "en": "Do not let that rumor tarnish Ben's reputation. First we must remove the tarnish from the genuine comparison piece so Leo can examine its stamp clearly.",
+          "zh": "不要让那个传言损害本的名誉。我们得先擦掉真品对照物上的暗锈，让利奥看清它的印记。",
+          "targetWordIds": [
+            "v000040",
+            "v000041"
+          ],
+          "image": null
+        },
+        {
+          "id": "line012",
+          "speakerId": "leo",
+          "en": "The donor has become truculent. He demands access to the archive and threatens to withdraw the donation if we question him.",
+          "zh": "那位捐赠人变得十分蛮横。他要求进入档案室，并威胁说，如果我们追问，他就撤回捐赠。",
+          "targetWordIds": [
+            "v000035"
+          ],
+          "image": null
+        },
+        {
+          "id": "line013",
+          "speakerId": "maya",
+          "en": "His long explanation seems designed to obfuscate the issue. The archive log, not his speech, will tell us who entered the room.",
+          "zh": "他那一长串解释像是有意混淆问题。能说明谁进过房间的是档案出入记录，而不是他的说辞。",
+          "targetWordIds": [
+            "v000046"
+          ],
+          "image": null
+        },
+        {
+          "id": "line014",
+          "speakerId": "ben",
+          "en": "There is more missing than money. A delivery crate has a gaping hole, and the master copy of the film is gone.",
+          "zh": "丢失的不只是钱。一个运输箱裂开了一个大洞，影片母版也不见了。",
+          "targetWordIds": [
+            "v000017"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene03",
+      "title": "The Alarm at the Entrance",
+      "titleZh": "入口处的警报",
+      "image": "images/stories/list01/scene03.webp",
+      "lines": [
+        {
+          "id": "line015",
+          "speakerId": "leo",
+          "en": "A paparazzo outside has photographed the open crate. Guests are starting to gape at the screen showing the photograph.",
+          "zh": "外面一名狗仔摄影师拍到了敞开的箱子。来宾们开始目瞪口呆地看着屏幕上那张照片。",
+          "targetWordIds": [
+            "v000022",
+            "v000016"
+          ],
+          "image": null
+        },
+        {
+          "id": "line016",
+          "speakerId": "anna",
+          "en": "That crowd could turn into a stampede. Leo, keep the exit clear and tell everyone there is no fire.",
+          "zh": "那群人可能突然蜂拥奔逃。利奥，保持出口畅通，告诉大家没有发生火灾。",
+          "targetWordIds": [
+            "v000033"
+          ],
+          "image": null
+        },
+        {
+          "id": "line017",
+          "speakerId": "leo",
+          "en": "Someone shouted that the building was unsafe, and several guests stampeded toward the doors. We have stopped the rush without blocking the exits.",
+          "zh": "有人大喊大楼不安全，几位来宾便蜂拥着冲向门口。我们没有堵住出口，已经制止了这阵奔逃。",
+          "targetWordIds": [
+            "v000034"
+          ],
+          "image": null
+        },
+        {
+          "id": "line018",
+          "speakerId": "maya",
+          "en": "Please segregate the damaged exhibit from the visitor area, but do not treat frightened guests as troublemakers.",
+          "zh": "请把受损展品和参观区域隔开，但不要把受惊的来宾当成闹事者。",
+          "targetWordIds": [
+            "v000031"
+          ],
+          "image": null
+        },
+        {
+          "id": "line019",
+          "speakerId": "ben",
+          "en": "The statutory safety inspection was completed yesterday. I can show the certificate while the engineer checks the crate and display stand.",
+          "zh": "法定安全检查昨天已经完成。工程师检查箱子和展架时，我可以出示证书。",
+          "targetWordIds": [
+            "v000032"
+          ],
+          "image": null
+        },
+        {
+          "id": "line020",
+          "speakerId": "leo",
+          "en": "The police recognize the donor: he is a fugitive from justice. They have jurisdiction over the theft, although the hall lies within the jurisdiction of the town council.",
+          "zh": "警方认出了那位捐赠人：他是一名在逃犯。警方对盗窃案有管辖权，不过礼堂所在区域属于镇议会的管辖范围。",
+          "targetWordIds": [
+            "v000018",
+            "v000023",
+            "v000024"
+          ],
+          "image": null
+        },
+        {
+          "id": "line021",
+          "speakerId": "maya",
+          "en": "A volunteer has collapsed. A psychiatrist who works with our outreach team is helping her, and a physician will check for any morbid condition behind the fainting.",
+          "zh": "一名志愿者晕倒了。我们外展团队合作的精神科医生正在照看她，另有一位内科医生会检查晕厥背后是否存在病理性状况。",
+          "targetWordIds": [
+            "v000045",
+            "v000026"
+          ],
+          "image": null
+        },
+        {
+          "id": "line022",
+          "speakerId": "anna",
+          "en": "No photographs of the patient, please. Morbid curiosity will only make this harder for her. Give her privacy and time to recuperate.",
+          "zh": "请不要拍摄患者。对病痛的猎奇只会让她更难受。给她隐私，也给她时间恢复健康。",
+          "targetWordIds": [
+            "v000025",
+            "v000014"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene04",
+      "title": "What the Archive Really Says",
+      "titleZh": "档案揭示的真相",
+      "image": "images/stories/list01/scene04.webp",
+      "lines": [
+        {
+          "id": "line023",
+          "speakerId": "ben",
+          "en": "The security backup vindicates my account: I left before the donor entered. The bank also froze his transfer, so the hall can recuperate its losses.",
+          "zh": "监控备份证实了我的说法：捐赠人进去前我就离开了。银行也冻结了他的转账，因此礼堂能够挽回损失。",
+          "targetWordIds": [
+            "v000047",
+            "v000015"
+          ],
+          "image": null
+        },
+        {
+          "id": "line024",
+          "speakerId": "leo",
+          "en": "Police found the film in his van. His partner says their hedonistic lifestyle had left them desperate for money; that explains the scheme, but does not excuse it.",
+          "zh": "警方在他的货车里找到了影片。他的同伙说，追求享乐的生活让他们急需钱；这能解释这场骗局，却不能成为借口。",
+          "targetWordIds": [
+            "v000028"
+          ],
+          "image": null
+        },
+        {
+          "id": "line025",
+          "speakerId": "maya",
+          "en": "The recovered film follows a fugitive man who escaped slavery. The archive calls him a fugitive slave; we will explain that this historical label describes the injustice he faced.",
+          "zh": "找回的影片讲述了一位逃离奴役、四处逃亡的男子。档案称他为“逃亡奴隶”；我们会解释，这个历史称谓反映了他所遭受的不公。",
+          "targetWordIds": [
+            "v000019"
+          ],
+          "image": null
+        },
+        {
+          "id": "line026",
+          "speakerId": "anna",
+          "en": "Then we must vindicate his family's rights to tell that story. We cannot let a sensational headline replace their testimony.",
+          "zh": "那么，我们必须维护他家属讲述这段历史的权利。我们不能让耸人听闻的标题取代他们的证言。",
+          "targetWordIds": [
+            "v000048"
+          ],
+          "image": null
+        },
+        {
+          "id": "line027",
+          "speakerId": "maya",
+          "en": "His letters describe the plague that closed the old port and the political ferment that followed. That is why residents founded this hall as a place to meet safely.",
+          "zh": "他的信件记述了导致旧港口关闭的瘟疫，以及此后发生的政治动荡。这正是居民们创办这座礼堂、希望有个安全聚会场所的原因。",
+          "targetWordIds": [
+            "v000042",
+            "v000021"
+          ],
+          "image": null
+        },
+        {
+          "id": "line028",
+          "speakerId": "ben",
+          "en": "The port workers also ran a cooperative bakery. This recipe says to let the dough ferment overnight. We can tell that part of the story through the food we serve.",
+          "zh": "港口工人们还办过一家合作面包房。这份食谱说，要让面团发酵一夜。我们可以通过供应的食物讲述这部分历史。",
+          "targetWordIds": [
+            "v000020"
+          ],
+          "image": null
+        },
+        {
+          "id": "line029",
+          "speakerId": "anna",
+          "en": "The technical faults that plagued our rehearsal are fixed. Let us test the recovered film and invite the family to approve the introduction.",
+          "zh": "排练时一直困扰我们的技术故障已经修好了。我们来测试找回的影片，并请家属审核开场介绍。",
+          "targetWordIds": [
+            "v000043"
+          ],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene05",
+      "title": "A Premiere Worth Saving",
+      "titleZh": "值得守护的首映之夜",
+      "image": "images/stories/list01/scene05.webp",
+      "lines": [
+        {
+          "id": "line030",
+          "speakerId": "leo",
+          "en": "A throng of residents is waiting outside. By sunset the courtyard will be thronged with people, so we will admit each group slowly.",
+          "zh": "一大群居民正在外面等候。日落时庭院就会挤满人，我们会让大家分批、缓慢入场。",
+          "targetWordIds": [
+            "v000038",
+            "v000039"
+          ],
+          "image": null
+        },
+        {
+          "id": "line031",
+          "speakerId": "anna",
+          "en": "Tonight's premiere can finally begin. The restored documentary will premiere here before it travels to the regional film festival.",
+          "zh": "今晚的首映终于可以开始了。这部修复后的纪录片将在这里首次公映，随后再送往地区电影节。",
+          "targetWordIds": [
+            "v000012",
+            "v000013"
+          ],
+          "image": null
+        },
+        {
+          "id": "line032",
+          "speakerId": "maya",
+          "en": "The volunteers became the spearhead of this rescue. They protected the visitors, recovered the archive, and let the family speak for themselves.",
+          "zh": "志愿者们成为这次救援的先锋。他们保护了来宾，找回了档案，也让家属亲自讲述自己的故事。",
+          "targetWordIds": [
+            "v000037"
+          ],
+          "image": null
+        },
+        {
+          "id": "line033",
+          "speakerId": "ben",
+          "en": "I repent of trusting that donor's papers without checking them. I owe the volunteers an apology for making their work harder.",
+          "zh": "我后悔没有核实就相信了那位捐赠人的文件。让志愿者们的工作变得更困难，我应该向他们道歉。",
+          "targetWordIds": [
+            "v000049"
+          ],
+          "image": null
+        },
+        {
+          "id": "line034",
+          "speakerId": "anna",
+          "en": "I accept your apology. Our reconciliation matters more than a perfect opening night: this hall exists so people can listen to one another.",
+          "zh": "我接受你的道歉。我们的和解比一场完美的开幕之夜更重要：这座礼堂存在的意义，就是让人们能彼此倾听。",
+          "targetWordIds": [
+            "v000050"
+          ],
+          "image": null
+        },
+        {
+          "id": "line035",
+          "speakerId": "maya",
+          "en": "Then let us lower the lights. The audience is ready, the family is here, and Riverside Hall has a future again.",
+          "zh": "那么，就让我们调暗灯光吧。观众已经就座，家属也已到场，河畔礼堂终于重新拥有了未来。",
+          "targetWordIds": [],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

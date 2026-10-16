@@ -1,0 +1,9 @@
+# List 01 场景图片提示词
+
+所有场景使用同一组虚构人物：Anna（活动负责人）、Ben（财务协调员）、Leo（安保与展品管理员）、Maya（社会学家）。角色外貌由制图时统一设定并保留参考图。使用自然写实的社区公益纪录片风格，宽高比 21:9。人物、主要道具位于画面中部，避免裁切，画面不带台词、字幕、水印或真实人物肖像。导出 WebP。
+
+1. `public/images/stories/list01/scene01.webp`：Inside a restored community heritage hall, four organizers prepare a charity documentary screening. Anna coordinates flowers and lights, Leo examines a donated silver ornament, Ben checks a funding ledger, Maya arranges archival photographs. Warm afternoon light, hopeful but busy atmosphere, wide establishing composition.
+2. `public/images/stories/list01/scene02.webp`：The same four organizers inspect suspicious donation certificates and a silver ornament under a desk lamp. An open transport crate has a torn side, with an empty film container nearby. Concerned expressions, believable evidence, no sensational violence, consistent heritage hall interior.
+3. `public/images/stories/list01/scene03.webp`：At the entrance of the same hall, Leo calmly directs a worried crowd toward clear exits while Anna reassures visitors. Maya assists a seated volunteer with a medical professional nearby. Safe, orderly de-escalation, no injuries shown, doors clearly accessible.
+4. `public/images/stories/list01/scene04.webp`：In the hall archive, Anna, Ben, Leo and Maya review a recovered film reel, a security log, historic port letters and a bakery recipe. An archival projector lights the room. Respectful treatment of family history, collaborative investigation, realistic props without legible invented text.
+5. `public/images/stories/list01/scene05.webp`：The restored hall opens for a documentary premiere, with local families seated before a cinema screen. The same four organizers stand together near the back, relieved and reconciled. Warm lights, flowers, a welcoming audience, an optimistic community atmosphere.

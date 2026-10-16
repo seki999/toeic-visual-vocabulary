@@ -1276,6 +1276,8 @@ header .breadcrumb button {
     padding: 0 8px;
     scrollbar-gutter: auto;
   }
+  .app.image-focus main > .notice,
+  .app.image-focus main > .hint,
   .app.image-focus main > header,
   .app.image-focus .intro,
   .app.image-focus .toolbar {
@@ -1334,7 +1336,8 @@ header .breadcrumb button {
   min-width: 42px;
   min-height: 42px;
 }
-:fullscreen body, :fullscreen #root {
+:fullscreen body,
+:fullscreen #root {
   height: 100dvh;
   overflow: hidden;
 }

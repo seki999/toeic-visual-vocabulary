@@ -33,6 +33,7 @@ import {
 } from "./types";
 import { useStore, type Settings } from "./store";
 import { SpeechPlayer, type Status } from "./speech";
+import StoryReview from "./story/StoryReview";
 import { connectLocalEditor, saveLocalWord } from "./localEditor";
 import {
   saveWord,
@@ -154,6 +155,7 @@ function Reader() {
       .catch((e) => setError(String(e)));
   }, []);
   const [status, setStatus] = useState<Status>("stopped");
+  const [storyActive, setStoryActive] = useState(false);
   const [panel, setPanel] = useState<"speech" | "display" | "edit" | null>(
     null,
   );
@@ -173,7 +175,9 @@ function Reader() {
         await document.documentElement.requestFullscreen();
       }
     } catch {
-      setError("当前浏览器不允许网页全屏，请尝试 Chrome 或将网站添加到主屏幕。");
+      setError(
+        "当前浏览器不允许网页全屏，请尝试 Chrome 或将网站添加到主屏幕。",
+      );
     }
   }
   const [compactScreen, setCompactScreen] = useState(
@@ -309,7 +313,10 @@ function Reader() {
   useEffect(() => {
     const previous = previousPlaybackSettings.current;
     const changedOtherSettings = (Object.keys(c) as (keyof Settings)[]).some(
-      (key) => key !== "enRate" && key !== "zhRate" && previous.settings[key] !== c[key],
+      (key) =>
+        key !== "enRate" &&
+        key !== "zhRate" &&
+        previous.settings[key] !== c[key],
     );
     if (previous.listId !== listId || changedOtherSettings) {
       player.current?.stop();
@@ -521,7 +528,7 @@ function Reader() {
     : [];
   return (
     <div
-      className={`app ${collapsed ? "collapsed" : ""} ${compactScreen && !controlsVisible ? "player-hidden" : ""} ${status !== "stopped" && c.mode === "image" && !editing && !panel && !query ? "image-focus" : ""}`}
+      className={`app ${collapsed ? "collapsed" : ""} ${storyActive ? "story-active" : ""} ${compactScreen && !controlsVisible ? "player-hidden" : ""} ${status !== "stopped" && c.mode === "image" && !editing && !panel && !query ? "image-focus" : ""}`}
       style={
         {
           "--reading-size": `${c.font}px`,
@@ -619,7 +626,12 @@ function Reader() {
             学习空间 <span>/</span> {list?.title ?? "加载中"}
           </div>
           <div className="header-actions">
-            <button type="button" onClick={() => void toggleFullscreen()} aria-label={fullscreen ? "退出全屏" : "进入全屏"} title={fullscreen ? "退出全屏" : "进入全屏"}>
+            <button
+              type="button"
+              onClick={() => void toggleFullscreen()}
+              aria-label={fullscreen ? "退出全屏" : "进入全屏"}
+              title={fullscreen ? "退出全屏" : "进入全屏"}
+            >
               {fullscreen ? <Minimize2 size={18} /> : <Maximize2 size={18} />}
               {fullscreen ? "退出全屏" : "全屏"}
             </button>
@@ -837,7 +849,9 @@ function Reader() {
                               : 0
                         }
                         max={
-                          key === "enRate" || key === "zhRate" || key === "pitch"
+                          key === "enRate" ||
+                          key === "zhRate" ||
+                          key === "pitch"
                             ? 2
                             : key === "volume"
                               ? 1
@@ -848,11 +862,16 @@ function Reader() {
                                   : 30000
                         }
                         step={
-                          ["enRate", "zhRate", "pitch", "volume"].includes(key) ? 0.1 : 1
+                          ["enRate", "zhRate", "pitch", "volume"].includes(key)
+                            ? 0.1
+                            : 1
                         }
                         onCommit={(value) => {
                           if (key === "enRate" || key === "zhRate") {
-                            player.current?.setRate(key === "zhRate" ? "zh" : "en", value);
+                            player.current?.setRate(
+                              key === "zhRate" ? "zh" : "en",
+                              value,
+                            );
                           }
                           set({ [key]: value });
                         }}
@@ -1707,7 +1726,15 @@ function Reader() {
             ))}
           </div>
         )}
-        {!controlsVisible && compactScreen && (
+        {!query && list && (
+          <StoryReview
+            key={list.id}
+            listId={list.id}
+            words={list.items}
+            onStatus={(s) => setStoryActive(s === "playing" || s === "paused")}
+          />
+        )}
+        {!storyActive && !controlsVisible && compactScreen && (
           <button
             className="restore-controls"
             aria-label="显示播放控制"
@@ -1718,7 +1745,7 @@ function Reader() {
         )}
         <div
           className="player-bar"
-          hidden={compactScreen && !controlsVisible}
+          hidden={storyActive || (compactScreen && !controlsVisible)}
           onPointerDown={() => setControlsActivity((n) => n + 1)}
           onFocusCapture={() => setControlsActivity((n) => n + 1)}
         >

@@ -14,6 +14,7 @@ test("local edit mode writes an added image and its word association to disk", a
   // Mirror all data in the temporary public directory to keep the fixture valid.
   await cp("public/data", join(root, "public/data"), { recursive: true });
   await cp("public/images", join(root, "public/images"), { recursive: true });
+  await cp("public/stories", join(root, "public/stories"), { recursive: true });
   const initial = JSON.parse(
     await readFile(join(root, "public/data/list01.json"), "utf8"),
   );

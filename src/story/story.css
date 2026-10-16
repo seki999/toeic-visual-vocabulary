@@ -1,0 +1,241 @@
+.story-review {
+  margin: 28px 0;
+  background: var(--paper);
+  border: 1px solid #cdd7bd;
+  border-radius: 13px;
+  scroll-margin: 16px;
+  overflow: hidden;
+  font-size: var(--reading-size);
+}
+.story-heading {
+  width: 100%;
+  justify-content: space-between;
+  text-align: left;
+  padding: 22px 24px;
+  font-weight: 600;
+  gap: 16px;
+  border-radius: 0;
+  background: #e5ecd9;
+}
+.story-heading small {
+  display: block;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 8px;
+  line-height: 1.6;
+}
+.story-heading > span:last-child {
+  font-size: 12px;
+  flex-shrink: 0;
+}
+.story-content {
+  padding: 24px;
+}
+.story-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: #62725a;
+}
+.story-content progress {
+  width: 100%;
+  height: 7px;
+  accent-color: #527342;
+  margin: 14px 0 22px;
+}
+.story-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 14px;
+  margin-bottom: 24px;
+  font-size: 13px;
+}
+.story-options label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.story-options select,
+.story-options input {
+  width: 100%;
+}
+.story-content h2 {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+.story-content h2 small {
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  color: #67795f;
+}
+.story-stage {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+.story-picture {
+  background: #edf0e6;
+  border-radius: 10px;
+  overflow: hidden;
+  min-width: 0;
+}
+.story-picture img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 60dvh;
+  object-fit: contain;
+}
+.story-placeholder {
+  aspect-ratio: 21/9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 18px;
+  text-align: center;
+  font-size: 14px;
+  color: #617554;
+}
+.story-placeholder small {
+  margin-top: 12px;
+  font-size: 12px;
+}
+.story-dialogue {
+  min-width: 0;
+  line-height: 1.9;
+  overflow-wrap: anywhere;
+}
+.story-speaker {
+  display: inline-block;
+  padding: 3px 12px;
+  background: #e0e9cf;
+  border-radius: 6px;
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+.story-en {
+  font-size: 1.05em;
+}
+.story-zh {
+  font-size: 0.95em;
+  color: #64705e;
+}
+.story-review mark {
+  background: #e4dba5;
+  color: #354333;
+  border-radius: 3px;
+  padding: 1px 2px;
+}
+.story-targets {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.story-targets span {
+  font-size: 12px;
+  padding: 5px 8px;
+  border: 1px solid #d9dfcc;
+  border-radius: 6px;
+}
+.story-controls {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 22px;
+}
+.story-controls button {
+  border: 1px solid #cdd9c2;
+  background: #eef2e6;
+  min-height: 44px;
+  font-size: 13px;
+}
+.story-controls .story-play {
+  background: #245246;
+  color: white;
+}
+.story-transcript {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+}
+.story-transcript button {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  text-align: left;
+  line-height: 1.7;
+  background: #f0f2e9;
+  overflow-wrap: anywhere;
+}
+.story-transcript button.active {
+  outline: 2px solid #95aa7c;
+}
+.story-transcript small {
+  color: #68775f;
+}
+.story-image .story-stage {
+  display: flex;
+  flex-direction: column;
+}
+.story-image .story-picture {
+  width: 100%;
+}
+.story-image .story-dialogue {
+  width: 100%;
+}
+.story-text .story-stage {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.story-text .story-picture {
+  width: min(100%, 420px);
+}
+.app.image-focus .story-review {
+  display: none;
+}
+@media (max-width: 1366px) {
+  .app.story-active main {
+    height: 100dvh;
+    padding-bottom: 24px;
+  }
+}
+@media (max-width: 900px) {
+  .story-stage {
+    grid-template-columns: 1fr;
+  }
+  .story-content {
+    padding: 18px;
+  }
+  .story-heading {
+    padding: 18px;
+  }
+  .story-options {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .story-controls {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .story-controls button {
+    padding: 8px 4px;
+  }
+  .story-review {
+    margin-bottom: 22px;
+  }
+  .story-dialogue {
+    line-height: 1.8;
+  }
+}
+@media (max-width: 380px) {
+  .story-options {
+    grid-template-columns: 1fr;
+  }
+  .story-controls {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

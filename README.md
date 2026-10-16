@@ -1,5 +1,7 @@
 # TOEIC Visual Vocabulary
 
+新增 Story Review：List 01 末尾提供 4 角色、5 场景、35 句中英故事，覆盖真实的 50 条词汇记录。支持角色语音、双语朗读、跳句/场景、独立语速及图片容错。使用及新增其他 List 故事见 [Story Review 维护说明](docs/story-review.md)。场景图片尚待添加，不影响故事阅读与朗读。
+
 React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 626 条记录，分成 13 个 List。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
 
 ## TOEIC 图片批量生成规则

@@ -13,7 +13,8 @@
     "test:browser": "playwright test",
     "lint": "eslint .",
     "import": "python scripts/import_excel.py",
-    "validate": "python scripts/validate_data.py"
+    "validate": "python scripts/validate_data.py",
+    "story:validate": "python scripts/validate_story.py"
   },
   "dependencies": {
     "idb": "^8.0.0",

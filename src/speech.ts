@@ -1,5 +1,6 @@
 import { fieldText, language, type Word } from "./types";
 import { type Settings } from "./store";
+import { claimSpeech, canCancelSpeech, releaseSpeech } from "./speechChannel";
 export type Status = "stopped" | "playing" | "paused";
 export class SpeechPlayer {
   private generation = 0;
@@ -37,10 +38,12 @@ export class SpeechPlayer {
     }
     this.status = "stopped";
     this.activeSettings = undefined;
-    this.synth.cancel();
+    if (canCancelSpeech(this, this.synth)) this.synth.cancel();
     // cancel() clears queued speech but does not reset the browser's paused flag.
     // Resume only the now-empty queue so the next play starts a fresh utterance.
-    if (this.synth.paused) this.synth.resume();
+    if (canCancelSpeech(this, this.synth) && this.synth.paused)
+      this.synth.resume();
+    releaseSpeech(this, this.synth);
     this.changed(this.status);
   }
   pause() {
@@ -74,6 +77,7 @@ export class SpeechPlayer {
   }
   play(items: Word[], start: number, settings: Settings) {
     this.stop();
+    claimSpeech(this, () => this.stop(), this.synth);
     const c = { ...settings };
     this.activeSettings = c;
     if (!items.length || !c.order.length) return;
