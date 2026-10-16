@@ -495,6 +495,7 @@ h1 span {
   margin-top: 14px;
 }
 .overlay {
+  text-align: center;
   position: absolute;
   left: 0;
   right: 0;
@@ -1343,6 +1344,7 @@ header .breadcrumb button {
 }
 
 .image-ipa {
+  justify-content: center;
   display: flex;
   flex-wrap: wrap;
   gap: 4px 16px;
