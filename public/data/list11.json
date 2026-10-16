@@ -768,7 +768,19 @@
         "zh": "这个岛以丰富的当地植物群而闻名。"
       },
       "id": "v000523",
-      "images": [],
+      "images": [
+        {
+          "id": "5e297801-ca1c-4b88-8749-c2c640219a3e",
+          "src": "images/list11/v000523-5e297801-ca1c-4b88-8749-c2c640219a3e.webp",
+          "alt": "flora",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cdd11a1ae9cdeed0f10961ca0bd13841a63467f65ca264dcd4f898369a56346b"
@@ -790,7 +802,19 @@
         "zh": "新闻报道省略了过于血腥的细节。"
       },
       "id": "v000524",
-      "images": [],
+      "images": [
+        {
+          "id": "caaab148-7439-4dad-8ff6-1d21dc51c83d",
+          "src": "images/list11/v000524-caaab148-7439-4dad-8ff6-1d21dc51c83d.webp",
+          "alt": "gory",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d6d5e1ec1e47a070dbb373d23ac7f402d8f5640e4f1e2d5049746fba5c7e8dfa"
@@ -812,7 +836,19 @@
         "zh": "由于缺乏资金，这家初创公司陷入困境。"
       },
       "id": "v000525",
-      "images": [],
+      "images": [
+        {
+          "id": "105cdce6-8699-4c78-906c-260eb4cac18f",
+          "src": "images/list11/v000525-105cdce6-8699-4c78-906c-260eb4cac18f.webp",
+          "alt": "flounder",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b181c17731dd58530ca244d0e5e03166d1995f9406bc802b2e602b0eb9e1ca6a"
@@ -834,7 +870,19 @@
         "zh": "今晚的主菜是烤比目鱼。"
       },
       "id": "v000526",
-      "images": [],
+      "images": [
+        {
+          "id": "f03a02d6-77cf-4110-94fb-db124e2d0d72",
+          "src": "images/list11/v000526-f03a02d6-77cf-4110-94fb-db124e2d0d72.webp",
+          "alt": "flounder",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "74aaa8c234b083cc23d7da4ffa7dec05b906075e9ed13cdb737feabbc2085649"
@@ -856,7 +904,19 @@
         "zh": "他过去过着非常奢侈的生活。"
       },
       "id": "v000527",
-      "images": [],
+      "images": [
+        {
+          "id": "b3229f9d-70b1-423d-a1a8-56c90ff74d68",
+          "src": "images/list11/v000527-b3229f9d-70b1-423d-a1a8-56c90ff74d68.webp",
+          "alt": "extravagant",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a3d2138440bc767c242fbceba7e8b40a0678c6ed09eaabac29ee001df6bf9b8d"
@@ -878,7 +938,19 @@
         "zh": "广告中有一些明显夸大的说法。"
       },
       "id": "v000528",
-      "images": [],
+      "images": [
+        {
+          "id": "efd79b86-8803-437d-a1c0-e3eed46a4da5",
+          "src": "images/list11/v000528-efd79b86-8803-437d-a1c0-e3eed46a4da5.webp",
+          "alt": "extravagant",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a34acbce7f70a7173ab71f337d1fe558f03866a9b4d14143c96e6dadbeae6f78"
@@ -900,7 +972,19 @@
         "zh": "这本书研究了欧洲历史上的法西斯政权。"
       },
       "id": "v000529",
-      "images": [],
+      "images": [
+        {
+          "id": "90e4e8e3-441c-4fcf-a5cc-0b92cbe9fce7",
+          "src": "images/list11/v000529-90e4e8e3-441c-4fcf-a5cc-0b92cbe9fce7.webp",
+          "alt": "fascist",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b4c361ee4709be08f570da1f74df1c63a00a941a7d352b56341cb7b4ffe226d7"
@@ -922,7 +1006,19 @@
         "zh": "课程讨论了法西斯主义意识形态的兴起。"
       },
       "id": "v000530",
-      "images": [],
+      "images": [
+        {
+          "id": "679f29ad-e1f3-4716-b9c1-e00ede219ff7",
+          "src": "images/list11/v000530-679f29ad-e1f3-4716-b9c1-e00ede219ff7.webp",
+          "alt": "fascist",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "566230e188625a853e282cc3e9fd8441fd05001e548a927dac3bfe4dd53227dd"
@@ -944,7 +1040,19 @@
         "zh": "长期干旱导致了严重饥荒。"
       },
       "id": "v000531",
-      "images": [],
+      "images": [
+        {
+          "id": "4573f7d4-958b-4308-acd2-9c956b2dd954",
+          "src": "images/list11/v000531-4573f7d4-958b-4308-acd2-9c956b2dd954.webp",
+          "alt": "famine",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "68f5176efd8d90a2dc869a96c1baa92c5ffcea71670388bd58250cf394a284a8"
@@ -966,7 +1074,19 @@
         "zh": "一些国家正在讨论是否应使安乐死合法化。"
       },
       "id": "v000532",
-      "images": [],
+      "images": [
+        {
+          "id": "0cefc012-6f63-4339-85f8-58446e22a69f",
+          "src": "images/list11/v000532-0cefc012-6f63-4339-85f8-58446e22a69f.webp",
+          "alt": "euthanasia",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "aa946af4c4af572fc56bdc87eee0ea820e1544cf92edd1a88fc90f2b114f9e56"
@@ -988,7 +1108,19 @@
         "zh": "普通人很难辨别这两个版本之间的差异。"
       },
       "id": "v000533",
-      "images": [],
+      "images": [
+        {
+          "id": "1c99a746-b42b-4fcf-b980-deced99ba2dc",
+          "src": "images/list11/v000533-1c99a746-b42b-4fcf-b980-deced99ba2dc.webp",
+          "alt": "discern",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "142832da39afe85832daf3a0d336b09de5f4319e9f24a1d704debb8af2796525"
@@ -1010,7 +1142,19 @@
         "zh": "观众被她的歌声深深吸引。"
       },
       "id": "v000534",
-      "images": [],
+      "images": [
+        {
+          "id": "8125a0f3-e96d-4c25-8eef-4681badafbca",
+          "src": "images/list11/v000534-8125a0f3-e96d-4c25-8eef-4681badafbca.webp",
+          "alt": "enrapture",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a3544120639aa41ec6920f0bcf557c1fdbb8c1cd69546b372e63f2393de75b8e"
@@ -1032,7 +1176,19 @@
         "zh": "网络故障造成了数小时的服务中断。"
       },
       "id": "v000535",
-      "images": [],
+      "images": [
+        {
+          "id": "2e991455-68b6-4a85-813a-d353d0d218fb",
+          "src": "images/list11/v000535-2e991455-68b6-4a85-813a-d353d0d218fb.webp",
+          "alt": "disruption",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4bc293997654e530095c3d67e8374b781bc166f5ce10df1c38a5bb782f69a328"
@@ -1054,7 +1210,19 @@
         "zh": "他站起来太快，突然感到头晕。"
       },
       "id": "v000536",
-      "images": [],
+      "images": [
+        {
+          "id": "628f7386-898b-46be-b979-bced04de802c",
+          "src": "images/list11/v000536-628f7386-898b-46be-b979-bced04de802c.webp",
+          "alt": "dizziness",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6ef8cd83790c56106f2d8d09dc43fafe8d4824ad0a7ed102a79662d1f1d9a7cf"
@@ -1076,7 +1244,19 @@
         "zh": "大雨暴露出了城市排水系统的问题。"
       },
       "id": "v000537",
-      "images": [],
+      "images": [
+        {
+          "id": "e427ee96-20b3-41e0-893e-3be47da05ce1",
+          "src": "images/list11/v000537-e427ee96-20b3-41e0-893e-3be47da05ce1.webp",
+          "alt": "drainage",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "964a1366ad51538a186c062668658e7a5418de9c45752befed969cfa2d75337d"
@@ -1098,7 +1278,19 @@
         "zh": "她在大学学习考古学。"
       },
       "id": "v000538",
-      "images": [],
+      "images": [
+        {
+          "id": "c7aa77df-27be-4684-bc03-9fadd1f26139",
+          "src": "images/list11/v000538-c7aa77df-27be-4684-bc03-9fadd1f26139.webp",
+          "alt": "archaeology",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3e714ce9892e2d61aa2db4906e40e8ef52bb5f8d1b699d74d1c9e62695c06f97"
@@ -1120,7 +1312,19 @@
         "zh": "他在刮胡子前涂了剃须泡沫。"
       },
       "id": "v000539",
-      "images": [],
+      "images": [
+        {
+          "id": "b7e96495-fb8c-42cf-a9ff-6daf01da830b",
+          "src": "images/list11/v000539-b7e96495-fb8c-42cf-a9ff-6daf01da830b.webp",
+          "alt": "foam",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "423c824aabea4045a8ebe82bd0f6a81c6d8f854abd85f10756bfafdb62397f14"
@@ -1142,7 +1346,19 @@
         "zh": "肥皂遇水后很快起泡。"
       },
       "id": "v000540",
-      "images": [],
+      "images": [
+        {
+          "id": "e22fc0a6-6f7f-4707-b1b5-79039c402c0a",
+          "src": "images/list11/v000540-e22fc0a6-6f7f-4707-b1b5-79039c402c0a.webp",
+          "alt": "foam",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4e75ccf53d372071d9abe8016ba4260558c3a57fb00e06b43261c89b77c5fc64"
@@ -1164,7 +1380,19 @@
         "zh": "如果不及时修复，可能会造成严重后果。"
       },
       "id": "v000541",
-      "images": [],
+      "images": [
+        {
+          "id": "e009a30c-cc7f-44d5-916a-2adb606b2e9c",
+          "src": "images/list11/v000541-e009a30c-cc7f-44d5-916a-2adb606b2e9c.webp",
+          "alt": "dire",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3ae0f0f6a9227a6b3525064d3e3141856ac8ca6d769a013a09f38afcfc0af6d7"
@@ -1186,7 +1414,19 @@
         "zh": "两国同意重新划定边界。"
       },
       "id": "v000542",
-      "images": [],
+      "images": [
+        {
+          "id": "722da02f-41e4-47c3-9bf7-ad4298390bff",
+          "src": "images/list11/v000542-722da02f-41e4-47c3-9bf7-ad4298390bff.webp",
+          "alt": "demarcate",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5fdcd0235e1f56073ddd3b769239cc740b920d5f4fafcaf82002966ad7f4b70a"
@@ -1208,7 +1448,19 @@
         "zh": "嫌疑人在审讯期间一直被拘留。"
       },
       "id": "v000543",
-      "images": [],
+      "images": [
+        {
+          "id": "665ced90-d5d1-4a25-9b58-acb2f38a282c",
+          "src": "images/list11/v000543-665ced90-d5d1-4a25-9b58-acb2f38a282c.webp",
+          "alt": "detention",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "29cf751a43e73758ec64ab33febca46868a56160cf5135fd8bbe8d3f1aa0a917"
@@ -1230,7 +1482,19 @@
         "zh": "他因为多次迟到被罚课后留校。"
       },
       "id": "v000544",
-      "images": [],
+      "images": [
+        {
+          "id": "52d806da-316a-44c9-a9cf-5e423d0a6fe1",
+          "src": "images/list11/v000544-52d806da-316a-44c9-a9cf-5e423d0a6fe1.webp",
+          "alt": "detention",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "040df5b60f12ac9a38b78344e2678c906195036019edf11733aa6f32db99f7a9"
@@ -1252,7 +1516,19 @@
         "zh": "早期人类使用非常简陋的工具。"
       },
       "id": "v000545",
-      "images": [],
+      "images": [
+        {
+          "id": "f6b7ef33-2a6e-44a6-8234-ec74a495bf3a",
+          "src": "images/list11/v000545-f6b7ef33-2a6e-44a6-8234-ec74a495bf3a.webp",
+          "alt": "primitive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "928e560a6eeb384b41b74264646da70f7c84d3576f20af56b9f249471b5329cf"
@@ -1274,7 +1550,19 @@
         "zh": "这本书讨论了早期原始社会的结构。"
       },
       "id": "v000546",
-      "images": [],
+      "images": [
+        {
+          "id": "1a084615-4764-4bcd-8c90-940c2dbca4aa",
+          "src": "images/list11/v000546-1a084615-4764-4bcd-8c90-940c2dbca4aa.webp",
+          "alt": "primitive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cfdc832c212b32b902259a62d29cedddd90fe79430ce3b24e2cae9ad8e8ff38f"
@@ -1296,7 +1584,19 @@
         "zh": "我们向遇难者家属表示深切慰问。"
       },
       "id": "v000547",
-      "images": [],
+      "images": [
+        {
+          "id": "aff571be-f071-4cae-9325-ce2681157440",
+          "src": "images/list11/v000547-aff571be-f071-4cae-9325-ce2681157440.webp",
+          "alt": "condole",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2933b62699b391f6a4d7c73820955512ede6e944770250afbbd67ab5eec88e90"
@@ -1318,7 +1618,19 @@
         "zh": "许多人为这家老店的关闭感到惋惜。"
       },
       "id": "v000548",
-      "images": [],
+      "images": [
+        {
+          "id": "71dc221e-4d3a-4b75-9bd9-6fd387879e8a",
+          "src": "images/list11/v000548-71dc221e-4d3a-4b75-9bd9-6fd387879e8a.webp",
+          "alt": "lament",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "effcd8a454a73320ccd2b7e9e89d43c95b9410460e59425a4dfcedaec0cbf678"
@@ -1340,7 +1652,19 @@
         "zh": "这首诗是一首为逝去时代而作的挽歌。"
       },
       "id": "v000549",
-      "images": [],
+      "images": [
+        {
+          "id": "ea41022f-77d2-45fa-be47-e2733e8ac179",
+          "src": "images/list11/v000549-ea41022f-77d2-45fa-be47-e2733e8ac179.webp",
+          "alt": "lament",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5d92f22eb2d3cf7f03aeccc8f0e00e1553114bcc41bea6000b2e1ec709483837"
@@ -1362,7 +1686,19 @@
         "zh": "他每天早上用电动剃须刀刮胡子。"
       },
       "id": "v000550",
-      "images": [],
+      "images": [
+        {
+          "id": "34560315-adcd-46de-9488-3bae5237e0da",
+          "src": "images/list11/v000550-34560315-adcd-46de-9488-3bae5237e0da.webp",
+          "alt": "razor",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d84467fe307c363c787f53f3db200fb178103332c8b769f39cc6afae266e8e99"

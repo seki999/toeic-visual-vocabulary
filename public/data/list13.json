@@ -20,7 +20,19 @@
         "zh": "她是一位国际知名的钢琴家。"
       },
       "id": "v000601",
-      "images": [],
+      "images": [
+        {
+          "id": "4da2abc8-dded-429e-9068-f0e2c752f25a",
+          "src": "images/list13/v000601-4da2abc8-dded-429e-9068-f0e2c752f25a.webp",
+          "alt": "pianist",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f2731a951f1029106c5ae51fba987b767654c50826c3844b4fa083aeaed64b1f"
@@ -42,7 +54,19 @@
         "zh": "这款产品采用了简洁而优雅的设计。"
       },
       "id": "v000602",
-      "images": [],
+      "images": [
+        {
+          "id": "89fa255d-efe9-4adf-be89-93b81447dc49",
+          "src": "images/list13/v000602-89fa255d-efe9-4adf-be89-93b81447dc49.webp",
+          "alt": "elegant",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f3042198157c64689a80ac52f4ab474966724e38aff288abdaeb1ffeb15ff20e"
@@ -64,7 +88,19 @@
         "zh": "保安报告了入口附近的可疑行为。"
       },
       "id": "v000603",
-      "images": [],
+      "images": [
+        {
+          "id": "75c0e5ff-d0ca-4b13-b85e-bde138356f85",
+          "src": "images/list13/v000603-75c0e5ff-d0ca-4b13-b85e-bde138356f85.webp",
+          "alt": "suspicious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "10e71684ff5e122490b3ec4e7b70fe8109438571d2300217214f6c1bf596348f"
@@ -86,7 +122,19 @@
         "zh": "他对这个过于便宜的报价表示怀疑。"
       },
       "id": "v000604",
-      "images": [],
+      "images": [
+        {
+          "id": "1de606ce-130e-47d5-95a8-c5d773e58494",
+          "src": "images/list13/v000604-1de606ce-130e-47d5-95a8-c5d773e58494.webp",
+          "alt": "suspicious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b1f27f2c61117d55609863d23a06b32a1127dfeeff1cebd4ae63412e2d162baf"
@@ -108,7 +156,19 @@
         "zh": "她否认了针对自己的所有指控。"
       },
       "id": "v000605",
-      "images": [],
+      "images": [
+        {
+          "id": "8cfc51ab-a872-4b51-8109-15f3a5566172",
+          "src": "images/list13/v000605-8cfc51ab-a872-4b51-8109-15f3a5566172.webp",
+          "alt": "accusation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "69f110475ceb08a94e5a63e764314f46092a2fe477843c11e698425222a89a98"
@@ -130,7 +190,19 @@
         "zh": "医生建议手术后暂时避免剧烈运动。"
       },
       "id": "v000606",
-      "images": [],
+      "images": [
+        {
+          "id": "0e23b13b-8222-47a0-bfdc-96a5eccac5bf",
+          "src": "images/list13/v000606-0e23b13b-8222-47a0-bfdc-96a5eccac5bf.webp",
+          "alt": "strenuous",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b98153a1b1bc8f6fcad31169ba91499247d91f0f17bc13bdbc80bd780273e366"
@@ -152,7 +224,19 @@
         "zh": "我们周末参观了当地植物园。"
       },
       "id": "v000607",
-      "images": [],
+      "images": [
+        {
+          "id": "6abccd95-ae11-41ee-ac30-a2cce2b4d832",
+          "src": "images/list13/v000607-6abccd95-ae11-41ee-ac30-a2cce2b4d832.webp",
+          "alt": "botanical",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cff638809862305d1a81e5f81323dd5b0d8d1984ed41451dab24574ed1276431"
@@ -174,7 +258,19 @@
         "zh": "天气预报说明天会下雨。"
       },
       "id": "v000608",
-      "images": [],
+      "images": [
+        {
+          "id": "fa531a09-8d9e-4261-8bf5-270216de8a0a",
+          "src": "images/list13/v000608-fa531a09-8d9e-4261-8bf5-270216de8a0a.webp",
+          "alt": "forecast",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "160536f718534eb73d57c2311e1bd41b3803f5779151379da143d5f4fa7cb8de"
@@ -196,7 +292,19 @@
         "zh": "分析师预计明年销售额将增长。"
       },
       "id": "v000609",
-      "images": [],
+      "images": [
+        {
+          "id": "b57f673b-36a5-4178-938e-f4a3c765631d",
+          "src": "images/list13/v000609-b57f673b-36a5-4178-938e-f4a3c765631d.webp",
+          "alt": "forecast",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fd9f5842ff2e2023ff202800b355a055b19c407d2a837474d610da4be682c2a6"
@@ -218,7 +326,19 @@
         "zh": "这家当地啤酒厂提供参观活动。"
       },
       "id": "v000610",
-      "images": [],
+      "images": [
+        {
+          "id": "fb35c02e-82a9-4394-aa93-df36bfbb326b",
+          "src": "images/list13/v000610-fb35c02e-82a9-4394-aa93-df36bfbb326b.webp",
+          "alt": "brewery",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4cd757db972263cb08f77c16f48808ad89f4957967b880f921a899cb6bc2a30a"
@@ -240,7 +360,19 @@
         "zh": "他在训练中腿部受伤。"
       },
       "id": "v000611",
-      "images": [],
+      "images": [
+        {
+          "id": "3a1310d2-7810-4f60-b2c8-0a304a34e317",
+          "src": "images/list13/v000611-3a1310d2-7810-4f60-b2c8-0a304a34e317.webp",
+          "alt": "injury",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a4f4a47d2032bed1ade703cb504d699d92acdf9b6fee596c7ea62c97128ca811"
@@ -262,7 +394,19 @@
         "zh": "博物馆展示了传统的手工织物。"
       },
       "id": "v000612",
-      "images": [],
+      "images": [
+        {
+          "id": "df1b15f5-c735-44e5-8143-4ea476107d61",
+          "src": "images/list13/v000612-df1b15f5-c735-44e5-8143-4ea476107d61.webp",
+          "alt": "handwoven",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6620386e6db9b4fc61e428bd7f8cff9136cc8f0e80931fd8e4749186be942c55"
@@ -284,7 +428,19 @@
         "zh": "这个地区过去以纺织业闻名。"
       },
       "id": "v000613",
-      "images": [],
+      "images": [
+        {
+          "id": "562f913e-83de-4e2f-bf07-24c45d4f510f",
+          "src": "images/list13/v000613-562f913e-83de-4e2f-bf07-24c45d4f510f.webp",
+          "alt": "textile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1470990455a1a9f733f55a332c3a106c3c957aadc88ad148f6d356b012505cc2"
@@ -306,7 +462,19 @@
         "zh": "工厂采用新设备提高纺织生产效率。"
       },
       "id": "v000614",
-      "images": [],
+      "images": [
+        {
+          "id": "0396bd77-83c3-42db-a4a9-4a2580cfbde8",
+          "src": "images/list13/v000614-0396bd77-83c3-42db-a4a9-4a2580cfbde8.webp",
+          "alt": "textile",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "91c0e01776917f7b16e883c66eddd06c7001633394c76e0efa33a353b9a20fce"
@@ -328,7 +496,19 @@
         "zh": "这件衬衫由柔软的棉布制成。"
       },
       "id": "v000615",
-      "images": [],
+      "images": [
+        {
+          "id": "284661be-43c7-421d-8ec4-de260649463b",
+          "src": "images/list13/v000615-284661be-43c7-421d-8ec4-de260649463b.webp",
+          "alt": "fabric",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ba1666a3ff364e1bc3b96bf24a8517bce10eaca73fa83c24ba9069f490bd3077"
@@ -350,7 +530,19 @@
         "zh": "长期失业可能损害社区的社会结构。"
       },
       "id": "v000616",
-      "images": [],
+      "images": [
+        {
+          "id": "bb52b220-22d4-46e8-bdce-31e43d11c836",
+          "src": "images/list13/v000616-bb52b220-22d4-46e8-bdce-31e43d11c836.webp",
+          "alt": "fabric",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b17c23f8ce50e6d4ed8895a66a0df9f222b1fa915837a360147b2025ab824e1a"
@@ -372,7 +564,19 @@
         "zh": "艺术品修复师正在修复这幅古画。"
       },
       "id": "v000617",
-      "images": [],
+      "images": [
+        {
+          "id": "ef523c7a-44c6-4f9d-be3b-2295a912d633",
+          "src": "images/list13/v000617-ef523c7a-44c6-4f9d-be3b-2295a912d633.webp",
+          "alt": "conservator",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "89c5415fb2121ee750089fb7cf46f65382f7182ee6b793f886f1841cae14ee4b"
@@ -394,7 +598,19 @@
         "zh": "蔬菜是膳食纤维的重要来源。"
       },
       "id": "v000618",
-      "images": [],
+      "images": [
+        {
+          "id": "b854388f-3e4d-48e4-be58-bc9d40255c0f",
+          "src": "images/list13/v000618-b854388f-3e4d-48e4-be58-bc9d40255c0f.webp",
+          "alt": "fiber",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c2b4493d596d1316cac6fad74611daa390c67125089d21f2d59e1c73ff6ccba6"
@@ -416,7 +632,19 @@
         "zh": "这栋大楼已经安装了新的光纤电缆。"
       },
       "id": "v000619",
-      "images": [],
+      "images": [
+        {
+          "id": "c2ee009e-a528-40ad-bb60-d70edfaa27e9",
+          "src": "images/list13/v000619-c2ee009e-a528-40ad-bb60-d70edfaa27e9.webp",
+          "alt": "fiber",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6fe774be6ce652f9af7bc5c90c1534011d0e709edf6389a8505fad125397b9e5"
@@ -438,7 +666,19 @@
         "zh": "这座历史建筑的修复工作已经完成。"
       },
       "id": "v000620",
-      "images": [],
+      "images": [
+        {
+          "id": "d8dac134-7d48-471f-ba50-85c40167ccf7",
+          "src": "images/list13/v000620-d8dac134-7d48-471f-ba50-85c40167ccf7.webp",
+          "alt": "restoration",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "299c53e4b58e9c5048ba42df14127f8cf31ea5d1e909c3e17d7c8240bed1238c"
@@ -460,7 +700,19 @@
         "zh": "我们在黄昏时返回营地。"
       },
       "id": "v000621",
-      "images": [],
+      "images": [
+        {
+          "id": "88fea125-3f5a-42cc-bcdc-ef9601ece9b0",
+          "src": "images/list13/v000621-88fea125-3f5a-42cc-bcdc-ef9601ece9b0.webp",
+          "alt": "dusk",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3341e891b400e8344b23e31882376212bca0e874d7fbddd4ac11cca9a089fe5f"
@@ -482,7 +734,19 @@
         "zh": "他只有轻微的感冒症状。"
       },
       "id": "v000622",
-      "images": [],
+      "images": [
+        {
+          "id": "e104ab19-4026-4f0a-b097-a121ef88364b",
+          "src": "images/list13/v000622-e104ab19-4026-4f0a-b097-a121ef88364b.webp",
+          "alt": "mild",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "00abb43000840fd93a9ebb18e1381baacb2675924fc43784be1bf0117789c1d4"
@@ -504,7 +768,19 @@
         "zh": "今年秋天天气一直很温和。"
       },
       "id": "v000623",
-      "images": [],
+      "images": [
+        {
+          "id": "5521b83e-5aa0-488c-b6ca-7c5acb81a373",
+          "src": "images/list13/v000623-5521b83e-5aa0-488c-b6ca-7c5acb81a373.webp",
+          "alt": "mild",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "75b6394ae73574e5e00ceb5364d0ba361a3ae02a8301051aca271196aa9c83bd"
@@ -526,7 +802,19 @@
         "zh": "护林员提醒游客不要离开步道。"
       },
       "id": "v000624",
-      "images": [],
+      "images": [
+        {
+          "id": "1217cadd-3b3f-4b47-a2ef-973dd827cbfc",
+          "src": "images/list13/v000624-1217cadd-3b3f-4b47-a2ef-973dd827cbfc.webp",
+          "alt": "ranger",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7bfb25a8bb44b6edf647e95ceaf26d22e9c60fa7d6626c3ecd92c501937b3532"
@@ -548,7 +836,19 @@
         "zh": "这家餐厅以咸香可口的菜肴闻名。"
       },
       "id": "v000625",
-      "images": [],
+      "images": [
+        {
+          "id": "8cbd50c1-b4cd-4b1b-bcdf-3725b07acf50",
+          "src": "images/list13/v000625-8cbd50c1-b4cd-4b1b-bcdf-3725b07acf50.webp",
+          "alt": "savory",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e172db367bccc5e7ca681e6f94a1ac7e0d329797657da03d41c12a378a13a958"
@@ -570,7 +870,19 @@
         "zh": "自助餐提供各种甜味和咸味食品。"
       },
       "id": "v000626",
-      "images": [],
+      "images": [
+        {
+          "id": "3681e34b-0ba2-4838-842b-4bf013dc15dd",
+          "src": "images/list13/v000626-3681e34b-0ba2-4838-842b-4bf013dc15dd.webp",
+          "alt": "savory",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "36ba0a28664f2c51ba7b67787817376ca81b2b1a6b1b4493b7fc114d6b46ffa7"
