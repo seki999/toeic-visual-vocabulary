@@ -768,7 +768,19 @@
         "zh": "晚饭后我们沿着河边散步。"
       },
       "id": "v000373",
-      "images": [],
+      "images": [
+        {
+          "id": "45439e14-8876-4ee5-b645-a0f40bd3b3c2",
+          "src": "images/list08/v000373-45439e14-8876-4ee5-b645-a0f40bd3b3c2.webp",
+          "alt": "stroll",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7df5c09a4b5727679733d59987b9a572ca5fa1f1cd74a385b93f48007e5c14c8"
@@ -790,7 +802,19 @@
         "zh": "游客们悠闲地走过老城区。"
       },
       "id": "v000374",
-      "images": [],
+      "images": [
+        {
+          "id": "3716b493-f58b-47bd-87b0-5672f3224f17",
+          "src": "images/list08/v000374-3716b493-f58b-47bd-87b0-5672f3224f17.webp",
+          "alt": "stroll",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c63a89f8f1cad6365dd1908ca4be6bcfb659f838973482427fac67bc7a331935"
@@ -812,7 +836,19 @@
         "zh": "他的桌子很乱，但他知道每样东西在哪里。"
       },
       "id": "v000375",
-      "images": [],
+      "images": [
+        {
+          "id": "503a07c9-8339-4501-bfd7-53ead3d46734",
+          "src": "images/list08/v000375-503a07c9-8339-4501-bfd7-53ead3d46734.webp",
+          "alt": "messy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3595c5800b8c37c29733ace4876c6b34c6c0dc0a13c0aee504c3e207c09cce4e"
@@ -834,7 +870,19 @@
         "zh": "合同争议使项目陷入了复杂局面。"
       },
       "id": "v000376",
-      "images": [],
+      "images": [
+        {
+          "id": "3fea0947-dc5a-4618-82dd-54a6729aa776",
+          "src": "images/list08/v000376-3fea0947-dc5a-4618-82dd-54a6729aa776.webp",
+          "alt": "messy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "653ab59743acb074abce91e40e8780b38dc1b3a989416f4840cedfbf251c03b0"
@@ -856,7 +904,19 @@
         "zh": "他们晚上坐在前门廊上聊天。"
       },
       "id": "v000377",
-      "images": [],
+      "images": [
+        {
+          "id": "6d8056de-ee21-4a05-b691-3abdc1868bb6",
+          "src": "images/list08/v000377-6d8056de-ee21-4a05-b691-3abdc1868bb6.webp",
+          "alt": "porch",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f99b6490a14707c2399f336cc5aaf9e9a743b6b57cf29f146ed1ac675a15e3de"
@@ -878,7 +938,19 @@
         "zh": "银行给这家公司提供了一定的透支额度。"
       },
       "id": "v000378",
-      "images": [],
+      "images": [
+        {
+          "id": "7f0afd58-9a56-4b9c-91c5-3f7f94a75696",
+          "src": "images/list08/v000378-7f0afd58-9a56-4b9c-91c5-3f7f94a75696.webp",
+          "alt": "overdraft",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "09b3b291e0e58d7dd68e1385f5abe867691b54c7fd22306a3c73deea3576bfe6"
@@ -900,7 +972,19 @@
         "zh": "过度消费可能成为一种难以戒掉的恶习。"
       },
       "id": "v000379",
-      "images": [],
+      "images": [
+        {
+          "id": "bbcc0fb9-30cd-4184-b157-bbad054bd829",
+          "src": "images/list08/v000379-bbcc0fb9-30cd-4184-b157-bbad054bd829.webp",
+          "alt": "vice",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e35a283de0310ea2943b2f0743ca3f369b00fcc49f9bcc83a7ec337cafcc6ddb"
@@ -922,7 +1006,19 @@
         "zh": "工人用台钳固定住金属零件。"
       },
       "id": "v000380",
-      "images": [],
+      "images": [
+        {
+          "id": "52514f12-46f9-4688-b77b-b33a392a308c",
+          "src": "images/list08/v000380-52514f12-46f9-4688-b77b-b33a392a308c.webp",
+          "alt": "vice",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c48d30a2dcbecf03489badf133c565e27c175d84b2cd26949c5a77fbcfffd427"
@@ -944,7 +1040,19 @@
         "zh": "该公司的股票将在巴黎证券交易所上市。"
       },
       "id": "v000381",
-      "images": [],
+      "images": [
+        {
+          "id": "4d0544ae-2a55-466f-9701-e3504d80f94b",
+          "src": "images/list08/v000381-4d0544ae-2a55-466f-9701-e3504d80f94b.webp",
+          "alt": "bourse",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6429d48578c0ac5b07b5f6a58aa6b0112bfabcae4a1fb6357cc2e4f5518da4d3"
@@ -966,7 +1074,19 @@
         "zh": "公司今年决定提高股息。"
       },
       "id": "v000382",
-      "images": [],
+      "images": [
+        {
+          "id": "8b1c389a-f60a-409a-b4d7-940bf5563185",
+          "src": "images/list08/v000382-8b1c389a-f60a-409a-b4d7-940bf5563185.webp",
+          "alt": "dividend",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "029ca5bd46e01a9e396e99480607c04b4d15bb374a878fcc41058ca067bb7cca"
@@ -988,7 +1108,19 @@
         "zh": "长期学习最终会带来回报。"
       },
       "id": "v000383",
-      "images": [],
+      "images": [
+        {
+          "id": "b9eb60a3-e034-42b0-aaf7-440a0c2280ad",
+          "src": "images/list08/v000383-b9eb60a3-e034-42b0-aaf7-440a0c2280ad.webp",
+          "alt": "dividend",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "06391417a57094eb081d8e4bd2d5c8740451765dc69a822595d25ed30f776497"
@@ -1010,7 +1142,19 @@
         "zh": "我们沿着宽阔的林荫大道步行。"
       },
       "id": "v000384",
-      "images": [],
+      "images": [
+        {
+          "id": "10d4e702-8dfa-4dca-b806-9de2c3534993",
+          "src": "images/list08/v000384-10d4e702-8dfa-4dca-b806-9de2c3534993.webp",
+          "alt": "avenue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "518c197d6fdf7f8e6e0ca8c80e90da46a501b3586ff501f7147a1b9101e0e543"
@@ -1032,7 +1176,19 @@
         "zh": "在线课程为继续学习提供了新的途径。"
       },
       "id": "v000385",
-      "images": [],
+      "images": [
+        {
+          "id": "cff86c55-fd6d-4eb6-a2f0-463759bcdce0",
+          "src": "images/list08/v000385-cff86c55-fd6d-4eb6-a2f0-463759bcdce0.webp",
+          "alt": "avenue",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3f6d27969728e590debd1944e57ab193deceb464955f2d4cd24a53587f3d6283"
@@ -1054,7 +1210,19 @@
         "zh": "他是一个非常热爱历史书籍的读者。"
       },
       "id": "v000386",
-      "images": [],
+      "images": [
+        {
+          "id": "56fd1785-7dc5-455e-9223-17c54ff340e7",
+          "src": "images/list08/v000386-56fd1785-7dc5-455e-9223-17c54ff340e7.webp",
+          "alt": "avid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8330c5494d844eb772782d590734f1694658dc0d6effdf5893676292ca598e97"
@@ -1076,7 +1244,19 @@
         "zh": "管理岗位需要较高的情绪成熟度。"
       },
       "id": "v000387",
-      "images": [],
+      "images": [
+        {
+          "id": "4b9504bf-e972-42de-b9e5-83bee40ec90f",
+          "src": "images/list08/v000387-4b9504bf-e972-42de-b9e5-83bee40ec90f.webp",
+          "alt": "maturity",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "24a9db4cf9a4e30d538f7eb9e0477491a9a1dd3ce320a513e37163be2cfa0904"
@@ -1098,7 +1278,19 @@
         "zh": "这笔债券将在五年后到期。"
       },
       "id": "v000388",
-      "images": [],
+      "images": [
+        {
+          "id": "12c15ace-7733-40e1-9102-bfccd6077471",
+          "src": "images/list08/v000388-12c15ace-7733-40e1-9102-bfccd6077471.webp",
+          "alt": "maturity",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "40807dbd0842d0cf325a348044e0b8ade9b674256144264a3f2678a2f3f96ec5"
@@ -1120,7 +1312,19 @@
         "zh": "医生检查了他的髋关节。"
       },
       "id": "v000389",
-      "images": [],
+      "images": [
+        {
+          "id": "d76605d7-749e-4f46-b54a-d99691704224",
+          "src": "images/list08/v000389-d76605d7-749e-4f46-b54a-d99691704224.webp",
+          "alt": "hip",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fb3f451a87b247ac920a4725b30b83181c276318bef69c69289aaa120d2be58a"
@@ -1142,7 +1346,19 @@
         "zh": "这一区域已经变成了年轻人喜欢的时尚街区。"
       },
       "id": "v000390",
-      "images": [],
+      "images": [
+        {
+          "id": "45ca67fe-41e5-4d09-b45c-ef54625c666c",
+          "src": "images/list08/v000390-45ca67fe-41e5-4d09-b45c-ef54625c666c.webp",
+          "alt": "hip",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "70fa2d7dab26bb93e829dafac817805aa8d06bdb6b4ed55c146680ebdd6d42bf"
@@ -1164,7 +1380,19 @@
         "zh": "参加活动的人都得到了一份小赠品。"
       },
       "id": "v000391",
-      "images": [],
+      "images": [
+        {
+          "id": "124312bc-05ab-4d0e-9c94-951e946b7996",
+          "src": "images/list08/v000391-124312bc-05ab-4d0e-9c94-951e946b7996.webp",
+          "alt": "freebie",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "19822a14c7ad692279037f701c19ac0f7976fe32cd664ea887f3a90c75921247"
@@ -1186,7 +1414,19 @@
         "zh": "墙上挂着一只旧鹿角。"
       },
       "id": "v000392",
-      "images": [],
+      "images": [
+        {
+          "id": "54cc94fc-8457-4d59-b96d-9514dccd7c14",
+          "src": "images/list08/v000392-54cc94fc-8457-4d59-b96d-9514dccd7c14.webp",
+          "alt": "horn",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f1fd7c79c6436797b3cf575d62fbd2ce16bbd113e1051ec5a407f8ce9fbfeed1"
@@ -1208,7 +1448,19 @@
         "zh": "司机按喇叭提醒前面的行人。"
       },
       "id": "v000393",
-      "images": [],
+      "images": [
+        {
+          "id": "fbe6eb81-2185-4b22-9bb3-1eb55943bf42",
+          "src": "images/list08/v000393-fbe6eb81-2185-4b22-9bb3-1eb55943bf42.webp",
+          "alt": "horn",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d9fb028ddacccbf10728300aae0a59de1ac2dd60b621baa6cca28dda16d7d011"
@@ -1230,7 +1482,19 @@
         "zh": "汽车在结冰的路面上打滑了。"
       },
       "id": "v000394",
-      "images": [],
+      "images": [
+        {
+          "id": "bdae7fda-d839-4328-aa8e-e825a3b4b29f",
+          "src": "images/list08/v000394-bdae7fda-d839-4328-aa8e-e825a3b4b29f.webp",
+          "alt": "skid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "30bf3b1b1afdc96a5079e17de31705914d691048c792b75b1e63acc25cad02fa"
@@ -1252,7 +1516,19 @@
         "zh": "司机急刹车后汽车开始侧滑。"
       },
       "id": "v000395",
-      "images": [],
+      "images": [
+        {
+          "id": "bd8450e5-254f-42b5-9ea5-8f21e310377f",
+          "src": "images/list08/v000395-bd8450e5-254f-42b5-9ea5-8f21e310377f.webp",
+          "alt": "skid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9a0c67d54008ea6fd975b906ffed4cc186d636cafed6420304bb6641f96e0b8f"
@@ -1274,7 +1550,19 @@
         "zh": "进入施工现场必须穿安全背心。"
       },
       "id": "v000396",
-      "images": [],
+      "images": [
+        {
+          "id": "90ecb982-62fc-4b37-a55c-c371ba90d8eb",
+          "src": "images/list08/v000396-90ecb982-62fc-4b37-a55c-c371ba90d8eb.webp",
+          "alt": "vest",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c3c316940bcee61f9f657966e8ecafb54047e7b2d43428a5486766bd41640cb2"
@@ -1296,7 +1584,19 @@
         "zh": "法律把这项权力授予地方政府。"
       },
       "id": "v000397",
-      "images": [],
+      "images": [
+        {
+          "id": "5ae7864f-3064-4fe4-8c40-1e4632387664",
+          "src": "images/list08/v000397-5ae7864f-3064-4fe4-8c40-1e4632387664.webp",
+          "alt": "vest",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f23c33ce66cee5f4a2de8b620805aebd5a87bd1cf374f3d60b8bcc589d7b040a"
@@ -1318,7 +1618,19 @@
         "zh": "团队正在把单体架构逐步拆分成微服务。"
       },
       "id": "v000398",
-      "images": [],
+      "images": [
+        {
+          "id": "ad6bf10f-300f-4a9e-93d9-ed475a339cd0",
+          "src": "images/list08/v000398-ad6bf10f-300f-4a9e-93d9-ed475a339cd0.webp",
+          "alt": "monolithic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a28ad29cfcb2287144f7d0f180e58af6ec873e29f3b4bda40bd363a5285a059f"
@@ -1340,7 +1652,19 @@
         "zh": "不要自欺地认为这个问题会自动消失。"
       },
       "id": "v000399",
-      "images": [],
+      "images": [
+        {
+          "id": "3ef05fcf-4fab-4f10-ac82-18372b04290c",
+          "src": "images/list08/v000399-3ef05fcf-4fab-4f10-ac82-18372b04290c.webp",
+          "alt": "delude",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f482b740449af25c66a4ba09bbb40262fa04c7863e6f8a3c0755b63ea65a54a8"
@@ -1362,7 +1686,19 @@
         "zh": "他是一位出版过数十本书的多产作家。"
       },
       "id": "v000400",
-      "images": [],
+      "images": [
+        {
+          "id": "0989b12a-cd58-4bb1-a03a-a2ab53fe468e",
+          "src": "images/list08/v000400-0989b12a-cd58-4bb1-a03a-a2ab53fe468e.webp",
+          "alt": "prolific",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ed06bd2a6156fb7d2958149f12457072efa4ed4d621a5b8fc92d666b647d63ed"

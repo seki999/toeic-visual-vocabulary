@@ -20,7 +20,19 @@
         "zh": "温暖潮湿的环境促进了植物快速繁殖。"
       },
       "id": "v000401",
-      "images": [],
+      "images": [
+        {
+          "id": "d97d91a9-83c3-48be-930d-2aee43e667d9",
+          "src": "images/list09/v000401-d97d91a9-83c3-48be-930d-2aee43e667d9.webp",
+          "alt": "prolific",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9bb5b3621e174066705b1ec0f950fdeaa83628f2558c80326cd32414043fde5e"
@@ -42,7 +54,19 @@
         "zh": "慢慢吸气，然后缓缓呼气。"
       },
       "id": "v000402",
-      "images": [],
+      "images": [
+        {
+          "id": "55a811b4-44cd-46b4-9942-5afcf0a8f07f",
+          "src": "images/list09/v000402-55a811b4-44cd-46b4-9942-5afcf0a8f07f.webp",
+          "alt": "exhale",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "488a430a9239f4d05f913fcbd74802828729db0924ae72bcffece796683876b5"
@@ -64,7 +88,19 @@
         "zh": "刚出炉的面包散发着令人无法抗拒的香味。"
       },
       "id": "v000403",
-      "images": [],
+      "images": [
+        {
+          "id": "b836fde6-fd3c-4d30-b961-ce9b3050cc27",
+          "src": "images/list09/v000403-b836fde6-fd3c-4d30-b961-ce9b3050cc27.webp",
+          "alt": "irresistible",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ca276e1249f74624b9533c0c9aee718bb96f510d42b755333865c77f7a37f464"
@@ -86,7 +122,19 @@
         "zh": "所有申请者无论年龄都将受到公平评估。"
       },
       "id": "v000404",
-      "images": [],
+      "images": [
+        {
+          "id": "4ba024f8-66d4-4cc9-987d-1f09f5395158",
+          "src": "images/list09/v000404-4ba024f8-66d4-4cc9-987d-1f09f5395158.webp",
+          "alt": "irrespective",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ffdca43352a8a3744f37cdcc8c879eb9cc3413a2f4b68da7a51dd6f36c0bcdf8"
@@ -108,7 +156,19 @@
         "zh": "她为晚餐做了一个苹果派。"
       },
       "id": "v000405",
-      "images": [],
+      "images": [
+        {
+          "id": "e3bcabb5-5369-422a-b2da-cd919b1adc79",
+          "src": "images/list09/v000405-e3bcabb5-5369-422a-b2da-cd919b1adc79.webp",
+          "alt": "pie",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "53be34ffe2fdf8575df3bed4c1bdaec56f3a356d7ce7e94d32ab8295a9755ccf"
@@ -130,7 +190,19 @@
         "zh": "该机构开展了一项秘密调查。"
       },
       "id": "v000406",
-      "images": [],
+      "images": [
+        {
+          "id": "23890d6d-3487-4f18-8018-96c8f41ba943",
+          "src": "images/list09/v000406-23890d6d-3487-4f18-8018-96c8f41ba943.webp",
+          "alt": "covert",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ae7ced7a916592a18ca9451a44d7ae81e0b38863544e6fb0fca0d33f195120ee"
@@ -152,7 +224,19 @@
         "zh": "公司规定禁止任何形式的公开歧视。"
       },
       "id": "v000407",
-      "images": [],
+      "images": [
+        {
+          "id": "68d1dd9e-cabd-4291-84cb-58af49edc4b2",
+          "src": "images/list09/v000407-68d1dd9e-cabd-4291-84cb-58af49edc4b2.webp",
+          "alt": "overt",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7fce462ea400694bf315dcd57be95ab5584f51038fce66c42ce5fc40e89f1b1a"
@@ -174,7 +258,19 @@
         "zh": "监管机构对该事件展开了调查。"
       },
       "id": "v000408",
-      "images": [],
+      "images": [
+        {
+          "id": "b9485ad6-1b5b-4758-a9c4-187315ca5066",
+          "src": "images/list09/v000408-b9485ad6-1b5b-4758-a9c4-187315ca5066.webp",
+          "alt": "probe",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ee66a86144270b39d56c2d21c9a436992cb6c8b7831f7063a03b843b71b3c665"
@@ -196,7 +292,19 @@
         "zh": "工程师用温度探针检查设备。"
       },
       "id": "v000409",
-      "images": [],
+      "images": [
+        {
+          "id": "797d46a2-a62b-4eba-b740-51ff52dba425",
+          "src": "images/list09/v000409-797d46a2-a62b-4eba-b740-51ff52dba425.webp",
+          "alt": "probe",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "293fc06ba1aa90f9b2f43b9d301821fe9a0b61fcdbea6f748fdf96a2dc845601"
@@ -218,7 +326,19 @@
         "zh": "记者试图深入调查资金的来源。"
       },
       "id": "v000410",
-      "images": [],
+      "images": [
+        {
+          "id": "d82c5d51-1a36-42bb-b10e-89059c64efbe",
+          "src": "images/list09/v000410-d82c5d51-1a36-42bb-b10e-89059c64efbe.webp",
+          "alt": "probe",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fe36cefbae05848d8c7bd05ad3d96f65bb0783602849734e303b625dc5b1071b"
@@ -240,7 +360,19 @@
         "zh": "他一直很喜欢古典音乐。"
       },
       "id": "v000411",
-      "images": [],
+      "images": [
+        {
+          "id": "0adb6ab2-7640-47b2-84cc-3f4a7efaf4d8",
+          "src": "images/list09/v000411-0adb6ab2-7640-47b2-84cc-3f4a7efaf4d8.webp",
+          "alt": "fondness",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "1fc6cdcc9b161b19648b7d431fd1d3c18ed971576b01998295adf84747ed5d57"
@@ -262,7 +394,19 @@
         "zh": "账单比预期高很多，真是个糟糕的意外。"
       },
       "id": "v000412",
-      "images": [],
+      "images": [
+        {
+          "id": "7753e865-4c9f-4c1c-93d1-8dae4f4a6474",
+          "src": "images/list09/v000412-7753e865-4c9f-4c1c-93d1-8dae4f4a6474.webp",
+          "alt": "nasty",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "92a90ba431244c6a19a28b9b73a5ba88e7c29f2341527e0142883e98494f434f"
@@ -284,7 +428,19 @@
         "zh": "他在网上发表了一条刻薄的评论。"
       },
       "id": "v000413",
-      "images": [],
+      "images": [
+        {
+          "id": "61854509-9b40-4ed0-b6be-aa07133ad26c",
+          "src": "images/list09/v000413-61854509-9b40-4ed0-b6be-aa07133ad26c.webp",
+          "alt": "nasty",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c40c539fd6dd89a8b280632ec980087c4f940172cdd853774f0dc51aec7a5ade"
@@ -306,7 +462,19 @@
         "zh": "这家威士忌生产商拥有百年历史。"
       },
       "id": "v000414",
-      "images": [],
+      "images": [
+        {
+          "id": "3f4a5cc6-4ef4-4073-be42-f071f31bc3d3",
+          "src": "images/list09/v000414-3f4a5cc6-4ef4-4073-be42-f071f31bc3d3.webp",
+          "alt": "distiller",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3d6c4f1bf2fd46020494c1f95e338ca224da8f18954f93f23ca335c1c2d7ee74"
@@ -328,7 +496,19 @@
         "zh": "这款电子小装置可以监测室内温度。"
       },
       "id": "v000415",
-      "images": [],
+      "images": [
+        {
+          "id": "fb0828e5-6e33-4332-b971-8d82cdcb1aaf",
+          "src": "images/list09/v000415-fb0828e5-6e33-4332-b971-8d82cdcb1aaf.webp",
+          "alt": "gadget",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b0c1d46fbbde071f7cf50955105014ff0593c0c05d083b619a17123ded6c2bca"
@@ -350,7 +530,19 @@
         "zh": "地球的自转造成了昼夜交替。"
       },
       "id": "v000416",
-      "images": [],
+      "images": [
+        {
+          "id": "a58de0e7-15d3-4847-bf05-d4b2545cd484",
+          "src": "images/list09/v000416-a58de0e7-15d3-4847-bf05-d4b2545cd484.webp",
+          "alt": "rotation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "14f7c04b50027cfe3c650b953153af94dc947b573ac6e853cf587630cc5fff88"
@@ -372,7 +564,19 @@
         "zh": "公司通过岗位轮换培养年轻员工。"
       },
       "id": "v000417",
-      "images": [],
+      "images": [
+        {
+          "id": "e6a7416d-c6f4-409e-8f22-3c9c0d7c74fa",
+          "src": "images/list09/v000417-e6a7416d-c6f4-409e-8f22-3c9c0d7c74fa.webp",
+          "alt": "rotation",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e985a82e573f9561ebf8e36dc922ba7e40c61e783acb0cef99f4f7b3c6736892"
@@ -394,7 +598,19 @@
         "zh": "项目组需要在月底前采购新设备。"
       },
       "id": "v000418",
-      "images": [],
+      "images": [
+        {
+          "id": "ead4189f-51da-4177-8fd5-4a6a7a9c42d0",
+          "src": "images/list09/v000418-ead4189f-51da-4177-8fd5-4a6a7a9c42d0.webp",
+          "alt": "procure",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a47882feaf1fffb0ea8b86aa10b172d33512c2c7f08ddf6c505c83cfff5a13ae"
@@ -416,7 +632,19 @@
         "zh": "他确信自己做了正确的事，因此问心无愧。"
       },
       "id": "v000419",
-      "images": [],
+      "images": [
+        {
+          "id": "aa889674-58d3-425e-8ffb-83751379318b",
+          "src": "images/list09/v000419-aa889674-58d3-425e-8ffb-83751379318b.webp",
+          "alt": "conscience",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "eaabc411bbe2b84ac0fd1b24d0ed24e72d2e7dc281abc8bd2768b9189deaefeb"
@@ -438,7 +666,19 @@
         "zh": "孩子最近经历了一次快速生长期。"
       },
       "id": "v000420",
-      "images": [],
+      "images": [
+        {
+          "id": "93be0ec3-1df8-4d3a-81c9-e7234eedb11a",
+          "src": "images/list09/v000420-93be0ec3-1df8-4d3a-81c9-e7234eedb11a.webp",
+          "alt": "spurt",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "5240fffccf58772c01c7b028478cfac547196fa913a399666c74a3103629cf49"
@@ -460,7 +700,19 @@
         "zh": "水从破裂的管子里喷了出来。"
       },
       "id": "v000421",
-      "images": [],
+      "images": [
+        {
+          "id": "7e299c47-6aff-48f4-91e8-f5c090962a3b",
+          "src": "images/list09/v000421-7e299c47-6aff-48f4-91e8-f5c090962a3b.webp",
+          "alt": "spurt",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "af97def4392dc685659dd9162f92b8df2916450513b5b00ffb17f502c5174bb4"
@@ -482,7 +734,19 @@
         "zh": "那个孩子在很小的时候就表现出惊人的数学才能。"
       },
       "id": "v000422",
-      "images": [],
+      "images": [
+        {
+          "id": "e1a81716-a6a8-4686-8e10-768bbda5b890",
+          "src": "images/list09/v000422-e1a81716-a6a8-4686-8e10-768bbda5b890.webp",
+          "alt": "precocious",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8a508c1f0ce52902c353fee21fb86acd7c73629ee90bc329494936ba02ec8c58"
@@ -504,7 +768,19 @@
         "zh": "政府宣布将严厉打击网络诈骗。"
       },
       "id": "v000423",
-      "images": [],
+      "images": [
+        {
+          "id": "f62989ed-ecfc-43bd-97c0-b1d69f6de06e",
+          "src": "images/list09/v000423-f62989ed-ecfc-43bd-97c0-b1d69f6de06e.webp",
+          "alt": "crackdown",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "60614f69301d4397fc19eb8ceaebadd6e7a261ec148e9de1ad8e24313c3a171c"
@@ -526,7 +802,19 @@
         "zh": "经理因员工多次迟到而严厉批评了他。"
       },
       "id": "v000424",
-      "images": [],
+      "images": [
+        {
+          "id": "ff2cc65c-e5a3-4543-bf36-6f2a8de212d1",
+          "src": "images/list09/v000424-ff2cc65c-e5a3-4543-bf36-6f2a8de212d1.webp",
+          "alt": "upbraid",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "21143dafbbccdd72b7b9b28c39faf45e2e57a210f1fbdb16036ed6c0b6b849b0"
@@ -548,7 +836,19 @@
         "zh": "她每天早晨都会把厨房地板扫干净。"
       },
       "id": "v000425",
-      "images": [],
+      "images": [
+        {
+          "id": "1f5ccef6-0dec-43c7-ad1b-798d399b7421",
+          "src": "images/list09/v000425-1f5ccef6-0dec-43c7-ad1b-798d399b7421.webp",
+          "alt": "sweep",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "04297d9960935d21e770848651ca368d79caf89f491b0e8366eb5fe28777eb85"
@@ -570,7 +870,19 @@
         "zh": "暴风雨迅速席卷了整个地区。"
       },
       "id": "v000426",
-      "images": [],
+      "images": [
+        {
+          "id": "e026ea1a-30d9-448b-a102-4396ed7995bd",
+          "src": "images/list09/v000426-e026ea1a-30d9-448b-a102-4396ed7995bd.webp",
+          "alt": "sweep",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0ea043f2430f8fcd8c7d18db4c6cfd0b18ca59d7dd03a0a9f9414c2513030ccd"
@@ -592,7 +904,19 @@
         "zh": "活动开始前警方进行了全面安全检查。"
       },
       "id": "v000427",
-      "images": [],
+      "images": [
+        {
+          "id": "b9990243-a2a4-4598-ab16-cb2fc83a5c9f",
+          "src": "images/list09/v000427-b9990243-a2a4-4598-ab16-cb2fc83a5c9f.webp",
+          "alt": "sweep",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "89a177b04f7c0ff3a838a9f0c84be3e07cea5407fb38bf9fbf4480be7813b00d"
@@ -614,7 +938,19 @@
         "zh": "志愿者在车站前散发宣传单。"
       },
       "id": "v000428",
-      "images": [],
+      "images": [
+        {
+          "id": "3f706060-1be2-46a8-b447-fe2f10076660",
+          "src": "images/list09/v000428-3f706060-1be2-46a8-b447-fe2f10076660.webp",
+          "alt": "leaflet",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "29ca58b925e0994c71cecd0a0a351ed5b1d716e54c6bbb013794e974ffc17f3e"
@@ -636,7 +972,19 @@
         "zh": "这艘新邮轮将在下个月开始首航。"
       },
       "id": "v000429",
-      "images": [],
+      "images": [
+        {
+          "id": "6be1dfbf-893b-4ab4-8d7f-280e11ff87f7",
+          "src": "images/list09/v000429-6be1dfbf-893b-4ab4-8d7f-280e11ff87f7.webp",
+          "alt": "voyage",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c2ec548e5c42d2e77e74b70b569e8cc2bf1bade46567b4f3d1fc04b3168f8b89"
@@ -658,7 +1006,19 @@
         "zh": "他总喜欢炫耀自己的新车。"
       },
       "id": "v000430",
-      "images": [],
+      "images": [
+        {
+          "id": "117127d1-5b89-46ab-8481-fde4b4fc3879",
+          "src": "images/list09/v000430-117127d1-5b89-46ab-8481-fde4b4fc3879.webp",
+          "alt": "brag",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ea0062cffe43fae8bba357becdac8a18e88172f6be05ba197d6a805195976f4d"
@@ -680,7 +1040,19 @@
         "zh": "她厌恶地看着地上的垃圾。"
       },
       "id": "v000431",
-      "images": [],
+      "images": [
+        {
+          "id": "c3a5edbd-a207-4573-9ac7-ccb04b718dbe",
+          "src": "images/list09/v000431-c3a5edbd-a207-4573-9ac7-ccb04b718dbe.webp",
+          "alt": "disgust",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3b4893bf1d88fae4c8a44027a9d8086b3698380f60f4f0dbe6eaebd99844adf2"
@@ -702,7 +1074,19 @@
         "zh": "大家都对这种欺骗行为感到厌恶。"
       },
       "id": "v000432",
-      "images": [],
+      "images": [
+        {
+          "id": "d11ede84-7bef-43ca-925f-dd4ce7e763e3",
+          "src": "images/list09/v000432-d11ede84-7bef-43ca-925f-dd4ce7e763e3.webp",
+          "alt": "disgust",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "43c2ca21d4d0207538691463ced95c532a3eb0f04c7fc10b35b873bd5b3693d3"
@@ -724,7 +1108,19 @@
         "zh": "她因为我忘记了约会而生我的气。"
       },
       "id": "v000433",
-      "images": [],
+      "images": [
+        {
+          "id": "45313f95-c8a6-4e26-982f-fbbe1fa9f841",
+          "src": "images/list09/v000433-45313f95-c8a6-4e26-982f-fbbe1fa9f841.webp",
+          "alt": "mad",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a5d9148d058659a02dead995928257687f34ea2f6290ed7ea275da8d034f0850"
@@ -746,7 +1142,19 @@
         "zh": "他非常喜欢足球。"
       },
       "id": "v000434",
-      "images": [],
+      "images": [
+        {
+          "id": "44eb075e-1e7a-4226-9f31-5aed6f7fb87a",
+          "src": "images/list09/v000434-44eb075e-1e7a-4226-9f31-5aed6f7fb87a.webp",
+          "alt": "mad",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "93371f8e51df9a75f0d9cdccefb8f79103aba4aac09b5a6093252b636b5c5297"
@@ -768,7 +1176,19 @@
         "zh": "公司禁止在工作场所使用冒犯性语言。"
       },
       "id": "v000435",
-      "images": [],
+      "images": [
+        {
+          "id": "e9f6cd72-0a0a-4e8f-9f6b-bc2a701697d4",
+          "src": "images/list09/v000435-e9f6cd72-0a0a-4e8f-9f6b-bc2a701697d4.webp",
+          "alt": "offensive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c5b20a50bf0647f0031ec5ee8c03b98ce43e3c27832f4bb56e34ac30b8be8e36"
@@ -790,7 +1210,19 @@
         "zh": "军队在清晨发动了新的攻势。"
       },
       "id": "v000436",
-      "images": [],
+      "images": [
+        {
+          "id": "a3dca877-2385-497a-9b81-325e3c4781e7",
+          "src": "images/list09/v000436-a3dca877-2385-497a-9b81-325e3c4781e7.webp",
+          "alt": "offensive",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "36aadd1fe44402e508dbd3971752a3ce8b1f0ac878b414674bd04f3c5c0b986d"
@@ -812,7 +1244,19 @@
         "zh": "经理称赞了她出色的演讲。"
       },
       "id": "v000437",
-      "images": [],
+      "images": [
+        {
+          "id": "485f7f95-897c-49c1-9658-0e46ddce1ed8",
+          "src": "images/list09/v000437-485f7f95-897c-49c1-9658-0e46ddce1ed8.webp",
+          "alt": "compliment",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "755d9a593e1450801b7b4302b7bf1b1cd125b5ea0d4206b2281000d3606be54b"
@@ -834,7 +1278,19 @@
         "zh": "同事们称赞了他的专业表现。"
       },
       "id": "v000438",
-      "images": [],
+      "images": [
+        {
+          "id": "bd666b22-7289-49e9-94a5-67ddc3cd535b",
+          "src": "images/list09/v000438-bd666b22-7289-49e9-94a5-67ddc3cd535b.webp",
+          "alt": "compliment",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7d3bb759718b6a6fd3cd5af7b8bd2f110c8e71c5760c388af8e76f0120ccf5b7"
@@ -856,7 +1312,19 @@
         "zh": "她发表了一篇非常有感染力的演讲。"
       },
       "id": "v000439",
-      "images": [],
+      "images": [
+        {
+          "id": "335bce82-4b41-4675-bce4-098413438d69",
+          "src": "images/list09/v000439-335bce82-4b41-4675-bce4-098413438d69.webp",
+          "alt": "eloquent",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d130bca4c2ad81096cd3dd22d48804ca7bd4a41b8f6459e8df98137cdf2e5225"
@@ -878,7 +1346,19 @@
         "zh": "天气好的时候他们喜欢去玩帆船。"
       },
       "id": "v000440",
-      "images": [],
+      "images": [
+        {
+          "id": "aa4cc884-456f-465c-8a8c-cc6cdf41ed2b",
+          "src": "images/list09/v000440-aa4cc884-456f-465c-8a8c-cc6cdf41ed2b.webp",
+          "alt": "sailing",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c292c7a79f46f530a4ce5f59fcd1d6748ed411da8da3125edceea701bbfe4f45"
@@ -900,7 +1380,19 @@
         "zh": "孩子们冬天喜欢去滑雪橇。"
       },
       "id": "v000441",
-      "images": [],
+      "images": [
+        {
+          "id": "0f67f900-5c31-4917-ba7e-5a7a92de85f9",
+          "src": "images/list09/v000441-0f67f900-5c31-4917-ba7e-5a7a92de85f9.webp",
+          "alt": "sledding",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ca35cda641820891c4f5948c81f71ef5c44fd5384e22a61de54d4b86e9af6c7f"
@@ -922,7 +1414,19 @@
         "zh": "商店里有各种各样令人眼花缭乱的商品。"
       },
       "id": "v000442",
-      "images": [],
+      "images": [
+        {
+          "id": "7e1d0bb2-367c-49cb-8f17-867c82bebf14",
+          "src": "images/list09/v000442-7e1d0bb2-367c-49cb-8f17-867c82bebf14.webp",
+          "alt": "bewildering",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "aadd145932b995181627366ee54e62da11a161e59bfe29c667bb5952e79b4ca9"
@@ -944,7 +1448,19 @@
         "zh": "董事会修改了公司的章程。"
       },
       "id": "v000443",
-      "images": [],
+      "images": [
+        {
+          "id": "a82cc880-71c1-4298-a664-de3298d3b6a8",
+          "src": "images/list09/v000443-a82cc880-71c1-4298-a664-de3298d3b6a8.webp",
+          "alt": "charter",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "40bba981b30f1dcc470a4701cc0dc5d3e435611eb259d25cbdbb7344f026ae9f"
@@ -966,7 +1482,19 @@
         "zh": "公司包租了一架飞机运送员工。"
       },
       "id": "v000444",
-      "images": [],
+      "images": [
+        {
+          "id": "5fca0772-0cbf-4a12-a076-a7acd5d5a2f8",
+          "src": "images/list09/v000444-5fca0772-0cbf-4a12-a076-a7acd5d5a2f8.webp",
+          "alt": "charter",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d152ece193890b9b0edce6376a7f1df9975092f9d0044bc225b3df13a36b98db"
@@ -988,7 +1516,19 @@
         "zh": "这部电影是去年热门影片的续集。"
       },
       "id": "v000445",
-      "images": [],
+      "images": [
+        {
+          "id": "bf83bc0e-f5bb-478f-9331-429cf27b90c4",
+          "src": "images/list09/v000445-bf83bc0e-f5bb-478f-9331-429cf27b90c4.webp",
+          "alt": "sequel",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "78646a2c6eeaa064bf08b566e673ac8d9d46e77d5405c2ec23cd93f74c27333e"
@@ -1010,7 +1550,19 @@
         "zh": "政府派遣了一名特使参加谈判。"
       },
       "id": "v000446",
-      "images": [],
+      "images": [
+        {
+          "id": "df994990-fe6d-4f48-8743-367677b57df7",
+          "src": "images/list09/v000446-df994990-fe6d-4f48-8743-367677b57df7.webp",
+          "alt": "envoy",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e622afa3cf03a99a4c7d800f1f49fa7af8f688b7d0471f95e274b261bfca0072"
@@ -1032,7 +1584,19 @@
         "zh": "这个城市居住着多个不同的族群。"
       },
       "id": "v000447",
-      "images": [],
+      "images": [
+        {
+          "id": "8427f24f-9d79-4a86-a435-4349547ae7f6",
+          "src": "images/list09/v000447-8427f24f-9d79-4a86-a435-4349547ae7f6.webp",
+          "alt": "ethnic",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d5bc1160b2371b1985ce9dfee5879e8b080b95205fce6b67e57da77193b48292"
@@ -1054,7 +1618,19 @@
         "zh": "该计划旨在改善少数群体的教育机会。"
       },
       "id": "v000448",
-      "images": [],
+      "images": [
+        {
+          "id": "5cfbf631-1ba2-4a22-9d9d-332880b05a4c",
+          "src": "images/list09/v000448-5cfbf631-1ba2-4a22-9d9d-332880b05a4c.webp",
+          "alt": "minority",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "888f99f463079d010d8182a87e9a98379038c751dd9fdb169c0db9bc41aa3da0"
@@ -1076,7 +1652,19 @@
         "zh": "医生怀疑他患有胃溃疡。"
       },
       "id": "v000449",
-      "images": [],
+      "images": [
+        {
+          "id": "dc2f45aa-aac8-4fbc-9cbe-311b49237533",
+          "src": "images/list09/v000449-dc2f45aa-aac8-4fbc-9cbe-311b49237533.webp",
+          "alt": "ulcer",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "9a229f1b4a4ba6e05c196a823a353459d4bb3b49ca388410d2eb85af3162c8be"
@@ -1098,7 +1686,19 @@
         "zh": "警方在车内发现了非法毒品。"
       },
       "id": "v000450",
-      "images": [],
+      "images": [
+        {
+          "id": "d31e3814-d97e-4c81-a382-c779393806f0",
+          "src": "images/list09/v000450-d31e3814-d97e-4c81-a382-c779393806f0.webp",
+          "alt": "dope",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7a3002663894ee2242af91f6983885a47b350b7568e189a1482e63949743f545"
