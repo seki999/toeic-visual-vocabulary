@@ -1346,7 +1346,19 @@
         "zh": "这句话是对原文的简洁改述。"
       },
       "id": "v000490",
-      "images": [],
+      "images": [
+        {
+          "id": "7539eec1-5fe2-4d6b-ae0d-a82b0ce52e1c",
+          "src": "images/list10/v000490-7539eec1-5fe2-4d6b-ae0d-a82b0ce52e1c.webp",
+          "alt": "paraphrase",
+          "widthPercent": 100,
+          "height": 300,
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a3ad21e28cd61323edda2bd88c812c67b6775bec94a0247f25cae36426f7b6e3"
