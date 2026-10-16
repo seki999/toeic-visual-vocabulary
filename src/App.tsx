@@ -1081,6 +1081,14 @@ function Reader() {
                     </label>
                   ))}
                 </div>
+                <label className="checks">
+                  <input
+                    type="checkbox"
+                    checked={c.imageIpa}
+                    onChange={(e) => set({ imageIpa: e.target.checked })}
+                  />
+                  纯图片显示国际音标（UK / US）
+                </label>
                 <h3>图片覆盖字段</h3>
                 <div className="checks">
                   {fields.map((f) => (
@@ -1365,6 +1373,12 @@ function Reader() {
                                       background: `rgba(0,0,0,${c.overlayBackground})`,
                                     }}
                                   >
+                                    {c.imageIpa && (w.ipa.uk || w.ipa.us) && (
+                                      <div className="image-ipa">
+                                        {w.ipa.uk && <span>UK {w.ipa.uk}</span>}
+                                        {w.ipa.us && <span>US {w.ipa.us}</span>}
+                                      </div>
+                                    )}
                                     {c.overlay.map((f) => (
                                       <div key={f}>{fieldText(w, f)}</div>
                                     ))}

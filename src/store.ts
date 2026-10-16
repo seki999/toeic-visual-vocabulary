@@ -1,12 +1,13 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import { type Field } from "./types";
+import { fields, type Field } from "./types";
 export interface Settings {
   mode: "both" | "text" | "image";
   font: number;
   ratio: number;
   visible: Field[];
   overlay: Field[];
+  imageIpa: boolean;
   overlayPosition: "top" | "center" | "bottom";
   overlayColor: string;
   overlaySize: number;
@@ -46,12 +47,13 @@ export const defaults: Settings = {
     "example.zh",
   ],
   overlay: ["word"],
+  imageIpa: false,
   overlayPosition: "bottom",
   overlayColor: "#ffffff",
   overlaySize: 24,
   overlayBackground: 0.65,
   reveal: false,
-  order: ["word", "example.en"],
+  order: [...fields],
   enRate: 0.8,
   zhRate: 1.2,
   pitch: 1,
@@ -93,13 +95,20 @@ export const useStore = create<{
     }),
     {
       name: "toeic-settings-v1",
-      version: 3,
-      // Enable screen wake for existing installations, not only new visitors.
-      migrate: (persisted) => {
+      version: 4,
+      // Upgrade the former default without replacing a custom reading order.
+      migrate: (persisted, version) => {
         const state = persisted as { settings?: Partial<Settings> };
+        const previous = state.settings ?? {};
+        const oldDefault = previous.order?.join(",") === "word,example.en";
         return {
           ...state,
-          settings: { ...defaults, ...state.settings, enRate: 0.8, zhRate: 1.2, wake: true },
+          settings: {
+            ...defaults,
+            ...previous,
+            ...(version < 3 ? { enRate: 0.8, zhRate: 1.2, wake: true } : {}),
+            ...(!previous.order || oldDefault ? { order: [...fields] } : {}),
+          },
         };
       },
     },

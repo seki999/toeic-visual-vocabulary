@@ -274,7 +274,9 @@ test("selecting a word while stopped updates the saved learning position", async
 test("lists, modes, search and read-only hosted controls", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator(".card")).toHaveCount(50);
-  await expect(page.locator(".word-content h2").first()).toContainText("abstain");
+  await expect(page.locator(".word-content h2").first()).toContainText(
+    "abstain",
+  );
   await page.getByRole("button", { name: "List 02", exact: false }).click();
   await expect(page.locator("h1")).toContainText("List 02");
   await expect(page.locator(".card")).toHaveCount(50);
@@ -321,3 +323,52 @@ for (const [name, width, height] of [
     }
   });
 }
+
+test("image IPA can be enabled, remembered and hidden; old reading defaults upgrade", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("toeic-settings-v1"))
+      localStorage.setItem(
+        "toeic-settings-v1",
+        JSON.stringify({
+          version: 3,
+          state: {
+            listId: "list01",
+            positions: {},
+            settings: {
+              order: ["word", "example.en"],
+              enRate: 1.1,
+              zhRate: 1.4,
+            },
+          },
+        }),
+      );
+  });
+  await page.goto("/");
+  await expect(page.locator(".card")).toHaveCount(50);
+  await page.getByRole("button", { name: "纯图片", exact: true }).click();
+  await expect(page.locator(".image-ipa")).toHaveCount(0);
+  await page.getByRole("button", { name: "显示设置", exact: true }).click();
+  await page.getByLabel("纯图片显示国际音标（UK / US）").check();
+  await expect(page.locator(".image-ipa").first()).toContainText("UK");
+  await expect(page.locator(".image-ipa").first()).toContainText("US");
+  await page.reload();
+  await expect(page.locator(".image-ipa").first()).toBeVisible();
+  const saved = await page.evaluate(
+    () => JSON.parse(localStorage.getItem("toeic-settings-v1")!).state.settings,
+  );
+  expect(saved.order).toEqual([
+    "word",
+    "meaning",
+    "collocation.en",
+    "collocation.zh",
+    "example.en",
+    "example.zh",
+  ]);
+  expect(saved.enRate).toBe(1.1);
+  expect(saved.zhRate).toBe(1.4);
+  await page.getByRole("button", { name: "显示设置", exact: true }).click();
+  await page.getByLabel("纯图片显示国际音标（UK / US）").uncheck();
+  await expect(page.locator(".image-ipa")).toHaveCount(0);
+});

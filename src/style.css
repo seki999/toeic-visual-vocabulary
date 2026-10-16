@@ -1341,3 +1341,12 @@ header .breadcrumb button {
   height: 100dvh;
   overflow: hidden;
 }
+
+.image-ipa {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  font-size: 0.8em;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
