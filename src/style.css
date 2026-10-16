@@ -1350,3 +1350,59 @@ header .breadcrumb button {
   line-height: 1.6;
   overflow-wrap: anywhere;
 }
+
+/* Desktop fullscreen playback uses a single uncropped slide. */
+:fullscreen .app.image-focus .sidebar,
+:fullscreen
+  .app.image-focus
+  main
+  > :not(.cards):not(.player-bar):not(.restore-controls),
+:fullscreen .app.image-focus .card:not(.current),
+:fullscreen .app.image-focus .card-top {
+  display: none;
+}
+:fullscreen .app.image-focus main {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: none;
+  height: 100dvh;
+  overflow: hidden;
+  scrollbar-gutter: auto;
+  background: #15211d;
+}
+:fullscreen .app.image-focus .cards,
+:fullscreen .app.image-focus .card.current,
+:fullscreen .app.image-focus .card-body,
+:fullscreen .app.image-focus .image-area,
+:fullscreen .app.image-focus .picture-wrap,
+:fullscreen .app.image-focus .picture {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: #15211d;
+}
+:fullscreen .app.image-focus .cards {
+  display: block;
+}
+:fullscreen .app.image-focus .picture img {
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 100dvh;
+  max-width: 100%;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  transform: none !important;
+}
+:fullscreen .app.image-focus .player-bar {
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
+  width: min(960px, calc(100% - 32px));
+  bottom: 16px;
+}

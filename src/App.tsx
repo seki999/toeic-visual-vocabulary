@@ -192,15 +192,16 @@ function Reader() {
     media.addEventListener("change", change);
     return () => media.removeEventListener("change", change);
   }, []);
+  const autoHideControls = compactScreen || (fullscreen && c.mode === "image");
   useEffect(() => {
-    if (status !== "playing" || !compactScreen) {
+    if (status !== "playing" || !autoHideControls) {
       setControlsVisible(true);
       return;
     }
     if (!controlsVisible || panel) return;
     const timer = setTimeout(() => setControlsVisible(false), 4000);
     return () => clearTimeout(timer);
-  }, [status, compactScreen, controlsVisible, controlsActivity, panel]);
+  }, [status, autoHideControls, controlsVisible, controlsActivity, panel]);
   function showControls() {
     setControlsVisible(true);
     setControlsActivity((n) => n + 1);
@@ -323,6 +324,14 @@ function Reader() {
     }
     previousPlaybackSettings.current = { listId, settings: c };
   }, [listId, c]);
+  useEffect(() => {
+    if (!fullscreen || c.mode !== "image" || status === "stopped") return;
+    const frame = requestAnimationFrame(() => {
+      document.querySelector("main")?.scrollTo({ top: 0, behavior: "instant" });
+      window.scrollTo({ top: 0, behavior: "instant" });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [fullscreen, c.mode, status, index]);
   function scrollToWord(id: string) {
     const card = refs.current[id];
     if (!card) return;
@@ -528,7 +537,7 @@ function Reader() {
     : [];
   return (
     <div
-      className={`app ${collapsed ? "collapsed" : ""} ${storyActive ? "story-active" : ""} ${compactScreen && !controlsVisible ? "player-hidden" : ""} ${status !== "stopped" && c.mode === "image" && !editing && !panel && !query ? "image-focus" : ""}`}
+      className={`app ${collapsed ? "collapsed" : ""} ${storyActive ? "story-active" : ""} ${autoHideControls && !controlsVisible ? "player-hidden" : ""} ${status !== "stopped" && c.mode === "image" && !editing && !panel && !query ? "image-focus" : ""}`}
       style={
         {
           "--reading-size": `${c.font}px`,
@@ -604,7 +613,7 @@ function Reader() {
       {drawer && <div className="scrim" onClick={() => setDrawer(false)} />}
       <main
         onClickCapture={(e) => {
-          if (compactScreen && !controlsVisible) {
+          if (autoHideControls && !controlsVisible) {
             e.stopPropagation();
             e.preventDefault();
             showControls();
@@ -1748,7 +1757,7 @@ function Reader() {
             onStatus={(s) => setStoryActive(s === "playing" || s === "paused")}
           />
         )}
-        {!storyActive && !controlsVisible && compactScreen && (
+        {!storyActive && !controlsVisible && autoHideControls && (
           <button
             className="restore-controls"
             aria-label="显示播放控制"
@@ -1759,7 +1768,7 @@ function Reader() {
         )}
         <div
           className="player-bar"
-          hidden={storyActive || (compactScreen && !controlsVisible)}
+          hidden={storyActive || (autoHideControls && !controlsVisible)}
           onPointerDown={() => setControlsActivity((n) => n + 1)}
           onFocusCapture={() => setControlsActivity((n) => n + 1)}
         >
@@ -1815,7 +1824,7 @@ function Reader() {
           <button className="player-config" onClick={() => setPanel("speech")}>
             EN {c.enRate}× / 中 {c.zhRate}× <Settings2 size={18} />
           </button>
-          {compactScreen && status === "playing" && (
+          {autoHideControls && status === "playing" && (
             <button
               className="hide-controls"
               aria-label="隐藏播放控制"

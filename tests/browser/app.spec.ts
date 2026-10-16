@@ -372,3 +372,56 @@ test("image IPA can be enabled, remembered and hidden; old reading defaults upgr
   await page.getByLabel("纯图片显示国际音标（UK / US）").uncheck();
   await expect(page.locator(".image-ipa")).toHaveCount(0);
 });
+
+test("desktop fullscreen image playback fills screen and hides controls", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.addInitScript(() =>
+    Object.defineProperty(window, "speechSynthesis", {
+      value: {
+        getVoices: () => [],
+        addEventListener: () => {},
+        removeEventListener: () => {},
+        cancel: () => {},
+        pause: () => {},
+        resume: () => {},
+        speak: () => {},
+      },
+    }),
+  );
+  await page.goto("/");
+  await expect(page.locator(".card")).toHaveCount(50);
+  await page.getByRole("button", { name: "纯图片", exact: true }).click();
+  await page.getByRole("button", { name: "进入全屏", exact: true }).click();
+  await expect
+    .poll(() => page.evaluate(() => !!document.fullscreenElement))
+    .toBe(true);
+  await page.getByRole("button", { name: "播放", exact: true }).click();
+  await expect(page.locator(".card:visible")).toHaveCount(1);
+  await expect(page.locator(".sidebar")).toBeHidden();
+  const img = page.locator(".card.current .picture img").first();
+  await expect(img).toHaveCSS("object-fit", "contain");
+  const box = await img.boundingBox();
+  const size = await page.evaluate(() => ({ w: innerWidth, h: innerHeight }));
+  expect(box!.x).toBe(0);
+  expect(box!.y).toBe(0);
+  expect(box!.width).toBe(size.w);
+  expect(box!.height).toBe(size.h);
+  await expect(page.locator(".player-bar")).toBeHidden({ timeout: 7000 });
+  await img.click();
+  await expect(page.locator(".player-bar")).toBeVisible();
+  await page.getByRole("button", { name: "下一条", exact: true }).click();
+  await expect(page.locator(".player-word small").first()).toContainText(
+    "2 / 50",
+  );
+  await page.getByRole("button", { name: "停止", exact: true }).click();
+  await expect(page.locator(".card:visible")).toHaveCount(50);
+  await page
+    .getByRole("button", { name: "退出全屏", exact: true })
+    .first()
+    .click();
+  await expect
+    .poll(() => page.evaluate(() => !!document.fullscreenElement))
+    .toBe(false);
+});
