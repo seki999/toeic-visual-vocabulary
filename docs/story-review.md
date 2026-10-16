@@ -41,7 +41,7 @@ JSON 的运行时验证在 `src/story/data.ts`；不合法故事会在自己的�
 
 推荐 21:9，前端 contain 保留完整人物，也支持 16:9 与原图比例。当前句的 image 优先，其次场景 image；句图加载失败时尝试场景图，场景图也失败则显示占位，不中断朗读。会预加载下一句对应图片。
 
-本次未生成图片。List 01 配置了 scene01.webp～scene05.webp 五个待添加路径，目前显示占位；可参考 `docs/story-image-prompts.md` 制图。Line 的 image 默认为 null，需要单句切换画面时改为对应 WebP 路径。
+List 01 已补齐 scene01.webp～scene05.webp 五张 AI 生成的写实场景图，约 21:9 横图，以 WebP 保存。生成使用内置 image_gen，原始提示词及角色设定见 `docs/story-image-prompts.md`。Line 的 image 默认为 null，需要单句切换画面时改为对应 WebP 路径。
 
 ## 校验与人工审校
 

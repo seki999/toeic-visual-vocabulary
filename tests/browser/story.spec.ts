@@ -144,6 +144,9 @@ for (const [name, width, height] of [
     page,
   }) => {
     await page.setViewportSize({ width, height });
+    await page.route("**/images/stories/list01/*.webp", (r) =>
+      r.fulfill({ status: 404, body: "missing fixture image" }),
+    );
     await page.goto("/");
     const review = page.locator(".story-review");
     await review.getByRole("button", { name: /Story Review/ }).click();
