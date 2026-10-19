@@ -1,0 +1,1663 @@
+{
+  "id": "list14",
+  "title": "List 14",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "stance",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/stɑːns/",
+        "us": "/stæns/"
+      },
+      "meaning": "立场；态度",
+      "collocation": {
+        "en": "take a stance on",
+        "zh": "对……表明立场"
+      },
+      "example": {
+        "en": "The company needs to take a stance on data privacy.",
+        "zh": "公司需要对数据隐私问题表明立场。"
+      },
+      "id": "v000651",
+      "images": [
+        {
+          "id": "generated-v000651",
+          "src": "images/list14/v000651.webp",
+          "alt": "stance: take a stance on",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "afd0a9acc862b4f6d8bda848b356de82ed2069fa3c80723bc63f00d66931f3b2"
+    },
+    {
+      "word": "pivot",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈpɪvət/",
+        "us": "/ˈpɪvət/"
+      },
+      "meaning": "转向；改变策略",
+      "collocation": {
+        "en": "pivot to",
+        "zh": "转向……"
+      },
+      "example": {
+        "en": "The company decided to pivot to a subscription business model.",
+        "zh": "公司决定转向订阅制商业模式。"
+      },
+      "id": "v000652",
+      "images": [
+        {
+          "id": "generated-v000652",
+          "src": "images/list14/v000652.webp",
+          "alt": "pivot: pivot to",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b2982fb12f547c7cf0ac76d71309979ebfb2f34bc62bd78bdca4d75c9f473d3c"
+    },
+    {
+      "word": "pivot",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpɪvət/",
+        "us": "/ˈpɪvət/"
+      },
+      "meaning": "支点；关键中心",
+      "collocation": {
+        "en": "a key pivot",
+        "zh": "关键枢纽"
+      },
+      "example": {
+        "en": "The city is a key pivot for regional transportation.",
+        "zh": "这个城市是区域交通的重要枢纽。"
+      },
+      "id": "v000653",
+      "images": [
+        {
+          "id": "generated-v000653",
+          "src": "images/list14/v000653.webp",
+          "alt": "pivot: a key pivot",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9abf4f4eac46ba221174208da68131e528e5dd85eed661f0925d5a0b9b0d141e"
+    },
+    {
+      "word": "amicable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈæmɪkəbl/",
+        "us": "/ˈæmɪkəbl/"
+      },
+      "meaning": "友好的；和平的",
+      "collocation": {
+        "en": "amicable settlement",
+        "zh": "友好和解"
+      },
+      "example": {
+        "en": "The two sides eventually reached an amicable settlement.",
+        "zh": "双方最终达成了友好和解。"
+      },
+      "id": "v000654",
+      "images": [
+        {
+          "id": "generated-v000654",
+          "src": "images/list14/v000654.webp",
+          "alt": "amicable: amicable settlement",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1917072e82da4514811711d3f5cbd5e0c4e258b74ae50dedd973016fa317c86d"
+    },
+    {
+      "word": "exert",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪɡˈzɜːt/",
+        "us": "/ɪɡˈzɜːrt/"
+      },
+      "meaning": "施加；运用",
+      "collocation": {
+        "en": "exert pressure on",
+        "zh": "对……施加压力"
+      },
+      "example": {
+        "en": "Investors exerted pressure on management.",
+        "zh": "投资者向管理层施加了压力。"
+      },
+      "id": "v000655",
+      "images": [
+        {
+          "id": "generated-v000655",
+          "src": "images/list14/v000655.webp",
+          "alt": "exert: exert pressure on",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "febce79cb49b8aba0856b0461b552ed3a523a4a184d4b966dedf0071f45f65cb"
+    },
+    {
+      "word": "formulation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌfɔːmjəˈleɪʃn/",
+        "us": "/ˌfɔːrmjəˈleɪʃn/"
+      },
+      "meaning": "制定；构想",
+      "collocation": {
+        "en": "policy formulation",
+        "zh": "政策制定"
+      },
+      "example": {
+        "en": "Experts participated in the formulation of the new policy.",
+        "zh": "专家参与了新政策的制定。"
+      },
+      "id": "v000656",
+      "images": [
+        {
+          "id": "generated-v000656",
+          "src": "images/list14/v000656.webp",
+          "alt": "formulation: policy formulation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1aaea769ad0b142e835c2bd856e8f46b34a948d5f384903004b5d8d71336badb"
+    },
+    {
+      "word": "formulation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌfɔːmjəˈleɪʃn/",
+        "us": "/ˌfɔːrmjəˈleɪʃn/"
+      },
+      "meaning": "配方；制剂",
+      "collocation": {
+        "en": "new formulation",
+        "zh": "新配方"
+      },
+      "example": {
+        "en": "The company introduced a new formulation.",
+        "zh": "公司推出了改良后的新配方。"
+      },
+      "id": "v000657",
+      "images": [
+        {
+          "id": "generated-v000657",
+          "src": "images/list14/v000657.webp",
+          "alt": "formulation: new formulation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d6ff37c1422bf22b4b66ba497eadf5f7735f6161381585ee3d60f7dce646b71f"
+    },
+    {
+      "word": "volatile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈvɒlətaɪl/",
+        "us": "/ˈvɑːlətl/"
+      },
+      "meaning": "易变的；不稳定的",
+      "collocation": {
+        "en": "volatile market",
+        "zh": "波动剧烈的市场"
+      },
+      "example": {
+        "en": "Investors are more cautious in a volatile market.",
+        "zh": "投资者在波动剧烈的市场中更加谨慎。"
+      },
+      "id": "v000658",
+      "images": [
+        {
+          "id": "generated-v000658",
+          "src": "images/list14/v000658.webp",
+          "alt": "volatile: volatile market",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "282fe34bf15454aab83cfcbd4972dfa17ede4311d39447c64594017b8be82d32"
+    },
+    {
+      "word": "volatile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈvɒlətaɪl/",
+        "us": "/ˈvɑːlətl/"
+      },
+      "meaning": "易挥发的",
+      "collocation": {
+        "en": "volatile substance",
+        "zh": "挥发性物质"
+      },
+      "example": {
+        "en": "This solvent is a highly volatile substance.",
+        "zh": "这种溶剂是一种高度挥发性物质。"
+      },
+      "id": "v000659",
+      "images": [
+        {
+          "id": "generated-v000659",
+          "src": "images/list14/v000659.webp",
+          "alt": "volatile: volatile substance",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "940c05dfdbc077b9e7dfb2123673f6d7ee7d75d5ab0f9956fd2a18bf196dbd74"
+    },
+    {
+      "word": "momentum",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/məˈmentəm/",
+        "us": "/moʊˈmentəm/"
+      },
+      "meaning": "势头；动力",
+      "collocation": {
+        "en": "gain momentum",
+        "zh": "获得势头"
+      },
+      "example": {
+        "en": "The new project is gradually gaining momentum.",
+        "zh": "新项目正在逐渐获得推进势头。"
+      },
+      "id": "v000660",
+      "images": [
+        {
+          "id": "generated-v000660",
+          "src": "images/list14/v000660.webp",
+          "alt": "momentum: gain momentum",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7da101dc62c268ad8368ae2dcf7bf3ac79cfe16e782db4099a15c64e825e6f00"
+    },
+    {
+      "word": "alias",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈeɪliəs/",
+        "us": "/ˈeɪliəs/"
+      },
+      "meaning": "别名；化名",
+      "collocation": {
+        "en": "under the alias",
+        "zh": "使用化名"
+      },
+      "example": {
+        "en": "The suspect checked into the hotel under an alias.",
+        "zh": "嫌疑人使用化名入住酒店。"
+      },
+      "id": "v000661",
+      "images": [
+        {
+          "id": "generated-v000661",
+          "src": "images/list14/v000661.webp",
+          "alt": "alias: under the alias",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "56b19368e8a06684f7456d63adf8f09c079e04a3a1fe6dc80018598cb744756f"
+    },
+    {
+      "word": "scam",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/skæm/",
+        "us": "/skæm/"
+      },
+      "meaning": "骗局；诈骗",
+      "collocation": {
+        "en": "online scam",
+        "zh": "网络诈骗"
+      },
+      "example": {
+        "en": "Police warned residents about online scams.",
+        "zh": "警方提醒居民警惕网络诈骗。"
+      },
+      "id": "v000662",
+      "images": [
+        {
+          "id": "generated-v000662",
+          "src": "images/list14/v000662.webp",
+          "alt": "scam: online scam",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c03e81092468274cc9217d7c07be536fd35c91a089ca344c7428126b7a3c9b0e"
+    },
+    {
+      "word": "scam",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/skæm/",
+        "us": "/skæm/"
+      },
+      "meaning": "诈骗；欺骗",
+      "collocation": {
+        "en": "scam someone out of",
+        "zh": "骗走某人的……"
+      },
+      "example": {
+        "en": "The fraudster scammed the victim out of thousands of dollars.",
+        "zh": "骗子骗走了受害者数千美元。"
+      },
+      "id": "v000663",
+      "images": [
+        {
+          "id": "generated-v000663",
+          "src": "images/list14/v000663.webp",
+          "alt": "scam: scam someone out of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e6a7cc8c87e243dd9316fb96a334dc0e31678ff23613709ab944ad7c7b3640f5"
+    },
+    {
+      "word": "flip",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/flɪp/",
+        "us": "/flɪp/"
+      },
+      "meaning": "翻转；翻面",
+      "collocation": {
+        "en": "flip over",
+        "zh": "翻过来"
+      },
+      "example": {
+        "en": "Please flip the pancake over and cook it for another minute.",
+        "zh": "请把煎饼翻面再煎一分钟。"
+      },
+      "id": "v000664",
+      "images": [
+        {
+          "id": "generated-v000664",
+          "src": "images/list14/v000664.webp",
+          "alt": "flip: flip over",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "26c8012fa21764fbc13efd4947c4c97028def1be4a37adf29aaa3868311bf288"
+    },
+    {
+      "word": "flip",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/flɪp/",
+        "us": "/flɪp/"
+      },
+      "meaning": "突然改变；转变",
+      "collocation": {
+        "en": "flip from A to B",
+        "zh": "从A突然转为B"
+      },
+      "example": {
+        "en": "Market sentiment quickly flipped from optimism to pessimism.",
+        "zh": "市场情绪迅速从乐观转为悲观。"
+      },
+      "id": "v000665",
+      "images": [
+        {
+          "id": "generated-v000665",
+          "src": "images/list14/v000665.webp",
+          "alt": "flip: flip from A to B",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "59ff182989533841e82d8c262fc14ca56534cd5194819b9ef88a5af1121e0ec9"
+    },
+    {
+      "word": "humanitarian",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/hjuːˌmænɪˈteəriən/",
+        "us": "/hjuːˌmænɪˈteriən/"
+      },
+      "meaning": "人道主义的",
+      "collocation": {
+        "en": "humanitarian aid",
+        "zh": "人道主义援助"
+      },
+      "example": {
+        "en": "International organizations provided humanitarian aid to the disaster area.",
+        "zh": "国际组织向灾区提供了人道主义援助。"
+      },
+      "id": "v000666",
+      "images": [
+        {
+          "id": "generated-v000666",
+          "src": "images/list14/v000666.webp",
+          "alt": "humanitarian: humanitarian aid",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "50be2adec2a350e50c503a4f6c20a3e99f35ae3c1218c56ae5c5d1bfa0b30235"
+    },
+    {
+      "word": "humanitarian",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hjuːˌmænɪˈteəriən/",
+        "us": "/hjuːˌmænɪˈteriən/"
+      },
+      "meaning": "人道主义者",
+      "collocation": {
+        "en": "a prominent humanitarian",
+        "zh": "著名人道主义者"
+      },
+      "example": {
+        "en": "She is a humanitarian who has long helped refugees.",
+        "zh": "她是一位长期帮助难民的人道主义者。"
+      },
+      "id": "v000667",
+      "images": [
+        {
+          "id": "generated-v000667",
+          "src": "images/list14/v000667.webp",
+          "alt": "humanitarian: a prominent humanitarian",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "053ee3775e1fb31d9bbf312ffe5cb91568b4e05a781803350db374a6f1ead579"
+    },
+    {
+      "word": "astray",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/əˈstreɪ/",
+        "us": "/əˈstreɪ/"
+      },
+      "meaning": "迷路；误入歧途",
+      "collocation": {
+        "en": "go astray",
+        "zh": "迷路；走上歧途"
+      },
+      "example": {
+        "en": "We almost went astray in the forest.",
+        "zh": "我们在森林里差点迷路。"
+      },
+      "id": "v000668",
+      "images": [
+        {
+          "id": "generated-v000668",
+          "src": "images/list14/v000668.webp",
+          "alt": "astray: go astray",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d8decc95ccb61ec2920a2914b6247930c31b86a1116e8e45ada465cfcf105584"
+    },
+    {
+      "word": "tempt",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/tempt/",
+        "us": "/tempt/"
+      },
+      "meaning": "诱惑；吸引",
+      "collocation": {
+        "en": "tempt someone to do",
+        "zh": "诱使某人做……"
+      },
+      "example": {
+        "en": "The low-price promotion tempted many people to buy impulsively.",
+        "zh": "低价促销诱使许多人冲动购物。"
+      },
+      "id": "v000669",
+      "images": [
+        {
+          "id": "generated-v000669",
+          "src": "images/list14/v000669.webp",
+          "alt": "tempt: tempt someone to do",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "06d0e83f67b8a6b3ba9b0066ac5ee6a682d9f459fc3b420125ec85c785e47a5e"
+    },
+    {
+      "word": "glimpse",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡlɪmps/",
+        "us": "/ɡlɪmps/"
+      },
+      "meaning": "一瞥；短暂看到",
+      "collocation": {
+        "en": "catch a glimpse of",
+        "zh": "瞥见……"
+      },
+      "example": {
+        "en": "I caught a glimpse of Mount Fuji through the car window.",
+        "zh": "我从车窗里瞥见了富士山。"
+      },
+      "id": "v000670",
+      "images": [
+        {
+          "id": "generated-v000670",
+          "src": "images/list14/v000670.webp",
+          "alt": "glimpse: catch a glimpse of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f44757751eb5227c4d99d557c32ad4aea72b98f8ed1d59e014cec29e869efbf4"
+    },
+    {
+      "word": "glimpse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡlɪmps/",
+        "us": "/ɡlɪmps/"
+      },
+      "meaning": "瞥见",
+      "collocation": {
+        "en": "glimpse something",
+        "zh": "瞥见某物"
+      },
+      "example": {
+        "en": "She glimpsed her friend in the crowd.",
+        "zh": "她在人群中瞥见了朋友。"
+      },
+      "id": "v000671",
+      "images": [
+        {
+          "id": "generated-v000671",
+          "src": "images/list14/v000671.webp",
+          "alt": "glimpse: glimpse something",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a519434fab26c4990ad516efc4c22edc505bdbf043ff3cb6535f5b08ad55e98f"
+    },
+    {
+      "word": "coastal",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkəʊstl/",
+        "us": "/ˈkoʊstl/"
+      },
+      "meaning": "沿海的；海岸的",
+      "collocation": {
+        "en": "coastal area",
+        "zh": "沿海地区"
+      },
+      "example": {
+        "en": "The typhoon brought strong winds to coastal areas.",
+        "zh": "台风给沿海地区带来了强风。"
+      },
+      "id": "v000672",
+      "images": [
+        {
+          "id": "generated-v000672",
+          "src": "images/list14/v000672.webp",
+          "alt": "coastal: coastal area",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "27fde96c8cb0a747d2ace2f4dafc7a5635060573619668eb003c059a2e734a56"
+    },
+    {
+      "word": "folk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fəʊk/",
+        "us": "/foʊk/"
+      },
+      "meaning": "人们；民众",
+      "collocation": {
+        "en": "local folk",
+        "zh": "当地人"
+      },
+      "example": {
+        "en": "The local folk are very friendly to visitors.",
+        "zh": "当地人对游客非常友好。"
+      },
+      "id": "v000673",
+      "images": [
+        {
+          "id": "generated-v000673",
+          "src": "images/list14/v000673.webp",
+          "alt": "folk: local folk",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "97d22782a61a5b64600b6c8ded5d5346f685c133f8957625074f705962d50068"
+    },
+    {
+      "word": "folk",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/fəʊk/",
+        "us": "/foʊk/"
+      },
+      "meaning": "民间的；传统的",
+      "collocation": {
+        "en": "folk music",
+        "zh": "民间音乐"
+      },
+      "example": {
+        "en": "Traditional folk music was played at the festival.",
+        "zh": "节日上播放了传统民间音乐。"
+      },
+      "id": "v000674",
+      "images": [
+        {
+          "id": "generated-v000674",
+          "src": "images/list14/v000674.webp",
+          "alt": "folk: folk music",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ef940355a7e7375d807dc270b38c44f5c8ab980c2cb1ad285c7c2c96d4e55a8d"
+    },
+    {
+      "word": "hail",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/heɪl/",
+        "us": "/heɪl/"
+      },
+      "meaning": "冰雹",
+      "collocation": {
+        "en": "heavy hail",
+        "zh": "大冰雹"
+      },
+      "example": {
+        "en": "Heavy hail suddenly fell in the afternoon.",
+        "zh": "下午突然下起了冰雹。"
+      },
+      "id": "v000675",
+      "images": [
+        {
+          "id": "generated-v000675",
+          "src": "images/list14/v000675.webp",
+          "alt": "hail: heavy hail",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ecf81d244470f864ecda270980e984fc2e0ff93ff6edff8d542653453ce2d3ae"
+    },
+    {
+      "word": "hail",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/heɪl/",
+        "us": "/heɪl/"
+      },
+      "meaning": "称赞；誉为",
+      "collocation": {
+        "en": "hail A as B",
+        "zh": "称赞A为B"
+      },
+      "example": {
+        "en": "The invention was hailed as a major breakthrough.",
+        "zh": "这项发明被誉为重大突破。"
+      },
+      "id": "v000676",
+      "images": [
+        {
+          "id": "generated-v000676",
+          "src": "images/list14/v000676.webp",
+          "alt": "hail: hail A as B",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f0ece3913fe4d1bc3c9d989206d40090db3b68f8252a9e1c0ea642fe89cba8f8"
+    },
+    {
+      "word": "hail",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/heɪl/",
+        "us": "/heɪl/"
+      },
+      "meaning": "招呼；叫出租车",
+      "collocation": {
+        "en": "hail a taxi",
+        "zh": "招出租车"
+      },
+      "example": {
+        "en": "We hailed a taxi outside the station.",
+        "zh": "我们在车站外招了一辆出租车。"
+      },
+      "id": "v000677",
+      "images": [
+        {
+          "id": "generated-v000677",
+          "src": "images/list14/v000677.webp",
+          "alt": "hail: hail a taxi",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba99e3f401f3482bffd2e421b7385579b95c3ff1554920d8a16dfb39cbe5ffc4"
+    },
+    {
+      "word": "netizen",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈnetɪzn/",
+        "us": "/ˈnetɪzn/"
+      },
+      "meaning": "网民",
+      "collocation": {
+        "en": "Chinese netizens",
+        "zh": "中国网民"
+      },
+      "example": {
+        "en": "Many netizens discussed the issue on social media.",
+        "zh": "许多网民在社交媒体上讨论此事。"
+      },
+      "id": "v000678",
+      "images": [
+        {
+          "id": "generated-v000678",
+          "src": "images/list14/v000678.webp",
+          "alt": "netizen: Chinese netizens",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0c75044a568bd9dee614e42846fc5b88a7c6955129a9b76898486a5b6f2de6a7"
+    },
+    {
+      "word": "metropolis",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/məˈtrɒpəlɪs/",
+        "us": "/məˈtrɑːpəlɪs/"
+      },
+      "meaning": "大都市；都会",
+      "collocation": {
+        "en": "a modern metropolis",
+        "zh": "现代化大都市"
+      },
+      "example": {
+        "en": "Tokyo is a vast modern metropolis.",
+        "zh": "东京是一座庞大的现代化都市。"
+      },
+      "id": "v000679",
+      "images": [
+        {
+          "id": "generated-v000679",
+          "src": "images/list14/v000679.webp",
+          "alt": "metropolis: a modern metropolis",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c9e83b65e4b34df290bd70041c37f41fbb30d8594e862da42f09277042b8030a"
+    },
+    {
+      "word": "toll",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/təʊl/",
+        "us": "/toʊl/"
+      },
+      "meaning": "通行费；过路费",
+      "collocation": {
+        "en": "pay a toll",
+        "zh": "支付通行费"
+      },
+      "example": {
+        "en": "You have to pay a toll to cross the bridge.",
+        "zh": "经过这座桥需要支付通行费。"
+      },
+      "id": "v000680",
+      "images": [
+        {
+          "id": "generated-v000680",
+          "src": "images/list14/v000680.webp",
+          "alt": "toll: pay a toll",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ab10fc2ade4ad31044b31540e0a59d9641d19e515ac49a220ec4276882963681"
+    },
+    {
+      "word": "toll",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/təʊl/",
+        "us": "/toʊl/"
+      },
+      "meaning": "伤亡人数；损失",
+      "collocation": {
+        "en": "death toll",
+        "zh": "死亡人数"
+      },
+      "example": {
+        "en": "The death toll from the flood is still rising.",
+        "zh": "洪水造成的死亡人数仍在上升。"
+      },
+      "id": "v000681",
+      "images": [
+        {
+          "id": "generated-v000681",
+          "src": "images/list14/v000681.webp",
+          "alt": "toll: death toll",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "284e8783719fe46d9da717c3bf24aca036986528059f5aa298711f99307f8cea"
+    },
+    {
+      "word": "devastating",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdevəsteɪtɪŋ/",
+        "us": "/ˈdevəsteɪtɪŋ/"
+      },
+      "meaning": "毁灭性的；极具破坏力的",
+      "collocation": {
+        "en": "devastating impact",
+        "zh": "毁灭性影响"
+      },
+      "example": {
+        "en": "The earthquake had a devastating impact on the local economy.",
+        "zh": "地震对当地经济造成了毁灭性影响。"
+      },
+      "id": "v000682",
+      "images": [
+        {
+          "id": "generated-v000682",
+          "src": "images/list14/v000682.webp",
+          "alt": "devastating: devastating impact",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f75877360d8ab75253d4c2766fdf6d20d4207f9289591a595517538b70f7df5d"
+    },
+    {
+      "word": "taint",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/teɪnt/",
+        "us": "/teɪnt/"
+      },
+      "meaning": "污染；玷污",
+      "collocation": {
+        "en": "taint a reputation",
+        "zh": "玷污声誉"
+      },
+      "example": {
+        "en": "The scandal tainted his public image.",
+        "zh": "这起丑闻玷污了他的公众形象。"
+      },
+      "id": "v000683",
+      "images": [
+        {
+          "id": "generated-v000683",
+          "src": "images/list14/v000683.webp",
+          "alt": "taint: taint a reputation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6c8fa58952286307ceceda23ec8eb89293b58c5c01b6ba651530fceacf0ba1c4"
+    },
+    {
+      "word": "taint",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/teɪnt/",
+        "us": "/teɪnt/"
+      },
+      "meaning": "污点；污染",
+      "collocation": {
+        "en": "a taint of corruption",
+        "zh": "腐败的污点"
+      },
+      "example": {
+        "en": "The deal carried a taint of corruption.",
+        "zh": "这项交易带有腐败的污点。"
+      },
+      "id": "v000684",
+      "images": [
+        {
+          "id": "generated-v000684",
+          "src": "images/list14/v000684.webp",
+          "alt": "taint: a taint of corruption",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aafd5c3a8dbd4b5ea50ca1b7cead41619a6b760fc4e41fbebfacb348ab826d6e"
+    },
+    {
+      "word": "scrutiny",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈskruːtəni/",
+        "us": "/ˈskruːtəni/"
+      },
+      "meaning": "仔细审查；监督",
+      "collocation": {
+        "en": "under scrutiny",
+        "zh": "受到审查"
+      },
+      "example": {
+        "en": "The company's financial records are under close scrutiny.",
+        "zh": "公司的财务记录正在接受严格审查。"
+      },
+      "id": "v000685",
+      "images": [
+        {
+          "id": "generated-v000685",
+          "src": "images/list14/v000685.webp",
+          "alt": "scrutiny: under scrutiny",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fc45430700742a672babbfd71c5159b3ae68eaf01802d56e73d809c127b30cc3"
+    },
+    {
+      "word": "skeptic",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈskeptɪk/",
+        "us": "/ˈskeptɪk/"
+      },
+      "meaning": "怀疑者；持怀疑态度的人",
+      "collocation": {
+        "en": "climate skeptic",
+        "zh": "气候变化怀疑者"
+      },
+      "example": {
+        "en": "Even skeptics admit that the data deserves attention.",
+        "zh": "即使是怀疑者也承认数据值得关注。"
+      },
+      "id": "v000686",
+      "images": [
+        {
+          "id": "generated-v000686",
+          "src": "images/list14/v000686.webp",
+          "alt": "skeptic: climate skeptic",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f888c491de019210e1cac9f9fd1fb04c738d17bbf958a294804fefb230402934"
+    },
+    {
+      "word": "floral",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈflɔːrəl/",
+        "us": "/ˈflɔːrəl/"
+      },
+      "meaning": "花卉的；花香的",
+      "collocation": {
+        "en": "floral pattern",
+        "zh": "花卉图案"
+      },
+      "example": {
+        "en": "She wore a dress with a floral pattern.",
+        "zh": "她穿着一件带花卉图案的连衣裙。"
+      },
+      "id": "v000687",
+      "images": [
+        {
+          "id": "generated-v000687",
+          "src": "images/list14/v000687.webp",
+          "alt": "floral: floral pattern",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4ceed693747c9f1b4ec137caecf17a3dfa1d5319b48214453d337ee906f492cc"
+    },
+    {
+      "word": "wreath",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/riːθ/",
+        "us": "/riːθ/"
+      },
+      "meaning": "花环；花圈",
+      "collocation": {
+        "en": "lay a wreath",
+        "zh": "敬献花圈"
+      },
+      "example": {
+        "en": "The representatives laid a wreath at the memorial.",
+        "zh": "代表们在纪念碑前敬献了花圈。"
+      },
+      "id": "v000688",
+      "images": [
+        {
+          "id": "generated-v000688",
+          "src": "images/list14/v000688.webp",
+          "alt": "wreath: lay a wreath",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ccab61d23c22087e346b488fdfd8e6856ca11412a0f08d5ebf6ea72a274570bb"
+    },
+    {
+      "word": "rebut",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈbʌt/",
+        "us": "/rɪˈbʌt/"
+      },
+      "meaning": "反驳；驳斥",
+      "collocation": {
+        "en": "rebut an argument",
+        "zh": "反驳论点"
+      },
+      "example": {
+        "en": "The lawyer rebutted the opposing arguments one by one.",
+        "zh": "律师逐条反驳了对方的论点。"
+      },
+      "id": "v000689",
+      "images": [
+        {
+          "id": "generated-v000689",
+          "src": "images/list14/v000689.webp",
+          "alt": "rebut: rebut an argument",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "79b4d5ed42d8c0d2ef76feea5e3a3210119f2cd0032b6c0977ced2f9166674ba"
+    },
+    {
+      "word": "rebuff",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈbʌf/",
+        "us": "/rɪˈbʌf/"
+      },
+      "meaning": "拒绝；断然回绝",
+      "collocation": {
+        "en": "rebuff an offer",
+        "zh": "拒绝提议"
+      },
+      "example": {
+        "en": "The company rebuffed the rival's takeover offer.",
+        "zh": "公司拒绝了竞争对手的收购提议。"
+      },
+      "id": "v000690",
+      "images": [
+        {
+          "id": "generated-v000690",
+          "src": "images/list14/v000690.webp",
+          "alt": "rebuff: rebuff an offer",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a4cc9f9ed58cce0de869c67b99ab8ccb6f479a5a1181ead90d6696cdb6c0b3e1"
+    },
+    {
+      "word": "rebuff",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rɪˈbʌf/",
+        "us": "/rɪˈbʌf/"
+      },
+      "meaning": "拒绝；冷落",
+      "collocation": {
+        "en": "receive a rebuff",
+        "zh": "遭到拒绝"
+      },
+      "example": {
+        "en": "His request received a clear rebuff.",
+        "zh": "他的请求遭到了明确拒绝。"
+      },
+      "id": "v000691",
+      "images": [
+        {
+          "id": "generated-v000691",
+          "src": "images/list14/v000691.webp",
+          "alt": "rebuff: receive a rebuff",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "59cba9f81a887d2a07fef97c12fbfc888d086f123586810fd7546a9645d78f79"
+    },
+    {
+      "word": "plaintiff",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpleɪntɪf/",
+        "us": "/ˈpleɪntɪf/"
+      },
+      "meaning": "原告",
+      "collocation": {
+        "en": "the plaintiff in a case",
+        "zh": "案件中的原告"
+      },
+      "example": {
+        "en": "The plaintiff asked the court to award damages.",
+        "zh": "原告要求法院判给损害赔偿。"
+      },
+      "id": "v000692",
+      "images": [
+        {
+          "id": "generated-v000692",
+          "src": "images/list14/v000692.webp",
+          "alt": "plaintiff: the plaintiff in a case",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "604e7c80a584385b468e4383cf0c02c0cbda3e7652099994c8cb462562685df9"
+    },
+    {
+      "word": "minor",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmaɪnə(r)/",
+        "us": "/ˈmaɪnər/"
+      },
+      "meaning": "较小的；次要的",
+      "collocation": {
+        "en": "minor issue",
+        "zh": "小问题"
+      },
+      "example": {
+        "en": "This is only a minor issue that can be fixed quickly.",
+        "zh": "这只是一个很快就能修复的小问题。"
+      },
+      "id": "v000693",
+      "images": [
+        {
+          "id": "generated-v000693",
+          "src": "images/list14/v000693.webp",
+          "alt": "minor: minor issue",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4358123280a83c09a9edd6310f09606f6f2647ae1e878f4271df7630a2f0ab25"
+    },
+    {
+      "word": "minor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmaɪnə(r)/",
+        "us": "/ˈmaɪnər/"
+      },
+      "meaning": "未成年人",
+      "collocation": {
+        "en": "a minor under the law",
+        "zh": "法律上的未成年人"
+      },
+      "example": {
+        "en": "The law prohibits the sale of certain products to minors.",
+        "zh": "法律禁止向未成年人销售某些商品。"
+      },
+      "id": "v000694",
+      "images": [
+        {
+          "id": "generated-v000694",
+          "src": "images/list14/v000694.webp",
+          "alt": "minor: a minor under the law",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c3748926a3a11c77afbac3190a15883c2bb7f7615cbea330d52096fedaaf6859"
+    },
+    {
+      "word": "radical",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈrædɪkl/",
+        "us": "/ˈrædɪkl/"
+      },
+      "meaning": "根本性的；彻底的",
+      "collocation": {
+        "en": "radical change",
+        "zh": "根本性变化"
+      },
+      "example": {
+        "en": "The company needs radical organizational change.",
+        "zh": "公司需要进行根本性的组织改革。"
+      },
+      "id": "v000695",
+      "images": [
+        {
+          "id": "generated-v000695",
+          "src": "images/list14/v000695.webp",
+          "alt": "radical: radical change",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ac09662cd2cff6007b99ace97b63cc1570700667358914e970ba828fadaf6eda"
+    },
+    {
+      "word": "radical",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈrædɪkl/",
+        "us": "/ˈrædɪkl/"
+      },
+      "meaning": "激进分子",
+      "collocation": {
+        "en": "political radical",
+        "zh": "政治激进分子"
+      },
+      "example": {
+        "en": "Police are investigating radicals linked to the group.",
+        "zh": "警方正在调查与该组织有关的激进分子。"
+      },
+      "id": "v000696",
+      "images": [
+        {
+          "id": "generated-v000696",
+          "src": "images/list14/v000696.webp",
+          "alt": "radical: political radical",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6763e3edcff1e3116889660f5cc2a5fac7241a72b560dd35762613433b5f96a1"
+    }
+  ]
+}

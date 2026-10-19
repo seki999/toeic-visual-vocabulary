@@ -1,4 +1,40 @@
 import { test, expect } from "@playwright/test";
+
+test("appended vocabulary fills List 13 and continues into List 14 with images", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "List 13", exact: false }).click();
+  await expect(page.locator(".card")).toHaveCount(50);
+  await expect(page.locator(".word-content h2").last()).toContainText(
+    "hardline",
+  );
+  await page.getByRole("button", { name: "List 14", exact: false }).click();
+  await expect(page.locator(".card")).toHaveCount(46);
+  await expect(page.locator(".word-content h2").first()).toContainText(
+    "stance",
+  );
+  await expect(page.locator(".word-content h2").last()).toContainText(
+    "radical",
+  );
+  await expect(page.locator(".picture img")).toHaveCount(46);
+  for (const picture of [
+    page.locator(".picture img").first(),
+    page.locator(".picture img").last(),
+  ]) {
+    await expect
+      .poll(() =>
+        picture.evaluate(
+          (img: HTMLImageElement) =>
+            img.complete &&
+            img.naturalWidth === 2100 &&
+            img.naturalHeight === 900,
+        ),
+      )
+      .toBe(true);
+  }
+});
+
 test("narrow portrait controls fit and can be hidden while reading text", async ({
   page,
 }) => {
@@ -319,7 +355,7 @@ for (const [name, width, height] of [
       await page.getByRole("button", { name: "切换列表菜单" }).click();
       await expect(page.locator(".sidebar")).toHaveClass(/open/);
       await page.getByRole("button", { name: "List 13", exact: false }).click();
-      await expect(page.locator(".card")).toHaveCount(26);
+      await expect(page.locator(".card")).toHaveCount(50);
     }
   });
 }

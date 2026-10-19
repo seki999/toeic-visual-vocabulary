@@ -1,12 +1,12 @@
 # TOEIC Visual Vocabulary
 
-新增 Story Review：List 01 末尾提供 4 角色、5 场景、35 句中英故事，覆盖真实的 50 条词汇记录。支持角色语音、双语朗读、跳句/场景、独立语速及图片容错。使用及新增其他 List 故事见 [Story Review 维护说明](docs/story-review.md)。场景图片尚待添加，不影响故事阅读与朗读。
+新增 Story Review：List 01 末尾提供 4 角色、5 场景、35 句中英故事，覆盖真实的 50 条词汇记录。支持角色语音、双语朗读、跳句/场景、独立语速及图片容错。使用及新增其他 List 故事见 [Story Review 维护说明](docs/story-review.md)。已配齐 5 张场景图片。
 
-React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 626 条记录，分成 13 个 List。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
+React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 696 条记录，分成 14 个 List（List 13 为 50 条，List 14 为 46 条）。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
 
 ## TOEIC 图片批量生成规则
 
-用于 ChatGPT 或其他图片生成工具的统一图片提示词：[TOEIC 英语词汇图片批量生成模式 — 全局规则](docs/toeic-image-generation-batch-rules.md)。目标是独立生成 16:9 真实摄影图，再按需转换到 1600×900、WebP 85%、sRGB；实际支持情况应以生成和转换结果为准。
+用于 ChatGPT 或其他图片生成工具的统一图片提示词：[TOEIC 英语词汇图片批量生成模式 — 全局规则](docs/toeic-image-generation-batch-rules.md)。目标是独立生成 21:9 真实摄影图，再按需转换到 2100×900、WebP 85%、sRGB；实际支持情况应以生成和转换结果为准。
 
 ## Windows PowerShell 安装与启动
 
@@ -81,6 +81,18 @@ Get-NetTCPConnection -LocalPort 5173 -State Listen |
 ```
 
 > 注意：不要直接结束不认识的进程。PID 每次都可能不同，`33776` 仅为示例。项目的浏览器本地草稿与访问源（包括端口）相关，因此通常建议释放 5173 端口，而不是随意切换端口。
+
+## 追加新的词汇表
+
+对于只包含新增词汇的九列表格（工作表 `Vocabulary`），使用追加脚本，不要使用整表重建命令：
+
+```powershell
+python scripts/append_vocabulary.py "data-source/英语单词20261018.xlsx"
+python scripts/test_append.py
+python scripts/validate_data.py
+```
+
+追加脚本先校验全部输入，再补满最后一个 List（每组 50 条），之后创建下一个 List；保留已有 ID、图片、笔记及顺序。同形不同义按完整词条内容分别保留，重复导入同一记录不重复添加。2026-10-18 批次新增 70 条，ID 为 v000627～v000696；原 626 条保持不变。图片位于 `public/images/list13/`、`public/images/list14/`，每条一张，均为 2100×900、WebP 质量 85、sRGB；实际文件约 82–482 KB，总计约 13.62 MB。具体提示词和文件对应关系见 [本批图片记录](docs/vocabulary-images-20261018.json)。
 
 ## 导入 Excel、添加 List
 

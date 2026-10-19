@@ -886,6 +886,870 @@
       "tags": [],
       "notes": "",
       "sourceKey": "36ba0a28664f2c51ba7b67787817376ca81b2b1a6b1b4493b7fc114d6b46ffa7"
+    },
+    {
+      "word": "violator",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvaɪəleɪtə(r)/",
+        "us": "/ˈvaɪəleɪtər/"
+      },
+      "meaning": "违反者；违规者",
+      "collocation": {
+        "en": "traffic violator",
+        "zh": "交通违规者"
+      },
+      "example": {
+        "en": "The traffic violator was fined.",
+        "zh": "这名交通违规者被处以罚款。"
+      },
+      "id": "v000627",
+      "images": [
+        {
+          "id": "generated-v000627",
+          "src": "images/list13/v000627.webp",
+          "alt": "violator: traffic violator",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "807e9f1eea59f3f6d1e5dc17aed1241bdca0b287445f2160e2279360716b0887"
+    },
+    {
+      "word": "aftermath",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɑːftəmæθ/",
+        "us": "/ˈæftərmæθ/"
+      },
+      "meaning": "后果；余波",
+      "collocation": {
+        "en": "in the aftermath of",
+        "zh": "在……之后；在……的余波中"
+      },
+      "example": {
+        "en": "Many roads remained closed in the aftermath of the earthquake.",
+        "zh": "地震过后，许多道路仍然封闭。"
+      },
+      "id": "v000628",
+      "images": [
+        {
+          "id": "generated-v000628",
+          "src": "images/list13/v000628.webp",
+          "alt": "aftermath: in the aftermath of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "20ca26411e011b62c192b349c9c0a2d9d9d150e1a9d8869ca451905795a883c9"
+    },
+    {
+      "word": "lavishly",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/ˈlævɪʃli/",
+        "us": "/ˈlævɪʃli/"
+      },
+      "meaning": "奢华地；大量地",
+      "collocation": {
+        "en": "lavishly decorated",
+        "zh": "装饰得富丽堂皇"
+      },
+      "example": {
+        "en": "The hall was lavishly decorated for the celebration.",
+        "zh": "大厅为庆典装饰得十分华丽。"
+      },
+      "id": "v000629",
+      "images": [
+        {
+          "id": "generated-v000629",
+          "src": "images/list13/v000629.webp",
+          "alt": "lavishly: lavishly decorated",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a296a00ccf82245c090b6623d4341b395d24733d0240c542ed9569a48c84214a"
+    },
+    {
+      "word": "autonomous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɔːˈtɒnəməs/",
+        "us": "/ɔːˈtɑːnəməs/"
+      },
+      "meaning": "自治的；自主的",
+      "collocation": {
+        "en": "autonomous region",
+        "zh": "自治区"
+      },
+      "example": {
+        "en": "The region has a high degree of autonomy.",
+        "zh": "这个地区享有较高程度的自治权。"
+      },
+      "id": "v000630",
+      "images": [
+        {
+          "id": "generated-v000630",
+          "src": "images/list13/v000630.webp",
+          "alt": "autonomous: autonomous region",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a451ae2c30caa749370c2daa2eb5ebeb000c4b68b33e666bd7f9afd2edd71bf7"
+    },
+    {
+      "word": "autonomous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɔːˈtɒnəməs/",
+        "us": "/ɔːˈtɑːnəməs/"
+      },
+      "meaning": "自动的；自主运行的",
+      "collocation": {
+        "en": "autonomous vehicle",
+        "zh": "自动驾驶车辆"
+      },
+      "example": {
+        "en": "The company is testing autonomous vehicles.",
+        "zh": "公司正在测试自动驾驶车辆。"
+      },
+      "id": "v000631",
+      "images": [
+        {
+          "id": "generated-v000631",
+          "src": "images/list13/v000631.webp",
+          "alt": "autonomous: autonomous vehicle",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9f93308870a3aafbf36a0dbc1348f9c0fc976c10d9c3bce1c39174ac597646d9"
+    },
+    {
+      "word": "bout",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/baʊt/",
+        "us": "/baʊt/"
+      },
+      "meaning": "一阵；一段（疾病、活动等）",
+      "collocation": {
+        "en": "a bout of illness",
+        "zh": "一场疾病"
+      },
+      "example": {
+        "en": "He stayed home for several days after a bout of flu.",
+        "zh": "他因一场流感在家休息了几天。"
+      },
+      "id": "v000632",
+      "images": [
+        {
+          "id": "generated-v000632",
+          "src": "images/list13/v000632.webp",
+          "alt": "bout: a bout of illness",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "906bc1e6aae9e443eca12825ae3ebd424ccfa113ba3da3ebdc472b6781e06675"
+    },
+    {
+      "word": "bout",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/baʊt/",
+        "us": "/baʊt/"
+      },
+      "meaning": "比赛；拳击赛",
+      "collocation": {
+        "en": "boxing bout",
+        "zh": "拳击比赛"
+      },
+      "example": {
+        "en": "The boxing bout lasted ten rounds.",
+        "zh": "这场拳击赛持续了十个回合。"
+      },
+      "id": "v000633",
+      "images": [
+        {
+          "id": "generated-v000633",
+          "src": "images/list13/v000633.webp",
+          "alt": "bout: boxing bout",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "93c14a6267b4558ca71adee2cbe8a709a3873062c3db1e01932634cc2b24dbf5"
+    },
+    {
+      "word": "smash",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/smæʃ/",
+        "us": "/smæʃ/"
+      },
+      "meaning": "打碎；撞碎",
+      "collocation": {
+        "en": "smash a window",
+        "zh": "打碎窗户"
+      },
+      "example": {
+        "en": "The thief smashed a window to enter the shop.",
+        "zh": "小偷打碎窗户进入了商店。"
+      },
+      "id": "v000634",
+      "images": [
+        {
+          "id": "generated-v000634",
+          "src": "images/list13/v000634.webp",
+          "alt": "smash: smash a window",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "24c89559114606b90c3db779215b3c95a0c184a24ed9ffa551d1d931e9e137af"
+    },
+    {
+      "word": "smash",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/smæʃ/",
+        "us": "/smæʃ/"
+      },
+      "meaning": "巨大成功；热门作品",
+      "collocation": {
+        "en": "a smash hit",
+        "zh": "轰动一时的成功作品"
+      },
+      "example": {
+        "en": "The movie became a global smash hit.",
+        "zh": "这部电影成了全球热门作品。"
+      },
+      "id": "v000635",
+      "images": [
+        {
+          "id": "generated-v000635",
+          "src": "images/list13/v000635.webp",
+          "alt": "smash: a smash hit",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b495f5af1e9a38d006fce89a0d87355758ff400cde392d73a1db5537d267097e"
+    },
+    {
+      "word": "hostile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈhɒstaɪl/",
+        "us": "/ˈhɑːstl/"
+      },
+      "meaning": "敌对的；不友好的",
+      "collocation": {
+        "en": "hostile attitude",
+        "zh": "敌对态度"
+      },
+      "example": {
+        "en": "The negotiations began in a hostile atmosphere.",
+        "zh": "谈判一开始气氛就很敌对。"
+      },
+      "id": "v000636",
+      "images": [
+        {
+          "id": "generated-v000636",
+          "src": "images/list13/v000636.webp",
+          "alt": "hostile: hostile attitude",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b02fcb339aedb116dbc00fd9aeaee64060760ea35715f18b74307fbfc0ba335f"
+    },
+    {
+      "word": "inconsistent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌɪnkənˈsɪstənt/",
+        "us": "/ˌɪnkənˈsɪstənt/"
+      },
+      "meaning": "不一致的；前后矛盾的",
+      "collocation": {
+        "en": "inconsistent with",
+        "zh": "与……不一致"
+      },
+      "example": {
+        "en": "The figures in the report are inconsistent with the original data.",
+        "zh": "这份报告中的数字与原始数据不一致。"
+      },
+      "id": "v000637",
+      "images": [
+        {
+          "id": "generated-v000637",
+          "src": "images/list13/v000637.webp",
+          "alt": "inconsistent: inconsistent with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "500798716cd560b621f9aa66efbfd5b4cd4bc5caa74b33a03abf014fbe78e72f"
+    },
+    {
+      "word": "depiction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈpɪkʃn/",
+        "us": "/dɪˈpɪkʃn/"
+      },
+      "meaning": "描绘；描述",
+      "collocation": {
+        "en": "a depiction of",
+        "zh": "对……的描绘"
+      },
+      "example": {
+        "en": "The painting is a vivid depiction of rural life.",
+        "zh": "这幅画生动地描绘了乡村生活。"
+      },
+      "id": "v000638",
+      "images": [
+        {
+          "id": "generated-v000638",
+          "src": "images/list13/v000638.webp",
+          "alt": "depiction: a depiction of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cd1a01de27a6cc1d1951021bc1202d55908b38110ca14262433b459ebfa4b349"
+    },
+    {
+      "word": "controversy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒntrəvɜːsi/",
+        "us": "/ˈkɑːntrəvɜːrsi/"
+      },
+      "meaning": "争议；争论",
+      "collocation": {
+        "en": "spark controversy",
+        "zh": "引发争议"
+      },
+      "example": {
+        "en": "The new policy sparked widespread controversy online.",
+        "zh": "新政策在网上引发了广泛争议。"
+      },
+      "id": "v000639",
+      "images": [
+        {
+          "id": "generated-v000639",
+          "src": "images/list13/v000639.webp",
+          "alt": "controversy: spark controversy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7bbe0bdc47caa2c7320cb1f95064a03caa4b124ba81b1a9b6491e954c379af0a"
+    },
+    {
+      "word": "outage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈaʊtɪdʒ/",
+        "us": "/ˈaʊtɪdʒ/"
+      },
+      "meaning": "停电；服务中断",
+      "collocation": {
+        "en": "power outage",
+        "zh": "停电"
+      },
+      "example": {
+        "en": "The storm caused a widespread power outage.",
+        "zh": "暴风雨造成了大面积停电。"
+      },
+      "id": "v000640",
+      "images": [
+        {
+          "id": "generated-v000640",
+          "src": "images/list13/v000640.webp",
+          "alt": "outage: power outage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "886cf73cd72280d3ab640b0f920e079a134725e15f816ec4c6feec06198d9615"
+    },
+    {
+      "word": "illiterate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪˈlɪtərət/",
+        "us": "/ɪˈlɪtərət/"
+      },
+      "meaning": "文盲的；不识字的",
+      "collocation": {
+        "en": "functionally illiterate",
+        "zh": "功能性文盲的"
+      },
+      "example": {
+        "en": "The program aims to help illiterate adults.",
+        "zh": "该项目旨在帮助不识字的成年人。"
+      },
+      "id": "v000641",
+      "images": [
+        {
+          "id": "generated-v000641",
+          "src": "images/list13/v000641.webp",
+          "alt": "illiterate: functionally illiterate",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f4e580f49aea6d71cb692f719d35aa634ac1aeab851d226f81963a38b42f1740"
+    },
+    {
+      "word": "illiterate",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪˈlɪtərət/",
+        "us": "/ɪˈlɪtərət/"
+      },
+      "meaning": "不识字的人",
+      "collocation": {
+        "en": "an illiterate adult",
+        "zh": "不识字的成年人"
+      },
+      "example": {
+        "en": "In the past, the region had many illiterate adults.",
+        "zh": "过去这个地区有很多不识字的成年人。"
+      },
+      "id": "v000642",
+      "images": [
+        {
+          "id": "generated-v000642",
+          "src": "images/list13/v000642.webp",
+          "alt": "illiterate: an illiterate adult",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "841a5b6632ccd88e10ea3e163f7853d0770e97fd082d910d9825455a3a805630"
+    },
+    {
+      "word": "forge",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fɔːdʒ/",
+        "us": "/fɔːrdʒ/"
+      },
+      "meaning": "伪造",
+      "collocation": {
+        "en": "forge a signature",
+        "zh": "伪造签名"
+      },
+      "example": {
+        "en": "He was investigated for forging a signature.",
+        "zh": "他因伪造签名而受到调查。"
+      },
+      "id": "v000643",
+      "images": [
+        {
+          "id": "generated-v000643",
+          "src": "images/list13/v000643.webp",
+          "alt": "forge: forge a signature",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1e8e06d9c9e0ffde1827ea29536b7df2504e28e57a0acf8a90fb1f965e9ead51"
+    },
+    {
+      "word": "forge",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fɔːdʒ/",
+        "us": "/fɔːrdʒ/"
+      },
+      "meaning": "建立；缔造",
+      "collocation": {
+        "en": "forge a partnership",
+        "zh": "建立合作关系"
+      },
+      "example": {
+        "en": "The two companies forged a long-term partnership.",
+        "zh": "两家公司建立了长期合作关系。"
+      },
+      "id": "v000644",
+      "images": [
+        {
+          "id": "generated-v000644",
+          "src": "images/list13/v000644.webp",
+          "alt": "forge: forge a partnership",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4d036eb99a0088c3d8eb3e4e1f73ac5135cd59364f57f86535b81c0169250791"
+    },
+    {
+      "word": "poultry",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpəʊltri/",
+        "us": "/ˈpoʊltri/"
+      },
+      "meaning": "家禽；禽肉",
+      "collocation": {
+        "en": "poultry farm",
+        "zh": "家禽养殖场"
+      },
+      "example": {
+        "en": "The farm mainly raises poultry.",
+        "zh": "这家农场主要饲养家禽。"
+      },
+      "id": "v000645",
+      "images": [
+        {
+          "id": "generated-v000645",
+          "src": "images/list13/v000645.webp",
+          "alt": "poultry: poultry farm",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "af5158e7f78ffb1c8236c58848e52a42d323b27885b0a1f8806731fefb4caafb"
+    },
+    {
+      "word": "provocative",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prəˈvɒkətɪv/",
+        "us": "/prəˈvɑːkətɪv/"
+      },
+      "meaning": "挑衅的；煽动性的",
+      "collocation": {
+        "en": "provocative remark",
+        "zh": "挑衅性言论"
+      },
+      "example": {
+        "en": "His provocative remark triggered a heated debate.",
+        "zh": "他的挑衅性言论引发了激烈争论。"
+      },
+      "id": "v000646",
+      "images": [
+        {
+          "id": "generated-v000646",
+          "src": "images/list13/v000646.webp",
+          "alt": "provocative: provocative remark",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba483fcef8c764b7090b76e2e263136bbc62b82783da166a70a82710d03e1267"
+    },
+    {
+      "word": "diplomat",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdɪpləmæt/",
+        "us": "/ˈdɪpləmæt/"
+      },
+      "meaning": "外交官",
+      "collocation": {
+        "en": "senior diplomat",
+        "zh": "高级外交官"
+      },
+      "example": {
+        "en": "A senior diplomat attended the talks.",
+        "zh": "一名高级外交官参加了会谈。"
+      },
+      "id": "v000647",
+      "images": [
+        {
+          "id": "generated-v000647",
+          "src": "images/list13/v000647.webp",
+          "alt": "diplomat: senior diplomat",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba951cbbe8ee7a9cf97a88346fdebb823d1f799cf1cfaed2de903ebe3ffad490"
+    },
+    {
+      "word": "confrontation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒnfrʌnˈteɪʃn/",
+        "us": "/ˌkɑːnfrənˈteɪʃn/"
+      },
+      "meaning": "对抗；冲突",
+      "collocation": {
+        "en": "avoid confrontation",
+        "zh": "避免冲突"
+      },
+      "example": {
+        "en": "Both sides said they hoped to avoid direct confrontation.",
+        "zh": "双方都表示希望避免直接冲突。"
+      },
+      "id": "v000648",
+      "images": [
+        {
+          "id": "generated-v000648",
+          "src": "images/list13/v000648.webp",
+          "alt": "confrontation: avoid confrontation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "87731442da68fdefe724631914fc072811ee9d9f9f4b953275a8995452536954"
+    },
+    {
+      "word": "unwarranted",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ʌnˈwɒrəntɪd/",
+        "us": "/ʌnˈwɔːrəntɪd/"
+      },
+      "meaning": "无正当理由的；不必要的",
+      "collocation": {
+        "en": "unwarranted criticism",
+        "zh": "无端批评"
+      },
+      "example": {
+        "en": "He considered the criticism unwarranted.",
+        "zh": "他认为这些批评毫无根据。"
+      },
+      "id": "v000649",
+      "images": [
+        {
+          "id": "generated-v000649",
+          "src": "images/list13/v000649.webp",
+          "alt": "unwarranted: unwarranted criticism",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a80f101288cf78b4d81d09c303c9f2c3b45771891df6dc014f8162efadc4be68"
+    },
+    {
+      "word": "hardline",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈhɑːdlaɪn/",
+        "us": "/ˈhɑːrdlaɪn/"
+      },
+      "meaning": "强硬的；不妥协的",
+      "collocation": {
+        "en": "hardline stance",
+        "zh": "强硬立场"
+      },
+      "example": {
+        "en": "The government adopted a hardline stance in the negotiations.",
+        "zh": "政府在谈判中采取了强硬立场。"
+      },
+      "id": "v000650",
+      "images": [
+        {
+          "id": "generated-v000650",
+          "src": "images/list13/v000650.webp",
+          "alt": "hardline: hardline stance",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "514904d39d2ca39698375652cb59d88244adba02e6cff2841d7f87807fc55b10"
     }
   ]
 }
