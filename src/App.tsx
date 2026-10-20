@@ -34,6 +34,7 @@ import {
 import { useStore, type Settings } from "./store";
 import { SpeechPlayer, type Status } from "./speech";
 import StoryReview from "./story/StoryReview";
+import { ImageOverlayContent } from "./ImageOverlayContent";
 import { connectLocalEditor, saveLocalWord } from "./localEditor";
 import {
   saveWord,
@@ -1382,15 +1383,11 @@ function Reader() {
                                       background: `rgba(0,0,0,${c.overlayBackground})`,
                                     }}
                                   >
-                                    {c.imageIpa && (w.ipa.uk || w.ipa.us) && (
-                                      <div className="image-ipa">
-                                        {w.ipa.uk && <span>UK {w.ipa.uk}</span>}
-                                        {w.ipa.us && <span>US {w.ipa.us}</span>}
-                                      </div>
-                                    )}
-                                    {c.overlay.map((f) => (
-                                      <div key={f}>{fieldText(w, f)}</div>
-                                    ))}
+                                    <ImageOverlayContent
+                                      word={w}
+                                      selected={c.overlay}
+                                      showIpa={c.imageIpa}
+                                    />
                                   </div>
                                 )}
                               {c.mode === "image" &&

@@ -46,10 +46,10 @@ export const defaults: Settings = {
     "example.en",
     "example.zh",
   ],
-  overlay: ["word"],
-  imageIpa: false,
+  overlay: [...fields],
+  imageIpa: true,
   overlayPosition: "bottom",
-  overlayColor: "#ffffff",
+  overlayColor: "#ff4d4f",
   overlaySize: 24,
   overlayBackground: 0.65,
   reveal: false,
@@ -95,7 +95,7 @@ export const useStore = create<{
     }),
     {
       name: "toeic-settings-v1",
-      version: 4,
+      version: 5,
       // Upgrade the former default without replacing a custom reading order.
       migrate: (persisted, version) => {
         const state = persisted as { settings?: Partial<Settings> };
@@ -108,6 +108,13 @@ export const useStore = create<{
             ...previous,
             ...(version < 3 ? { enRate: 0.8, zhRate: 1.2, wake: true } : {}),
             ...(!previous.order || oldDefault ? { order: [...fields] } : {}),
+            ...(!previous.overlay || previous.overlay.join(",") === "word"
+              ? { overlay: [...fields], imageIpa: true }
+              : {}),
+            ...(!previous.overlayColor ||
+            previous.overlayColor.toLowerCase() === "#ffffff"
+              ? { overlayColor: defaults.overlayColor }
+              : {}),
           },
         };
       },

@@ -1408,3 +1408,17 @@ header .breadcrumb button {
   width: min(960px, calc(100% - 32px));
   bottom: 16px;
 }
+
+.overlay-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0.15em 0.7em;
+}
+.overlay-cell {
+  display: contents;
+}
+.overlay-row + .overlay-row {
+  margin-top: 0.15em;
+}

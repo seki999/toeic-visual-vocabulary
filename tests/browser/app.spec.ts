@@ -374,6 +374,8 @@ test("image IPA can be enabled, remembered and hidden; old reading defaults upgr
             positions: {},
             settings: {
               order: ["word", "example.en"],
+              overlay: ["meaning"],
+              imageIpa: false,
               enRate: 1.1,
               zhRate: 1.4,
             },
@@ -460,4 +462,76 @@ test("desktop fullscreen image playback fills screen and hides controls", async 
   await expect
     .poll(() => page.evaluate(() => !!document.fullscreenElement))
     .toBe(false);
+});
+
+test("default image overlay groups word IPA meaning and collocations in red", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 1600, height: 1000 });
+  await page.addInitScript(() => {
+    if (!localStorage.getItem("toeic-settings-v1"))
+      localStorage.setItem(
+        "toeic-settings-v1",
+        JSON.stringify({
+          version: 4,
+          state: {
+            listId: "list01",
+            positions: {},
+            settings: {
+              overlay: ["word"],
+              imageIpa: false,
+              overlayColor: "#ffffff",
+              enRate: 1.1,
+            },
+          },
+        }),
+      );
+  });
+  await page.goto("/");
+  await page.getByRole("button", { name: "纯图片", exact: true }).click();
+  const overlay = page.locator(".card .overlay").first();
+  await expect(overlay).toHaveCSS("color", "rgb(255, 77, 79)");
+  await expect(overlay.locator(".overlay-row")).toHaveCount(4);
+  const rows = overlay.locator(".overlay-row");
+  expect(
+    await rows
+      .nth(0)
+      .locator("[data-field]")
+      .evaluateAll((nodes) => nodes.map((n) => n.getAttribute("data-field"))),
+  ).toEqual(["word", "meaning"]);
+  await expect(rows.nth(0).locator(".image-ipa")).toBeVisible();
+  expect(
+    await rows
+      .nth(1)
+      .locator("[data-field]")
+      .evaluateAll((nodes) => nodes.map((n) => n.getAttribute("data-field"))),
+  ).toEqual(["collocation.en", "collocation.zh"]);
+  expect(
+    await overlay
+      .locator("[data-field]")
+      .evaluateAll((nodes) => nodes.map((n) => n.getAttribute("data-field"))),
+  ).toEqual([
+    "word",
+    "meaning",
+    "collocation.en",
+    "collocation.zh",
+    "example.en",
+    "example.zh",
+  ]);
+  const word = await rows.nth(0).locator('[data-field="word"]').boundingBox();
+  const ipa = await rows.nth(0).locator(".image-ipa").boundingBox();
+  const meaning = await rows
+    .nth(0)
+    .locator('[data-field="meaning"]')
+    .boundingBox();
+  expect(word!.x).toBeLessThan(ipa!.x);
+  expect(ipa!.x).toBeLessThan(meaning!.x);
+  expect(Math.abs(word!.y - meaning!.y)).toBeLessThan(2);
+  await overlay.scrollIntoViewIfNeeded();
+  await page.screenshot({ path: "test-results/image-overlay-grouped.png" });
+  await page.reload();
+  await expect(page.locator(".card .overlay").first()).toHaveCSS(
+    "color",
+    "rgb(255, 77, 79)",
+  );
 });
