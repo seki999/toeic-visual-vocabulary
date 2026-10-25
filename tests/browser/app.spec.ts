@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("appended vocabulary fills List 13 and continues into List 14 with images", async ({
+test("appended vocabulary fills Lists 13 to 15 and continues into List 16 with images", async ({
   page,
 }) => {
   await page.goto("/");
@@ -10,14 +10,24 @@ test("appended vocabulary fills List 13 and continues into List 14 with images",
     "hardline",
   );
   await page.getByRole("button", { name: "List 14", exact: false }).click();
-  await expect(page.locator(".card")).toHaveCount(46);
+  await expect(page.locator(".card")).toHaveCount(50);
   await expect(page.locator(".word-content h2").first()).toContainText(
     "stance",
   );
   await expect(page.locator(".word-content h2").last()).toContainText(
-    "radical",
+    "buildup",
   );
-  await expect(page.locator(".picture img")).toHaveCount(46);
+  await expect(page.locator(".picture img")).toHaveCount(50);
+  for (const [id, count, first, last] of [
+    ["List 15", 50, "approbation", "censure"],
+    ["List 16", 7, "chemotherapy", "colonial"],
+  ] as const) {
+    await page.getByRole("button", { name: id, exact: false }).click();
+    await expect(page.locator(".card")).toHaveCount(count);
+    await expect(page.locator(".word-content h2").first()).toContainText(first);
+    await expect(page.locator(".word-content h2").last()).toContainText(last);
+    await expect(page.locator(".picture img")).toHaveCount(count);
+  }
   for (const picture of [
     page.locator(".picture img").first(),
     page.locator(".picture img").last(),

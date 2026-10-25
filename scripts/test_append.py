@@ -34,6 +34,31 @@ class AppendTests(unittest.TestCase):
             self.assertEqual(append(ROOT / "data-source/英语单词20261018.xlsx", output), [])
             self.assertEqual({p.name: p.read_bytes() for p in output.glob("*.json")}, before)
 
+    def test_tenth_group_fills_partial_list_and_spans_two_more_lists(self):
+        with tempfile.TemporaryDirectory() as temp:
+            output = Path(temp)
+            convert(ROOT / "data-source/英语学习.xlsx", output)
+            append(ROOT / "data-source/英语单词20261018.xlsx", output)
+            path = output / "list14.json"
+            fourteen = json.loads(path.read_text(encoding="utf-8"))
+            fourteen["items"][-1]["notes"] = "Preserve the previous batch edits"
+            fourteen["items"][-1]["images"] = [{"src": "images/list14/keep.webp"}]
+            path.write_text(json.dumps(fourteen, ensure_ascii=False, indent=2), encoding="utf-8")
+            before = {w["id"]: w for p in output.glob("list*.json") for w in json.loads(p.read_text(encoding="utf-8"))["items"]}
+            added = append(ROOT / "data-source/英语单词_第十组_20261026.xlsx", output)
+            self.assertEqual(len(added), 61)
+            self.assertEqual([added[0]["id"], added[-1]["id"]], ["v000697", "v000757"])
+            for lid, count in [("list14", 50), ("list15", 50), ("list16", 7)]:
+                self.assertEqual(len(json.loads((output / f"{lid}.json").read_text(encoding="utf-8"))["items"]), count)
+            current = {w["id"]: w for p in output.glob("list*.json") for w in json.loads(p.read_text(encoding="utf-8"))["items"]}
+            for wid, word in before.items():
+                self.assertEqual(current[wid], word)
+            self.assertEqual(len({w["id"] for w in added if w["word"] == "buildup"}), 2)
+            self.assertEqual(len({w["id"] for w in added if w["word"] == "binoculars"}), 1)
+            unchanged = {p.name: p.read_bytes() for p in output.glob("*.json")}
+            self.assertEqual(append(ROOT / "data-source/英语单词_第十组_20261026.xlsx", output), [])
+            self.assertEqual({p.name: p.read_bytes() for p in output.glob("*.json")}, unchanged)
+
     def test_wrong_schema_does_not_write(self):
         with tempfile.TemporaryDirectory() as temp:
             output = Path(temp)

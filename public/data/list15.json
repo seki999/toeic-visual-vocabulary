@@ -1,0 +1,1807 @@
+{
+  "id": "list15",
+  "title": "List 15",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "approbation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌæprəˈbeɪʃn/",
+        "us": "/ˌæprəˈbeɪʃn/"
+      },
+      "meaning": "赞许；认可",
+      "collocation": {
+        "en": "win approbation",
+        "zh": "赢得赞许"
+      },
+      "example": {
+        "en": "His proposal won the approbation of senior management.",
+        "zh": "他的提案赢得了管理层的认可。"
+      },
+      "id": "v000701",
+      "images": [
+        {
+          "id": "generated-v000701",
+          "src": "images/list15/v000701.webp",
+          "alt": "approbation: win approbation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "125334e62dec2a2b2fd0f3429615a82707fb0fdb61924a74600664747e566237"
+    },
+    {
+      "word": "dosage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdəʊsɪdʒ/",
+        "us": "/ˈdoʊsɪdʒ/"
+      },
+      "meaning": "剂量；用量",
+      "collocation": {
+        "en": "recommended dosage",
+        "zh": "建议剂量"
+      },
+      "example": {
+        "en": "Please take the medicine according to the recommended dosage.",
+        "zh": "请严格按照建议剂量服用。"
+      },
+      "id": "v000702",
+      "images": [
+        {
+          "id": "generated-v000702",
+          "src": "images/list15/v000702.webp",
+          "alt": "dosage: recommended dosage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b76ce9610b66abbd9eafd6f66b38d303fbb3ea35cd665ad5b6b3067fd1aba8ae"
+    },
+    {
+      "word": "deference",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdefərəns/",
+        "us": "/ˈdefərəns/"
+      },
+      "meaning": "尊重；顺从",
+      "collocation": {
+        "en": "out of deference to",
+        "zh": "出于对……的尊重"
+      },
+      "example": {
+        "en": "Out of deference to the elderly man, he did not interrupt.",
+        "zh": "出于对长者的尊重，他没有打断对方。"
+      },
+      "id": "v000703",
+      "images": [
+        {
+          "id": "generated-v000703",
+          "src": "images/list15/v000703.webp",
+          "alt": "deference: out of deference to",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "68c8d134b782000b92a1e3575ff94ba0db7396e435b5b83a742cf441c3d5b679"
+    },
+    {
+      "word": "concierge",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒnsiˈeəʒ/",
+        "us": "/ˌkɑːnsiˈerʒ/"
+      },
+      "meaning": "酒店礼宾员；门房",
+      "collocation": {
+        "en": "hotel concierge",
+        "zh": "酒店礼宾员"
+      },
+      "example": {
+        "en": "The hotel concierge helped us book a restaurant.",
+        "zh": "酒店礼宾员帮我们预订了餐厅。"
+      },
+      "id": "v000704",
+      "images": [
+        {
+          "id": "generated-v000704",
+          "src": "images/list15/v000704.webp",
+          "alt": "concierge: hotel concierge",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "06f4b5f379dd052f29e01602cdc8ed08eb104146e68a1ecfe9cd0e4e163b43fa"
+    },
+    {
+      "word": "evacuate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪˈvækjueɪt/",
+        "us": "/ɪˈvækjueɪt/"
+      },
+      "meaning": "撤离；疏散",
+      "collocation": {
+        "en": "evacuate a building",
+        "zh": "疏散一栋建筑"
+      },
+      "example": {
+        "en": "Everyone was evacuated from the building after the fire alarm sounded.",
+        "zh": "火警响起后所有人都被疏散出大楼。"
+      },
+      "id": "v000705",
+      "images": [
+        {
+          "id": "generated-v000705",
+          "src": "images/list15/v000705.webp",
+          "alt": "evacuate: evacuate a building",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4dde194b76f4cda3f8fd7539b522bfea18bab0dc4c2126c347b00756348fe640"
+    },
+    {
+      "word": "condolence",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈdəʊləns/",
+        "us": "/kənˈdoʊləns/"
+      },
+      "meaning": "慰问；哀悼",
+      "collocation": {
+        "en": "offer condolences",
+        "zh": "表示哀悼"
+      },
+      "example": {
+        "en": "The company offered its deepest condolences to the victims' families.",
+        "zh": "公司向遇难者家属表示深切哀悼。"
+      },
+      "id": "v000706",
+      "images": [
+        {
+          "id": "generated-v000706",
+          "src": "images/list15/v000706.webp",
+          "alt": "condolence: offer condolences",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b3166cb7d027e7b79c2d0f9d4eec0e0b4b8291ec7bc9b69d80ee3edb4d0a4b5f"
+    },
+    {
+      "word": "censorship",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsensəʃɪp/",
+        "us": "/ˈsensərʃɪp/"
+      },
+      "meaning": "审查制度；内容审查",
+      "collocation": {
+        "en": "media censorship",
+        "zh": "媒体审查"
+      },
+      "example": {
+        "en": "The journalist criticized excessive media censorship.",
+        "zh": "记者批评了过度的媒体审查。"
+      },
+      "id": "v000707",
+      "images": [
+        {
+          "id": "generated-v000707",
+          "src": "images/list15/v000707.webp",
+          "alt": "censorship: media censorship",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2c60ed5bf9c6cec36f9b032026febc7a7c8edc403e451b981d49aad387298ac6"
+    },
+    {
+      "word": "trivial",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈtrɪviəl/",
+        "us": "/ˈtrɪviəl/"
+      },
+      "meaning": "琐碎的；不重要的",
+      "collocation": {
+        "en": "trivial matter",
+        "zh": "小事；琐事"
+      },
+      "example": {
+        "en": "Do not let trivial matters delay the project.",
+        "zh": "不要因为这些琐事耽误项目进度。"
+      },
+      "id": "v000708",
+      "images": [
+        {
+          "id": "generated-v000708",
+          "src": "images/list15/v000708.webp",
+          "alt": "trivial: trivial matter",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "91173d94d2786d636489936e5a9be24a9837ff676ca3bfa940d79821005bd391"
+    },
+    {
+      "word": "turnpike",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtɜːnpaɪk/",
+        "us": "/ˈtɜːrnpaɪk/"
+      },
+      "meaning": "收费公路",
+      "collocation": {
+        "en": "turnpike toll",
+        "zh": "收费公路通行费"
+      },
+      "example": {
+        "en": "We took the turnpike to get to the airport faster.",
+        "zh": "我们走收费公路去机场更快。"
+      },
+      "id": "v000709",
+      "images": [
+        {
+          "id": "generated-v000709",
+          "src": "images/list15/v000709.webp",
+          "alt": "turnpike: turnpike toll",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5271e9ce6ea43e5309e410f1f475022b985267f8cb12ba989d0ff10076c12a65"
+    },
+    {
+      "word": "probation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈbeɪʃn/",
+        "us": "/proʊˈbeɪʃn/"
+      },
+      "meaning": "缓刑；察看期",
+      "collocation": {
+        "en": "be on probation",
+        "zh": "处于缓刑/试用期"
+      },
+      "example": {
+        "en": "He was placed on probation for two years.",
+        "zh": "他被判缓刑两年。"
+      },
+      "id": "v000710",
+      "images": [
+        {
+          "id": "generated-v000710",
+          "src": "images/list15/v000710.webp",
+          "alt": "probation: be on probation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c3e1437b325c52c3c632b25d140e42e99c7f82ab81473afff016e395d9056979"
+    },
+    {
+      "word": "probation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈbeɪʃn/",
+        "us": "/proʊˈbeɪʃn/"
+      },
+      "meaning": "试用期",
+      "collocation": {
+        "en": "probation period",
+        "zh": "试用期"
+      },
+      "example": {
+        "en": "New employees have a three-month probation period.",
+        "zh": "新员工有三个月的试用期。"
+      },
+      "id": "v000711",
+      "images": [
+        {
+          "id": "generated-v000711",
+          "src": "images/list15/v000711.webp",
+          "alt": "probation: probation period",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "92843e02c8964b8818c133af27571eee13e4a933a539860f1599ba16b783774e"
+    },
+    {
+      "word": "dereliction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌderəˈlɪkʃn/",
+        "us": "/ˌderəˈlɪkʃn/"
+      },
+      "meaning": "失职；玩忽职守",
+      "collocation": {
+        "en": "dereliction of duty",
+        "zh": "玩忽职守"
+      },
+      "example": {
+        "en": "The official was investigated for dereliction of duty.",
+        "zh": "这名官员因玩忽职守受到调查。"
+      },
+      "id": "v000712",
+      "images": [
+        {
+          "id": "generated-v000712",
+          "src": "images/list15/v000712.webp",
+          "alt": "dereliction: dereliction of duty",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "69f5fa20cea4942c293e440aabc6a8a34f0a805ee671aed40fad948e48d7426a"
+    },
+    {
+      "word": "annuity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈnjuːəti/",
+        "us": "/əˈnuːəti/"
+      },
+      "meaning": "年金；定期给付",
+      "collocation": {
+        "en": "purchase an annuity",
+        "zh": "购买年金"
+      },
+      "example": {
+        "en": "He purchased an annuity before retirement.",
+        "zh": "他退休前购买了一份年金保险。"
+      },
+      "id": "v000713",
+      "images": [
+        {
+          "id": "generated-v000713",
+          "src": "images/list15/v000713.webp",
+          "alt": "annuity: purchase an annuity",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "11834f131ad0244dffe47e41c4e1a5c71fb852856c96b6e1b4ca527f0f58c822"
+    },
+    {
+      "word": "emblem",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈembləm/",
+        "us": "/ˈembləm/"
+      },
+      "meaning": "徽章；象征",
+      "collocation": {
+        "en": "national emblem",
+        "zh": "国徽"
+      },
+      "example": {
+        "en": "The national emblem appears on the flag.",
+        "zh": "这面旗帜上印有国家徽章。"
+      },
+      "id": "v000714",
+      "images": [
+        {
+          "id": "generated-v000714",
+          "src": "images/list15/v000714.webp",
+          "alt": "emblem: national emblem",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e90242ab57884b0993d825bc8ae9b3b33b967921ac7165893b96afeac117878e"
+    },
+    {
+      "word": "faction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfækʃn/",
+        "us": "/ˈfækʃn/"
+      },
+      "meaning": "派系；小集团",
+      "collocation": {
+        "en": "rival faction",
+        "zh": "敌对派系"
+      },
+      "example": {
+        "en": "The two rival factions strongly disagreed over policy.",
+        "zh": "两个派系在政策问题上存在严重分歧。"
+      },
+      "id": "v000715",
+      "images": [
+        {
+          "id": "generated-v000715",
+          "src": "images/list15/v000715.webp",
+          "alt": "faction: rival faction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "82df75bf1e10731ac01afbf77901a3de14ccb16d25ebbcca333d4c24f60acaf8"
+    },
+    {
+      "word": "menopause",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmenəpɔːz/",
+        "us": "/ˈmenəpɔːz/"
+      },
+      "meaning": "绝经；更年期",
+      "collocation": {
+        "en": "go through menopause",
+        "zh": "经历更年期"
+      },
+      "example": {
+        "en": "Some people experience noticeable symptoms while going through menopause.",
+        "zh": "有些人在更年期会出现明显症状。"
+      },
+      "id": "v000716",
+      "images": [
+        {
+          "id": "generated-v000716",
+          "src": "images/list15/v000716.webp",
+          "alt": "menopause: go through menopause",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cf65c4d08900786d4026649b16075e171be10b7fdcc7e990be68e09bd118e9c5"
+    },
+    {
+      "word": "lane",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/leɪn/",
+        "us": "/leɪn/"
+      },
+      "meaning": "车道；小路",
+      "collocation": {
+        "en": "traffic lane",
+        "zh": "车道"
+      },
+      "example": {
+        "en": "Do not change traffic lanes suddenly.",
+        "zh": "请不要突然变换车道。"
+      },
+      "id": "v000717",
+      "images": [
+        {
+          "id": "generated-v000717",
+          "src": "images/list15/v000717.webp",
+          "alt": "lane: traffic lane",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cc8484deb4ee95b4cd662367a7d7eb86d1aa81b99182f80ac150ad96cf78d8ea"
+    },
+    {
+      "word": "surveillance",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/sɜːˈveɪləns/",
+        "us": "/sɜːrˈveɪləns/"
+      },
+      "meaning": "监视；监控",
+      "collocation": {
+        "en": "under surveillance",
+        "zh": "处于监视之下"
+      },
+      "example": {
+        "en": "Police placed the suspect under surveillance.",
+        "zh": "警方将嫌疑人置于监视之下。"
+      },
+      "id": "v000718",
+      "images": [
+        {
+          "id": "generated-v000718",
+          "src": "images/list15/v000718.webp",
+          "alt": "surveillance: under surveillance",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "982b859d6f5696bd291c2fa0ac79326f83ccea8146d801d96f9cb79bd42d93e5"
+    },
+    {
+      "word": "collusion",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈluːʒn/",
+        "us": "/kəˈluːʒn/"
+      },
+      "meaning": "勾结；串通",
+      "collocation": {
+        "en": "collusion between",
+        "zh": "……之间的串通"
+      },
+      "example": {
+        "en": "The regulator is investigating possible collusion between the two companies.",
+        "zh": "监管机构正在调查两家公司之间是否存在串通。"
+      },
+      "id": "v000719",
+      "images": [
+        {
+          "id": "generated-v000719",
+          "src": "images/list15/v000719.webp",
+          "alt": "collusion: collusion between",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "389f482022e878d924daa4609cee099ab20940d0017f9fd391a760bf0fb40fa4"
+    },
+    {
+      "word": "convoke",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈvəʊk/",
+        "us": "/kənˈvoʊk/"
+      },
+      "meaning": "召集；召开",
+      "collocation": {
+        "en": "convoke a meeting",
+        "zh": "召集会议"
+      },
+      "example": {
+        "en": "The board decided to convoke an emergency meeting.",
+        "zh": "董事会决定紧急召开会议。"
+      },
+      "id": "v000720",
+      "images": [
+        {
+          "id": "generated-v000720",
+          "src": "images/list15/v000720.webp",
+          "alt": "convoke: convoke a meeting",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1b5365ad244dc399210e4236ae336fee69939c2d16a7a24004654257780f04f2"
+    },
+    {
+      "word": "stapler",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsteɪplə(r)/",
+        "us": "/ˈsteɪplər/"
+      },
+      "meaning": "订书机",
+      "collocation": {
+        "en": "use a stapler",
+        "zh": "使用订书机"
+      },
+      "example": {
+        "en": "Please use a stapler to fasten these documents together.",
+        "zh": "请用订书机把这些文件订在一起。"
+      },
+      "id": "v000721",
+      "images": [
+        {
+          "id": "generated-v000721",
+          "src": "images/list15/v000721.webp",
+          "alt": "stapler: use a stapler",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3d0502f83ff09db351b532b98be2d04cf78cecd150c75bf7994dfc786488178b"
+    },
+    {
+      "word": "friction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfrɪkʃn/",
+        "us": "/ˈfrɪkʃn/"
+      },
+      "meaning": "摩擦；摩擦力",
+      "collocation": {
+        "en": "reduce friction",
+        "zh": "减少摩擦"
+      },
+      "example": {
+        "en": "Lubricant can reduce friction between machine parts.",
+        "zh": "润滑油可以减少机器部件之间的摩擦。"
+      },
+      "id": "v000722",
+      "images": [
+        {
+          "id": "generated-v000722",
+          "src": "images/list15/v000722.webp",
+          "alt": "friction: reduce friction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3e309c1509a4608546d87da2741eb88c557a56fc3ac35d43e2704ec6c2d204db"
+    },
+    {
+      "word": "friction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfrɪkʃn/",
+        "us": "/ˈfrɪkʃn/"
+      },
+      "meaning": "矛盾；不和",
+      "collocation": {
+        "en": "friction between",
+        "zh": "……之间的矛盾"
+      },
+      "example": {
+        "en": "There was noticeable friction between the two teams.",
+        "zh": "两个团队之间出现了明显摩擦。"
+      },
+      "id": "v000723",
+      "images": [
+        {
+          "id": "generated-v000723",
+          "src": "images/list15/v000723.webp",
+          "alt": "friction: friction between",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "01510cadb375069cadc3af382e5e0f7a6ba97401e174ddc2d8e7b32bec989843"
+    },
+    {
+      "word": "shorthand",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈʃɔːthænd/",
+        "us": "/ˈʃɔːrthænd/"
+      },
+      "meaning": "速记；简略表达",
+      "collocation": {
+        "en": "in shorthand",
+        "zh": "用速记法"
+      },
+      "example": {
+        "en": "She took notes in shorthand during the meeting.",
+        "zh": "她在会议上用速记记录重点。"
+      },
+      "id": "v000724",
+      "images": [
+        {
+          "id": "generated-v000724",
+          "src": "images/list15/v000724.webp",
+          "alt": "shorthand: in shorthand",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a959c3d7ddb035ed3ea3733e6950a44c6ebe98f30f877eb33d44b910686886e2"
+    },
+    {
+      "word": "newscast",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈnjuːzkɑːst/",
+        "us": "/ˈnuːzkæst/"
+      },
+      "meaning": "新闻广播",
+      "collocation": {
+        "en": "evening newscast",
+        "zh": "晚间新闻"
+      },
+      "example": {
+        "en": "We watch the evening newscast every night.",
+        "zh": "我们每天晚上都会看晚间新闻。"
+      },
+      "id": "v000725",
+      "images": [
+        {
+          "id": "generated-v000725",
+          "src": "images/list15/v000725.webp",
+          "alt": "newscast: evening newscast",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1ee73bc3f8e9d561f1cb0defb5964cc6d989c7d1ece4cad01c060a34201622f3"
+    },
+    {
+      "word": "infraction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪnˈfrækʃn/",
+        "us": "/ɪnˈfrækʃn/"
+      },
+      "meaning": "违规；违法行为",
+      "collocation": {
+        "en": "minor infraction",
+        "zh": "轻微违规"
+      },
+      "example": {
+        "en": "This was only a minor infraction.",
+        "zh": "这只是一次轻微违规。"
+      },
+      "id": "v000726",
+      "images": [
+        {
+          "id": "generated-v000726",
+          "src": "images/list15/v000726.webp",
+          "alt": "infraction: minor infraction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "78389b58123b0585df39dd087cbd84467a3fd6b51f58074c2557fedcdbfca5f7"
+    },
+    {
+      "word": "prestigious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/preˈstɪdʒəs/",
+        "us": "/preˈstiːdʒəs/"
+      },
+      "meaning": "有声望的；享有盛誉的",
+      "collocation": {
+        "en": "prestigious university",
+        "zh": "名牌大学"
+      },
+      "example": {
+        "en": "She graduated from a prestigious university.",
+        "zh": "她毕业于一所享有盛誉的大学。"
+      },
+      "id": "v000727",
+      "images": [
+        {
+          "id": "generated-v000727",
+          "src": "images/list15/v000727.webp",
+          "alt": "prestigious: prestigious university",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1ab05bcafe19574daf8ccaf5d46a79a16c273b778c7f015b42cc9d11e38f0d20"
+    },
+    {
+      "word": "accomplice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈkʌmplɪs/",
+        "us": "/əˈkɑːmplɪs/"
+      },
+      "meaning": "同谋；帮凶",
+      "collocation": {
+        "en": "accomplice in a crime",
+        "zh": "犯罪同伙"
+      },
+      "example": {
+        "en": "Police arrested one of the suspect's accomplices.",
+        "zh": "警方逮捕了嫌疑人的一名同伙。"
+      },
+      "id": "v000728",
+      "images": [
+        {
+          "id": "generated-v000728",
+          "src": "images/list15/v000728.webp",
+          "alt": "accomplice: accomplice in a crime",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c67237895b96f4e829bf70959b9a3fa105cf6341a69d2f347b1b4f4209b968e8"
+    },
+    {
+      "word": "adversity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ədˈvɜːsəti/",
+        "us": "/ədˈvɜːrsəti/"
+      },
+      "meaning": "逆境；困难",
+      "collocation": {
+        "en": "overcome adversity",
+        "zh": "克服逆境"
+      },
+      "example": {
+        "en": "She overcame great adversity through perseverance.",
+        "zh": "她凭借毅力克服了许多困难。"
+      },
+      "id": "v000729",
+      "images": [
+        {
+          "id": "generated-v000729",
+          "src": "images/list15/v000729.webp",
+          "alt": "adversity: overcome adversity",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "78794acee7b3180190fea4adbb9e95e643cf171c4b9d9d9a3a953f3167090770"
+    },
+    {
+      "word": "affidavit",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌæfɪˈdeɪvɪt/",
+        "us": "/ˌæfɪˈdeɪvɪt/"
+      },
+      "meaning": "宣誓书；书面证词",
+      "collocation": {
+        "en": "sign an affidavit",
+        "zh": "签署宣誓书"
+      },
+      "example": {
+        "en": "The witness signed an affidavit.",
+        "zh": "证人签署了一份宣誓书。"
+      },
+      "id": "v000730",
+      "images": [
+        {
+          "id": "generated-v000730",
+          "src": "images/list15/v000730.webp",
+          "alt": "affidavit: sign an affidavit",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6c29b8eaec0dccc6d0c75647236bf523292b152aff2c187c1540adefaa54f75c"
+    },
+    {
+      "word": "agony",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈæɡəni/",
+        "us": "/ˈæɡəni/"
+      },
+      "meaning": "极度痛苦；苦恼",
+      "collocation": {
+        "en": "in agony",
+        "zh": "极度痛苦地"
+      },
+      "example": {
+        "en": "He was in agony because of his leg injury.",
+        "zh": "他因腿伤疼得非常厉害。"
+      },
+      "id": "v000731",
+      "images": [
+        {
+          "id": "generated-v000731",
+          "src": "images/list15/v000731.webp",
+          "alt": "agony: in agony",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "880036c6a054d19414a2e014f297ed4281257ed750a469632a534f449208b3f8"
+    },
+    {
+      "word": "arraignment",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈreɪnmənt/",
+        "us": "/əˈreɪnmənt/"
+      },
+      "meaning": "提审；传讯",
+      "collocation": {
+        "en": "at the arraignment",
+        "zh": "在提审时"
+      },
+      "example": {
+        "en": "The defendant will appear at the arraignment on Monday.",
+        "zh": "被告将在周一接受提审。"
+      },
+      "id": "v000732",
+      "images": [
+        {
+          "id": "generated-v000732",
+          "src": "images/list15/v000732.webp",
+          "alt": "arraignment: at the arraignment",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0a9ec05feb1ccf9fa9ce3ae73b9234cc70caf97cd6fdca35a0d7dc1f40b8fa44"
+    },
+    {
+      "word": "arson",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɑːsn/",
+        "us": "/ˈɑːrsn/"
+      },
+      "meaning": "纵火罪；放火",
+      "collocation": {
+        "en": "commit arson",
+        "zh": "实施纵火"
+      },
+      "example": {
+        "en": "Police suspect that the fire was an act of arson.",
+        "zh": "警方怀疑这场火灾是人为纵火。"
+      },
+      "id": "v000733",
+      "images": [
+        {
+          "id": "generated-v000733",
+          "src": "images/list15/v000733.webp",
+          "alt": "arson: commit arson",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c085d1311ea0c0915a9a00f3ef5e4e6c30a60589a8173f3460deea416097791e"
+    },
+    {
+      "word": "assimilate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈsɪməleɪt/",
+        "us": "/əˈsɪməleɪt/"
+      },
+      "meaning": "吸收；理解",
+      "collocation": {
+        "en": "assimilate information",
+        "zh": "吸收信息"
+      },
+      "example": {
+        "en": "Students need time to assimilate a large amount of new information.",
+        "zh": "学生需要时间消化大量新信息。"
+      },
+      "id": "v000734",
+      "images": [
+        {
+          "id": "generated-v000734",
+          "src": "images/list15/v000734.webp",
+          "alt": "assimilate: assimilate information",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d6cb7f42209507a01a46a10f3a8e1881feeb9147038f28695b3c384669b4a2f5"
+    },
+    {
+      "word": "assimilate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈsɪməleɪt/",
+        "us": "/əˈsɪməleɪt/"
+      },
+      "meaning": "融入；同化",
+      "collocation": {
+        "en": "assimilate into",
+        "zh": "融入……"
+      },
+      "example": {
+        "en": "The newcomers gradually assimilated into the local community.",
+        "zh": "新移民逐渐融入当地社区。"
+      },
+      "id": "v000735",
+      "images": [
+        {
+          "id": "generated-v000735",
+          "src": "images/list15/v000735.webp",
+          "alt": "assimilate: assimilate into",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e70d5a4423c44323832c0b50e93ad9ef723fec14f9ea0e370889e58f538700d"
+    },
+    {
+      "word": "asthma",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈæsmə/",
+        "us": "/ˈæzmə/"
+      },
+      "meaning": "哮喘",
+      "collocation": {
+        "en": "suffer from asthma",
+        "zh": "患有哮喘"
+      },
+      "example": {
+        "en": "He has suffered from asthma since childhood.",
+        "zh": "他从小就患有哮喘。"
+      },
+      "id": "v000736",
+      "images": [
+        {
+          "id": "generated-v000736",
+          "src": "images/list15/v000736.webp",
+          "alt": "asthma: suffer from asthma",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "87242c5f9ae18c4a9f24cebab203186a0477d8eb92bb167a2d53dbca34a21586"
+    },
+    {
+      "word": "attentive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əˈtentɪv/",
+        "us": "/əˈtentɪv/"
+      },
+      "meaning": "专心的；体贴的",
+      "collocation": {
+        "en": "attentive to",
+        "zh": "留意；关心……"
+      },
+      "example": {
+        "en": "Good service staff are attentive to customers' needs.",
+        "zh": "优秀的服务人员会细心关注顾客的需要。"
+      },
+      "id": "v000737",
+      "images": [
+        {
+          "id": "generated-v000737",
+          "src": "images/list15/v000737.webp",
+          "alt": "attentive: attentive to",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "65e2361e03f958f97800c235e2477a27f458c9b6b2a2df629b2d2b8657b84b9f"
+    },
+    {
+      "word": "avert",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈvɜːt/",
+        "us": "/əˈvɜːrt/"
+      },
+      "meaning": "避免；防止",
+      "collocation": {
+        "en": "avert a crisis",
+        "zh": "避免危机"
+      },
+      "example": {
+        "en": "Timely action averted a serious crisis.",
+        "zh": "及时采取措施避免了一场严重危机。"
+      },
+      "id": "v000738",
+      "images": [
+        {
+          "id": "generated-v000738",
+          "src": "images/list15/v000738.webp",
+          "alt": "avert: avert a crisis",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "27702586d2f6d34c4bef64977d881b6eeb3099607bad338eacd21e9f311272b1"
+    },
+    {
+      "word": "avert",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əˈvɜːt/",
+        "us": "/əˈvɜːrt/"
+      },
+      "meaning": "移开（目光）",
+      "collocation": {
+        "en": "avert one's gaze",
+        "zh": "移开视线"
+      },
+      "example": {
+        "en": "He averted his gaze awkwardly.",
+        "zh": "他尴尬地移开了视线。"
+      },
+      "id": "v000739",
+      "images": [
+        {
+          "id": "generated-v000739",
+          "src": "images/list15/v000739.webp",
+          "alt": "avert: avert one's gaze",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4385718ad5cfc69487cd8f37cfe2d5fd4d12b306dfc0c3c4ec4ab00a5f97670f"
+    },
+    {
+      "word": "belittle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bɪˈlɪtl/",
+        "us": "/bɪˈlɪtl/"
+      },
+      "meaning": "贬低；轻视",
+      "collocation": {
+        "en": "belittle someone's efforts",
+        "zh": "贬低某人的努力"
+      },
+      "example": {
+        "en": "Do not belittle other people's efforts.",
+        "zh": "不要贬低别人付出的努力。"
+      },
+      "id": "v000740",
+      "images": [
+        {
+          "id": "generated-v000740",
+          "src": "images/list15/v000740.webp",
+          "alt": "belittle: belittle someone's efforts",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8b70b06539ebdc370cd2ab9892b3761df8b9c653a0dfa93cbb8ff05487edb8f5"
+    },
+    {
+      "word": "bilateral",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌbaɪˈlætərəl/",
+        "us": "/ˌbaɪˈlætərəl/"
+      },
+      "meaning": "双边的；双方的",
+      "collocation": {
+        "en": "bilateral talks",
+        "zh": "双边会谈"
+      },
+      "example": {
+        "en": "The two countries held bilateral talks.",
+        "zh": "两国举行了双边会谈。"
+      },
+      "id": "v000741",
+      "images": [
+        {
+          "id": "generated-v000741",
+          "src": "images/list15/v000741.webp",
+          "alt": "bilateral: bilateral talks",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6844c5d8f586b1df1b4c50f019affb707da250a401623b78d7af48281d348479"
+    },
+    {
+      "word": "binocular",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/bɪˈnɒkjələ(r)/",
+        "us": "/bɪˈnɑːkjələr/"
+      },
+      "meaning": "双眼的；双筒的",
+      "collocation": {
+        "en": "binocular vision",
+        "zh": "双眼视觉"
+      },
+      "example": {
+        "en": "Binocular vision helps us judge distance.",
+        "zh": "双眼视觉有助于判断距离。"
+      },
+      "id": "v000742",
+      "images": [
+        {
+          "id": "generated-v000742",
+          "src": "images/list15/v000742.webp",
+          "alt": "binocular: binocular vision",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9c772a3524c391842a19e038335e50b4c35d5aa7671a16c41064b143326f9bcf"
+    },
+    {
+      "word": "binoculars",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/bɪˈnɒkjələz/",
+        "us": "/bɪˈnɑːkjələrz/"
+      },
+      "meaning": "双筒望远镜",
+      "collocation": {
+        "en": "a pair of binoculars",
+        "zh": "一副双筒望远镜"
+      },
+      "example": {
+        "en": "He used a pair of binoculars to watch birds in the distance.",
+        "zh": "他用双筒望远镜观察远处的鸟。"
+      },
+      "id": "v000743",
+      "images": [
+        {
+          "id": "generated-v000743",
+          "src": "images/list15/v000743.webp",
+          "alt": "binoculars: a pair of binoculars",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "eb9681753912d7ce9c696d64a7c2f29046a3636f0b236ff9e30034498669c8c5"
+    },
+    {
+      "word": "blackmail",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈblækmeɪl/",
+        "us": "/ˈblækmeɪl/"
+      },
+      "meaning": "敲诈；勒索",
+      "collocation": {
+        "en": "attempted blackmail",
+        "zh": "企图敲诈"
+      },
+      "example": {
+        "en": "Police are investigating a case of blackmail.",
+        "zh": "警方正在调查一起敲诈案件。"
+      },
+      "id": "v000744",
+      "images": [
+        {
+          "id": "generated-v000744",
+          "src": "images/list15/v000744.webp",
+          "alt": "blackmail: attempted blackmail",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dfb3a836f5ea5c74489ce765c2f67f6d26fb6ee3e448137dd38b0ccd5a341f47"
+    },
+    {
+      "word": "blackmail",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈblækmeɪl/",
+        "us": "/ˈblækmeɪl/"
+      },
+      "meaning": "敲诈；勒索",
+      "collocation": {
+        "en": "blackmail someone into",
+        "zh": "勒索某人做……"
+      },
+      "example": {
+        "en": "The criminals tried to blackmail him into handing over money.",
+        "zh": "犯罪分子试图勒索他交出钱财。"
+      },
+      "id": "v000745",
+      "images": [
+        {
+          "id": "generated-v000745",
+          "src": "images/list15/v000745.webp",
+          "alt": "blackmail: blackmail someone into",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ceca62ae510c221c3dfd0858b83ffb23f5e29bb7673d071de6a5f6b858051c31"
+    },
+    {
+      "word": "bogus",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈbəʊɡəs/",
+        "us": "/ˈboʊɡəs/"
+      },
+      "meaning": "假的；伪造的",
+      "collocation": {
+        "en": "bogus claim",
+        "zh": "虚假说法"
+      },
+      "example": {
+        "en": "The investigation found that it was a bogus claim.",
+        "zh": "调查发现这是一项虚假索赔。"
+      },
+      "id": "v000746",
+      "images": [
+        {
+          "id": "generated-v000746",
+          "src": "images/list15/v000746.webp",
+          "alt": "bogus: bogus claim",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ceabef21949f8a53284d7fb9ddba415810373caa6282cf5558166e5f931e6921"
+    },
+    {
+      "word": "bystander",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbaɪstændə(r)/",
+        "us": "/ˈbaɪstændər/"
+      },
+      "meaning": "旁观者；路人",
+      "collocation": {
+        "en": "innocent bystander",
+        "zh": "无辜旁观者"
+      },
+      "example": {
+        "en": "An innocent bystander was injured in the accident.",
+        "zh": "一名无辜路人在事故中受伤。"
+      },
+      "id": "v000747",
+      "images": [
+        {
+          "id": "generated-v000747",
+          "src": "images/list15/v000747.webp",
+          "alt": "bystander: innocent bystander",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a47e0ba15eb4eae09ab2b3d1816ca811187413f4a2b648fce57cb10fb134c249"
+    },
+    {
+      "word": "canny",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkæni/",
+        "us": "/ˈkæni/"
+      },
+      "meaning": "精明的；机敏的",
+      "collocation": {
+        "en": "canny investor",
+        "zh": "精明的投资者"
+      },
+      "example": {
+        "en": "The canny investor sold the shares before the market fell.",
+        "zh": "这位精明的投资者在市场下跌前卖出了股票。"
+      },
+      "id": "v000748",
+      "images": [
+        {
+          "id": "generated-v000748",
+          "src": "images/list15/v000748.webp",
+          "alt": "canny: canny investor",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3cb4086c80c4450e65448871e715a4e638d5a73ba1df75df48b00953d8b39a41"
+    },
+    {
+      "word": "censure",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsenʃə(r)/",
+        "us": "/ˈsenʃər/"
+      },
+      "meaning": "严厉批评；谴责",
+      "collocation": {
+        "en": "a vote of censure",
+        "zh": "谴责投票"
+      },
+      "example": {
+        "en": "Parliament passed a vote of censure against the official.",
+        "zh": "议会通过了对该官员的谴责动议。"
+      },
+      "id": "v000749",
+      "images": [
+        {
+          "id": "generated-v000749",
+          "src": "images/list15/v000749.webp",
+          "alt": "censure: a vote of censure",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8e714a87da0618fcb14232f10d23e4a68a1fd515c730e1d950ffc2140770a2d8"
+    },
+    {
+      "word": "censure",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsenʃə(r)/",
+        "us": "/ˈsenʃər/"
+      },
+      "meaning": "严厉批评；正式谴责",
+      "collocation": {
+        "en": "censure someone for",
+        "zh": "因……谴责某人"
+      },
+      "example": {
+        "en": "The committee censured him for misconduct.",
+        "zh": "委员会因其行为不当而谴责了他。"
+      },
+      "id": "v000750",
+      "images": [
+        {
+          "id": "generated-v000750",
+          "src": "images/list15/v000750.webp",
+          "alt": "censure: censure someone for",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9c0483435824e6910aa6d79014d79702420caf231a808fcdb42a717d6a8755b2"
+    }
+  ]
+}

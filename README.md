@@ -2,7 +2,7 @@
 
 新增 Story Review：List 01 末尾提供 4 角色、5 场景、35 句中英故事，覆盖真实的 50 条词汇记录。支持角色语音、双语朗读、跳句/场景、独立语速及图片容错。使用及新增其他 List 故事见 [Story Review 维护说明](docs/story-review.md)。已配齐 5 张场景图片。
 
-React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 696 条记录，分成 14 个 List（List 13 为 50 条，List 14 为 46 条）。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
+React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 757 条记录，分成 16 个 List（List 01～15 各 50 条，List 16 为 7 条）。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
 
 ## TOEIC 图片批量生成规则
 
@@ -93,6 +93,8 @@ python scripts/validate_data.py
 ```
 
 追加脚本先校验全部输入，再补满最后一个 List（每组 50 条），之后创建下一个 List；保留已有 ID、图片、笔记及顺序。同形不同义按完整词条内容分别保留，重复导入同一记录不重复添加。2026-10-18 批次新增 70 条，ID 为 v000627～v000696；原 626 条保持不变。图片位于 `public/images/list13/`、`public/images/list14/`，每条一张，均为 2100×900、WebP 质量 85、sRGB；实际文件约 82–482 KB，总计约 13.62 MB。具体提示词和文件对应关系见 [本批图片记录](docs/vocabulary-images-20261018.json)。
+
+2026-10-26 第十组新增 61 条（v000697～v000757），补满 List 14 后创建 List 15、List 16，保留之前全部 696 条词汇及编辑内容。源表归档为 `data-source/英语单词_第十组_20261026.xlsx`，61 张独立配图均为 2100×900、WebP 质量 85、sRGB，总计约 9.92 MB（实际单图约 95–343 KB）。图片路径及提示词见 [第十组图片记录](docs/vocabulary-images-20261026.json)。重复导入时运行 `python scripts/append_vocabulary.py "data-source/英语单词_第十组_20261026.xlsx"`，已有记录不会重复添加。
 
 ## 导入 Excel、添加 List
 

@@ -1,0 +1,259 @@
+{
+  "id": "list16",
+  "title": "List 16",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "chemotherapy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkiːməʊˈθerəpi/",
+        "us": "/ˌkiːmoʊˈθerəpi/"
+      },
+      "meaning": "化学疗法；化疗",
+      "collocation": {
+        "en": "undergo chemotherapy",
+        "zh": "接受化疗"
+      },
+      "example": {
+        "en": "The patient is undergoing chemotherapy.",
+        "zh": "患者正在接受化疗。"
+      },
+      "id": "v000751",
+      "images": [
+        {
+          "id": "generated-v000751",
+          "src": "images/list16/v000751.webp",
+          "alt": "chemotherapy: undergo chemotherapy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e6871e2aab1182c2798a7dc238f930e09f3e0497fa6f7712993e6cf63a0963b"
+    },
+    {
+      "word": "coarse",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kɔːs/",
+        "us": "/kɔːrs/"
+      },
+      "meaning": "粗糙的；粗的",
+      "collocation": {
+        "en": "coarse texture",
+        "zh": "粗糙的质地"
+      },
+      "example": {
+        "en": "The fabric has a coarse texture.",
+        "zh": "这种布料摸起来很粗糙。"
+      },
+      "id": "v000752",
+      "images": [
+        {
+          "id": "generated-v000752",
+          "src": "images/list16/v000752.webp",
+          "alt": "coarse: coarse texture",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "13b0e2996376648e556042d09f93d407c46c90aa57aee6d37888e08956b0a374"
+    },
+    {
+      "word": "coarse",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kɔːs/",
+        "us": "/kɔːrs/"
+      },
+      "meaning": "粗俗的；粗鲁的",
+      "collocation": {
+        "en": "coarse language",
+        "zh": "粗俗语言"
+      },
+      "example": {
+        "en": "Coarse language should be avoided during meetings.",
+        "zh": "会议中应避免使用粗俗语言。"
+      },
+      "id": "v000753",
+      "images": [
+        {
+          "id": "generated-v000753",
+          "src": "images/list16/v000753.webp",
+          "alt": "coarse: coarse language",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bc378589e853df284d062bf9fa4beeaefdbc898fe2ab15e4a1d7977a48a8b64f"
+    },
+    {
+      "word": "collateral",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈlætərəl/",
+        "us": "/kəˈlætərəl/"
+      },
+      "meaning": "抵押品；担保物",
+      "collocation": {
+        "en": "provide collateral",
+        "zh": "提供抵押品"
+      },
+      "example": {
+        "en": "The bank required the borrower to provide collateral.",
+        "zh": "银行要求借款人提供抵押品。"
+      },
+      "id": "v000754",
+      "images": [
+        {
+          "id": "generated-v000754",
+          "src": "images/list16/v000754.webp",
+          "alt": "collateral: provide collateral",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "22364c0ff7869483294c7be6c456e654efabb0d1df71e4fe58e77b544766c459"
+    },
+    {
+      "word": "collateral",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kəˈlætərəl/",
+        "us": "/kəˈlætərəl/"
+      },
+      "meaning": "附带的；间接的",
+      "collocation": {
+        "en": "collateral damage",
+        "zh": "附带损害"
+      },
+      "example": {
+        "en": "The operation caused some unintended collateral damage.",
+        "zh": "行动造成了一些意外的附带损害。"
+      },
+      "id": "v000755",
+      "images": [
+        {
+          "id": "generated-v000755",
+          "src": "images/list16/v000755.webp",
+          "alt": "collateral: collateral damage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80abdf6f6224336a423e67fd38ab3e57b07766b3b327233afd4ad5fbf2382445"
+    },
+    {
+      "word": "colonial",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kəˈləʊniəl/",
+        "us": "/kəˈloʊniəl/"
+      },
+      "meaning": "殖民的；殖民时期的",
+      "collocation": {
+        "en": "colonial rule",
+        "zh": "殖民统治"
+      },
+      "example": {
+        "en": "The book examines the history of colonial rule in the region.",
+        "zh": "这本书研究了该地区的殖民统治历史。"
+      },
+      "id": "v000756",
+      "images": [
+        {
+          "id": "generated-v000756",
+          "src": "images/list16/v000756.webp",
+          "alt": "colonial: colonial rule",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6e82ff2809ec6b519b75162b0af81ff00891529679b84ece0e8e230c76df8b75"
+    },
+    {
+      "word": "colonial",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈləʊniəl/",
+        "us": "/kəˈloʊniəl/"
+      },
+      "meaning": "殖民地居民",
+      "collocation": {
+        "en": "European colonial",
+        "zh": "欧洲殖民者/殖民地居民"
+      },
+      "example": {
+        "en": "The museum displays materials about the lives of early colonials.",
+        "zh": "博物馆展示了早期殖民地居民的生活资料。"
+      },
+      "id": "v000757",
+      "images": [
+        {
+          "id": "generated-v000757",
+          "src": "images/list16/v000757.webp",
+          "alt": "colonial: European colonial",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6fe91f3ed9291a17a1aad805f41a4c84c99de4be558c02c297f7b90ebddffc04"
+    }
+  ]
+}
