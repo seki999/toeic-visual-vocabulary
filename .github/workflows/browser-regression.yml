@@ -24,11 +24,15 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm exec playwright install --with-deps chromium
       - name: Browser E2E tests
-        run: pnpm test:browser
+        shell: bash
+        run: |
+          start=$SECONDS
+          pnpm test:browser
+          echo "E2E elapsed seconds: $((SECONDS-start))" >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
-        if: failure()
+        if: always()
         with:
-          name: playwright-failure-reports
+          name: playwright-regression-reports
           path: |
             playwright-report/
             test-results/
