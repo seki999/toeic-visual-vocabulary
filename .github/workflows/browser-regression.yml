@@ -1,0 +1,45 @@
+name: Full Browser Regression
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/browser-regression.yml'
+      - 'playwright.config.ts'
+      - 'tests/browser/**'
+  schedule:
+    - cron: '0 19 * * 6'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: toeic-browser-regression-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  e2e:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm exec playwright install --with-deps --only-shell chromium
+      - name: Browser E2E tests
+        shell: bash
+        run: |
+          start=$SECONDS
+          pnpm test:browser
+          echo "E2E elapsed seconds: $((SECONDS-start))" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: playwright-regression-reports
+          path: |
+            playwright-report/
+            test-results/
+          if-no-files-found: ignore
+          retention-days: 3

@@ -13,24 +13,31 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
       - uses: pnpm/action-setup@v4
         with:
           version: 11
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
       - run: pnpm install --frozen-lockfile
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
+          cache: pip
       - run: pip install -r requirements.txt
-      - run: python scripts/test_import.py && python scripts/test_append.py && python scripts/validate_data.py
-      - run: python scripts/test_story.py && pnpm story:validate
-      - run: pnpm typecheck && pnpm lint && pnpm test && pnpm build
-      - run: pnpm exec playwright install --with-deps chromium
-      - run: pnpm test:browser
+      - name: Python data and story validation
+        run: |
+          python scripts/test_import.py
+          python scripts/test_append.py
+          python scripts/validate_data.py
+          python scripts/test_story.py
+          pnpm story:validate
+      - name: Typecheck lint unit test and production build
+        run: pnpm typecheck && pnpm lint && pnpm test && pnpm build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -38,6 +45,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
