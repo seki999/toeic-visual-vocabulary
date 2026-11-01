@@ -1,5 +1,10 @@
 name: Full Browser Regression
 on:
+  pull_request:
+    paths:
+      - '.github/workflows/browser-regression.yml'
+      - 'playwright.config.ts'
+      - 'tests/browser/**'
   schedule:
     - cron: '0 19 * * 6'
   workflow_dispatch:
