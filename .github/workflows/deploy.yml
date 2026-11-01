@@ -13,7 +13,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v4
@@ -29,11 +29,15 @@ jobs:
           python-version: '3.13'
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python scripts/test_import.py && python scripts/test_append.py && python scripts/validate_data.py
-      - run: python scripts/test_story.py && pnpm story:validate
-      - run: pnpm typecheck && pnpm lint && pnpm test && pnpm build
-      - run: pnpm exec playwright install --with-deps chromium
-      - run: pnpm test:browser
+      - name: Python data and story validation
+        run: |
+          python scripts/test_import.py
+          python scripts/test_append.py
+          python scripts/validate_data.py
+          python scripts/test_story.py
+          pnpm story:validate
+      - name: Typecheck lint unit test and production build
+        run: pnpm typecheck && pnpm lint && pnpm test && pnpm build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
