@@ -254,6 +254,1554 @@
       "tags": [],
       "notes": "",
       "sourceKey": "6fe91f3ed9291a17a1aad805f41a4c84c99de4be558c02c297f7b90ebddffc04"
+    },
+    {
+      "word": "commerce",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkɒmɜːs/",
+        "us": "/ˈkɑːmɜːrs/"
+      },
+      "meaning": "商业；贸易",
+      "collocation": {
+        "en": "international commerce",
+        "zh": "国际贸易"
+      },
+      "example": {
+        "en": "E-commerce is changing the way international commerce is conducted.",
+        "zh": "电子商务正在改变国际贸易的方式。"
+      },
+      "id": "v000758",
+      "images": [
+        {
+          "id": "generated-v000758",
+          "src": "images/list16/v000758.webp",
+          "alt": "commerce: international commerce",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "abfe3dc10acc392e8d4d838cca648c1d224f5ace86799a48ba2a939e2595dae7"
+    },
+    {
+      "word": "commercialism",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈmɜːʃəlɪzəm/",
+        "us": "/kəˈmɜːrʃəlɪzəm/"
+      },
+      "meaning": "商业主义；重商倾向",
+      "collocation": {
+        "en": "excessive commercialism",
+        "zh": "过度商业化"
+      },
+      "example": {
+        "en": "Some people criticize the festival for excessive commercialism.",
+        "zh": "有人批评节日受到过度商业化的影响。"
+      },
+      "id": "v000759",
+      "images": [
+        {
+          "id": "generated-v000759",
+          "src": "images/list16/v000759.webp",
+          "alt": "commercialism: excessive commercialism",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8ec2b987d448e18ff87b74ad4a8c74a5509f2c8bddb0b1bbdd8f0ba1589aceee"
+    },
+    {
+      "word": "commodity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kəˈmɒdəti/",
+        "us": "/kəˈmɑːdəti/"
+      },
+      "meaning": "商品；大宗商品",
+      "collocation": {
+        "en": "commodity prices",
+        "zh": "大宗商品价格"
+      },
+      "example": {
+        "en": "Rising energy costs pushed up commodity prices.",
+        "zh": "能源价格上涨推高了大宗商品价格。"
+      },
+      "id": "v000760",
+      "images": [
+        {
+          "id": "generated-v000760",
+          "src": "images/list16/v000760.webp",
+          "alt": "commodity: commodity prices",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8b1dd924e1bf9608494f16b65672dd075b99114124d9fa51bc3c0e67a33deb41"
+    },
+    {
+      "word": "competent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkɒmpɪtənt/",
+        "us": "/ˈkɑːmpɪtənt/"
+      },
+      "meaning": "有能力的；胜任的",
+      "collocation": {
+        "en": "competent in",
+        "zh": "胜任；擅长……"
+      },
+      "example": {
+        "en": "She is highly competent in this technical role.",
+        "zh": "她非常胜任这个技术岗位。"
+      },
+      "id": "v000761",
+      "images": [
+        {
+          "id": "generated-v000761",
+          "src": "images/list16/v000761.webp",
+          "alt": "competent: competent in",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "05617513019ec1ecc08826ee983d44bc6260f4fcec9395a337b4c610fe34122a"
+    },
+    {
+      "word": "concoct",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈkɒkt/",
+        "us": "/kənˈkɑːkt/"
+      },
+      "meaning": "调制；配制",
+      "collocation": {
+        "en": "concoct a drink",
+        "zh": "调制饮料"
+      },
+      "example": {
+        "en": "The bartender concocted a new drink.",
+        "zh": "调酒师调制了一款新饮料。"
+      },
+      "id": "v000762",
+      "images": [
+        {
+          "id": "generated-v000762",
+          "src": "images/list16/v000762.webp",
+          "alt": "concoct: concoct a drink",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6e69e6d5e08a4f5161aa0b88df90614736e8065a4af442b4cd7e8e9e8d8d0545"
+    },
+    {
+      "word": "concoct",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈkɒkt/",
+        "us": "/kənˈkɑːkt/"
+      },
+      "meaning": "编造；捏造",
+      "collocation": {
+        "en": "concoct a story",
+        "zh": "编造故事"
+      },
+      "example": {
+        "en": "He concocted a story to explain why he was late.",
+        "zh": "他编造了一个借口来解释迟到。"
+      },
+      "id": "v000763",
+      "images": [
+        {
+          "id": "generated-v000763",
+          "src": "images/list16/v000763.webp",
+          "alt": "concoct: concoct a story",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "967d91cd96f1421c5ee8b296163615f301570d8fe3238ea942e298420ce54650"
+    },
+    {
+      "word": "concur",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈkɜː(r)/",
+        "us": "/kənˈkɜːr/"
+      },
+      "meaning": "同意；意见一致",
+      "collocation": {
+        "en": "concur with",
+        "zh": "同意……"
+      },
+      "example": {
+        "en": "I fully concur with your analysis.",
+        "zh": "我完全同意你的分析。"
+      },
+      "id": "v000764",
+      "images": [
+        {
+          "id": "generated-v000764",
+          "src": "images/list16/v000764.webp",
+          "alt": "concur: concur with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9bb5a33f4f6938986322abdd6e3d2ed713f11a67137d050766bbba201ad88a9c"
+    },
+    {
+      "word": "condone",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈdəʊn/",
+        "us": "/kənˈdoʊn/"
+      },
+      "meaning": "宽恕；纵容",
+      "collocation": {
+        "en": "condone misconduct",
+        "zh": "纵容不当行为"
+      },
+      "example": {
+        "en": "The company will not condone fraudulent conduct.",
+        "zh": "公司绝不会纵容欺诈行为。"
+      },
+      "id": "v000765",
+      "images": [
+        {
+          "id": "generated-v000765",
+          "src": "images/list16/v000765.webp",
+          "alt": "condone: condone misconduct",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dbe978eeb03e24379096ba9428a6f7a48550103ee8a9473b2109473c473b43aa"
+    },
+    {
+      "word": "confederate",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈfedərət/",
+        "us": "/kənˈfedərət/"
+      },
+      "meaning": "同盟者；共谋者",
+      "collocation": {
+        "en": "a confederate in crime",
+        "zh": "犯罪同伙"
+      },
+      "example": {
+        "en": "Police arrested one of the suspect's confederates.",
+        "zh": "警方逮捕了嫌疑人的一名同伙。"
+      },
+      "id": "v000766",
+      "images": [
+        {
+          "id": "generated-v000766",
+          "src": "images/list16/v000766.webp",
+          "alt": "confederate: a confederate in crime",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "82d42cfa3704537cedb20204094d05b10aa53a08809b706426d8c8cee2cb37d5"
+    },
+    {
+      "word": "confederate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈfedərət/",
+        "us": "/kənˈfedərət/"
+      },
+      "meaning": "联盟的；邦联的",
+      "collocation": {
+        "en": "confederate states",
+        "zh": "邦联诸州"
+      },
+      "example": {
+        "en": "The history course discussed the political structure of the confederate states.",
+        "zh": "历史课程讨论了邦联诸州的政治结构。"
+      },
+      "id": "v000767",
+      "images": [
+        {
+          "id": "generated-v000767",
+          "src": "images/list16/v000767.webp",
+          "alt": "confederate: confederate states",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a42390475b585c227f43db5930244902b61e059bc587834925d9081c395a5083"
+    },
+    {
+      "word": "conjecture",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈdʒektʃə(r)/",
+        "us": "/kənˈdʒektʃər/"
+      },
+      "meaning": "猜测；推测",
+      "collocation": {
+        "en": "pure conjecture",
+        "zh": "纯属猜测"
+      },
+      "example": {
+        "en": "At present, claims about the cause of the accident are still pure conjecture.",
+        "zh": "目前关于事故原因的说法仍然只是猜测。"
+      },
+      "id": "v000768",
+      "images": [
+        {
+          "id": "generated-v000768",
+          "src": "images/list16/v000768.webp",
+          "alt": "conjecture: pure conjecture",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8af5e8b027a989c22c9f1b9abaca1a652d0c10ff5a22d11806edc7bcd1c573e1"
+    },
+    {
+      "word": "conjecture",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈdʒektʃə(r)/",
+        "us": "/kənˈdʒektʃər/"
+      },
+      "meaning": "推测；猜想",
+      "collocation": {
+        "en": "conjecture that",
+        "zh": "推测……"
+      },
+      "example": {
+        "en": "Experts conjectured that the system might contain a design flaw.",
+        "zh": "专家推测系统可能存在设计缺陷。"
+      },
+      "id": "v000769",
+      "images": [
+        {
+          "id": "generated-v000769",
+          "src": "images/list16/v000769.webp",
+          "alt": "conjecture: conjecture that",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "944f602d7367cdd73907e388f0d799c14051cfae1785f9930070ac6f5b9dcb35"
+    },
+    {
+      "word": "conservationist",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒnsəˈveɪʃənɪst/",
+        "us": "/ˌkɑːnsərˈveɪʃənɪst/"
+      },
+      "meaning": "自然保护主义者",
+      "collocation": {
+        "en": "wildlife conservationist",
+        "zh": "野生动物保护人士"
+      },
+      "example": {
+        "en": "The conservationist has long worked to protect wetlands.",
+        "zh": "这位自然保护人士长期致力于保护湿地。"
+      },
+      "id": "v000770",
+      "images": [
+        {
+          "id": "generated-v000770",
+          "src": "images/list16/v000770.webp",
+          "alt": "conservationist: wildlife conservationist",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ae6dfb7ecd0902391a07d6ae6392eb0befef16c92877138c0b403c2cef46b46d"
+    },
+    {
+      "word": "conspicuous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈspɪkjuəs/",
+        "us": "/kənˈspɪkjuəs/"
+      },
+      "meaning": "显眼的；明显的",
+      "collocation": {
+        "en": "conspicuous absence",
+        "zh": "明显缺席"
+      },
+      "example": {
+        "en": "His absence was conspicuous at the meeting.",
+        "zh": "他的缺席在会议上非常显眼。"
+      },
+      "id": "v000771",
+      "images": [
+        {
+          "id": "generated-v000771",
+          "src": "images/list16/v000771.webp",
+          "alt": "conspicuous: conspicuous absence",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "25aac1b39a7915bfa53c724ad9ca3997f678a5d807415000f2ba5699130e022f"
+    },
+    {
+      "word": "contempt",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈtempt/",
+        "us": "/kənˈtempt/"
+      },
+      "meaning": "轻蔑；蔑视",
+      "collocation": {
+        "en": "show contempt for",
+        "zh": "蔑视……"
+      },
+      "example": {
+        "en": "He openly showed contempt for the rules.",
+        "zh": "他公开表现出对规则的蔑视。"
+      },
+      "id": "v000772",
+      "images": [
+        {
+          "id": "generated-v000772",
+          "src": "images/list16/v000772.webp",
+          "alt": "contempt: show contempt for",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "736a1db57bc0fd566377f51d353d761fe220f7ee940893af3143daeddee89b83"
+    },
+    {
+      "word": "contort",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kənˈtɔːt/",
+        "us": "/kənˈtɔːrt/"
+      },
+      "meaning": "扭曲；使变形",
+      "collocation": {
+        "en": "contort one's face",
+        "zh": "扭曲面部表情"
+      },
+      "example": {
+        "en": "Pain contorted his face.",
+        "zh": "疼痛使他的脸都扭曲了。"
+      },
+      "id": "v000773",
+      "images": [
+        {
+          "id": "generated-v000773",
+          "src": "images/list16/v000773.webp",
+          "alt": "contort: contort one's face",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "51ae4518c7d3c0f8a83ddb6caf0742ec69d3b5d94eb2b7f89d90e97ceccbb0dd"
+    },
+    {
+      "word": "conviction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈvɪkʃn/",
+        "us": "/kənˈvɪkʃn/"
+      },
+      "meaning": "定罪；判罪",
+      "collocation": {
+        "en": "criminal conviction",
+        "zh": "刑事定罪"
+      },
+      "example": {
+        "en": "The charge eventually resulted in a criminal conviction.",
+        "zh": "这项指控最终导致了刑事定罪。"
+      },
+      "id": "v000774",
+      "images": [
+        {
+          "id": "generated-v000774",
+          "src": "images/list16/v000774.webp",
+          "alt": "conviction: criminal conviction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80d2fd056a3dedeb0ac13c1a6c7f05265de5e8b0e999a8289743874353b93c01"
+    },
+    {
+      "word": "conviction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈvɪkʃn/",
+        "us": "/kənˈvɪkʃn/"
+      },
+      "meaning": "坚定信念",
+      "collocation": {
+        "en": "deep conviction",
+        "zh": "坚定信念"
+      },
+      "example": {
+        "en": "He has a deep conviction that education can change lives.",
+        "zh": "他坚信教育可以改变人生。"
+      },
+      "id": "v000775",
+      "images": [
+        {
+          "id": "generated-v000775",
+          "src": "images/list16/v000775.webp",
+          "alt": "conviction: deep conviction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0f09269569f2941dc36e59e19b66bd91accec3b81f885099ce1498aabb7332b4"
+    },
+    {
+      "word": "correspondent",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkɒrəˈspɒndənt/",
+        "us": "/ˌkɔːrəˈspɑːndənt/"
+      },
+      "meaning": "记者；通讯员",
+      "collocation": {
+        "en": "foreign correspondent",
+        "zh": "驻外记者"
+      },
+      "example": {
+        "en": "She worked as a foreign correspondent in London.",
+        "zh": "她曾在伦敦担任驻外记者。"
+      },
+      "id": "v000776",
+      "images": [
+        {
+          "id": "generated-v000776",
+          "src": "images/list16/v000776.webp",
+          "alt": "correspondent: foreign correspondent",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0c9f2d51db1deb19df3c60e080458aa5d42007a536a224c813ff332f8cc2f5a9"
+    },
+    {
+      "word": "crass",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kræs/",
+        "us": "/kræs/"
+      },
+      "meaning": "粗鲁的；愚钝的；没品位的",
+      "collocation": {
+        "en": "crass remark",
+        "zh": "粗鲁无礼的言论"
+      },
+      "example": {
+        "en": "His crass remark embarrassed everyone present.",
+        "zh": "他的粗鲁言论让在场的人都很尴尬。"
+      },
+      "id": "v000777",
+      "images": [
+        {
+          "id": "generated-v000777",
+          "src": "images/list16/v000777.webp",
+          "alt": "crass: crass remark",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5f292080857ce7d2386de978fd6b51d42a76673002b07f953163f6beaeced108"
+    },
+    {
+      "word": "cripple",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈkrɪpl/",
+        "us": "/ˈkrɪpl/"
+      },
+      "meaning": "严重削弱；使瘫痪",
+      "collocation": {
+        "en": "cripple the economy",
+        "zh": "严重打击经济"
+      },
+      "example": {
+        "en": "A prolonged power outage could cripple the local economy.",
+        "zh": "长期停电可能会使当地经济陷入瘫痪。"
+      },
+      "id": "v000778",
+      "images": [
+        {
+          "id": "generated-v000778",
+          "src": "images/list16/v000778.webp",
+          "alt": "cripple: cripple the economy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dd04354463daf8eda757a3f1a6114872984e77f8032940922480f6476b4a6b50"
+    },
+    {
+      "word": "cripple",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkrɪpl/",
+        "us": "/ˈkrɪpl/"
+      },
+      "meaning": "残疾人（旧称，通常冒犯）",
+      "collocation": {
+        "en": "—",
+        "zh": "旧称，现代英语通常避免使用"
+      },
+      "example": {
+        "en": "In modern English, this word is generally avoided when referring to a disabled person.",
+        "zh": "现代英语中通常避免用这个词称呼残疾人。"
+      },
+      "id": "v000779",
+      "images": [
+        {
+          "id": "generated-v000779",
+          "src": "images/list16/v000779.webp",
+          "alt": "cripple: —",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7c111290f9c8bb9c4c1b6a91e80492aead7530876f4d2e1deda2d494adbd2794"
+    },
+    {
+      "word": "criticality",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌkrɪtɪˈkæləti/",
+        "us": "/ˌkrɪtɪˈkæləti/"
+      },
+      "meaning": "关键程度；重要性",
+      "collocation": {
+        "en": "business criticality",
+        "zh": "业务关键程度"
+      },
+      "example": {
+        "en": "We need to prioritize systems according to business criticality.",
+        "zh": "我们需要根据业务关键程度给系统排优先级。"
+      },
+      "id": "v000780",
+      "images": [
+        {
+          "id": "generated-v000780",
+          "src": "images/list16/v000780.webp",
+          "alt": "criticality: business criticality",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "732dee70ced1df9412a1ca8ec38844fd5b349621c2a1cd59833756accb110d5f"
+    },
+    {
+      "word": "critique",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/krɪˈtiːk/",
+        "us": "/krɪˈtiːk/"
+      },
+      "meaning": "批评性分析；评论",
+      "collocation": {
+        "en": "a critique of",
+        "zh": "对……的批评性分析"
+      },
+      "example": {
+        "en": "The paper is a detailed critique of the existing approach.",
+        "zh": "这篇论文是对现有方法的深入评论。"
+      },
+      "id": "v000781",
+      "images": [
+        {
+          "id": "generated-v000781",
+          "src": "images/list16/v000781.webp",
+          "alt": "critique: a critique of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "050c1466886217ba0ddb07df9e6b74e8e183e40b3d066fd2f4961c8871606cb1"
+    },
+    {
+      "word": "critique",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/krɪˈtiːk/",
+        "us": "/krɪˈtiːk/"
+      },
+      "meaning": "评析；批评",
+      "collocation": {
+        "en": "critique a proposal",
+        "zh": "评析提案"
+      },
+      "example": {
+        "en": "The experts critiqued the proposal in detail.",
+        "zh": "专家们对这项提案进行了详细评析。"
+      },
+      "id": "v000782",
+      "images": [
+        {
+          "id": "generated-v000782",
+          "src": "images/list16/v000782.webp",
+          "alt": "critique: critique a proposal",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e46a4cff0eb275ed58b3da42905309c9028bdc0d777aa879a2f195cca4528f3"
+    },
+    {
+      "word": "custody",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkʌstədi/",
+        "us": "/ˈkʌstədi/"
+      },
+      "meaning": "拘留；羁押",
+      "collocation": {
+        "en": "in police custody",
+        "zh": "被警方拘留"
+      },
+      "example": {
+        "en": "The suspect remains in police custody.",
+        "zh": "嫌疑人目前仍被警方拘留。"
+      },
+      "id": "v000783",
+      "images": [
+        {
+          "id": "generated-v000783",
+          "src": "images/list16/v000783.webp",
+          "alt": "custody: in police custody",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a05bc0236dc53c94caf9737732b799cb555999498bdbe4c3d3105265f67d1b15"
+    },
+    {
+      "word": "custody",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈkʌstədi/",
+        "us": "/ˈkʌstədi/"
+      },
+      "meaning": "监护权",
+      "collocation": {
+        "en": "child custody",
+        "zh": "儿童监护权"
+      },
+      "example": {
+        "en": "The two sides are negotiating child custody.",
+        "zh": "双方正在协商孩子的监护权。"
+      },
+      "id": "v000784",
+      "images": [
+        {
+          "id": "generated-v000784",
+          "src": "images/list16/v000784.webp",
+          "alt": "custody: child custody",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e458f8e061f89943314f405527ba0f1be161493fb4d4a0f205ebb8d53c57e0a"
+    },
+    {
+      "word": "dangle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdæŋɡl/",
+        "us": "/ˈdæŋɡl/"
+      },
+      "meaning": "悬挂；吊着",
+      "collocation": {
+        "en": "dangle from",
+        "zh": "从……悬挂下来"
+      },
+      "example": {
+        "en": "The keys dangled from his finger.",
+        "zh": "钥匙从他的手指上晃来晃去。"
+      },
+      "id": "v000785",
+      "images": [
+        {
+          "id": "generated-v000785",
+          "src": "images/list16/v000785.webp",
+          "alt": "dangle: dangle from",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "417dc01c2f9ea75780a65e5149d03f5b203c5cdf2a265552eac82a4e4917f135"
+    },
+    {
+      "word": "dangle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdæŋɡl/",
+        "us": "/ˈdæŋɡl/"
+      },
+      "meaning": "用……诱惑",
+      "collocation": {
+        "en": "dangle an incentive",
+        "zh": "以奖励作诱饵"
+      },
+      "example": {
+        "en": "The company dangled a large bonus to attract top talent.",
+        "zh": "公司用高额奖金吸引优秀人才。"
+      },
+      "id": "v000786",
+      "images": [
+        {
+          "id": "generated-v000786",
+          "src": "images/list16/v000786.webp",
+          "alt": "dangle: dangle an incentive",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4485a71c08abb4f551349cad1e107ccde48ad23ee66d4f5bd6e930615614a1cb"
+    },
+    {
+      "word": "daunt",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɔːnt/",
+        "us": "/dɔːnt/"
+      },
+      "meaning": "使胆怯；使畏缩",
+      "collocation": {
+        "en": "be daunted by",
+        "zh": "被……吓倒"
+      },
+      "example": {
+        "en": "She was not daunted by the difficulty of the task.",
+        "zh": "她没有被任务的难度吓倒。"
+      },
+      "id": "v000787",
+      "images": [
+        {
+          "id": "generated-v000787",
+          "src": "images/list16/v000787.webp",
+          "alt": "daunt: be daunted by",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5af6be3377f9cbad05be8341a576da1a3d14c7d1c77428f4512d663f5315fb56"
+    },
+    {
+      "word": "deduce",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈdjuːs/",
+        "us": "/dɪˈduːs/"
+      },
+      "meaning": "推断；演绎",
+      "collocation": {
+        "en": "deduce from",
+        "zh": "从……推断"
+      },
+      "example": {
+        "en": "We can deduce the cause of the failure from the logs.",
+        "zh": "我们可以从日志中推断出故障原因。"
+      },
+      "id": "v000788",
+      "images": [
+        {
+          "id": "generated-v000788",
+          "src": "images/list16/v000788.webp",
+          "alt": "deduce: deduce from",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1700a24f77d7168fd07d021997c68d8624fa68066d1cbfffd4dc0afb123c17b6"
+    },
+    {
+      "word": "defuse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌdiːˈfjuːz/",
+        "us": "/ˌdiːˈfjuːz/"
+      },
+      "meaning": "拆除引信；解除爆炸装置",
+      "collocation": {
+        "en": "defuse a bomb",
+        "zh": "拆除炸弹引信"
+      },
+      "example": {
+        "en": "The expert safely defused the bomb.",
+        "zh": "专家安全拆除了爆炸装置。"
+      },
+      "id": "v000789",
+      "images": [
+        {
+          "id": "generated-v000789",
+          "src": "images/list16/v000789.webp",
+          "alt": "defuse: defuse a bomb",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8cf0723d5da6a2b0a2bffadf722f2b09695535213b7dafe9edd493e12c917f85"
+    },
+    {
+      "word": "defuse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌdiːˈfjuːz/",
+        "us": "/ˌdiːˈfjuːz/"
+      },
+      "meaning": "缓和；化解",
+      "collocation": {
+        "en": "defuse tension",
+        "zh": "缓和紧张局势"
+      },
+      "example": {
+        "en": "Both sides tried to defuse the tension.",
+        "zh": "双方努力缓和紧张局势。"
+      },
+      "id": "v000790",
+      "images": [
+        {
+          "id": "generated-v000790",
+          "src": "images/list16/v000790.webp",
+          "alt": "defuse: defuse tension",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ff170432011d6fa3fb7524c71a6aa52f68af085b1dab0869a2f8702ba0ba2837"
+    },
+    {
+      "word": "demean",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈmiːn/",
+        "us": "/dɪˈmiːn/"
+      },
+      "meaning": "贬低；降低身份",
+      "collocation": {
+        "en": "demean oneself",
+        "zh": "有失身份"
+      },
+      "example": {
+        "en": "He refused to demean himself by insulting others.",
+        "zh": "他拒绝用侮辱他人的方式来贬低自己。"
+      },
+      "id": "v000791",
+      "images": [
+        {
+          "id": "generated-v000791",
+          "src": "images/list16/v000791.webp",
+          "alt": "demean: demean oneself",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2a61739a21ab4743f341483bc76d2d175faacf6278744c4d9677af45b0204253"
+    },
+    {
+      "word": "depict",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈpɪkt/",
+        "us": "/dɪˈpɪkt/"
+      },
+      "meaning": "描绘；描述",
+      "collocation": {
+        "en": "depict A as B",
+        "zh": "把A描绘成B"
+      },
+      "example": {
+        "en": "The film depicts the main character as a lonely hero.",
+        "zh": "这部电影把主人公描绘成孤独的英雄。"
+      },
+      "id": "v000792",
+      "images": [
+        {
+          "id": "generated-v000792",
+          "src": "images/list16/v000792.webp",
+          "alt": "depict: depict A as B",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e40f05f6e40c087e3310a473a04e91687d7f8b6539070115215b9b6e8b5be15d"
+    },
+    {
+      "word": "deposit",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈpɒzɪt/",
+        "us": "/dɪˈpɑːzɪt/"
+      },
+      "meaning": "押金；定金",
+      "collocation": {
+        "en": "pay a deposit",
+        "zh": "支付押金"
+      },
+      "example": {
+        "en": "You need to pay a one-month deposit before renting the apartment.",
+        "zh": "租房前需要先支付一个月押金。"
+      },
+      "id": "v000793",
+      "images": [
+        {
+          "id": "generated-v000793",
+          "src": "images/list16/v000793.webp",
+          "alt": "deposit: pay a deposit",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d30f4f4de8e38a10b314e9c7d58936b210709391ce14b30636e8ffb2f25bdd88"
+    },
+    {
+      "word": "deposit",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈpɒzɪt/",
+        "us": "/dɪˈpɑːzɪt/"
+      },
+      "meaning": "存款",
+      "collocation": {
+        "en": "bank deposit",
+        "zh": "银行存款"
+      },
+      "example": {
+        "en": "The money was placed in the bank as a fixed deposit.",
+        "zh": "这笔钱作为定期存款存入银行。"
+      },
+      "id": "v000794",
+      "images": [
+        {
+          "id": "generated-v000794",
+          "src": "images/list16/v000794.webp",
+          "alt": "deposit: bank deposit",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "acdd42ff66d769390f828f405f3fef233af18c8c096164004194e08e8d9dcb2a"
+    },
+    {
+      "word": "deposit",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈpɒzɪt/",
+        "us": "/dɪˈpɑːzɪt/"
+      },
+      "meaning": "存入；放下",
+      "collocation": {
+        "en": "deposit money",
+        "zh": "存钱"
+      },
+      "example": {
+        "en": "I deposited the cash into my bank account.",
+        "zh": "我把现金存进了银行账户。"
+      },
+      "id": "v000795",
+      "images": [
+        {
+          "id": "generated-v000795",
+          "src": "images/list16/v000795.webp",
+          "alt": "deposit: deposit money",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0d2db3b5f5a67455a57459293bda17af443154e589ac2b69475421b6eeecf6bf"
+    },
+    {
+      "word": "desert",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdezət/",
+        "us": "/ˈdezərt/"
+      },
+      "meaning": "沙漠",
+      "collocation": {
+        "en": "desert region",
+        "zh": "沙漠地区"
+      },
+      "example": {
+        "en": "The desert region is extremely hot during the day.",
+        "zh": "这个沙漠地区白天非常炎热。"
+      },
+      "id": "v000796",
+      "images": [
+        {
+          "id": "generated-v000796",
+          "src": "images/list16/v000796.webp",
+          "alt": "desert: desert region",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2f92f8a03e5ad317b17a1d8c2232b46374e4e33730b243bcbba09211bc91739e"
+    },
+    {
+      "word": "desert",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈzɜːt/",
+        "us": "/dɪˈzɜːrt/"
+      },
+      "meaning": "遗弃；擅离",
+      "collocation": {
+        "en": "desert one's post",
+        "zh": "擅离职守"
+      },
+      "example": {
+        "en": "Soldiers must not desert their posts.",
+        "zh": "士兵不得擅离岗位。"
+      },
+      "id": "v000797",
+      "images": [
+        {
+          "id": "generated-v000797",
+          "src": "images/list16/v000797.webp",
+          "alt": "desert: desert one's post",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "517b66f8cef1782f8dc47f8b37c0a5aabc3b31ce559a600f31af96ecc00e8d9d"
+    },
+    {
+      "word": "diffuse",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dɪˈfjuːs/",
+        "us": "/dɪˈfjuːs/"
+      },
+      "meaning": "散布的；漫射的",
+      "collocation": {
+        "en": "diffuse light",
+        "zh": "漫射光"
+      },
+      "example": {
+        "en": "Soft diffuse light is better suited to this room.",
+        "zh": "柔和的漫射光更适合这个房间。"
+      },
+      "id": "v000798",
+      "images": [
+        {
+          "id": "generated-v000798",
+          "src": "images/list16/v000798.webp",
+          "alt": "diffuse: diffuse light",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "737d2bd20525065ff6b35042499b6f582ec2ea07ee4ee4ed99b5b930f924d0fb"
+    },
+    {
+      "word": "diffuse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dɪˈfjuːz/",
+        "us": "/dɪˈfjuːz/"
+      },
+      "meaning": "扩散；传播",
+      "collocation": {
+        "en": "diffuse through",
+        "zh": "扩散到……"
+      },
+      "example": {
+        "en": "The smell quickly diffused through the room.",
+        "zh": "气味很快扩散到整个房间。"
+      },
+      "id": "v000799",
+      "images": [
+        {
+          "id": "generated-v000799",
+          "src": "images/list16/v000799.webp",
+          "alt": "diffuse: diffuse through",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "978fdc847d627806e34048b1f62d07367a7faaf30c51ba1c4ef8c0f348e2fd08"
+    },
+    {
+      "word": "dire",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdaɪə(r)/",
+        "us": "/ˈdaɪər/"
+      },
+      "meaning": "极严重的；危急的",
+      "collocation": {
+        "en": "dire consequences",
+        "zh": "严重后果"
+      },
+      "example": {
+        "en": "Ignoring the safety issue could have dire consequences.",
+        "zh": "忽视安全问题可能导致严重后果。"
+      },
+      "id": "v000800",
+      "images": [
+        {
+          "id": "generated-v000800",
+          "src": "images/list16/v000800.webp",
+          "alt": "dire: dire consequences",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "55001d9bb8ef3474b16f5c02090bd082c68d0e5a2b1a30504ac8f8dedf0a25cb"
     }
   ]
 }

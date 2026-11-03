@@ -1,0 +1,1087 @@
+{
+  "id": "list17",
+  "title": "List 17",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "disruption",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪsˈrʌpʃn/",
+        "us": "/dɪsˈrʌpʃn/"
+      },
+      "meaning": "中断；扰乱",
+      "collocation": {
+        "en": "service disruption",
+        "zh": "服务中断"
+      },
+      "example": {
+        "en": "The network failure caused a brief service disruption.",
+        "zh": "网络故障造成了短暂的服务中断。"
+      },
+      "id": "v000801",
+      "images": [
+        {
+          "id": "generated-v000801",
+          "src": "images/list17/v000801.webp",
+          "alt": "disruption: service disruption",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e8cff158d7f981c4c7e334d4435d5bf7ff0164dea4aa3be35f878a4f224a96fd"
+    },
+    {
+      "word": "dissipate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdɪsɪpeɪt/",
+        "us": "/ˈdɪsɪpeɪt/"
+      },
+      "meaning": "消散；消失",
+      "collocation": {
+        "en": "dissipate gradually",
+        "zh": "逐渐消散"
+      },
+      "example": {
+        "en": "The fog gradually dissipated during the morning.",
+        "zh": "雾在上午逐渐消散了。"
+      },
+      "id": "v000802",
+      "images": [
+        {
+          "id": "generated-v000802",
+          "src": "images/list17/v000802.webp",
+          "alt": "dissipate: dissipate gradually",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2c2767a7667ea373f9a96a181c8f27580f9f6c041d9a32e4a7e8bbdd1010eacf"
+    },
+    {
+      "word": "dissipate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈdɪsɪpeɪt/",
+        "us": "/ˈdɪsɪpeɪt/"
+      },
+      "meaning": "浪费；挥霍",
+      "collocation": {
+        "en": "dissipate one's fortune",
+        "zh": "挥霍财产"
+      },
+      "example": {
+        "en": "He dissipated most of his fortune within a few years.",
+        "zh": "他在几年内挥霍掉了大部分财产。"
+      },
+      "id": "v000803",
+      "images": [
+        {
+          "id": "generated-v000803",
+          "src": "images/list17/v000803.webp",
+          "alt": "dissipate: dissipate one's fortune",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c79b814683928759a72314eb162dcbde5415258ae560fb0896655851c45831d9"
+    },
+    {
+      "word": "dormant",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdɔːmənt/",
+        "us": "/ˈdɔːrmənt/"
+      },
+      "meaning": "休眠的；暂不活跃的",
+      "collocation": {
+        "en": "remain dormant",
+        "zh": "保持休眠/不活跃"
+      },
+      "example": {
+        "en": "The account has remained dormant for years.",
+        "zh": "这个账户已经多年没有使用，一直处于休眠状态。"
+      },
+      "id": "v000804",
+      "images": [
+        {
+          "id": "generated-v000804",
+          "src": "images/list17/v000804.webp",
+          "alt": "dormant: remain dormant",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7929d037c3337571955a27ba6e8e3cf800226d3e4b612ba758e52143286d1ff6"
+    },
+    {
+      "word": "dour",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdaʊə(r)/",
+        "us": "/ˈdʊr/"
+      },
+      "meaning": "严厉的；阴沉的",
+      "collocation": {
+        "en": "dour expression",
+        "zh": "阴沉的表情"
+      },
+      "example": {
+        "en": "The manager entered the meeting room with a dour expression.",
+        "zh": "经理带着严肃阴沉的表情进入会议室。"
+      },
+      "id": "v000805",
+      "images": [
+        {
+          "id": "generated-v000805",
+          "src": "images/list17/v000805.webp",
+          "alt": "dour: dour expression",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e7c452cd9b3c426b3dab8b8247a8207a12d25fca68a95d45443438b9ac63655f"
+    },
+    {
+      "word": "dubious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdjuːbiəs/",
+        "us": "/ˈduːbiəs/"
+      },
+      "meaning": "可疑的；不可靠的",
+      "collocation": {
+        "en": "dubious claim",
+        "zh": "可疑的说法"
+      },
+      "example": {
+        "en": "The claim lacks evidence and appears dubious.",
+        "zh": "这项说法缺乏证据，看起来很可疑。"
+      },
+      "id": "v000806",
+      "images": [
+        {
+          "id": "generated-v000806",
+          "src": "images/list17/v000806.webp",
+          "alt": "dubious: dubious claim",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3fef2c15534025dcc8ae64b1d01df845f3e4b1b3401d7ecffc62da8415d6b095"
+    },
+    {
+      "word": "dubious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdjuːbiəs/",
+        "us": "/ˈduːbiəs/"
+      },
+      "meaning": "怀疑的；拿不准的",
+      "collocation": {
+        "en": "be dubious about",
+        "zh": "对……表示怀疑"
+      },
+      "example": {
+        "en": "I am dubious about whether the investment plan is viable.",
+        "zh": "我对这个投资计划是否可行表示怀疑。"
+      },
+      "id": "v000807",
+      "images": [
+        {
+          "id": "generated-v000807",
+          "src": "images/list17/v000807.webp",
+          "alt": "dubious: be dubious about",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f03ed387640ea136e62c6b9078361a0738235f80928c8603dee30cee851d2cf0"
+    },
+    {
+      "word": "embrace",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪmˈbreɪs/",
+        "us": "/ɪmˈbreɪs/"
+      },
+      "meaning": "拥抱",
+      "collocation": {
+        "en": "embrace someone warmly",
+        "zh": "热情拥抱某人"
+      },
+      "example": {
+        "en": "She warmly embraced her old friend.",
+        "zh": "她见到老朋友时热情地拥抱了对方。"
+      },
+      "id": "v000808",
+      "images": [
+        {
+          "id": "generated-v000808",
+          "src": "images/list17/v000808.webp",
+          "alt": "embrace: embrace someone warmly",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "eb6629813cb2f7c2246d73e49ac6facc2ff131714510a6f7686458e190a86356"
+    },
+    {
+      "word": "embrace",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪmˈbreɪs/",
+        "us": "/ɪmˈbreɪs/"
+      },
+      "meaning": "接受；欣然采纳",
+      "collocation": {
+        "en": "embrace change",
+        "zh": "接受变化"
+      },
+      "example": {
+        "en": "Companies must be willing to embrace technological change.",
+        "zh": "企业必须积极接受技术变化。"
+      },
+      "id": "v000809",
+      "images": [
+        {
+          "id": "generated-v000809",
+          "src": "images/list17/v000809.webp",
+          "alt": "embrace: embrace change",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "36f0a4a7d7e2c5e1ba7ba0e36e55120ead03a634aa9061dfc45296b3e413889b"
+    },
+    {
+      "word": "endeavor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪnˈdevə(r)/",
+        "us": "/ɪnˈdevər/"
+      },
+      "meaning": "努力；尝试",
+      "collocation": {
+        "en": "make every endeavor",
+        "zh": "尽一切努力"
+      },
+      "example": {
+        "en": "The team will make every endeavor to complete the project on time.",
+        "zh": "团队将尽一切努力按时完成项目。"
+      },
+      "id": "v000810",
+      "images": [
+        {
+          "id": "generated-v000810",
+          "src": "images/list17/v000810.webp",
+          "alt": "endeavor: make every endeavor",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "52de8bf1db5fb85f7b18c8fe9b616ca0829502fa280fef693dfedb7d716e2ae2"
+    },
+    {
+      "word": "endeavor",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈdevə(r)/",
+        "us": "/ɪnˈdevər/"
+      },
+      "meaning": "努力；力图",
+      "collocation": {
+        "en": "endeavor to do",
+        "zh": "努力做……"
+      },
+      "example": {
+        "en": "We will endeavor to improve service quality.",
+        "zh": "我们将努力提高服务质量。"
+      },
+      "id": "v000811",
+      "images": [
+        {
+          "id": "generated-v000811",
+          "src": "images/list17/v000811.webp",
+          "alt": "endeavor: endeavor to do",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "507d18264e0c256585796507c6dd7de4fdbbede1b902a0fe0493dc4d67908a24"
+    },
+    {
+      "word": "endorse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈdɔːs/",
+        "us": "/ɪnˈdɔːrs/"
+      },
+      "meaning": "公开支持；赞同",
+      "collocation": {
+        "en": "endorse a proposal",
+        "zh": "支持提案"
+      },
+      "example": {
+        "en": "The board formally endorsed the proposal.",
+        "zh": "董事会正式支持了这项提案。"
+      },
+      "id": "v000812",
+      "images": [
+        {
+          "id": "generated-v000812",
+          "src": "images/list17/v000812.webp",
+          "alt": "endorse: endorse a proposal",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9b22b0c784d7672054d4fa4ae0a091e2cebbe8a26b623e56e6e56be2e0e5a7f1"
+    },
+    {
+      "word": "endorse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈdɔːs/",
+        "us": "/ɪnˈdɔːrs/"
+      },
+      "meaning": "背书；签署票据",
+      "collocation": {
+        "en": "endorse a check",
+        "zh": "在支票背面签名"
+      },
+      "example": {
+        "en": "Please endorse the check before depositing it.",
+        "zh": "存入支票前请先在背面签名。"
+      },
+      "id": "v000813",
+      "images": [
+        {
+          "id": "generated-v000813",
+          "src": "images/list17/v000813.webp",
+          "alt": "endorse: endorse a check",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6f11444f42d1d82a25f4adcd2f5cbb84cfa270b830e6c617a4e89fffeaeb0153"
+    },
+    {
+      "word": "entrepreneur",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌɒntrəprəˈnɜː(r)/",
+        "us": "/ˌɑːntrəprəˈnɜːr/"
+      },
+      "meaning": "企业家；创业者",
+      "collocation": {
+        "en": "successful entrepreneur",
+        "zh": "成功企业家"
+      },
+      "example": {
+        "en": "She is a successful entrepreneur who has founded several companies.",
+        "zh": "她是一位创办了多家公司的成功企业家。"
+      },
+      "id": "v000814",
+      "images": [
+        {
+          "id": "generated-v000814",
+          "src": "images/list17/v000814.webp",
+          "alt": "entrepreneur: successful entrepreneur",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d33171c84476679681450edb941e5ad676739513ec24edda8f73b56819f51203"
+    },
+    {
+      "word": "evolution",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌiːvəˈluːʃn/",
+        "us": "/ˌevəˈluːʃn/"
+      },
+      "meaning": "进化；演变",
+      "collocation": {
+        "en": "the evolution of",
+        "zh": "……的演变"
+      },
+      "example": {
+        "en": "The article discusses the evolution of cloud computing technology.",
+        "zh": "这篇文章讨论了云计算技术的演变。"
+      },
+      "id": "v000815",
+      "images": [
+        {
+          "id": "generated-v000815",
+          "src": "images/list17/v000815.webp",
+          "alt": "evolution: the evolution of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4571feaf76e3afcc9f70df0254f951d2f7bf19aab27cb822c7a5c69ebd906657"
+    },
+    {
+      "word": "expedite",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈekspədaɪt/",
+        "us": "/ˈekspədaɪt/"
+      },
+      "meaning": "加快；促进",
+      "collocation": {
+        "en": "expedite the process",
+        "zh": "加快流程"
+      },
+      "example": {
+        "en": "Automation can expedite the approval process.",
+        "zh": "自动化可以加快审批流程。"
+      },
+      "id": "v000816",
+      "images": [
+        {
+          "id": "generated-v000816",
+          "src": "images/list17/v000816.webp",
+          "alt": "expedite: expedite the process",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "96c6bd5442daf59f9dee49fb09655a2ce0777e708af0e161c603a3405fe14a1b"
+    },
+    {
+      "word": "explosive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈspləʊsɪv/",
+        "us": "/ɪkˈsploʊsɪv/"
+      },
+      "meaning": "爆炸性的；易爆的",
+      "collocation": {
+        "en": "explosive material",
+        "zh": "爆炸物质"
+      },
+      "example": {
+        "en": "These explosive materials must be stored safely.",
+        "zh": "这些爆炸性材料必须安全储存。"
+      },
+      "id": "v000817",
+      "images": [
+        {
+          "id": "generated-v000817",
+          "src": "images/list17/v000817.webp",
+          "alt": "explosive: explosive material",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7da3c2b714d122bec3b10cd971a680a96820064ddb3c0081da5ad1f735c1ee0d"
+    },
+    {
+      "word": "explosive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ɪkˈspləʊsɪv/",
+        "us": "/ɪkˈsploʊsɪv/"
+      },
+      "meaning": "急剧的；爆发性的",
+      "collocation": {
+        "en": "explosive growth",
+        "zh": "爆发式增长"
+      },
+      "example": {
+        "en": "The company experienced explosive growth.",
+        "zh": "这家公司经历了爆发式增长。"
+      },
+      "id": "v000818",
+      "images": [
+        {
+          "id": "generated-v000818",
+          "src": "images/list17/v000818.webp",
+          "alt": "explosive: explosive growth",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c740708496fcb1670ec81bcb4888323c325bbdc807967e58dd05d5f6d6432f8a"
+    },
+    {
+      "word": "explosive",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪkˈspləʊsɪv/",
+        "us": "/ɪkˈsploʊsɪv/"
+      },
+      "meaning": "爆炸物",
+      "collocation": {
+        "en": "high explosive",
+        "zh": "烈性炸药"
+      },
+      "example": {
+        "en": "Police found explosives at the scene.",
+        "zh": "警方在现场发现了爆炸物。"
+      },
+      "id": "v000819",
+      "images": [
+        {
+          "id": "generated-v000819",
+          "src": "images/list17/v000819.webp",
+          "alt": "explosive: high explosive",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b98dde895e5c78d40c4b78d69c55dc1e2d0b76a54be16a7fae35d3880a7506a7"
+    },
+    {
+      "word": "extinction",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪkˈstɪŋkʃn/",
+        "us": "/ɪkˈstɪŋkʃn/"
+      },
+      "meaning": "灭绝；消亡",
+      "collocation": {
+        "en": "face extinction",
+        "zh": "面临灭绝"
+      },
+      "example": {
+        "en": "Some species face extinction because of habitat loss.",
+        "zh": "一些物种因栖息地丧失而面临灭绝。"
+      },
+      "id": "v000820",
+      "images": [
+        {
+          "id": "generated-v000820",
+          "src": "images/list17/v000820.webp",
+          "alt": "extinction: face extinction",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0fefd124b0f35054b80a5d9bb6e018da426f3394826ff27e3cfab68c5681ff10"
+    },
+    {
+      "word": "facilitate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fəˈsɪlɪteɪt/",
+        "us": "/fəˈsɪləteɪt/"
+      },
+      "meaning": "促进；使便利",
+      "collocation": {
+        "en": "facilitate communication",
+        "zh": "促进沟通"
+      },
+      "example": {
+        "en": "The new collaboration tool helps facilitate communication across teams.",
+        "zh": "新的协作工具有助于促进跨团队沟通。"
+      },
+      "id": "v000821",
+      "images": [
+        {
+          "id": "generated-v000821",
+          "src": "images/list17/v000821.webp",
+          "alt": "facilitate: facilitate communication",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "067e02fb8516bb5319e5176048b316112758feedf636305f4e77e993ba7a8be2"
+    },
+    {
+      "word": "flee",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fliː/",
+        "us": "/fliː/"
+      },
+      "meaning": "逃离；逃跑",
+      "collocation": {
+        "en": "flee from",
+        "zh": "逃离……"
+      },
+      "example": {
+        "en": "Residents were forced to flee from their homes because of the flood.",
+        "zh": "居民因洪水被迫逃离家园。"
+      },
+      "id": "v000822",
+      "images": [
+        {
+          "id": "generated-v000822",
+          "src": "images/list17/v000822.webp",
+          "alt": "flee: flee from",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9b6acfa0a2c7022df7ee12e7c54c44a67bcfec0bf73e68144234db34c6555001"
+    },
+    {
+      "word": "herbivorous",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/hɜːˈbɪvərəs/",
+        "us": "/hɜːrˈbɪvərəs/"
+      },
+      "meaning": "食草的",
+      "collocation": {
+        "en": "herbivorous animal",
+        "zh": "食草动物"
+      },
+      "example": {
+        "en": "Elephants are large herbivorous animals.",
+        "zh": "大象是大型食草动物。"
+      },
+      "id": "v000823",
+      "images": [
+        {
+          "id": "generated-v000823",
+          "src": "images/list17/v000823.webp",
+          "alt": "herbivorous: herbivorous animal",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5cad028addb0951f400e994c9260cfa127081ff83f64b07ae8df98d4a4867997"
+    },
+    {
+      "word": "homicide",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈhɒmɪsaɪd/",
+        "us": "/ˈhɑːmɪsaɪd/"
+      },
+      "meaning": "杀人；杀人罪",
+      "collocation": {
+        "en": "homicide investigation",
+        "zh": "杀人案调查"
+      },
+      "example": {
+        "en": "Police have launched a homicide investigation.",
+        "zh": "警方已经启动了杀人案调查。"
+      },
+      "id": "v000824",
+      "images": [
+        {
+          "id": "generated-v000824",
+          "src": "images/list17/v000824.webp",
+          "alt": "homicide: homicide investigation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "43c82c7d86fafe9ce00394369c9058ecfb4ea3f1ff635867461c82b924d6fe18"
+    },
+    {
+      "word": "hook",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hʊk/",
+        "us": "/hʊk/"
+      },
+      "meaning": "钩；挂钩",
+      "collocation": {
+        "en": "coat hook",
+        "zh": "衣帽钩"
+      },
+      "example": {
+        "en": "Please hang your coat on the hook beside the door.",
+        "zh": "请把外套挂在门旁的挂钩上。"
+      },
+      "id": "v000825",
+      "images": [
+        {
+          "id": "generated-v000825",
+          "src": "images/list17/v000825.webp",
+          "alt": "hook: coat hook",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4e41ec787ff0693dc3bba967c8fe19c69b8e904a202b36494e7e06d17f01ff35"
+    },
+    {
+      "word": "hook",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/hʊk/",
+        "us": "/hʊk/"
+      },
+      "meaning": "钩住；连接",
+      "collocation": {
+        "en": "hook up",
+        "zh": "连接；接通"
+      },
+      "example": {
+        "en": "The technician is hooking the device up to the network.",
+        "zh": "技术人员正在把设备接入网络。"
+      },
+      "id": "v000826",
+      "images": [
+        {
+          "id": "generated-v000826",
+          "src": "images/list17/v000826.webp",
+          "alt": "hook: hook up",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "76c7c486f634da25fdd4e45cd9770323ce18e2b07741220c910d55ae590182dc"
+    },
+    {
+      "word": "hook",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hʊk/",
+        "us": "/hʊk/"
+      },
+      "meaning": "吸引点；卖点",
+      "collocation": {
+        "en": "a strong hook",
+        "zh": "强有力的吸引点"
+      },
+      "example": {
+        "en": "The story has a strong hook at the beginning.",
+        "zh": "这个故事开头有一个很强的吸引点。"
+      },
+      "id": "v000827",
+      "images": [
+        {
+          "id": "generated-v000827",
+          "src": "images/list17/v000827.webp",
+          "alt": "hook: a strong hook",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "286ea7e8b1c57c9892e6ad6f620d996235aed4afd9f972b1808ba762b9bfb940"
+    },
+    {
+      "word": "impunity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪmˈpjuːnəti/",
+        "us": "/ɪmˈpjuːnəti/"
+      },
+      "meaning": "不受惩罚；免于处罚",
+      "collocation": {
+        "en": "with impunity",
+        "zh": "不受惩罚地"
+      },
+      "example": {
+        "en": "No one should be able to break the law with impunity.",
+        "zh": "任何人都不应在违法后逍遥法外。"
+      },
+      "id": "v000828",
+      "images": [
+        {
+          "id": "generated-v000828",
+          "src": "images/list17/v000828.webp",
+          "alt": "impunity: with impunity",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8f30253b72b9af6d8d968b17f73357dddcc3b0af3e54d59f4f6a5a81fdb92001"
+    },
+    {
+      "word": "infuse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈfjuːz/",
+        "us": "/ɪnˈfjuːz/"
+      },
+      "meaning": "使充满；注入",
+      "collocation": {
+        "en": "infuse A with B",
+        "zh": "使A充满B"
+      },
+      "example": {
+        "en": "The new leader infused the team with energy.",
+        "zh": "新的领导者给团队注入了活力。"
+      },
+      "id": "v000829",
+      "images": [
+        {
+          "id": "generated-v000829",
+          "src": "images/list17/v000829.webp",
+          "alt": "infuse: infuse A with B",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fd7198720e80e42a28886e661149a7e95af6173c75fe816d60b987b947cb07e1"
+    },
+    {
+      "word": "infuse",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɪnˈfjuːz/",
+        "us": "/ɪnˈfjuːz/"
+      },
+      "meaning": "浸泡；泡制",
+      "collocation": {
+        "en": "infuse tea",
+        "zh": "泡茶"
+      },
+      "example": {
+        "en": "Infuse the tea leaves in hot water for a few minutes.",
+        "zh": "让茶叶在热水中浸泡几分钟。"
+      },
+      "id": "v000830",
+      "images": [
+        {
+          "id": "generated-v000830",
+          "src": "images/list17/v000830.webp",
+          "alt": "infuse: infuse tea",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e67f46b9ddfedb2c0fac76ad41b66c60f187002daac7b8281c3e9cb671fffb4e"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("appended vocabulary fills Lists 13 to 15 and continues into List 16 with images", async ({
+test("appended vocabulary fills Lists 13 to 16 and continues into List 17 with images", async ({
   page,
 }) => {
   await page.goto("/");
@@ -20,7 +20,8 @@ test("appended vocabulary fills Lists 13 to 15 and continues into List 16 with i
   await expect(page.locator(".picture img")).toHaveCount(50);
   for (const [id, count, first, last] of [
     ["List 15", 50, "approbation", "censure"],
-    ["List 16", 7, "chemotherapy", "colonial"],
+    ["List 16", 50, "chemotherapy", "dire"],
+    ["List 17", 30, "disruption", "infuse"],
   ] as const) {
     await page.getByRole("button", { name: id, exact: false }).click();
     await expect(page.locator(".card")).toHaveCount(count);
