@@ -89,6 +89,31 @@ class AppendTests(unittest.TestCase):
             self.assertEqual(append(source, output), [])
             self.assertEqual({p.name: p.read_bytes() for p in output.glob("*.json")}, unchanged)
 
+    def test_twelfth_group_preserves_records_and_distinct_senses(self):
+        with tempfile.TemporaryDirectory() as temp:
+            output = Path(temp)
+            convert(ROOT / "data-source/英语学习.xlsx", output)
+            for source in ["英语单词20261018.xlsx", "英语单词_第十组_20261026.xlsx", "英语单词_第十一组_20261103.xlsx"]:
+                append(ROOT / "data-source" / source, output)
+            before = {w["id"]: w for p in output.glob("list*.json") for w in json.loads(p.read_text(encoding="utf-8"))["items"]}
+            source = ROOT / "data-source/英语单词_第十二组_20261109.xlsx"
+            added = append(source, output)
+            self.assertEqual(len(added), 68)
+            self.assertEqual([added[0]["id"], added[-1]["id"]], ["v000831", "v000898"])
+            for lid, count in [("list17", 50), ("list18", 48)]:
+                self.assertEqual(len(json.loads((output / f"{lid}.json").read_text(encoding="utf-8"))["items"]), count)
+            self.assertEqual(len([w for w in added if w["word"] == "larceny"]), 1)
+            seizures = [w for w in added if w["word"] == "seizure"]
+            self.assertEqual(len(seizures), 2)
+            self.assertNotEqual(seizures[0]["meaning"], seizures[1]["meaning"])
+            self.assertEqual({w["partOfSpeech"] for w in added if w["word"] == "lease"}, {"n.", "v."})
+            after = {w["id"]: w for p in output.glob("list*.json") for w in json.loads(p.read_text(encoding="utf-8"))["items"]}
+            for wid, word in before.items():
+                self.assertEqual(after[wid], word)
+            unchanged = {p.name: p.read_bytes() for p in output.glob("*.json")}
+            self.assertEqual(append(source, output), [])
+            self.assertEqual({p.name: p.read_bytes() for p in output.glob("*.json")}, unchanged)
+
     def test_wrong_schema_does_not_write(self):
         with tempfile.TemporaryDirectory() as temp:
             output = Path(temp)

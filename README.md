@@ -2,7 +2,9 @@
 
 新增 Story Review：List 01 末尾提供 4 角色、5 场景、35 句中英故事，覆盖真实的 50 条词汇记录。支持角色语音、双语朗读、跳句/场景、独立语速及图片容错。使用及新增其他 List 故事见 [Story Review 维护说明](docs/story-review.md)。已配齐 5 张场景图片。
 
-React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 830 条记录，分成 17 个 List（List 01～16 各 50 条，List 17 为 30 条）。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
+React、TypeScript、Vite 的纯静态词汇学习网站。真实 Excel 导入 898 条记录，分成 18 个 List（List 01～17 各 50 条，List 18 为 48 条）。每条解释独立保留。系统朗读使用 Web Speech API，不生成音频文件，不使用付费服务。
+
+2026-11-09 第十二组新增 68 条（v000831～v000898），从 List 17 第 31 条开始补满 50 条，继续添加到 List 18（48 条）。原有 830 条记录及图片关联保留。同词不同词性与释义独立保存，包括 lease、patent、seizure、shrink、slight 等。源表为 `data-source/英语单词_第十二组_20261109.xlsx`；使用内置 image_gen 为每条生成一张独立配图，统一转换为 2100×900、WebP 质量 85、sRGB，总计约 14.2 MB（实际单图约 107～546 KB）。麻疹采用无患者的诊室场景。图片路径及完整提示词见 [第十二组图片记录](docs/vocabulary-images-20261109.json)。追加命令：`python scripts/append_vocabulary.py "data-source/英语单词_第十二组_20261109.xlsx"`。
 
 ## TOEIC 图片批量生成规则
 

@@ -1,0 +1,1735 @@
+{
+  "id": "list18",
+  "title": "List 18",
+  "description": "TOEIC Vocabulary",
+  "items": [
+    {
+      "word": "obfuscate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈɒbfʌskeɪt/",
+        "us": "/ˈɑːbfʌskeɪt/"
+      },
+      "meaning": "使模糊；故意混淆",
+      "collocation": {
+        "en": "obfuscate the issue",
+        "zh": "混淆问题"
+      },
+      "example": {
+        "en": "The complicated explanation only obfuscated the main issue.",
+        "zh": "复杂的解释反而把核心问题弄模糊了。"
+      },
+      "id": "v000851",
+      "images": [
+        {
+          "id": "generated-v000851",
+          "src": "images/list18/v000851.webp",
+          "alt": "obfuscate: obfuscate the issue",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a15c6c45ca21cba16616e4bb267f94dd847c5988e7be82589e4b01f98b5bf4f7"
+    },
+    {
+      "word": "obscure",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əbˈskjʊə(r)/",
+        "us": "/əbˈskjʊr/"
+      },
+      "meaning": "晦涩的；鲜为人知的",
+      "collocation": {
+        "en": "obscure reference",
+        "zh": "晦涩的典故"
+      },
+      "example": {
+        "en": "The article contains many obscure historical references.",
+        "zh": "文中有很多晦涩的历史典故。"
+      },
+      "id": "v000852",
+      "images": [
+        {
+          "id": "generated-v000852",
+          "src": "images/list18/v000852.webp",
+          "alt": "obscure: obscure reference",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "932b6b9a4e13c21208bb4acb265c6f52e29bd6c100fc91e0915c1df1aede9801"
+    },
+    {
+      "word": "obscure",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əbˈskjʊə(r)/",
+        "us": "/əbˈskjʊr/"
+      },
+      "meaning": "遮掩；使模糊",
+      "collocation": {
+        "en": "obscure the truth",
+        "zh": "掩盖真相"
+      },
+      "example": {
+        "en": "Too much detail may obscure the real issue.",
+        "zh": "过多细节可能掩盖真正的问题。"
+      },
+      "id": "v000853",
+      "images": [
+        {
+          "id": "generated-v000853",
+          "src": "images/list18/v000853.webp",
+          "alt": "obscure: obscure the truth",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80c2133bfe7965c323fa46aed3e899b8d45a2c4b7b958559b3d5da60821ed1f4"
+    },
+    {
+      "word": "obsess",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/əbˈses/",
+        "us": "/əbˈses/"
+      },
+      "meaning": "使痴迷；使困扰",
+      "collocation": {
+        "en": "be obsessed with",
+        "zh": "痴迷于……"
+      },
+      "example": {
+        "en": "He has recently become obsessed with artificial intelligence.",
+        "zh": "他最近非常痴迷于人工智能。"
+      },
+      "id": "v000854",
+      "images": [
+        {
+          "id": "generated-v000854",
+          "src": "images/list18/v000854.webp",
+          "alt": "obsess: be obsessed with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c5da2f72d509ca79427b6310b90bd70881c6d2f9ee9731dde933b3e709563f89"
+    },
+    {
+      "word": "outcome",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈaʊtkʌm/",
+        "us": "/ˈaʊtkʌm/"
+      },
+      "meaning": "结果；后果",
+      "collocation": {
+        "en": "positive outcome",
+        "zh": "积极结果"
+      },
+      "example": {
+        "en": "The negotiations eventually produced a positive outcome.",
+        "zh": "谈判最终取得了积极结果。"
+      },
+      "id": "v000855",
+      "images": [
+        {
+          "id": "generated-v000855",
+          "src": "images/list18/v000855.webp",
+          "alt": "outcome: positive outcome",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fced055bdc861fe8146f5a3f3b86519401ed8214d646de5a22d10805d5898014"
+    },
+    {
+      "word": "overdraw",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌəʊvəˈdrɔː/",
+        "us": "/ˌoʊvərˈdrɔː/"
+      },
+      "meaning": "透支",
+      "collocation": {
+        "en": "overdraw an account",
+        "zh": "透支账户"
+      },
+      "example": {
+        "en": "The account may be overdrawn if the balance is insufficient.",
+        "zh": "如果余额不足，账户可能会被透支。"
+      },
+      "id": "v000856",
+      "images": [
+        {
+          "id": "generated-v000856",
+          "src": "images/list18/v000856.webp",
+          "alt": "overdraw: overdraw an account",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2a55c72b34fff797a1f4245d0d592c419bc2b12e8af143370f2ce922fa016f4d"
+    },
+    {
+      "word": "patent",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpeɪtnt/",
+        "us": "/ˈpætnt/"
+      },
+      "meaning": "专利",
+      "collocation": {
+        "en": "apply for a patent",
+        "zh": "申请专利"
+      },
+      "example": {
+        "en": "The company applied for a patent for the new technology.",
+        "zh": "公司为这项新技术申请了专利。"
+      },
+      "id": "v000857",
+      "images": [
+        {
+          "id": "generated-v000857",
+          "src": "images/list18/v000857.webp",
+          "alt": "patent: apply for a patent",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9bf2e2ffaea6370ff027de4ce81ef549565dc6f77ef13a31a302d3e7a6163aa2"
+    },
+    {
+      "word": "patent",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈpeɪtnt/",
+        "us": "/ˈpætnt/"
+      },
+      "meaning": "明显的；显然的",
+      "collocation": {
+        "en": "patent lie",
+        "zh": "明显的谎言"
+      },
+      "example": {
+        "en": "It was a patent lie.",
+        "zh": "这显然是一个谎言。"
+      },
+      "id": "v000858",
+      "images": [
+        {
+          "id": "generated-v000858",
+          "src": "images/list18/v000858.webp",
+          "alt": "patent: patent lie",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "33d70b0e0fe46d3dc8695b487fa077e9bb524261146a7646b0147e92d578f362"
+    },
+    {
+      "word": "portly",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈpɔːtli/",
+        "us": "/ˈpɔːrtli/"
+      },
+      "meaning": "肥胖而体面的；身材魁梧的",
+      "collocation": {
+        "en": "portly gentleman",
+        "zh": "身材魁梧的绅士"
+      },
+      "example": {
+        "en": "A portly gentleman entered the room.",
+        "zh": "一位身材魁梧的绅士走进了房间。"
+      },
+      "id": "v000859",
+      "images": [
+        {
+          "id": "generated-v000859",
+          "src": "images/list18/v000859.webp",
+          "alt": "portly: portly gentleman",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8c267430e7c3016257c95f2e48131a4d7f33715d9ff67906bc9bc42b2c35dbdf"
+    },
+    {
+      "word": "predominate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prɪˈdɒmɪneɪt/",
+        "us": "/prɪˈdɑːməneɪt/"
+      },
+      "meaning": "占主导；占多数",
+      "collocation": {
+        "en": "predominate in",
+        "zh": "在……中占主导"
+      },
+      "example": {
+        "en": "Young people predominate in this industry.",
+        "zh": "年轻人在这个行业中占多数。"
+      },
+      "id": "v000860",
+      "images": [
+        {
+          "id": "generated-v000860",
+          "src": "images/list18/v000860.webp",
+          "alt": "predominate: predominate in",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b16b445558106bf2676455751601bf99d558ed55bd09949866047a6583cbee15"
+    },
+    {
+      "word": "pre-emptive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌpriːˈemptɪv/",
+        "us": "/ˌpriːˈemptɪv/"
+      },
+      "meaning": "先发制人的；预防性的",
+      "collocation": {
+        "en": "pre-emptive action",
+        "zh": "先发制人的行动"
+      },
+      "example": {
+        "en": "The company took pre-emptive action to avoid a system failure.",
+        "zh": "公司采取了预防措施以避免系统故障。"
+      },
+      "id": "v000861",
+      "images": [
+        {
+          "id": "generated-v000861",
+          "src": "images/list18/v000861.webp",
+          "alt": "pre-emptive: pre-emptive action",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "90cda8509ef1171667a83fda69514e7e1c559c80cf3866ca5ce65e14c50c8212"
+    },
+    {
+      "word": "preoccupy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/priˈɒkjupaɪ/",
+        "us": "/priˈɑːkjupaɪ/"
+      },
+      "meaning": "使全神贯注；使忧心",
+      "collocation": {
+        "en": "be preoccupied with",
+        "zh": "专注于；担心……"
+      },
+      "example": {
+        "en": "He has been preoccupied with the project schedule lately.",
+        "zh": "他最近一直在担心项目进度。"
+      },
+      "id": "v000862",
+      "images": [
+        {
+          "id": "generated-v000862",
+          "src": "images/list18/v000862.webp",
+          "alt": "preoccupy: be preoccupied with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6fd2bb82bd321ae05e4b59f593fbccdaf49f71285e7cf7ba195bceb994b0cd55"
+    },
+    {
+      "word": "preventative",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/prɪˈventətɪv/",
+        "us": "/prɪˈventətɪv/"
+      },
+      "meaning": "预防性的",
+      "collocation": {
+        "en": "preventative measures",
+        "zh": "预防措施"
+      },
+      "example": {
+        "en": "The company strengthened its preventative cybersecurity measures.",
+        "zh": "公司加强了网络安全预防措施。"
+      },
+      "id": "v000863",
+      "images": [
+        {
+          "id": "generated-v000863",
+          "src": "images/list18/v000863.webp",
+          "alt": "preventative: preventative measures",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "053adb6d51aa4130ccaec46a2e1fc058c6932c091ad303ca0169ac09bbbf6693"
+    },
+    {
+      "word": "pristine",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈprɪstiːn/",
+        "us": "/ˈprɪstiːn/"
+      },
+      "meaning": "原始纯净的；崭新的",
+      "collocation": {
+        "en": "pristine condition",
+        "zh": "完好如新的状态"
+      },
+      "example": {
+        "en": "The old car is still in pristine condition.",
+        "zh": "这辆老车仍然保持得像新的一样。"
+      },
+      "id": "v000864",
+      "images": [
+        {
+          "id": "generated-v000864",
+          "src": "images/list18/v000864.webp",
+          "alt": "pristine: pristine condition",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "16ce7b721be1a86745306e87840235b9384dcff573db0339eca45154b1aa5c49"
+    },
+    {
+      "word": "profile",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈprəʊfaɪl/",
+        "us": "/ˈproʊfaɪl/"
+      },
+      "meaning": "简介；人物资料",
+      "collocation": {
+        "en": "user profile",
+        "zh": "用户资料"
+      },
+      "example": {
+        "en": "Please update your user profile.",
+        "zh": "请更新你的用户资料。"
+      },
+      "id": "v000865",
+      "images": [
+        {
+          "id": "generated-v000865",
+          "src": "images/list18/v000865.webp",
+          "alt": "profile: user profile",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3759cf8eed4cbd1299485382ae622bc39ab9c90331973285f479f571eda58184"
+    },
+    {
+      "word": "profile",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈprəʊfaɪl/",
+        "us": "/ˈproʊfaɪl/"
+      },
+      "meaning": "介绍；描绘……的特点",
+      "collocation": {
+        "en": "profile a company",
+        "zh": "介绍一家公司"
+      },
+      "example": {
+        "en": "The magazine profiled the startup.",
+        "zh": "杂志对这家初创公司进行了专题介绍。"
+      },
+      "id": "v000866",
+      "images": [
+        {
+          "id": "generated-v000866",
+          "src": "images/list18/v000866.webp",
+          "alt": "profile: profile a company",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5ad56310e867e2642913a825158a87633e941d3d4deb0dfaf4fe2e19e3bb4459"
+    },
+    {
+      "word": "proselyte",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈprɒsəlaɪt/",
+        "us": "/ˈprɑːsəlaɪt/"
+      },
+      "meaning": "改宗者；新皈依者",
+      "collocation": {
+        "en": "religious proselyte",
+        "zh": "宗教改宗者"
+      },
+      "example": {
+        "en": "The historical documents recorded early religious proselytes.",
+        "zh": "历史文献记录了早期的改宗者。"
+      },
+      "id": "v000867",
+      "images": [
+        {
+          "id": "generated-v000867",
+          "src": "images/list18/v000867.webp",
+          "alt": "proselyte: religious proselyte",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b023f50a89e69fdd53697cf8d5416b1190cca5ac95b1cf3c68ccf4bb5dcfd70c"
+    },
+    {
+      "word": "protectionism",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈtekʃənɪzəm/",
+        "us": "/prəˈtekʃənɪzəm/"
+      },
+      "meaning": "贸易保护主义",
+      "collocation": {
+        "en": "trade protectionism",
+        "zh": "贸易保护主义"
+      },
+      "example": {
+        "en": "Trade protectionism may increase import costs.",
+        "zh": "贸易保护主义可能导致进口成本上升。"
+      },
+      "id": "v000868",
+      "images": [
+        {
+          "id": "generated-v000868",
+          "src": "images/list18/v000868.webp",
+          "alt": "protectionism: trade protectionism",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c27c262df755ed062e52c8c2f7ac88f4b51481e683c2218feb8aa70566c832d5"
+    },
+    {
+      "word": "radioactivity",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌreɪdiəʊækˈtɪvəti/",
+        "us": "/ˌreɪdioʊækˈtɪvəti/"
+      },
+      "meaning": "放射性",
+      "collocation": {
+        "en": "level of radioactivity",
+        "zh": "放射性水平"
+      },
+      "example": {
+        "en": "Workers regularly measure the level of radioactivity in the environment.",
+        "zh": "工作人员定期测量环境中的放射性水平。"
+      },
+      "id": "v000869",
+      "images": [
+        {
+          "id": "generated-v000869",
+          "src": "images/list18/v000869.webp",
+          "alt": "radioactivity: level of radioactivity",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bddf1241167582e93ecccb40eefbc3de1d0ca985a44cdc5a2ff82dfa846f3fcd"
+    },
+    {
+      "word": "recede",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈsiːd/",
+        "us": "/rɪˈsiːd/"
+      },
+      "meaning": "后退；减弱；消退",
+      "collocation": {
+        "en": "recede gradually",
+        "zh": "逐渐消退"
+      },
+      "example": {
+        "en": "The floodwaters began to recede gradually.",
+        "zh": "洪水水位开始逐渐下降。"
+      },
+      "id": "v000870",
+      "images": [
+        {
+          "id": "generated-v000870",
+          "src": "images/list18/v000870.webp",
+          "alt": "recede: recede gradually",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "566b99f297f3fe1ba42f6e3f991500d7d7f4fc30343314631704f89f60a30af0"
+    },
+    {
+      "word": "rekindle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌriːˈkɪndl/",
+        "us": "/ˌriːˈkɪndl/"
+      },
+      "meaning": "重新点燃；重新唤起",
+      "collocation": {
+        "en": "rekindle interest",
+        "zh": "重新激发兴趣"
+      },
+      "example": {
+        "en": "The book rekindled his interest in history.",
+        "zh": "这本书重新激发了他对历史的兴趣。"
+      },
+      "id": "v000871",
+      "images": [
+        {
+          "id": "generated-v000871",
+          "src": "images/list18/v000871.webp",
+          "alt": "rekindle: rekindle interest",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5d8ba7703637f67176e4895c5315c2cfd122ad458ff283b0f7877289239f7e5b"
+    },
+    {
+      "word": "relish",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈrelɪʃ/",
+        "us": "/ˈrelɪʃ/"
+      },
+      "meaning": "享受；喜爱",
+      "collocation": {
+        "en": "relish the opportunity",
+        "zh": "享受/珍惜机会"
+      },
+      "example": {
+        "en": "She relished the opportunity to take on a new challenge.",
+        "zh": "她很享受承担新挑战的机会。"
+      },
+      "id": "v000872",
+      "images": [
+        {
+          "id": "generated-v000872",
+          "src": "images/list18/v000872.webp",
+          "alt": "relish: relish the opportunity",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2a9ad5b6ec1657813b065a708907836fc98284792c30a83c63a815da263eb11f"
+    },
+    {
+      "word": "relish",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈrelɪʃ/",
+        "us": "/ˈrelɪʃ/"
+      },
+      "meaning": "调味酱；享受",
+      "collocation": {
+        "en": "with relish",
+        "zh": "津津有味地"
+      },
+      "example": {
+        "en": "He described his travels with relish.",
+        "zh": "他津津有味地讲述了自己的旅行经历。"
+      },
+      "id": "v000873",
+      "images": [
+        {
+          "id": "generated-v000873",
+          "src": "images/list18/v000873.webp",
+          "alt": "relish: with relish",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "46ca5abe062514096e4b29b9eb134b25f9bef75cf2e84ff9b581a558a06aa1df"
+    },
+    {
+      "word": "remedy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈremədi/",
+        "us": "/ˈremədi/"
+      },
+      "meaning": "补救办法；药物",
+      "collocation": {
+        "en": "effective remedy",
+        "zh": "有效补救办法"
+      },
+      "example": {
+        "en": "Restarting the service was an effective temporary remedy.",
+        "zh": "重启服务是暂时有效的补救办法。"
+      },
+      "id": "v000874",
+      "images": [
+        {
+          "id": "generated-v000874",
+          "src": "images/list18/v000874.webp",
+          "alt": "remedy: effective remedy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9ce43b696fdf84e8bd3f7db5334185ce22f312b31a9adbc37910b58cc537574d"
+    },
+    {
+      "word": "remedy",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈremədi/",
+        "us": "/ˈremədi/"
+      },
+      "meaning": "纠正；补救",
+      "collocation": {
+        "en": "remedy the situation",
+        "zh": "改善局面"
+      },
+      "example": {
+        "en": "The company took immediate action to remedy the situation.",
+        "zh": "公司立即采取措施纠正这个问题。"
+      },
+      "id": "v000875",
+      "images": [
+        {
+          "id": "generated-v000875",
+          "src": "images/list18/v000875.webp",
+          "alt": "remedy: remedy the situation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1373b79309c79997d0e18f78d1fbd4ff5ec1f2ceb8b17ceb830df333d81d75c0"
+    },
+    {
+      "word": "retrieve",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈtriːv/",
+        "us": "/rɪˈtriːv/"
+      },
+      "meaning": "取回；检索",
+      "collocation": {
+        "en": "retrieve data",
+        "zh": "检索数据"
+      },
+      "example": {
+        "en": "The system can quickly retrieve historical data.",
+        "zh": "系统可以快速检索历史数据。"
+      },
+      "id": "v000876",
+      "images": [
+        {
+          "id": "generated-v000876",
+          "src": "images/list18/v000876.webp",
+          "alt": "retrieve: retrieve data",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e73c7ed2e713ef50fad8392f951d0f2329b045318dd1cbfeedd13139dfff4794"
+    },
+    {
+      "word": "robotics",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rəʊˈbɒtɪks/",
+        "us": "/roʊˈbɑːtɪks/"
+      },
+      "meaning": "机器人学；机器人技术",
+      "collocation": {
+        "en": "robotics research",
+        "zh": "机器人研究"
+      },
+      "example": {
+        "en": "The university is expanding its robotics research.",
+        "zh": "这所大学正在加强机器人研究。"
+      },
+      "id": "v000877",
+      "images": [
+        {
+          "id": "generated-v000877",
+          "src": "images/list18/v000877.webp",
+          "alt": "robotics: robotics research",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b2cc8cb22c7413fdc564ebf631de377b4611559cfa800f9a5aa76a7ea8f4027c"
+    },
+    {
+      "word": "sabotage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsæbətɑːʒ/",
+        "us": "/ˈsæbətɑːʒ/"
+      },
+      "meaning": "蓄意破坏",
+      "collocation": {
+        "en": "industrial sabotage",
+        "zh": "工业破坏活动"
+      },
+      "example": {
+        "en": "Police are investigating possible sabotage.",
+        "zh": "警方正在调查是否存在蓄意破坏。"
+      },
+      "id": "v000878",
+      "images": [
+        {
+          "id": "generated-v000878",
+          "src": "images/list18/v000878.webp",
+          "alt": "sabotage: industrial sabotage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6631bc7bfad8d4e354d3098817fe63f76c3c90fc8e23a26c186e7d73027e6ec5"
+    },
+    {
+      "word": "sabotage",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsæbətɑːʒ/",
+        "us": "/ˈsæbətɑːʒ/"
+      },
+      "meaning": "蓄意破坏",
+      "collocation": {
+        "en": "sabotage a project",
+        "zh": "破坏项目"
+      },
+      "example": {
+        "en": "Internal conflict could sabotage the entire project.",
+        "zh": "内部冲突可能会破坏整个项目。"
+      },
+      "id": "v000879",
+      "images": [
+        {
+          "id": "generated-v000879",
+          "src": "images/list18/v000879.webp",
+          "alt": "sabotage: sabotage a project",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7250f6a93c141c9e698bda10e266b138c009885bae0d33d721c95871fc377f2e"
+    },
+    {
+      "word": "sacrilegious",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌsækrəˈlɪdʒəs/",
+        "us": "/ˌsækrəˈlɪdʒəs/"
+      },
+      "meaning": "亵渎神圣的",
+      "collocation": {
+        "en": "sacrilegious act",
+        "zh": "亵渎神圣的行为"
+      },
+      "example": {
+        "en": "Local people regarded the act as sacrilegious.",
+        "zh": "当地人认为这种行为是对圣地的亵渎。"
+      },
+      "id": "v000880",
+      "images": [
+        {
+          "id": "generated-v000880",
+          "src": "images/list18/v000880.webp",
+          "alt": "sacrilegious: sacrilegious act",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ef2381b4065240e7f6371676215cdf2879e36f74ecaf0de94c7ba9e45bd93b8f"
+    },
+    {
+      "word": "saturate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsætʃəreɪt/",
+        "us": "/ˈsætʃəreɪt/"
+      },
+      "meaning": "使浸透；使饱和",
+      "collocation": {
+        "en": "saturate with water",
+        "zh": "用水浸透"
+      },
+      "example": {
+        "en": "The heavy rain saturated the soil with water.",
+        "zh": "大雨把土壤完全浸透了。"
+      },
+      "id": "v000881",
+      "images": [
+        {
+          "id": "generated-v000881",
+          "src": "images/list18/v000881.webp",
+          "alt": "saturate: saturate with water",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "61c43b50386e4c67894a56a9d6255f60911ad0d164609efdf197c45d7390a67d"
+    },
+    {
+      "word": "saturate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsætʃəreɪt/",
+        "us": "/ˈsætʃəreɪt/"
+      },
+      "meaning": "充斥；使市场饱和",
+      "collocation": {
+        "en": "saturate the market",
+        "zh": "使市场饱和"
+      },
+      "example": {
+        "en": "Cheap products have saturated the market.",
+        "zh": "廉价产品已经使市场趋于饱和。"
+      },
+      "id": "v000882",
+      "images": [
+        {
+          "id": "generated-v000882",
+          "src": "images/list18/v000882.webp",
+          "alt": "saturate: saturate the market",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "50d2437bbe0220596b924ecec478697eb2a4529c692e998bcf13d94b74fef182"
+    },
+    {
+      "word": "seclude",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/sɪˈkluːd/",
+        "us": "/sɪˈkluːd/"
+      },
+      "meaning": "使隔离；使隐居",
+      "collocation": {
+        "en": "seclude oneself from",
+        "zh": "与……隔绝"
+      },
+      "example": {
+        "en": "He secluded himself from the outside world to focus on writing.",
+        "zh": "他为了专心写作把自己与外界隔绝。"
+      },
+      "id": "v000883",
+      "images": [
+        {
+          "id": "generated-v000883",
+          "src": "images/list18/v000883.webp",
+          "alt": "seclude: seclude oneself from",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f59fe6939334d10ca343b3ba8625b125a580e3e565846a30a0c749bfdec1c604"
+    },
+    {
+      "word": "seismograph",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsaɪzməɡrɑːf/",
+        "us": "/ˈsaɪzməɡræf/"
+      },
+      "meaning": "地震仪",
+      "collocation": {
+        "en": "record with a seismograph",
+        "zh": "用地震仪记录"
+      },
+      "example": {
+        "en": "The seismograph recorded a minor tremor.",
+        "zh": "地震仪记录到了轻微震动。"
+      },
+      "id": "v000884",
+      "images": [
+        {
+          "id": "generated-v000884",
+          "src": "images/list18/v000884.webp",
+          "alt": "seismograph: record with a seismograph",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "be67a2e88a6814b67c04787c0a90ec1eece4fc3418ad87006536bd4d91f3ac8f"
+    },
+    {
+      "word": "seizure",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsiːʒə(r)/",
+        "us": "/ˈsiːʒər/"
+      },
+      "meaning": "癫痫发作；痉挛",
+      "collocation": {
+        "en": "have a seizure",
+        "zh": "癫痫发作"
+      },
+      "example": {
+        "en": "The patient had a seizure in the hospital.",
+        "zh": "患者在医院中出现了一次癫痫发作。"
+      },
+      "id": "v000885",
+      "images": [
+        {
+          "id": "generated-v000885",
+          "src": "images/list18/v000885.webp",
+          "alt": "seizure: have a seizure",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "203efb1c79225f96dbc762b9470c8b53b046b4b00feef43f7ac74578af7a698b"
+    },
+    {
+      "word": "seizure",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsiːʒə(r)/",
+        "us": "/ˈsiːʒər/"
+      },
+      "meaning": "扣押；没收",
+      "collocation": {
+        "en": "seizure of assets",
+        "zh": "资产扣押"
+      },
+      "example": {
+        "en": "The court approved the seizure of the assets.",
+        "zh": "法院批准了对相关资产的扣押。"
+      },
+      "id": "v000886",
+      "images": [
+        {
+          "id": "generated-v000886",
+          "src": "images/list18/v000886.webp",
+          "alt": "seizure: seizure of assets",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4252b489342f348460fed36842b8efdd34fbbec22029fcdedb13bbf43226895a"
+    },
+    {
+      "word": "shrink",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ʃrɪŋk/",
+        "us": "/ʃrɪŋk/"
+      },
+      "meaning": "收缩；缩小",
+      "collocation": {
+        "en": "shrink in size",
+        "zh": "尺寸缩小"
+      },
+      "example": {
+        "en": "The garment shrank after washing.",
+        "zh": "这件衣服洗后缩水了。"
+      },
+      "id": "v000887",
+      "images": [
+        {
+          "id": "generated-v000887",
+          "src": "images/list18/v000887.webp",
+          "alt": "shrink: shrink in size",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b2eda2de7ad24721ba45bc363d07bd1f21e61ac2a679c29e9c144a6dbd63e9e1"
+    },
+    {
+      "word": "shrink",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ʃrɪŋk/",
+        "us": "/ʃrɪŋk/"
+      },
+      "meaning": "减少；萎缩",
+      "collocation": {
+        "en": "market shrinks",
+        "zh": "市场萎缩"
+      },
+      "example": {
+        "en": "The domestic market shrank significantly last year.",
+        "zh": "国内市场去年明显萎缩。"
+      },
+      "id": "v000888",
+      "images": [
+        {
+          "id": "generated-v000888",
+          "src": "images/list18/v000888.webp",
+          "alt": "shrink: market shrinks",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dc351b74d59f2dd2891e19d750771d48abd92a5d7a4ff2820784ca7b66d4be9f"
+    },
+    {
+      "word": "slight",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/slaɪt/",
+        "us": "/slaɪt/"
+      },
+      "meaning": "轻微的；少量的",
+      "collocation": {
+        "en": "slight increase",
+        "zh": "小幅增长"
+      },
+      "example": {
+        "en": "Sales showed a slight increase this month.",
+        "zh": "本月销售额小幅增长。"
+      },
+      "id": "v000889",
+      "images": [
+        {
+          "id": "generated-v000889",
+          "src": "images/list18/v000889.webp",
+          "alt": "slight: slight increase",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6634a5e75837a62e980caedc75aba6e9fb32d090f9ceb6d9b530a477b1bafd41"
+    },
+    {
+      "word": "slight",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/slaɪt/",
+        "us": "/slaɪt/"
+      },
+      "meaning": "轻慢；怠慢",
+      "collocation": {
+        "en": "take something as a slight",
+        "zh": "把某事视为怠慢"
+      },
+      "example": {
+        "en": "He took the lack of an invitation as a slight.",
+        "zh": "他把没有收到邀请视为一种怠慢。"
+      },
+      "id": "v000890",
+      "images": [
+        {
+          "id": "generated-v000890",
+          "src": "images/list18/v000890.webp",
+          "alt": "slight: take something as a slight",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4ca37c5b80db42ca33bb0272804f223d2d00d0e956c7526862b2ecbb967e9ba5"
+    },
+    {
+      "word": "slump",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/slʌmp/",
+        "us": "/slʌmp/"
+      },
+      "meaning": "暴跌；低迷",
+      "collocation": {
+        "en": "economic slump",
+        "zh": "经济低迷"
+      },
+      "example": {
+        "en": "The economic slump led to higher unemployment.",
+        "zh": "经济低迷导致失业率上升。"
+      },
+      "id": "v000891",
+      "images": [
+        {
+          "id": "generated-v000891",
+          "src": "images/list18/v000891.webp",
+          "alt": "slump: economic slump",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1c5412761ceb83c14677e4092d9264f222154668ba36a47739387207b2d51f59"
+    },
+    {
+      "word": "slump",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/slʌmp/",
+        "us": "/slʌmp/"
+      },
+      "meaning": "暴跌；猛降",
+      "collocation": {
+        "en": "sales slump",
+        "zh": "销售暴跌"
+      },
+      "example": {
+        "en": "Sales slumped after demand weakened.",
+        "zh": "需求减少后销售额大幅下滑。"
+      },
+      "id": "v000892",
+      "images": [
+        {
+          "id": "generated-v000892",
+          "src": "images/list18/v000892.webp",
+          "alt": "slump: sales slump",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f75e3c56220e841318c53f201467884442801330fdfcdcdc4351cf84dd9ba62a"
+    },
+    {
+      "word": "socialism",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsəʊʃəlɪzəm/",
+        "us": "/ˈsoʊʃəlɪzəm/"
+      },
+      "meaning": "社会主义",
+      "collocation": {
+        "en": "democratic socialism",
+        "zh": "民主社会主义"
+      },
+      "example": {
+        "en": "The course introduces different forms of socialism.",
+        "zh": "课程介绍了不同形式的社会主义思想。"
+      },
+      "id": "v000893",
+      "images": [
+        {
+          "id": "generated-v000893",
+          "src": "images/list18/v000893.webp",
+          "alt": "socialism: democratic socialism",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "df79d377681d4c636d903eeacd9b345690e75d1beea7ac91e446d1ee0eef15fb"
+    },
+    {
+      "word": "proprietor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈpraɪətə(r)/",
+        "us": "/prəˈpraɪətər/"
+      },
+      "meaning": "所有人；业主",
+      "collocation": {
+        "en": "sole proprietor",
+        "zh": "个体业主"
+      },
+      "example": {
+        "en": "The small shop is run by a sole proprietor.",
+        "zh": "这家小店由一名个体业主经营。"
+      },
+      "id": "v000894",
+      "images": [
+        {
+          "id": "generated-v000894",
+          "src": "images/list18/v000894.webp",
+          "alt": "proprietor: sole proprietor",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "642a24eeac68c55370edd197fc0018296821903074eb21538353f740a73c72bb"
+    },
+    {
+      "word": "spectacle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈspektəkl/",
+        "us": "/ˈspektəkl/"
+      },
+      "meaning": "壮观场面；景象",
+      "collocation": {
+        "en": "spectacular spectacle",
+        "zh": "壮观景象"
+      },
+      "example": {
+        "en": "The fireworks display was an impressive spectacle.",
+        "zh": "烟花表演是一场壮观的视觉盛宴。"
+      },
+      "id": "v000895",
+      "images": [
+        {
+          "id": "generated-v000895",
+          "src": "images/list18/v000895.webp",
+          "alt": "spectacle: spectacular spectacle",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f4b8e4765f0895c591294fe8ac36be6694cb65535c7ef98641f806246372b93f"
+    },
+    {
+      "word": "speculate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈspekjuleɪt/",
+        "us": "/ˈspekjuleɪt/"
+      },
+      "meaning": "推测；猜测",
+      "collocation": {
+        "en": "speculate about",
+        "zh": "推测……"
+      },
+      "example": {
+        "en": "The media began to speculate about who would become the company's next CEO.",
+        "zh": "媒体开始推测公司下一任 CEO 会是谁。"
+      },
+      "id": "v000896",
+      "images": [
+        {
+          "id": "generated-v000896",
+          "src": "images/list18/v000896.webp",
+          "alt": "speculate: speculate about",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "136bad94d758a705c0fb66e9ad545e33dc832a2470115d432e41ebf3266e58fe"
+    },
+    {
+      "word": "speculate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈspekjuleɪt/",
+        "us": "/ˈspekjuleɪt/"
+      },
+      "meaning": "投机；炒作",
+      "collocation": {
+        "en": "speculate in",
+        "zh": "投机买卖……"
+      },
+      "example": {
+        "en": "He once speculated in foreign currencies.",
+        "zh": "他曾经通过外汇市场进行投机。"
+      },
+      "id": "v000897",
+      "images": [
+        {
+          "id": "generated-v000897",
+          "src": "images/list18/v000897.webp",
+          "alt": "speculate: speculate in",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "37b2d655f02d5bddd4db1783440c493a24ec0765ffe77618e73508c25d332c4f"
+    },
+    {
+      "word": "spillover",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈspɪləʊvə(r)/",
+        "us": "/ˈspɪloʊvər/"
+      },
+      "meaning": "溢出效应；外溢影响",
+      "collocation": {
+        "en": "spillover effect",
+        "zh": "溢出效应"
+      },
+      "example": {
+        "en": "An economic crisis in one country may have cross-border spillover effects.",
+        "zh": "一个国家的经济危机可能产生跨境溢出效应。"
+      },
+      "id": "v000898",
+      "images": [
+        {
+          "id": "generated-v000898",
+          "src": "images/list18/v000898.webp",
+          "alt": "spillover: spillover effect",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a51ceeb352a31131e5764c9b7bb8d553bee906a1ab2cdbc20e7ebe9a4eef8935"
+    }
+  ]
+}

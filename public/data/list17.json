@@ -1082,6 +1082,726 @@
       "tags": [],
       "notes": "",
       "sourceKey": "e67f46b9ddfedb2c0fac76ad41b66c60f187002daac7b8281c3e9cb671fffb4e"
+    },
+    {
+      "word": "irrigation",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌɪrɪˈɡeɪʃn/",
+        "us": "/ˌɪrɪˈɡeɪʃn/"
+      },
+      "meaning": "灌溉；灌溉系统",
+      "collocation": {
+        "en": "irrigation system",
+        "zh": "灌溉系统"
+      },
+      "example": {
+        "en": "The region has built a modern irrigation system.",
+        "zh": "这个地区新建了现代化灌溉系统。"
+      },
+      "id": "v000831",
+      "images": [
+        {
+          "id": "generated-v000831",
+          "src": "images/list17/v000831.webp",
+          "alt": "irrigation: irrigation system",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e25e0869556d293e2c2a04b96a44a3ba9624a90de7eaa7c74f812de213c7fa58"
+    },
+    {
+      "word": "kinetic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kɪˈnetɪk/",
+        "us": "/kɪˈnetɪk/"
+      },
+      "meaning": "运动的；动能的",
+      "collocation": {
+        "en": "kinetic energy",
+        "zh": "动能"
+      },
+      "example": {
+        "en": "A moving car has kinetic energy.",
+        "zh": "汽车行驶时具有动能。"
+      },
+      "id": "v000832",
+      "images": [
+        {
+          "id": "generated-v000832",
+          "src": "images/list17/v000832.webp",
+          "alt": "kinetic: kinetic energy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "82030bc45bac1e79f18983028cb17c7bc77837757c59e98b49ff5715dfc68ef2"
+    },
+    {
+      "word": "lament",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ləˈment/",
+        "us": "/ləˈment/"
+      },
+      "meaning": "哀叹；惋惜",
+      "collocation": {
+        "en": "lament the loss of",
+        "zh": "为失去……而惋惜"
+      },
+      "example": {
+        "en": "Many people lamented the loss of the old shop.",
+        "zh": "许多人为这家老店的关闭感到惋惜。"
+      },
+      "id": "v000833",
+      "images": [
+        {
+          "id": "generated-v000833",
+          "src": "images/list17/v000833.webp",
+          "alt": "lament: lament the loss of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6b134adbc4bc9668cb23348498ad8c7a4551e7cbedef8218c7a92311536f7baf"
+    },
+    {
+      "word": "lament",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ləˈment/",
+        "us": "/ləˈment/"
+      },
+      "meaning": "哀歌；悲叹",
+      "collocation": {
+        "en": "a lament for",
+        "zh": "为……而作的哀歌"
+      },
+      "example": {
+        "en": "The poem is a lament for a lost era.",
+        "zh": "这首诗是一首为逝去时代而作的哀歌。"
+      },
+      "id": "v000834",
+      "images": [
+        {
+          "id": "generated-v000834",
+          "src": "images/list17/v000834.webp",
+          "alt": "lament: a lament for",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba488911e82cec73dd8eea65ce870692de2526ecc5555ec88c0a28da3114a0f0"
+    },
+    {
+      "word": "larceny",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈlɑːsəni/",
+        "us": "/ˈlɑːrsəni/"
+      },
+      "meaning": "盗窃罪",
+      "collocation": {
+        "en": "grand larceny",
+        "zh": "重大盗窃罪"
+      },
+      "example": {
+        "en": "He was charged with grand larceny.",
+        "zh": "他因重大盗窃罪受到起诉。"
+      },
+      "id": "v000835",
+      "images": [
+        {
+          "id": "generated-v000835",
+          "src": "images/list17/v000835.webp",
+          "alt": "larceny: grand larceny",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cb8bd6a24a8fd68deeedbe25222ce5bf931a6116a58dc394d48c988b5c3a45d0"
+    },
+    {
+      "word": "lease",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/liːs/",
+        "us": "/liːs/"
+      },
+      "meaning": "租约；租赁合同",
+      "collocation": {
+        "en": "sign a lease",
+        "zh": "签订租约"
+      },
+      "example": {
+        "en": "We signed a two-year lease for the office.",
+        "zh": "我们签了一份两年的办公室租约。"
+      },
+      "id": "v000836",
+      "images": [
+        {
+          "id": "generated-v000836",
+          "src": "images/list17/v000836.webp",
+          "alt": "lease: sign a lease",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c542d487055ea919200927828918e4c4d5a86cd2212ca6670eed1fb5d490cc94"
+    },
+    {
+      "word": "lease",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/liːs/",
+        "us": "/liːs/"
+      },
+      "meaning": "租用；出租",
+      "collocation": {
+        "en": "lease a property",
+        "zh": "租赁房产"
+      },
+      "example": {
+        "en": "The company leased a floor of the office building.",
+        "zh": "公司租了一层办公楼。"
+      },
+      "id": "v000837",
+      "images": [
+        {
+          "id": "generated-v000837",
+          "src": "images/list17/v000837.webp",
+          "alt": "lease: lease a property",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1a753e35f2d4a201b1c2d766b58dfaa27ab2a04c350bd231f43bfb5f57ba23e9"
+    },
+    {
+      "word": "malign",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/məˈlaɪn/",
+        "us": "/məˈlaɪn/"
+      },
+      "meaning": "诽谤；中伤",
+      "collocation": {
+        "en": "malign someone's reputation",
+        "zh": "诋毁某人名誉"
+      },
+      "example": {
+        "en": "He was accused of maligning his competitor online.",
+        "zh": "他被指控在网上诋毁竞争对手。"
+      },
+      "id": "v000838",
+      "images": [
+        {
+          "id": "generated-v000838",
+          "src": "images/list17/v000838.webp",
+          "alt": "malign: malign someone's reputation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "01b6738c0d95d7e3e1ab32c20a22b75164831ab2ff674fb9fe758bd76e6545a3"
+    },
+    {
+      "word": "malign",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/məˈlaɪn/",
+        "us": "/məˈlaɪn/"
+      },
+      "meaning": "有害的；恶性的",
+      "collocation": {
+        "en": "malign influence",
+        "zh": "有害影响"
+      },
+      "example": {
+        "en": "The policy may have a malign influence.",
+        "zh": "这项政策可能产生有害影响。"
+      },
+      "id": "v000839",
+      "images": [
+        {
+          "id": "generated-v000839",
+          "src": "images/list17/v000839.webp",
+          "alt": "malign: malign influence",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8adb6f30a3029a308068798e23269951487609601a5657ff72bdeee36506c4de"
+    },
+    {
+      "word": "malpractice",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌmælˈpræktɪs/",
+        "us": "/ˌmælˈpræktɪs/"
+      },
+      "meaning": "渎职；医疗事故",
+      "collocation": {
+        "en": "medical malpractice",
+        "zh": "医疗事故"
+      },
+      "example": {
+        "en": "The patient filed a lawsuit over alleged medical malpractice.",
+        "zh": "患者因疑似医疗事故提起诉讼。"
+      },
+      "id": "v000840",
+      "images": [
+        {
+          "id": "generated-v000840",
+          "src": "images/list17/v000840.webp",
+          "alt": "malpractice: medical malpractice",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4bd7248a33ec15926eb4115d209a82f40f1f561dcafcecf93596d6de17328913"
+    },
+    {
+      "word": "mass",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/mæs/",
+        "us": "/mæs/"
+      },
+      "meaning": "大量；群众；质量",
+      "collocation": {
+        "en": "a mass of",
+        "zh": "大量的……"
+      },
+      "example": {
+        "en": "There was a mass of documents on the desk.",
+        "zh": "桌上堆着大量文件。"
+      },
+      "id": "v000841",
+      "images": [
+        {
+          "id": "generated-v000841",
+          "src": "images/list17/v000841.webp",
+          "alt": "mass: a mass of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "772f062983293b0b3298924afa70e8b22ac6fd97b0ef4de990ae6adb81e33c32"
+    },
+    {
+      "word": "mass",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/mæs/",
+        "us": "/mæs/"
+      },
+      "meaning": "大规模的；群众性的",
+      "collocation": {
+        "en": "mass production",
+        "zh": "大规模生产"
+      },
+      "example": {
+        "en": "The product has entered mass production.",
+        "zh": "这款产品已经进入大规模生产。"
+      },
+      "id": "v000842",
+      "images": [
+        {
+          "id": "generated-v000842",
+          "src": "images/list17/v000842.webp",
+          "alt": "mass: mass production",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cb83c415fff2472c1dbb764d11aef0c64f777ec0a7217c750e373e5d71dd8c54"
+    },
+    {
+      "word": "measles",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmiːzlz/",
+        "us": "/ˈmiːzlz/"
+      },
+      "meaning": "麻疹",
+      "collocation": {
+        "en": "contract measles",
+        "zh": "感染麻疹"
+      },
+      "example": {
+        "en": "The child developed a fever after contracting measles.",
+        "zh": "儿童感染麻疹后出现了发烧症状。"
+      },
+      "id": "v000843",
+      "images": [
+        {
+          "id": "generated-v000843",
+          "src": "images/list17/v000843.webp",
+          "alt": "measles: contract measles",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "5296919eccf007e361d20d86f57a38c32c5c27419f228b054b5e0fc7e86d7cb4"
+    },
+    {
+      "word": "Medicaid",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmedɪkeɪd/",
+        "us": "/ˈmedɪkeɪd/"
+      },
+      "meaning": "美国医疗补助计划",
+      "collocation": {
+        "en": "qualify for Medicaid",
+        "zh": "符合医疗补助资格"
+      },
+      "example": {
+        "en": "Some low-income families qualify for Medicaid.",
+        "zh": "一些低收入家庭符合 Medicaid 资格。"
+      },
+      "id": "v000844",
+      "images": [
+        {
+          "id": "generated-v000844",
+          "src": "images/list17/v000844.webp",
+          "alt": "Medicaid: qualify for Medicaid",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c4533f28b29516c78300f77578a06a6337797c2a337de4c13bb10912f60b411a"
+    },
+    {
+      "word": "Medicare",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmedɪkeə(r)/",
+        "us": "/ˈmedɪker/"
+      },
+      "meaning": "美国联邦医疗保险计划",
+      "collocation": {
+        "en": "enroll in Medicare",
+        "zh": "加入 Medicare"
+      },
+      "example": {
+        "en": "Many older adults enroll in Medicare when they reach the eligible age.",
+        "zh": "许多老年人在达到规定年龄后加入 Medicare。"
+      },
+      "id": "v000845",
+      "images": [
+        {
+          "id": "generated-v000845",
+          "src": "images/list17/v000845.webp",
+          "alt": "Medicare: enroll in Medicare",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "da4ab29c1390c13924f08ea72c2a49321d48df15d4677a78d361767b6a7ce062"
+    },
+    {
+      "word": "molecule",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmɒlɪkjuːl/",
+        "us": "/ˈmɑːlɪkjuːl/"
+      },
+      "meaning": "分子",
+      "collocation": {
+        "en": "water molecule",
+        "zh": "水分子"
+      },
+      "example": {
+        "en": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+        "zh": "一个水分子由两个氢原子和一个氧原子组成。"
+      },
+      "id": "v000846",
+      "images": [
+        {
+          "id": "generated-v000846",
+          "src": "images/list17/v000846.webp",
+          "alt": "molecule: water molecule",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a9be0b9ce2efe3597ea566f2285ec00ac7f7fc148c822702a584d5b8c7680b2e"
+    },
+    {
+      "word": "monarchy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmɒnəki/",
+        "us": "/ˈmɑːnərki/"
+      },
+      "meaning": "君主制；君主国",
+      "collocation": {
+        "en": "constitutional monarchy",
+        "zh": "君主立宪制"
+      },
+      "example": {
+        "en": "Japan has a constitutional monarchy.",
+        "zh": "日本实行君主立宪制。"
+      },
+      "id": "v000847",
+      "images": [
+        {
+          "id": "generated-v000847",
+          "src": "images/list17/v000847.webp",
+          "alt": "monarchy: constitutional monarchy",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4d1e6d81707398d9b46d0b55b48ea1be066496b373961216576ebdd3bd21ae56"
+    },
+    {
+      "word": "mortgage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmɔːɡɪdʒ/",
+        "us": "/ˈmɔːrɡɪdʒ/"
+      },
+      "meaning": "住房贷款；抵押贷款",
+      "collocation": {
+        "en": "take out a mortgage",
+        "zh": "办理房贷"
+      },
+      "example": {
+        "en": "They took out a mortgage to buy a house.",
+        "zh": "他们为了买房办理了住房贷款。"
+      },
+      "id": "v000848",
+      "images": [
+        {
+          "id": "generated-v000848",
+          "src": "images/list17/v000848.webp",
+          "alt": "mortgage: take out a mortgage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e6a53fabc9004bc2c6085626624d0655c399a3bd9e8436c91cb922518fd730a1"
+    },
+    {
+      "word": "mortgage",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈmɔːɡɪdʒ/",
+        "us": "/ˈmɔːrɡɪdʒ/"
+      },
+      "meaning": "抵押",
+      "collocation": {
+        "en": "mortgage a property",
+        "zh": "抵押房产"
+      },
+      "example": {
+        "en": "He mortgaged the property to the bank.",
+        "zh": "他把房产抵押给银行。"
+      },
+      "id": "v000849",
+      "images": [
+        {
+          "id": "generated-v000849",
+          "src": "images/list17/v000849.webp",
+          "alt": "mortgage: mortgage a property",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f21eb0b6506b4569e28dd51fd61424ebd5feba60888435f49f38b949e2606fa9"
+    },
+    {
+      "word": "nostalgia",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/nɒˈstældʒə/",
+        "us": "/nəˈstældʒə/"
+      },
+      "meaning": "怀旧；乡愁",
+      "collocation": {
+        "en": "feel nostalgia for",
+        "zh": "怀念……"
+      },
+      "example": {
+        "en": "He often feels nostalgia for his childhood.",
+        "zh": "他常常怀念童年的生活。"
+      },
+      "id": "v000850",
+      "images": [
+        {
+          "id": "generated-v000850",
+          "src": "images/list17/v000850.webp",
+          "alt": "nostalgia: feel nostalgia for",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6a61fd704762fe992073a574ef28d2e6c0c402f3d86452b240071f64ffd8b8fc"
     }
   ]
 }

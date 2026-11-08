@@ -1,5 +1,5 @@
 {
-  "total": 830,
+  "total": 898,
   "lists": [
     {
       "id": "list01",
@@ -100,8 +100,14 @@
     {
       "id": "list17",
       "title": "List 17",
-      "count": 30,
+      "count": 50,
       "file": "data/list17.json"
+    },
+    {
+      "id": "list18",
+      "title": "List 18",
+      "count": 48,
+      "file": "data/list18.json"
     }
   ]
 }
